@@ -64,7 +64,7 @@ function insertMugshots()
 		punk:"Shinobu",
 		ballade:"Kayorei",
 		busterrod:"Iga",
-		fallingstar:"MegaWater",
+		falling star:"MegaWater",
 		stardust:"HyperStorm"
 	};
 
