@@ -26,6 +26,8 @@ BalladeGB: same
 
 Quint: fin
 
+Fin
+
 EpFin
 
 <script src="assets/js/EpFormatter.js"></script>
