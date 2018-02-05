@@ -26,7 +26,7 @@ BalladeGB: same
 
 Quint: fin
 
-Fin
+%Fin
 
 EpFin
 
