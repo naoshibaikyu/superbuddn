@@ -46,13 +46,13 @@ function insertMugshots()
 	//TODO: Import character names and emotes from separate text files
 	var names = {
 		//Seven Mercenaries Members
-		enker:Enker,
-		quint:Quint,
-		punk:Punk,
-		ballade:Ballade,
+		enker:"Enker",
+		quint:"Quint",
+		punk:"Punk",
+		ballade:"Ballade",
 		//Supporting Characters
 		//Villians
-		wily:Wily,
+		wily:"Wily",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma"
