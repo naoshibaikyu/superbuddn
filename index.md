@@ -6,9 +6,11 @@ EpStart
 
 @Location: ???
 
+Punk: ???
+
 Enker: oh we're here
 
-QuintShocked: huh so we are
+QuintHappy: huh so we are
 
 Punk: asfdldkglaskalgk
 
@@ -18,11 +20,11 @@ PunkGB: askdsafkajgjka
 
 EnkerAnnoyed: Uh, you ok?
 
-Punk: no
+PunkGB: no
 
-Balade: same
+BalladeGB: same
 
-QuintHappy: fin
+Quint: fin
 
 EpFin
 

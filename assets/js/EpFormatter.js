@@ -81,7 +81,7 @@ function insertMugshots()
 		scary:"Scary",
 		punched:"Punched",
 		thinking:"Thinking",
-		GB:"GameBoy"
+		gameboy:"GB"
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
