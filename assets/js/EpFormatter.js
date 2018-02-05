@@ -55,8 +55,9 @@ function insertMugshots()
 		//Villians
 		wily:"Wily",
 		sniperjoe:"SniperJoe",
-		rift:Rift
-		
+		rift:"Rift",
+		warp man:"Warp Man",
+		lento:"Lento",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",
