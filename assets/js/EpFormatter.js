@@ -131,10 +131,23 @@ function insertMugshots()
 					prefix = "Concrete";
 					suffix = " Man";
 					break;
+			//Villains
+			case "wily":
+					prefix = "Dr. ";
+					suffix = "Wily";
+					break;
+			case "SniperJoe":
+					prefix = "Sniper ";
+					suffix = "Joe";
+					break;
 			//Supporting Characters
 				case "drlight":
 					prefix = "Dr. ";
 					suffix = "Light";
+					break;
+				case "CrewJoe":
+					prefix = "Crew ";
+					suffix = "Joe";
 					break;
 			}
 
