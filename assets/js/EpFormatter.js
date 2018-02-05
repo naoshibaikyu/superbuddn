@@ -52,6 +52,7 @@ function insertMugshots()
 		ballade:"Ballade",
 		//Supporting Characters
 		crewjoe:"CrewJoe",
+		computer:"Computer",
 		//Villians
 		wily:"Wily",
 		sniperjoe:"SniperJoe",
