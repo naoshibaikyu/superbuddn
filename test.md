@@ -34,7 +34,7 @@ NaoshiAnnoyed: What was with those teddy bears in that song?
 
 Kayorei: I have no idea... Better not to think on it. You guys can have your Smash Brothers now. I've had my daily dose of stompy.
 
-Iga and Stardust: Yay!
+Iga: Yay!
 
 Shinobu: Why do we only have one TV here for seven, anyway?
 
@@ -42,19 +42,19 @@ HunterHappy: Who knows? Hey, I call green!
 
 *Chuckling, Kayorei leaves the lounge for a while, the Joe following.*
 
-Crew Joe: I did not see the point in rhythmicly stomping my feet beside you, Miss Ballade.
+CrewJoe: I did not see the point in rhythmicly stomping my feet beside you, Miss Ballade.
 
 Kayorei: Don't call me "Miss". No one here plays DDR but me. I wanted a partner that run. Besides, you made my moves look less mechanical.
 
-Crew Joe: If you say so.
+CrewJoe: If you say so.
 
 %Little did they know... something evil was brewing back down on the planet...
 
-Sniper Joe: Your coffee, sir.
+SniperJoe: Your coffee, sir.
 
 Wily: Meh. *takes the coffee* I'm busy. Go away.
 
-Sniper Joe: Yes sir.
+SniperJoe: Yes sir.
 
 *Wily grumbles and turns back to his project... guiding a small ball to retrieve all the pellets from a ghost-ridden maze. The ghosts surround the little ball and close in, to which the ball turns itself inside out and disappears.*
 
