@@ -55,7 +55,13 @@ function insertMugshots()
 		wily:"Wily",
 		//Generic NPCs
 		//Test Character
-		magma:"Magma"
+		magma:"Magma",
+		//Temporary
+		enker:"Naoshi",
+		quint:"Hunter",
+		punk:"Shinobu",
+		ballade:"Kayorei"
+		
 	};
 
 	var emotes = {
