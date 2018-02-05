@@ -60,8 +60,10 @@ function insertMugshots()
 		enker:"Naoshi",
 		quint:"Hunter",
 		punk:"Shinobu",
-		ballade:"Kayorei"
-		
+		ballade:"Kayorei",
+		busterrod:"Iga",
+		fallingstar:"MegaWater",
+		stardust:"HyperStorm"
 	};
 
 	var emotes = {
