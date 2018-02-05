@@ -55,6 +55,8 @@ function insertMugshots()
 		//Villians
 		wily:"Wily",
 		sniperjoe:"SniperJoe",
+		rift:Rift
+		
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",
@@ -91,7 +93,8 @@ function insertMugshots()
 		scary:"Scary",
 		punched:"Punched",
 		thinking:"Thinking",
-		gameboy:"GB"
+		gameboy:"GB",
+		glad:"Glad"
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote

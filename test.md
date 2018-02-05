@@ -224,6 +224,100 @@ NaoshiAnnoyed: Nah. I'm not really up for Mario Kart. I'll find something.
 
 HunterAnnoyed: Okay...
 
+%Naoshi leaves and the remaining Mercs finish their race.
+
+Stardust: *[stands]* Hey, while we're at a stopping point, I'm gonna get some popcorn started.
+
+Iga: Sounds good.
+
+%Nodding, Stardust heads to the kitchen, but finds it blocked off by a desk... One that couldn't have made it into the kitchen by normal means and wasn't in there to begin with. Confused, Stardust begins to move the furniture out of the way, but no sooner does he place his hands on the table, Naoshi pops up from behind it like a bizarre jack-in-the-box, smiling broadly.
+
+Stardust: Gah!
+
+NaoshiGlad: Welcome to Order King! May I take your burger?
+
+Stardust: Naoshi... Don't do that...
+
+NaoshiHappy: Do what?
+
+Stardust: ... Never mind. Would you get out of the way? I'm trying to get to the popcorn.
+
+NaoshiHappy: Popcorn, is it?
+
+%Naoshi snaps his fingers and Kayorei sidesteps into view, standing at attention.
+
+NaoshiGlad: Popcorn.
+
+KayoreiHappy: *[nods]* Yah-hmm.
+
+%With a flourish, Kayorei sweeps a package of popcorn out of its wrapper and puts it in the microwave, rhythmically pushing the buttons to get Stardust's snack prepared, then disappears into the pantry, all to the bewilderment of the porcine Mercenary.
+
+Stardust: Um... What is all this...?
+
+NaoshiGlad: Oh. Heh, no one ever really understood our methods here at MercDonald's.
+
+Stardust: I thought it was Order King.
+
+Naoshi: Same difference.
+
+%*BEEP! BEEP! BEEEEEEEP!*
+
+NaoshiGlad: And that would be your popcorn. *[fetches the popcorn]* Your total comes to... *[pokes the desk a few times]* fourteen fragmars.
+
+Stardust: What...?
+
+NaoshiHappy: Sorry. We may be on the same team, but I can't give you a discount.
+
+Stardust: This is getting old, Naoshi. Just let me get my popcorn.
+
+NaoshiAnnoyed: Fourteen fragmars.
+
+Stardust: *grumbles under his breath* Don't even know what the heck a fragmar is... *spots a string on the floor and picks it up* Here.
+
+NaoshiGlad: *takes the string and grimaces a bit* Hoo... Kay! Change for a fifty!
+
+%Kayorei topples clumsily out of the pantry and falls in front of Naoshi, a paper clip in her outstretched hand.
+
+NaoshiHappy: *takes the paper clip* Thank you.
+
+KayoreiHappy: *hops up and salutes* Yah-hm.
+
+NaoshiGlad: *hands Stardust the popcorn and the paper clip, then shakes his hand* Good doing business with you, sir.
+
+Stardust: Riiight...
+
+%Stardust returns to the lounge, glancing back over his shoulder as he goes and shaking his head in disbelief at what he had to go through just for some popcorn.
+
+Shinobu: Hey, what kept you?
+
+Stardust: Naoshi. He blocked off the kitchen and turned it into some kind of fast food joint or something.
+
+HunterAnnoyed: Do what...?
+
+Stardust: *puts the popcorn on the table* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
+
+Iga: Really weird.
+
+%The other Mercs nod in agreement, then resume their game. Stardust fidgets for a moment, then pulls out the paper clip and a rubber band he found under the table...
+
+%*TWANG!*
+
+Falling star: Ow! What was that?!
+
+Stardust: Nothing!
+
+%Hunter narrows his eyes at Stardust... at least, you'd be able to tell if not for the visor.
+
+HunterAnnoyed: Don't tell me. Bored, too.
+
+Stardust: Um...
+
+HunterAnnoyed: *puts down his controller* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
+
+Shinobu: Who has just left.
+
+HunterShocked: Wha? *looks up* Gah!
+
 EpFin
 
 <script src="assets/js/EpFormatter.js"></script>
