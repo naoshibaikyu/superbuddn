@@ -136,7 +136,7 @@ function insertMugshots()
 					prefix = "Dr. ";
 					suffix = "Wily";
 					break;
-			case "SniperJoe":
+			case "sniperjoe":
 					prefix = "Sniper ";
 					suffix = "Joe";
 					break;
@@ -145,7 +145,7 @@ function insertMugshots()
 					prefix = "Dr. ";
 					suffix = "Light";
 					break;
-				case "CrewJoe":
+				case "crewjoe":
 					prefix = "Crew ";
 					suffix = "Joe";
 					break;
