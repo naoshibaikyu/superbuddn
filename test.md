@@ -74,7 +74,7 @@ Riff: Oy... *rolls his eyes and closes the door*
 
 %Back at the Marauder, the Mercs continued their game... When suddenly...
 
-%***BZZT!***
+%*BZZT!*
 
 %The power blinked off and on. The TV screen showed a little cube forming a logo before moving to the intro of the game they were playing.*
 
@@ -96,7 +96,7 @@ Shinobu: Okay.
 
 Hunter: Something wrong?
 
-Kayorei: *staring blankly* Ever have one of those times when you want to do something but nothing ever seems appealing?
+Kayorei: *[staring blankly]* Ever have one of those times when you want to do something but nothing ever seems appealing?
 
 Hunter: Maybe.
 
@@ -109,6 +109,120 @@ Kayorei: There was a power outage?
 HunterAnnoyed: Yeah, just a minute ago...
 
 Kayorei: Huh. Wonder why I never noticed...
+
+%The two shrug, then go their separate ways.
+
+%A little while later, back with the gamers...
+
+Falling star: Alright, which stage now?
+
+Shinobu: I don't really care. Hit the randomizer.
+
+Falling star: Okay.
+
+%Falling star directs the cursor to the "Random" button and presses it, and much to everyone's dismay...
+
+NaoshiAnnoyed: Aw God... Pokefloats?
+
+Stardust: What the? I thought we took that out of the randomizer!
+
+Iga: Heh heh heh...
+
+%Hunter steps back into the room.
+
+Hunter: The Joes say everything is in perfect working order. No explanation or... geez, is that PokeFloats?
+
+%Hunter receives a cold glare from the gaming Mercs.
+
+Hunter: Okay, okay. Never mind.
+
+%And so the battle raged. Many punches, kicks, fireballs, sword swings, and Pokeball throwings later...
+
+%***Announcer:*** *This game's winner is... Samus!*
+
+%A crew Joe walks in.
+
+Crew Joe: Sir, there appears to be a problem in the main computer room. I believe Miss Ballade is acting strangely.
+
+Hunter: Hm... She did tell me she was bored when we ran into each other last.
+
+Naoshi: I'll go check.
+
+%In the main computer room...
+
+%Kayorei paces around the room restlessly.
+
+Kayorei: Computer, any new missions yet?
+
+Computer: Negative.
+
+Kayorei: Crags.
+
+%She continues pacing for a few seconds.
+
+Kayorei: Computer, any new missions yet?
+
+Computer: Negative.
+
+Kayorei: Crags.
+
+%A few more seconds...
+
+Kayorei: Computer, any new missions yet?
+
+Computer: Negative.
+
+Kayorei: Crags.
+
+%Naoshi walks in.
+
+Naoshi: What's going on in here?
+
+Kayorei: Computer, any new missions yet?
+
+Computer: Negative.
+
+Kayorei: Crags. *[spots Naoshi]* Oh, I was just checking to see if anyone had anything for us to do.
+
+Crew Joe: She has been repeatedly asking the same question to the computer roughly every fifteen seconds for the past ten minutes.
+
+NaoshiAnnoyed: ... You really are bored, aren't you?
+
+KayoreiHappy: Too much so. Hey, why don't you ask the computer if there's anything new? Maybe you'll get a different response.
+
+NaoshiAnnoyed: *[gives Kayorei an odd look]* No, I don't think so.
+
+Kayorei: Oh, come on! *[grabs Naoshi by the shoulders and pulls him in front of the computer]* Ask!
+
+NaoshiAnnoyed: Whoa, fine, fine... *takes a deep breath* Computer, are there any new missions for us?
+
+Computer: Negative.
+
+Naoshi: See?
+
+Kayorei: Ehh, it was worth the shot.
+
+%Naoshi returns to the lounge where the others have switched games. Mario Kart.
+
+Iga: So... Anything up with Kayorei?
+
+Naoshi: She is acting kinda weird... She keeps asking the computer about new missions. Even made me ask to see if I'd get a different response.
+
+Hunter: Hm, that is a bit strange.
+
+Stardust: Maybe she was traumatized after that whole Hasselhoff incident.
+
+NaoshiSad: Who knows...? ... Come to think of it, what do we have to do here other than video games?
+
+Hunter: Why do you ask? You're not getting "bored" too, are you?
+
+NaoshiShocked: No! Well, maybe a little.
+
+Falling star: I'll let you take my spot after this race if you want.
+
+NaoshiAnnoyed: Nah. I'm not really up for Mario Kart. I'll find something.
+
+HunterAnnoyed: Okay...
 
 EpFin
 
