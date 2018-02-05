@@ -56,7 +56,7 @@ function insertMugshots()
 		wily:"Wily",
 		sniperjoe:"SniperJoe",
 		rift:"Rift",
-		warp man:"Warp Man",
+		warpman:"WarpMan",
 		lento:"Lento",
 		//Generic NPCs
 		//Test Character
