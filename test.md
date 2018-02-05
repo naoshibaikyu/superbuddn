@@ -66,7 +66,7 @@ Wily: CURSES!
 
 Riff: *flicks the light switch* Warp Man... what are you doing...?
 
-Warp Man: Hey! I'm trying to have an evil moment here!
+Warpman: Hey! I'm trying to have an evil moment here!
 
 %Warp Man quickly stomps over to the light switch and turns it off, then continues his maniacal laughter.
 
