@@ -1,0 +1,108 @@
+---
+---
+
+@import "{{ site.theme }}";
+img#double 
+{
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated;                 /* Chrome                         */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+  transform: scale(2);
+  margin: 25px;
+
+}
+
+.dialogue 
+{  
+  margin: auto;
+  max-width: 1280px;
+	
+}
+
+.dialogue img 
+{
+  float: left;
+}
+
+.dialogue p
+{  
+  border-radius: 12px;
+  background: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  width: 98%;
+  height: 100%;
+  word-wrap: break-word;
+  min-height: 72px;
+}
+
+.dialogue b
+{ 
+  font-size: 75%;
+  color: lightslategray;
+}
+
+.narration
+{ 
+  margin: auto;
+  max-width: 1280px;
+}
+
+.narration p
+{ 
+  border-radius: 4px;
+  background: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 98%;
+  height: 100%;
+  word-wrap: break-word;
+}
+
+.description
+{ 
+  margin: auto;
+  max-width: 1280px;
+}
+
+.description p
+{ 
+  border-radius: 4px;
+  background: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 98%;
+  height: 100%;
+  word-wrap: break-word;
+}
+
+.location
+{ 
+  background-image: url("/cyborgresistance/assets/images/misc/simcitysnesdesktop_poisonmushroomdotorgsmol.jpg");
+  font-size: 150%;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 4px 3px #000000;
+  color: #7ff2f9;
+  margin-bottom: 20px;
+  max-width: 1280px;
+  border-radius: 4px;
+  background-color: #202020;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  width: 98%;
+  height: 100px;
+}
+
+// background-color: #0c376d; //bg
+// background-color: #0a0f3a; //dialog bg
+// outline: solid;
+// outline-color: #3d7ac6;
+// outline-width: 1px;
