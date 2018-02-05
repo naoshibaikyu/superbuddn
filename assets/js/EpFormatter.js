@@ -45,29 +45,17 @@ function insertMugshots()
 
 	//TODO: Import character names and emotes from separate text files
 	var names = {
-		//Cyborg Resistance Members
-		concrete:"Concrete",
-		spike:"Spike",
-		magma:"Magma",
-		hornet:"Hornet",
-		galaxy:"Galaxy",
-		plug:"Plug",
-		tornado:"Tornado",
-		fake:"Fake",
-		jewel:"Jewel",
-		splash:"Splash",
+		//Seven Mercenaries Members
+		enker:Enker,
+		quint:Quint,
+		punk:Punk,
+		ballade:Ballade,
 		//Supporting Characters
-		narrator:"Narrator",
+		//Villians
+		wily:Wily,
 		//Generic NPCs
-		//Christmas Characters
-		ghostpast:"GhostPast",
-		ghostpresent:"GhostPresent",
-		ghostfuture:"GhostFuture",
-		pasthornet:"PastHornet",
-		futurehornet:"FutureHornet",
-		chill:"Chill",
-		santa:"Santa",
-		elf:"Elf"
+		//Test Character
+		magma:"Magma"
 	};
 
 	var emotes = {
@@ -93,6 +81,7 @@ function insertMugshots()
 		scary:"Scary",
 		punched:"Punched",
 		thinking:"Thinking"
+		GB:"GameBoy"
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
@@ -136,23 +125,6 @@ function insertMugshots()
 				case "drlight":
 					prefix = "Dr. ";
 					suffix = "Light";
-					break;
-			//Christmas Characters
-				case "chill":
-					suffix = " Man";
-					break;
-				case "ghostpast":
-					prefix = "Ghost of Christmas Past";
-					break;
-				case "ghostpresent":
-					prefix = "Ghost of Christmas Present";
-					break;
-				case "ghostfuture":
-					prefix = "Ghost of Christmas Future";
-					break;
-				case "pasthornet":
-					prefix = "Past Hornet";
-					suffix = " Man";
 					break;
 			}
 
