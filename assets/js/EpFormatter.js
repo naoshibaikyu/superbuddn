@@ -51,8 +51,10 @@ function insertMugshots()
 		punk:"Punk",
 		ballade:"Ballade",
 		//Supporting Characters
+		crewjoe:"Crew Joe",
 		//Villians
 		wily:"Wily",
+		sniperjoe:"Sniper Joe",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",
