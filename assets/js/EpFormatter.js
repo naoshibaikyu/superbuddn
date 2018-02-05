@@ -51,10 +51,10 @@ function insertMugshots()
 		punk:"Punk",
 		ballade:"Ballade",
 		//Supporting Characters
-		crewjoe:"Crew Joe",
+		crewjoe:"CrewJoe",
 		//Villians
 		wily:"Wily",
-		sniperjoe:"Sniper Joe",
+		sniperjoe:"SniperJoe",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",
@@ -64,8 +64,8 @@ function insertMugshots()
 		punk:"Shinobu",
 		ballade:"Kayorei",
 		busterrod:"Iga",
-		falling star:"MegaWater",
-		stardust:"HyperStorm"
+		megawater:"Falling Star",
+		hyperstorm:"Stardust"
 	};
 
 	var emotes = {
