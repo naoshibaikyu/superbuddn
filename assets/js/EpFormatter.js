@@ -60,7 +60,7 @@ function insertMugshots()
 		warpman:"WarpMan",
 		lento:"Lento",
 		staccato:"Staccato",
-		karasu:,"Karasu",
+		karasu:"Karasu",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",

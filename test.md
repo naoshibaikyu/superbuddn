@@ -322,13 +322,13 @@ HunterShocked: Wha? *[looks up]* Gah!
 
 *Warp Man scurries around his darkened lair, flicking switches and giggling like a lunatic.*
 
-Warp Man: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on a device in the middle of the room* Whee hee hee!
+Warpman: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on a device in the middle of the room* Whee hee hee!
 
 *The door to the room opens and the lights turn on, shifting Warp Man's mood from giddy to startled to infuriated as he whirls to face the intruder.*
 
 Lento: Unit wants to know what Warp Man is giggling about.
 
-Warp Man: You! Out! I don't giggle! Out! *throws a wrench at Lento*
+Warpman: You! Out! I don't giggle! Out! *throws a wrench at Lento*
 
 Lento: *closes the door* Strange.
 
@@ -338,15 +338,15 @@ Lento: Unit does not know.
 
 *The two glance at the floor under the door where green flashes of light peek out from beneath.*
 
-Warp Man: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
+Warpman: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
 
 *Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.*
 
-Warp Man: I thought I told you to stay out!
+Warpman: I thought I told you to stay out!
 
 Lento: But...
 
-Warp Man: I SAID STAY OUT!
+Warpman: I SAID STAY OUT!
 
 *Not wanting any more tools being launched in his general direction, Lento closes the door again.*
 
