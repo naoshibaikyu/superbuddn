@@ -428,13 +428,203 @@ Falling star: NOT IT! *[runs]*
 
 Shinobu: ...
 
-(In the hallway, a struggle of epic proportions is taking place...)
+%In the hallway, a struggle of epic proportions is taking place...
 
 Naoshi: *[stares at cards in his hand]* Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
 
 Stardust: Ohh, you're good... but do you have any fives?
 
 NaoshiShocked: *[recoils in shock]* Gah, you sunk my battleship!
+
+Shinobu: *[walks up to the "game"]* Uh... What's going on here?
+
+Naoshi: We've decided to settle this dispute over a game of cards. Should I deal you in?
+
+Shinobu: Um... I thought you got flattened.
+
+NaoshiHappy: I got better.
+
+Shinobu: You're still wearing... those. *[points to the underwear on Naoshi's head]*
+
+Stardust: I had to go through great peril to get those! I WILL win them back!
+
+NaoshiGlad: Great peril, yes. Many dangers for this treasure. And it's rightfully mine!
+
+Stardust: *[stands up]* Oh yeah?!
+
+Shinobu: *[eases Stardust back into a sitting position]* Hey, hey, cool it. You've... still got your game.
+
+NaoshiGlad: *[sticks his tongue out at Stardust]* Nyaaahh...
+
+Shinobu: .oO(Geez, what's with these guys...?)
+
+%Back with Falling star...
+
+Falling star: *[mumbles]* Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? *hesitates for a moment* Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
+
+???: Someone out there...?
+
+Falling star: *looks around* Wha?
+
+%A door in the hallway opens and Kayorei pokes her head out of it, then urgently waves at Falling star.
+
+Kayorei: *[whispers]* Falling star! Over here, quick!
+
+Falling star: What's going on?
+
+Kayorei: Just come on! They'll spot you!
+
+Falling star: Uh... Okay. *[enters the room that Kayorei is hiding in]* Um... The bathroom.
+
+Kayorei: It's the only place I can think of that isn't under constant watch.
+
+Falling star: I would hope so. What's going on, anyway?
+
+Kayorei: It's... them. They've come for us.
+
+Falling star: Who?
+
+Kayorei: I can't say it out loud... but I'll tell you what I know...
+
+%Well, while Kayorei's recounting her story, let's get back to the main computer room. Because I can leave you in suspense like that.
+
+NaoshiAnnoyed: You're a jerk, too.
+
+%ANYWAY.
+
+%Hunter paces around the room, pondering the situation while Iga searches the video logs.
+
+Iga: Was it really a good idea to send those guys out without knowing what's really going on out there...?
+
+HunterAnnoyed: Don't remind me...
+
+Iga: Hmm... Okay, got the stuff from two hours before that weird power outage.
+
+Hunter: Let's see it. Hopefully this'll tell us what's causing this mess.
+
+%Iga presses a few buttons and the cells of the grid light up with videos.
+
+Iga: Okay... nothing unusual so far... Whoa, hold up... *[stares dumbfoundedly at one of the screens]* Holy crunchmuffins, what are those Joes DOING?
+
+HunterShocked: *[also staring]* Guh... That's... That's just... wrong...
+
+Iga: *[turning off the offensive screen]* Moving on...!
+
+HunterShocked: *[shudders]* Y-yeah...
+
+%A bit of screen-watching later...
+
+Iga: There's the part where the power cut. No intruders, nothing weird happening... well, other than those Joes... Nothing!
+
+Hunter: ... Let's keep looking. At least we might be able to find out some way to keep this stuff from spreading further than it already has.
+
+Iga: *[nods]* Yeah... Come to think of it, why weren't you affected? You saw Kayorei first and she was the first to come down with this.
+
+Hunter: That's what's been bugging me. ... Hey, speaking of which, there's where she was supposedly interrogating the computer when Naoshi went to check on her.
+
+Iga: Hmm... ... Heh, and there's Naoshi's "fast food place".
+
+Hunter: Hrm... I just remembered, we were all in the same room as Stardust when he came back bored, but none of us were affected. There has to be a connection between Naoshi's and Stardust's cases...
+
+Iga: Wait a minute... *[watches the videos of the "incidents" again]* I think I may have found it... We have to warn Shinobu and Falling star!
+
+%Meanwhile, at the epic competition, which has been relocated to the lounge...
+
+Shinobu: See? Wasn't it a good idea to get out of the hallway? Now you don't have to worry about being mashed!
+
+Naoshi: Guess you're right...
+
+Stardust: Yeah, yeah. It's still your move, Shinobu.
+
+Shinobu: Oh, right. *[stares at his cards]* Um... Seven over three... and two creatures face-down. That'll do it.
+
+Stardust: *[raises an eyebrow]* Hrm... I'm not doing anything this turn.
+
+Naoshi: Guess that makes it my... Hey, check it! Lights! *[points at the window where, sure enough, brilliant green streaks of light pass by, tracing a line back to the planet below]*
+
+Shinobu and Stardust: *[turning to look]* Ooooh!
+
+Hunter: *[on Shinobu's radio]* Shinobu! What's your status over there?
+
+Shinobu: I'm in the lounge checking out the pretty lights outside. You should see this!
+
+HunterShocked: Wha...? Were you...?
+
+Shinobu: Been playing cards with the guys.
+
+Hunter: Okay... Whatever you do, don't let them--
+
+Shinobu: Whoops, sorry. Out of time. Call you back later.
+
+Stardust: Who was that?
+
+Shinobu: No one important. Whose move was it again?
+
+%In the bathroom...
+
+Falling star: ... That has to be the most far-fetched thing I've ever heard. And out of you, that's saying a lot.
+
+Kayorei: No one ever believes at first. But I tell you... I've seen them. They're here... on the ship.
+
+Falling star: Kay... It's just the seven of us and the Joes.
+
+Kayorei: Exactly! The Joes!
+
+Falling star: But you just said it was --
+
+Kayorei: *[grabs Falling star and starts shaking him]* That's who they are! IT'S A CONSPIRACY, I TELL YOU!
+
+Falling star: *[pushes Kayorei off]* Whoa, easy there, Kay!
+
+Iga: *[on Falling star's radio]* Hey, Falling star! What's your status?
+
+Falling star: Hang on a moment, Kay. *[into the radio]* I just found Kayorei.
+
+Iga: Okay. Just be careful. Don't let her touch you!
+
+Falling star: Um...
+
+Iga: ... Mind out of the gutter.
+
+Falling star: That's not it. She... already. Yeah. Why? ... Iga?
+
+Kayorei: *[levels her weapon at Falling star]* You're in with them... I shot out all the cameras and they still found me... It's because of you!
+
+Falling star: Hey! Wait a second...!
+
+%A few minutes later...
+
+Kayorei: *[dusts her hands off and leaves the room]* That takes care of that.
+
+Falling star: *[bangs on the closet door]* Hey! Let me out of here!
+
+%Computer room...
+
+Hunter: We're too late...
+
+Iga: Looks like it's just us now...
+
+Hunter: Looks like it.
+
+Iga: What do we do now?
+
+Hunter: Keep investigating. It's all we can do. Shinobu mentioned something about lights that he saw from the lounge.
+
+Iga: Come to think of it, there were some weird flashes on cameras by the windows at around the time of the power outage. No cameras there... guess we'll have to go in if we want a look. As long as they don't touch us, we'll be fine.
+
+Hunter: All we can do. Just have to keep our guard up. Let's go.
+
+*The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.*
+
+Shinobu: Hunter! You made it! Check it out! *points at the window*
+
+HunterAnnoyed: *[walks to the window]* Um... Yeah. They're... very pretty lights.
+
+NaoshiHappy: Aren't they, though?
+
+HunterShocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]* Uh oh...
+
+Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You will be assimilated.
 
 EpFin
 
