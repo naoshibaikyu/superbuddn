@@ -318,13 +318,13 @@ Shinobu: Who has just left.
 
 HunterShocked: Wha? *[looks up]* Gah!
 
-(Meanwhile, somewhere in the elsewhere...)
+%Meanwhile, somewhere in the elsewhere...
 
-*Warp Man scurries around his darkened lair, flicking switches and giggling like a lunatic.*
+%Warp Man scurries around his darkened lair, flicking switches and giggling like a lunatic.
 
 Warpman: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on a device in the middle of the room* Whee hee hee!
 
-*The door to the room opens and the lights turn on, shifting Warp Man's mood from giddy to startled to infuriated as he whirls to face the intruder.*
+%The door to the room opens and the lights turn on, shifting Warp Man's mood from giddy to startled to infuriated as he whirls to face the intruder.
 
 Lento: Unit wants to know what Warp Man is giggling about.
 
@@ -336,11 +336,11 @@ Staccato: What has Warp Man been up to, anyway?
 
 Lento: Unit does not know.
 
-*The two glance at the floor under the door where green flashes of light peek out from beneath.*
+%The two glance at the floor under the door where green flashes of light peek out from beneath.
 
 Warpman: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
 
-*Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.*
+%Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.
 
 Warpman: I thought I told you to stay out!
 
@@ -348,13 +348,13 @@ Lento: But...
 
 Warpman: I SAID STAY OUT!
 
-*Not wanting any more tools being launched in his general direction, Lento closes the door again.*
+%Not wanting any more tools being launched in his general direction, Lento closes the door again.
 
 Staccato: That was very odd. Even for Warp Man.
 
 Lento: Lento is... confused now.
 
-(Oddities abound, it seems. Now, back to our quasi-heroes and their "crisis meeting".)
+%Oddities abound, it seems. Now, back to our quasi-heroes and their "crisis meeting".
 
 Hunter: I'd say our best option would probably be to check the security cameras. See if anything got in that'd cause this mess.
 
@@ -364,17 +364,17 @@ Shinobu: That's probably all we can do. We don't have any idea what's going on h
 
 Falling star: Well, let's go then. Time's a-wasting.
 
-*The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.*
+%The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.
 
 Naoshi: WHEEEEEEEEEE!!!
 
 Stardust: Hey, come back here! I need those for... stuff!
 
-*Naoshi knocks down a crew Joe to block the path.*
+%Naoshi knocks down a crew Joe to block the path.
 
 Naoshi: You'll never catch me!
 
-Stardust: Wanna bet, you little-- *trips on the Joe* Whoa! *rolls across the floor and stops on top of Naoshi, crushing him.*
+Stardust: Wanna bet, you little-- *[trips on the Joe]* Whoa! *[rolls across the floor and stops on top of Naoshi, crushing him.]*
 
 Naoshi: Ouchies.
 
@@ -390,15 +390,15 @@ Falling star: Uhh... Let's just go, we're wasting time.
 
 Hunter: Riiight...
 
-(And so the four hurry on to the main computer room. Yeah, they kinda just... left Naoshi as is.)
+%And so the four hurry on to the main computer room. Yeah, they kinda just... left Naoshi as is.
 
 Naoshi: Jerks... Owieowie.
 
-(Anyway. In the computer room...)
+%Anyway. In the computer room...
 
 Iga: *typing* Okay... now to have a look at the cameras.
 
-*The monitor in front of them flickers, then changes to a gridded format, all but a few of the cells showing static.*
+%The monitor in front of them flickers, then changes to a gridded format, all but a few of the cells showing static.
 
 Hunter: What the...?
 
@@ -406,7 +406,7 @@ Shinobu: Looks like either something's jamming the signal or someone's trashed t
 
 Iga: So much for that plan.
 
-Hunter: *mutters* This just keeps getting better...
+Hunter: *[mutters]* This just keeps getting better...
 
 Falling star: So now what?
 
@@ -420,17 +420,17 @@ Falling star: Ditto.
 
 Hunter: Okay, then. Be careful.
 
-*Shinobu and Falling star leave the computer room*
+%Shinobu and Falling star leave the computer room
 
 Shinobu: Well, I'm sure we already know where Stardust and Naoshi are. Now which of is is going to watch --
 
-Falling star: NOT IT! *runs*
+Falling star: NOT IT! *[runs]*
 
 Shinobu: ...
 
 (In the hallway, a struggle of epic proportions is taking place...)
 
-Naoshi: *stares at cards in his hand* Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
+Naoshi: *[stares at cards in his hand]* Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
 
 Stardust: Ohh, you're good... but do you have any fives?
 
