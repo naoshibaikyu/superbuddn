@@ -62,7 +62,6 @@ function insertMugshots()
 		staccato:"Staccato",
 		karasu:"Karasu",
 		//Generic NPCs
-		???:"???",
 		//Test Character
 		magma:"Magma",
 		//Temporary
