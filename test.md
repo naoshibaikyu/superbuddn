@@ -272,17 +272,17 @@ Stardust: This is getting old, Naoshi. Just let me get my popcorn.
 
 NaoshiAnnoyed: Fourteen fragmars.
 
-Stardust: *grumbles under his breath* Don't even know what the heck a fragmar is... *spots a string on the floor and picks it up* Here.
+Stardust: *[grumbles under his breath]* Don't even know what the heck a fragmar is... *spots a string on the floor and picks it up* Here.
 
-NaoshiGlad: *takes the string and grimaces a bit* Hoo... Kay! Change for a fifty!
+NaoshiGlad: *[takes the string and grimaces a bit]* Hoo... Kay! Change for a fifty!
 
 %Kayorei topples clumsily out of the pantry and falls in front of Naoshi, a paper clip in her outstretched hand.
 
-NaoshiHappy: *takes the paper clip* Thank you.
+NaoshiHappy: *[takes the paper clip]* Thank you.
 
-KayoreiHappy: *hops up and salutes* Yah-hm.
+KayoreiHappy: *[hops up and salutes]* Yah-hm.
 
-NaoshiGlad: *hands Stardust the popcorn and the paper clip, then shakes his hand* Good doing business with you, sir.
+NaoshiGlad: *[hands Stardust the popcorn and the paper clip, then shakes his hand]* Good doing business with you, sir.
 
 Stardust: Riiight...
 
@@ -294,7 +294,7 @@ Stardust: Naoshi. He blocked off the kitchen and turned it into some kind of fas
 
 HunterAnnoyed: Do what...?
 
-Stardust: *puts the popcorn on the table* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
+Stardust: *[puts the popcorn on the table]* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
 
 Iga: Really weird.
 
@@ -312,11 +312,129 @@ HunterAnnoyed: Don't tell me. Bored, too.
 
 Stardust: Um...
 
-HunterAnnoyed: *puts down his controller* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
+HunterAnnoyed: *[puts down his controller]* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
 
 Shinobu: Who has just left.
 
-HunterShocked: Wha? *looks up* Gah!
+HunterShocked: Wha? *[looks up]* Gah!
+
+(Meanwhile, somewhere in the elsewhere...)
+
+*Warp Man scurries around his darkened lair, flicking switches and giggling like a lunatic.*
+
+Warp Man: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on a device in the middle of the room* Whee hee hee!
+
+*The door to the room opens and the lights turn on, shifting Warp Man's mood from giddy to startled to infuriated as he whirls to face the intruder.*
+
+Lento: Unit wants to know what Warp Man is giggling about.
+
+Warp Man: You! Out! I don't giggle! Out! *throws a wrench at Lento*
+
+Lento: *closes the door* Strange.
+
+Staccato: What has Warp Man been up to, anyway?
+
+Lento: Unit does not know.
+
+*The two glance at the floor under the door where green flashes of light peek out from beneath.*
+
+Warp Man: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
+
+*Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.*
+
+Warp Man: I thought I told you to stay out!
+
+Lento: But...
+
+Warp Man: I SAID STAY OUT!
+
+*Not wanting any more tools being launched in his general direction, Lento closes the door again.*
+
+Staccato: That was very odd. Even for Warp Man.
+
+Lento: Lento is... confused now.
+
+(Oddities abound, it seems. Now, back to our quasi-heroes and their "crisis meeting".)
+
+Hunter: I'd say our best option would probably be to check the security cameras. See if anything got in that'd cause this mess.
+
+Iga: And to see what everyone's up to.
+
+Shinobu: That's probably all we can do. We don't have any idea what's going on here.
+
+Falling star: Well, let's go then. Time's a-wasting.
+
+*The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.*
+
+Naoshi: WHEEEEEEEEEE!!!
+
+Stardust: Hey, come back here! I need those for... stuff!
+
+*Naoshi knocks down a crew Joe to block the path.*
+
+Naoshi: You'll never catch me!
+
+Stardust: Wanna bet, you little-- *trips on the Joe* Whoa! *rolls across the floor and stops on top of Naoshi, crushing him.*
+
+Naoshi: Ouchies.
+
+Iga: ...
+
+Hunter: All the more reason for us to get a move on.
+
+Falling star: Weren't those Kayorei's...?
+
+Shinobu: ... How would you know?
+
+Falling star: Uhh... Let's just go, we're wasting time.
+
+Hunter: Riiight...
+
+(And so the four hurry on to the main computer room. Yeah, they kinda just... left Naoshi as is.)
+
+Naoshi: Jerks... Owieowie.
+
+(Anyway. In the computer room...)
+
+Iga: *typing* Okay... now to have a look at the cameras.
+
+*The monitor in front of them flickers, then changes to a gridded format, all but a few of the cells showing static.*
+
+Hunter: What the...?
+
+Shinobu: Looks like either something's jamming the signal or someone's trashed the cameras.
+
+Iga: So much for that plan.
+
+Hunter: *mutters* This just keeps getting better...
+
+Falling star: So now what?
+
+Iga: I'll check and see if there's been anything useful recorded.
+
+Hunter: Sounds good... though we'll still need to keep an eye on the others to make sure they don't do anything dangerous. Shinobu, Falling star. Think you can handle that?
+
+Shinobu: Beats watching the security videos, I guess.
+
+Falling star: Ditto.
+
+Hunter: Okay, then. Be careful.
+
+*Shinobu and Falling star leave the computer room*
+
+Shinobu: Well, I'm sure we already know where Stardust and Naoshi are. Now which of is is going to watch --
+
+Falling star: NOT IT! *runs*
+
+Shinobu: ...
+
+(In the hallway, a struggle of epic proportions is taking place...)
+
+Naoshi: *stares at cards in his hand* Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
+
+Stardust: Ohh, you're good... but do you have any fives?
+
+NaoshiShocked: *[recoils in shock]* Gah, you sunk my battleship!
 
 EpFin
 

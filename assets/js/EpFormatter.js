@@ -59,6 +59,8 @@ function insertMugshots()
 		riff:"Riff",
 		warpman:"WarpMan",
 		lento:"Lento",
+		staccato:"Staccato",
+		karasu:,"Karasu",
 		//Generic NPCs
 		//Test Character
 		magma:"Magma",
