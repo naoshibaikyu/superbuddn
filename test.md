@@ -8,7 +8,7 @@
 
 EpStart
 
-## Act I []%#act-1
+# Act I [](#act-1)
 
 %It's another... some point in time for the Mercs. Day and night don't exist in orbit. From their vantage point, it's sunrise in India, so we'll go with that. Anyway. The Mercs. They're doing stuff. On the Marauder. In orbit.
 
@@ -52,7 +52,7 @@ CrewJoe: If you say so.
 
 SniperJoe: Your coffee, sir.
 
-Wily: Meh. *takes the coffee* I'm busy. Go away.
+Wily: Meh. *[takes the coffee]* I'm busy. Go away.
 
 SniperJoe: Yes sir.
 
@@ -64,7 +64,7 @@ Wily: CURSES!
 
 %In another sector of the fortress, a bright beam of light lances from the ceiling and into the sky. A figure in the darkened room laughs maniacally.
 
-Riff: *flicks the light switch* Warp Man... what are you doing...?
+Riff: *[flicks the light switch]* Warp Man... what are you doing...?
 
 Warpman: Hey! I'm trying to have an evil moment here!
 
@@ -614,7 +614,7 @@ Iga: Come to think of it, there were some weird flashes on cameras by the window
 
 Hunter: All we can do. Just have to keep our guard up. Let's go.
 
-*The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.*
+%The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.
 
 Shinobu: Hunter! You made it! Check it out! *points at the window*
 
@@ -625,6 +625,8 @@ NaoshiHappy: Aren't they, though?
 HunterShocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]* Uh oh...
 
 Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You will be assimilated.
+
+
 
 EpFin
 
