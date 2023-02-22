@@ -1,12 +1,19 @@
 
-<div class=""><center>
-<h4>Classic Season 2 Episode 5</h4>
-<h2>When Idle Minds Go Astray...</h2>
-<h6>Written by Kayorei</h6>
-<hr>
-</center></div>
 
 EpStart
+
+<!-- Epilogue Info -->
+ 
+@EPNUM: Classic Season 1 Episode 5
+
+@TITLE: When Idle Minds Go Astray...
+
+@AUTHOR: By Kayorei
+
+<!-- Epilogue -->
+
+@ACTNUM: PROLOGUE
+
 
 # Act I [](#act-1)
 
@@ -630,4 +637,5 @@ Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You 
 
 EpFin
 
-<script src="assets/js/EpFormatter.js"></script>
+
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
