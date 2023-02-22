@@ -213,9 +213,9 @@ function getJsonData() {
 				"displayName": "Lento",
 				"imagePathPrefix": "fatalfive/lento"
 			},
-			"kurasu": {
-				"displayName": "Kurasu",
-				"imagePathPrefix": "fatalfive/kurasu"
+			"karasu": {
+				"displayName": "Karasu",
+				"imagePathPrefix": "fatalfive/karasu"
 			},
 			"staccato": {
 				"displayName": "Staccato",

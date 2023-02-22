@@ -64,11 +64,6 @@ EpStart
 
 <!-- Epilogue -->
 
-@ACTNUM: PROLOGUE
-
-
-# Act I [](#act-1)
-
 %It's another... some point in time for the Mercs. Day and night don't exist in orbit. From their vantage point, it's sunrise in India, so we'll go with that. Anyway. The Mercs. They're doing stuff. On the Marauder. In orbit.
 
 Kayorei: We're actually playing DDR right now and you're very distracting.
