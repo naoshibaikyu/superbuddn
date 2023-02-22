@@ -196,10 +196,50 @@ function getJsonData() {
 			
 			"stardust": {
 			"displayName": "Hyper Storm H.",
-			"imagePathPrefix": "7mercs/hypersttorm"
-			}	
+			"imagePathPrefix": "7mercs/hyperstorm"
+			},	
+
+
+//Fatal Five
+			"warpman": {
+				"displayName": "Warp Man",
+				"imagePathPrefix": "fatalfive/warpman"
+			},
+			"riff": {
+				"displayName": "Riff",
+				"imagePathPrefix": "fatalfive/riff"
+			},
+			"lento": {
+				"displayName": "Lento",
+				"imagePathPrefix": "fatalfive/lento"
+			},
+			"kurasu": {
+				"displayName": "Kurasu",
+				"imagePathPrefix": "fatalfive/kurasu"
+			},
+			"staccato": {
+				"displayName": "Staccato",
+				"imagePathPrefix": "fatalfive/staccato"
+			},			
+
+//Mega Man Characters
+			"wily": {
+				"displayName": "Dr. Wily",
+				"imagePathPrefix": "wilylabs/wily"
+			},
+//Sniper Joes
+			"crewjoe": {
+				"displayName": "Crew Joe",
+				"imagePathPrefix": "genericbots/crewjoe"
+			},
+			"sniperjoe": {
+				"displayName": "Sniper Joe",
+				"imagePathPrefix": "genericbots/sniperjoe"
+			},			
+			
+			
+			
 		},
-		
 //Emotes
 		"emotes": [
 			"neutral",

@@ -165,7 +165,7 @@ Hunter: Oh. Well, I was going to investigate that power outage from a while back
 
 Kayorei: There was a power outage?
 
-HunterAnnoyed: Yeah, just a minute ago...
+Hunter Annoyed: Yeah, just a minute ago...
 
 Kayorei: Huh. Wonder why I never noticed...
 
@@ -181,7 +181,7 @@ Fallingstar: Okay.
 
 %Falling star directs the cursor to the "Random" button and presses it, and much to everyone's dismay...
 
-NaoshiAnnoyed: Aw God... Pokefloats?
+Naoshi Annoyed: Aw God... Pokefloats?
 
 Stardust: What the? I thought we took that out of the randomizer!
 
@@ -245,15 +245,15 @@ Kayorei: Crags. *[spots Naoshi]* Oh, I was just checking to see if anyone had an
 
 Crew Joe: She has been repeatedly asking the same question to the computer roughly every fifteen seconds for the past ten minutes.
 
-NaoshiAnnoyed: ... You really are bored, aren't you?
+Naoshi Annoyed: ... You really are bored, aren't you?
 
 Kayorei Happy: Too much so. Hey, why don't you ask the computer if there's anything new? Maybe you'll get a different response.
 
-NaoshiAnnoyed: *[gives Kayorei an odd look]* No, I don't think so.
+Naoshi Annoyed: *[gives Kayorei an odd look]* No, I don't think so.
 
 Kayorei: Oh, come on! *[grabs Naoshi by the shoulders and pulls him in front of the computer]* Ask!
 
-NaoshiAnnoyed: Whoa, fine, fine... *takes a deep breath* Computer, are there any new missions for us?
+Naoshi Annoyed: Whoa, fine, fine... *takes a deep breath* Computer, are there any new missions for us?
 
 Computer: Negative.
 
@@ -271,17 +271,17 @@ Hunter: Hm, that is a bit strange.
 
 Stardust: Maybe she was traumatized after that whole Hasselhoff incident.
 
-NaoshiSad: Who knows...? ... Come to think of it, what do we have to do here other than video games?
+Naoshi Sad: Who knows...? ... Come to think of it, what do we have to do here other than video games?
 
 Hunter: Why do you ask? You're not getting "bored" too, are you?
 
-NaoshiShocked: No! Well, maybe a little.
+Naoshi Shocked: No! Well, maybe a little.
 
 Fallingstar: I'll let you take my spot after this race if you want.
 
-NaoshiAnnoyed: Nah. I'm not really up for Mario Kart. I'll find something.
+Naoshi Annoyed: Nah. I'm not really up for Mario Kart. I'll find something.
 
-HunterAnnoyed: Okay...
+Hunter Annoyed: Okay...
 
 %Naoshi leaves and the remaining Mercs finish their race.
 
@@ -293,7 +293,7 @@ Iga: Sounds good.
 
 Stardust: Gah!
 
-NaoshiGlad: Welcome to Order King! May I take your burger?
+Naoshi Glad: Welcome to Order King! May I take your burger?
 
 Stardust: Naoshi... Don't do that...
 
