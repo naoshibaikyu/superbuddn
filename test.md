@@ -659,25 +659,25 @@ Fallingstar: *[bangs on the closet door]* Hey! Let me out of here!
 
 %Computer room...
 
-Hunter: We're too late...
+Hunter Angry: We're too late...
 
 Iga: Looks like it's just us now...
 
-Hunter: Looks like it.
+Hunter Annoyed: Looks like it.
 
 Iga: What do we do now?
 
-Hunter: Keep investigating. It's all we can do. Shinobu mentioned something about lights that he saw from the lounge.
+Hunter Annoyed: Keep investigating. It's all we can do. Shinobu mentioned something about lights that he saw from the lounge.
 
 Iga: Come to think of it, there were some weird flashes on cameras by the windows at around the time of the power outage. No cameras there... guess we'll have to go in if we want a look. As long as they don't touch us, we'll be fine.
 
-Hunter: All we can do. Just have to keep our guard up. Let's go.
+Hunter Annoyed: All we can do. Just have to keep our guard up. Let's go.
 
 %The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.
 
-Shinobu: Hunter! You made it! Check it out! *points at the window*
+Shinobu: Hunter! You made it! Check it out! *[points at the window]*
 
-Hunter Annoyed: *[walks to the window]* Um... Yeah. They're... very pretty lights.
+Hunter Shocked: *[walks to the window]* Um... Yeah. They're... very pretty lights.
 
 Naoshi Happy: Aren't they, though?
 
@@ -685,7 +685,91 @@ Hunter Shocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees
 
 Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You will be assimilated.
 
+%The other Mercenaries turn their gazes to Hunter and Iga as well.
 
+ The Bored Mercenaries: We are bored... Resistance is futile. You will be assimilated.
+
+Iga: This... can't possibly end well.
+
+%(Ooh, suspense. But there's business back on the planet to attend to... where the Fatal Five, minus Warp Man, are assembled in front of Warp Man's hideaway.)
+
+Riff: *[bangs on the door to Warp Man's "lab"]* Warp Man!
+
+WarpMan: Graah! *[throws open the door]* What did I tell you about -- Riff! Perfect timing!
+
+Riff: What the hell are you doing now?
+
+WarpMan: Finishing the testing on my ultimate anti-Mercenary weapon!
+
+Riff: Oh...? Let's see it.
+
+%Warp Man nods and eagerly places a device on a large cannon-like device, then steps back to show it off.
+
+Riff: Okay, but what is it?
+
+WarpMan: This device holds a very special program. See, it's a virus. I transmit it through this laser here and... it amplifies its victim's boredom levels to the point that it drives him completely insane within minutes!
+
+Riff: ... A virus. A computer virus. That influences boredom. Transmitted through a LASER. *[rolls eyes]* It apparently works. You've infected yourself with it.
+
+Karasu: Oh God, it's not contagious, is it?
+
+WarpMan: Oh yes, it's very contagious! The slightest touch will cause it to spread!
+
+Riff: *[groans and takes the device attached to the laser emitter]* Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
+
+Warp Man: No, you don't understand! It's meant to destroy them from the inside!
+
+Riff: Uh huh. Yeah. Sure. *[hands the device to Lento]* Pull!
+
+%Lento throws Warp Man's device into the air and Riff unloads his gun at it, leaving nothing but a smoking pile of scrap.
+
+WarpMan: Nooo! What have you done?! My perfect anti-Mercenary machine... ruined!
+
+Riff: Right... Do us a favor and do something more productive with your time. Perhaps build something that'll really help us instead of some pretend weapons. *[turns on his heel and leaves with the other non-Warp Man members of the Five, leaving Warp Man to sulk over his new scrap pile]*
+
+%Back on the Marauder, the remaining sane Mercenaries are backed into a corner...
+
+The bored Mercenaries: We are bored... Resistance is futile. You will be assimilated.
+
+Hunter Sad: Nice knowing you, man...
+
+Iga: Here's hoping our insanity will be fun...
+
+The bored Mercenaries: We are bored... Resistance is... *[stops]*
+
+Naoshi Shocked: *[blinks]* Huh...? What's going...? Ow, man, my head...
+
+Stardust: I remember shooting Falling star with a paper clip, but it's all kinda hazy from there...
+
+Shinobu: What happened...?
+
+Hunter Happy: Guys!
+
+Iga: You back with us?
+
+Kayorei: We were gone?
+
+Hunter Happy: You guys had all gone completely insane...!
+
+Kayorei: Headaches... no memory of prior events... Naoshi with underwear on his head...
+
+Stardust: Must have been a killer party, maaan...
+
+All but Stardust: ...
+
+Kayorei: Don't ever say that again.
+
+Hunter: Well, this has certainly been a day...
+
+Shinobu: Heh. Hey, wait a sec... Where's Falling star?
+
+%(Back in the closet...)
+
+Fallingstar: Guys...? Guys! Can someone let me out of here? It smells like towels in here! Hey! I'm... I'm developing claustrophobia here...!
+
+%Well, all's well that ends well, as they say. Even if you have no idea what the heck just happened. Until next time, never underestimate the power of a mind that seeks entertainment!
+
+%**THE END**
 
 EpFin
 
