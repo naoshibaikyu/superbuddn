@@ -200,7 +200,7 @@ function getJsonData() {
 			}	
 		},
 		
-
+//Emotes
 		"emotes": [
 			"neutral",
 			"happy",
