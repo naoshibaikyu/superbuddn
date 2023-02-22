@@ -141,7 +141,7 @@ Hunter Shocked: Aww!
 
 Shinobu: What was that?
 
-NaoshiHappy: Divine intervention.
+Naoshi Happy: Divine intervention.
 
 Stardust: You just didn't want to admit you were getting your butt kicked.
 
@@ -247,7 +247,7 @@ Crew Joe: She has been repeatedly asking the same question to the computer rough
 
 NaoshiAnnoyed: ... You really are bored, aren't you?
 
-KayoreiHappy: Too much so. Hey, why don't you ask the computer if there's anything new? Maybe you'll get a different response.
+Kayorei Happy: Too much so. Hey, why don't you ask the computer if there's anything new? Maybe you'll get a different response.
 
 NaoshiAnnoyed: *[gives Kayorei an odd look]* No, I don't think so.
 
@@ -297,23 +297,23 @@ NaoshiGlad: Welcome to Order King! May I take your burger?
 
 Stardust: Naoshi... Don't do that...
 
-NaoshiHappy: Do what?
+Naoshi Happy: Do what?
 
 Stardust: ... Never mind. Would you get out of the way? I'm trying to get to the popcorn.
 
-NaoshiHappy: Popcorn, is it?
+Naoshi Happy: Popcorn, is it?
 
 %Naoshi snaps his fingers and Kayorei sidesteps into view, standing at attention.
 
-NaoshiGlad: Popcorn.
+Naoshi Glad: Popcorn.
 
-KayoreiHappy: *[nods]* Yah-hmm.
+Kayorei Happy: *[nods]* Yah-hmm.
 
 %With a flourish, Kayorei sweeps a package of popcorn out of its wrapper and puts it in the microwave, rhythmically pushing the buttons to get Stardust's snack prepared, then disappears into the pantry, all to the bewilderment of the porcine Mercenary.
 
 Stardust: Um... What is all this...?
 
-NaoshiGlad: Oh. Heh, no one ever really understood our methods here at MercDonald's.
+Naoshi Glad: Oh. Heh, no one ever really understood our methods here at MercDonald's.
 
 Stardust: I thought it was Order King.
 
@@ -321,27 +321,27 @@ Naoshi: Same difference.
 
 %*BEEP! BEEP! BEEEEEEEP!*
 
-NaoshiGlad: And that would be your popcorn. *[fetches the popcorn]* Your total comes to... *[pokes the desk a few times]* fourteen fragmars.
+Naoshi Glad: And that would be your popcorn. *[fetches the popcorn]* Your total comes to... *[pokes the desk a few times]* fourteen fragmars.
 
 Stardust: What...?
 
-NaoshiHappy: Sorry. We may be on the same team, but I can't give you a discount.
+Naoshi Happy: Sorry. We may be on the same team, but I can't give you a discount.
 
 Stardust: This is getting old, Naoshi. Just let me get my popcorn.
 
-NaoshiAnnoyed: Fourteen fragmars.
+Naoshi Annoyed: Fourteen fragmars.
 
 Stardust: *[grumbles under his breath]* Don't even know what the heck a fragmar is... *spots a string on the floor and picks it up* Here.
 
-NaoshiGlad: *[takes the string and grimaces a bit]* Hoo... Kay! Change for a fifty!
+Naoshi Glad: *[takes the string and grimaces a bit]* Hoo... Kay! Change for a fifty!
 
 %Kayorei topples clumsily out of the pantry and falls in front of Naoshi, a paper clip in her outstretched hand.
 
-NaoshiHappy: *[takes the paper clip]* Thank you.
+Naoshi Happy: *[takes the paper clip]* Thank you.
 
-KayoreiHappy: *[hops up and salutes]* Yah-hm.
+Kayorei Happy: *[hops up and salutes]* Yah-hm.
 
-NaoshiGlad: *[hands Stardust the popcorn and the paper clip, then shakes his hand]* Good doing business with you, sir.
+Naoshi Glad: *[hands Stardust the popcorn and the paper clip, then shakes his hand]* Good doing business with you, sir.
 
 Stardust: Riiight...
 
@@ -351,7 +351,7 @@ Shinobu: Hey, what kept you?
 
 Stardust: Naoshi. He blocked off the kitchen and turned it into some kind of fast food joint or something.
 
-HunterAnnoyed: Do what...?
+Hunter Annoyed: Do what...?
 
 Stardust: *[puts the popcorn on the table]* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
 
@@ -367,15 +367,15 @@ Stardust: Nothing!
 
 %Hunter narrows his eyes at Stardust... at least, you'd be able to tell if not for the visor.
 
-HunterAnnoyed: Don't tell me. Bored, too.
+Hunter Annoyed: Don't tell me. Bored, too.
 
 Stardust: Um...
 
-HunterAnnoyed: *[puts down his controller]* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
+Hunter Annoyed: *[puts down his controller]* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
 
 Shinobu: Who has just left.
 
-HunterShocked: Wha? *[looks up]* Gah!
+Hunter Shocked: Wha? *[looks up]* Gah!
 
 %Meanwhile, somewhere in the elsewhere...
 
@@ -493,7 +493,7 @@ Naoshi: *[stares at cards in his hand]* Hm... Red ace on black queen, then I tap
 
 Stardust: Ohh, you're good... but do you have any fives?
 
-NaoshiShocked: *[recoils in shock]* Gah, you sunk my battleship!
+Naoshi Shocked: *[recoils in shock]* Gah, you sunk my battleship!
 
 Shinobu: *[walks up to the "game"]* Uh... What's going on here?
 
@@ -501,19 +501,19 @@ Naoshi: We've decided to settle this dispute over a game of cards. Should I deal
 
 Shinobu: Um... I thought you got flattened.
 
-NaoshiHappy: I got better.
+Naoshi Happy: I got better.
 
 Shinobu: You're still wearing... those. *[points to the underwear on Naoshi's head]*
 
 Stardust: I had to go through great peril to get those! I WILL win them back!
 
-NaoshiGlad: Great peril, yes. Many dangers for this treasure. And it's rightfully mine!
+Naoshi Glad: Great peril, yes. Many dangers for this treasure. And it's rightfully mine!
 
 Stardust: *[stands up]* Oh yeah?!
 
 Shinobu: *[eases Stardust back into a sitting position]* Hey, hey, cool it. You've... still got your game.
 
-NaoshiGlad: *[sticks his tongue out at Stardust]* Nyaaahh...
+Naoshi Glad: *[sticks his tongue out at Stardust]* Nyaaahh...
 
 Shinobu: .oO(Geez, what's with these guys...?)
 
@@ -547,7 +547,7 @@ Kayorei: I can't say it out loud... but I'll tell you what I know...
 
 %Well, while Kayorei's recounting her story, let's get back to the main computer room. Because I can leave you in suspense like that.
 
-NaoshiAnnoyed: You're a jerk, too.
+Naoshi Annoyed: You're a jerk, too.
 
 %ANYWAY.
 
@@ -555,7 +555,7 @@ NaoshiAnnoyed: You're a jerk, too.
 
 Iga: Was it really a good idea to send those guys out without knowing what's really going on out there...?
 
-HunterAnnoyed: Don't remind me...
+Hunter Annoyed: Don't remind me...
 
 Iga: Hmm... Okay, got the stuff from two hours before that weird power outage.
 
@@ -565,11 +565,11 @@ Hunter: Let's see it. Hopefully this'll tell us what's causing this mess.
 
 Iga: Okay... nothing unusual so far... Whoa, hold up... *[stares dumbfoundedly at one of the screens]* Holy crunchmuffins, what are those Joes DOING?
 
-HunterShocked: *[also staring]* Guh... That's... That's just... wrong...
+Hunter Shocked: *[also staring]* Guh... That's... That's just... wrong...
 
 Iga: *[turning off the offensive screen]* Moving on...!
 
-HunterShocked: *[shudders]* Y-yeah...
+Hunter Shocked: *[shudders]* Y-yeah...
 
 %A bit of screen-watching later...
 
@@ -607,7 +607,7 @@ Hunter: *[on Shinobu's radio]* Shinobu! What's your status over there?
 
 Shinobu: I'm in the lounge checking out the pretty lights outside. You should see this!
 
-HunterShocked: Wha...? Were you...?
+Hunter Shocked: Wha...? Were you...?
 
 Shinobu: Been playing cards with the guys.
 
@@ -677,11 +677,11 @@ Hunter: All we can do. Just have to keep our guard up. Let's go.
 
 Shinobu: Hunter! You made it! Check it out! *points at the window*
 
-HunterAnnoyed: *[walks to the window]* Um... Yeah. They're... very pretty lights.
+Hunter Annoyed: *[walks to the window]* Um... Yeah. They're... very pretty lights.
 
-NaoshiHappy: Aren't they, though?
+Naoshi Happy: Aren't they, though?
 
-HunterShocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]* Uh oh...
+Hunter Shocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]* Uh oh...
 
 Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You will be assimilated.
 
