@@ -15,8 +15,8 @@ function formatMarkdown()
 		"%": "description",
 	};
 
-	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
-	var mugshotDirectory = "../../../cyborgresistance/assets/images/mugshots/";
+	var locationDirectory = "../../../7mercs/assets/images/locations/";
+	var mugshotDirectory = "../../../7mercs/assets/images/mugshots/";
 	var json = getJsonData();
 	var characters = json.names;
 	var emotes = json.emotes;
