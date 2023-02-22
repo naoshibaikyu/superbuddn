@@ -235,7 +235,7 @@ function getJsonData() {
 			"sniperjoe": {
 				"displayName": "Sniper Joe",
 				"imagePathPrefix": "genericbots/sniperjoe"
-			},			
+			}		
 			
 			
 			
