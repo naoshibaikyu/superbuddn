@@ -238,7 +238,7 @@ function getJsonData() {
 			},	
 			
 //Misc
-			"???": {
+			"unknown": {
 				"displayName": "???",
 				"imagePathPrefix": "anonymous"
 			},	

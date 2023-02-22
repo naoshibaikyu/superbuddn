@@ -201,7 +201,7 @@ Hunter: Okay, okay. Never mind.
 
 %A crew Joe walks in.
 
-Crew Joe: Sir, there appears to be a problem in the main computer room. I believe Miss Ballade is acting strangely.
+CrewJoe: Sir, there appears to be a problem in the main computer room. I believe Miss Ballade is acting strangely.
 
 Hunter: Hm... She did tell me she was bored when we ran into each other last.
 
@@ -243,7 +243,7 @@ Computer: Negative.
 
 Kayorei: Crags. *[spots Naoshi]* Oh, I was just checking to see if anyone had anything for us to do.
 
-Crew Joe: She has been repeatedly asking the same question to the computer roughly every fifteen seconds for the past ten minutes.
+CrewJoe: She has been repeatedly asking the same question to the computer roughly every fifteen seconds for the past ten minutes.
 
 Naoshi Annoyed: ... You really are bored, aren't you?
 
@@ -521,7 +521,7 @@ Shinobu: .oO(Geez, what's with these guys...?)
 
 Fallingstar: *[mumbles]* Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? *hesitates for a moment* Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
 
-???: Someone out there...?
+Unknown: Someone out there...?
 
 Fallingstar: *looks around* Wha?
 
