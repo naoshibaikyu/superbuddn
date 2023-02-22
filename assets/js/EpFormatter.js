@@ -249,7 +249,8 @@ function getJsonData() {
 			"shocked",
 			"sad",
 			"damaged",
-			"relieved"
+			"relieved",
+			"glad"
 		]
 	});
 }
