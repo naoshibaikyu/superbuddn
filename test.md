@@ -77,7 +77,7 @@ Kayorei: We're actually playing DDR right now and you're very distracting.
 
 Kayorei: To each his own. Am I even supposed to be talking to you?
 
-HunterAnnoyed: No, we're not.
+Hunter Annoyed: No, we're not.
 
 %Fine. *[grumble]*
 
@@ -89,7 +89,7 @@ Iga: Go, 109, go!
 
 Kayorei: Hoo... That was fun.
 
-NaoshiAnnoyed: What was with those teddy bears in that song?
+Naoshi Annoyed: What was with those teddy bears in that song?
 
 Kayorei: I have no idea... Better not to think on it. You guys can have your Smash Brothers now. I've had my daily dose of stompy.
 
@@ -97,7 +97,7 @@ Iga: Yay!
 
 Shinobu: Why do we only have one TV here for seven, anyway?
 
-HunterHappy: Who knows? Hey, I call green!
+Hunter Happy: Who knows? Hey, I call green!
 
 %Chuckling, Kayorei leaves the lounge for a while, the Joe following.
 
@@ -137,7 +137,7 @@ Riff: Oy... *rolls his eyes and closes the door*
 
 %The power blinked off and on. The TV screen showed a little cube forming a logo before moving to the intro of the game they were playing.*
 
-HunterShocked: Aww!
+Hunter Shocked: Aww!
 
 Shinobu: What was that?
 
@@ -145,7 +145,7 @@ NaoshiHappy: Divine intervention.
 
 Stardust: You just didn't want to admit you were getting your butt kicked.
 
-NaoshiAnnoyed: Feh.
+Naoshi Annoyed: Feh.
 
 Hunter: In all seriousness, though, there shouldn't have been any reason for the power to do that. I'm gonna go check the core.
 
