@@ -1,4 +1,56 @@
+<head>
+<style>
+body  {
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: #FDB;
+  background: #100410;
+	}
+  
+.dialogue img {
+    border: 1px solid #FFB070;
+    background-color: #111; 
+}
 
+.dialogue p{  
+    background: #313;
+}
+
+.dialogue profilename{ 
+    color: #FFB070;
+    text-shadow: #202 -2px 1px;
+}
+
+.narration p{ 
+  background: #313;
+}
+
+.description p{ 
+  background: #313;
+}
+
+.epnum{ 
+  text-shadow: -2px 1px #424;
+  color: #FFB070;
+}
+
+.eptitle p{ 
+  text-shadow: -3px 2px #424;
+  color: #FFB070;
+}
+
+.author p{ 
+  text-shadow: -2px 1px #424;
+  color: #FFB070;
+}
+
+.actnum{ 
+  text-shadow: -4px 3px #424;
+  color: #FFB070;
+}
+</style>
+</head>
 
 EpStart
 
@@ -29,7 +81,7 @@ HunterAnnoyed: No, we're not.
 
 %Fine. *[grumble]*
 
-Falling star: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
+Fallingstar: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
 
 Iga: Go, 109, go!
 
@@ -121,11 +173,11 @@ Kayorei: Huh. Wonder why I never noticed...
 
 %A little while later, back with the gamers...
 
-Falling star: Alright, which stage now?
+Fallingstar: Alright, which stage now?
 
 Shinobu: I don't really care. Hit the randomizer.
 
-Falling star: Okay.
+Fallingstar: Okay.
 
 %Falling star directs the cursor to the "Random" button and presses it, and much to everyone's dismay...
 
@@ -225,7 +277,7 @@ Hunter: Why do you ask? You're not getting "bored" too, are you?
 
 NaoshiShocked: No! Well, maybe a little.
 
-Falling star: I'll let you take my spot after this race if you want.
+Fallingstar: I'll let you take my spot after this race if you want.
 
 NaoshiAnnoyed: Nah. I'm not really up for Mario Kart. I'll find something.
 
@@ -309,7 +361,7 @@ Iga: Really weird.
 
 %*TWANG!*
 
-Falling star: Ow! What was that?!
+Fallingstar: Ow! What was that?!
 
 Stardust: Nothing!
 
@@ -369,7 +421,7 @@ Iga: And to see what everyone's up to.
 
 Shinobu: That's probably all we can do. We don't have any idea what's going on here.
 
-Falling star: Well, let's go then. Time's a-wasting.
+Fallingstar: Well, let's go then. Time's a-wasting.
 
 %The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.
 
@@ -389,11 +441,11 @@ Iga: ...
 
 Hunter: All the more reason for us to get a move on.
 
-Falling star: Weren't those Kayorei's...?
+Fallingstar: Weren't those Kayorei's...?
 
 Shinobu: ... How would you know?
 
-Falling star: Uhh... Let's just go, we're wasting time.
+Fallingstar: Uhh... Let's just go, we're wasting time.
 
 Hunter: Riiight...
 
@@ -415,7 +467,7 @@ Iga: So much for that plan.
 
 Hunter: *[mutters]* This just keeps getting better...
 
-Falling star: So now what?
+Fallingstar: So now what?
 
 Iga: I'll check and see if there's been anything useful recorded.
 
@@ -423,7 +475,7 @@ Hunter: Sounds good... though we'll still need to keep an eye on the others to m
 
 Shinobu: Beats watching the security videos, I guess.
 
-Falling star: Ditto.
+Fallingstar: Ditto.
 
 Hunter: Okay, then. Be careful.
 
@@ -431,7 +483,7 @@ Hunter: Okay, then. Be careful.
 
 Shinobu: Well, I'm sure we already know where Stardust and Naoshi are. Now which of is is going to watch --
 
-Falling star: NOT IT! *[runs]*
+Fallingstar: NOT IT! *[runs]*
 
 Shinobu: ...
 
@@ -467,29 +519,29 @@ Shinobu: .oO(Geez, what's with these guys...?)
 
 %Back with Falling star...
 
-Falling star: *[mumbles]* Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? *hesitates for a moment* Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
+Fallingstar: *[mumbles]* Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? *hesitates for a moment* Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
 
 ???: Someone out there...?
 
-Falling star: *looks around* Wha?
+Fallingstar: *looks around* Wha?
 
 %A door in the hallway opens and Kayorei pokes her head out of it, then urgently waves at Falling star.
 
 Kayorei: *[whispers]* Falling star! Over here, quick!
 
-Falling star: What's going on?
+Fallingstar: What's going on?
 
 Kayorei: Just come on! They'll spot you!
 
-Falling star: Uh... Okay. *[enters the room that Kayorei is hiding in]* Um... The bathroom.
+Fallingstar: Uh... Okay. *[enters the room that Kayorei is hiding in]* Um... The bathroom.
 
 Kayorei: It's the only place I can think of that isn't under constant watch.
 
-Falling star: I would hope so. What's going on, anyway?
+Fallingstar: I would hope so. What's going on, anyway?
 
 Kayorei: It's... them. They've come for us.
 
-Falling star: Who?
+Fallingstar: Who?
 
 Kayorei: I can't say it out loud... but I'll tell you what I know...
 
@@ -569,41 +621,41 @@ Shinobu: No one important. Whose move was it again?
 
 %In the bathroom...
 
-Falling star: ... That has to be the most far-fetched thing I've ever heard. And out of you, that's saying a lot.
+Fallingstar: ... That has to be the most far-fetched thing I've ever heard. And out of you, that's saying a lot.
 
 Kayorei: No one ever believes at first. But I tell you... I've seen them. They're here... on the ship.
 
-Falling star: Kay... It's just the seven of us and the Joes.
+Fallingstar: Kay... It's just the seven of us and the Joes.
 
 Kayorei: Exactly! The Joes!
 
-Falling star: But you just said it was --
+Fallingstar: But you just said it was --
 
 Kayorei: *[grabs Falling star and starts shaking him]* That's who they are! IT'S A CONSPIRACY, I TELL YOU!
 
-Falling star: *[pushes Kayorei off]* Whoa, easy there, Kay!
+Fallingstar: *[pushes Kayorei off]* Whoa, easy there, Kay!
 
 Iga: *[on Falling star's radio]* Hey, Falling star! What's your status?
 
-Falling star: Hang on a moment, Kay. *[into the radio]* I just found Kayorei.
+Fallingstar: Hang on a moment, Kay. *[into the radio]* I just found Kayorei.
 
 Iga: Okay. Just be careful. Don't let her touch you!
 
-Falling star: Um...
+Fallingstar: Um...
 
 Iga: ... Mind out of the gutter.
 
-Falling star: That's not it. She... already. Yeah. Why? ... Iga?
+Fallingstar: That's not it. She... already. Yeah. Why? ... Iga?
 
 Kayorei: *[levels her weapon at Falling star]* You're in with them... I shot out all the cameras and they still found me... It's because of you!
 
-Falling star: Hey! Wait a second...!
+Fallingstar: Hey! Wait a second...!
 
 %A few minutes later...
 
 Kayorei: *[dusts her hands off and leaves the room]* That takes care of that.
 
-Falling star: *[bangs on the closet door]* Hey! Let me out of here!
+Fallingstar: *[bangs on the closet door]* Hey! Let me out of here!
 
 %Computer room...
 

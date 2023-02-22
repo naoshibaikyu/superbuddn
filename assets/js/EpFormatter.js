@@ -164,37 +164,37 @@ function getJsonData() {
 		"names": {
 //Seven Mercenaries
 	//Armor Form
-			"enker": {
+			"naoshi": {
 				"displayName": "Enker",
 				"imagePathPrefix": "7mercs/enker"
 			},
 			
-			"quint": {
+			"hunter": {
 			"displayName": "Quint",
 			"imagePathPrefix": "7mercs/quint"
 			},
 			
-			"ballade": {
+			"kayorei": {
 				"displayName": "Ballade",
 				"imagePathPrefix": "7mercs/ballade"
 			},
 			
-			"punk": {
+			"shinobu": {
 			"displayName": "Punk",
 			"imagePathPrefix": "7mercs/punk"
 			},
 
-			"busterrod": {
+			"iga": {
 				"displayName": "Buster Rod G.",
 				"imagePathPrefix": "7mercs/busterrod"
 			},
 			
-			"megawater": {
+			"fallingstar": {
 			"displayName": "Mega Water S.",
 			"imagePathPrefix": "7mercs/megawater"
 			},
 			
-			"hyperstorm": {
+			"stardust": {
 			"displayName": "Hyper Storm H.",
 			"imagePathPrefix": "7mercs/hypersttorm"
 			}	
