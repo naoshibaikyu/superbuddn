@@ -1,175 +1,215 @@
-insertDivs();
-insertMugshots();
+formatMarkdown();
 
-//Replace all p tags with div class=dialogue tags
-function insertDivs()
+// Replace markdown with formatted HTML
+function formatMarkdown()
 {
+	// A dictionary of tags and class names
+	// Add to this dictionary to add new markdown tags
+	var tags = {
+		"@LOCATION": "location",
+		"@EPNUM:": "epnum",
+		"@TITLE:": "eptitle",
+		"@AUTHOR:": "author",
+		"@ACTNUM:": "actnum",
+		"%%": "description",
+		"%": "description",
+	};
+
+	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
+	var mugshotDirectory = "../../../cyborgresistance/assets/images/mugshots/";
+	var json = getJsonData();
+	var characters = json.names;
+	var emotes = json.emotes;
+
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
 
-	var pTags=document.getElementById('ep').getElementsByTagName('p');
+	var paragraphs = document.getElementById('ep').getElementsByTagName('p'); // Get all paragraph tags in the ep
+	var line;
+	var comment = false;
 
-	for(i=0;i<pTags.length;i++)
+	for(var i = 0; i < paragraphs.length; i++)
 	{
-	    var line = pTags[i];  
-	    var p = document.createElement('p');
-	    var div = document.createElement('div');
+		var p = document.createElement('p');
+		var div = document.createElement('div');
+		line = paragraphs[i].innerHTML;
 
-	    if (line.innerHTML.startsWith("@"))
-	    {
-	    	div.className = "location";
-	    	line.innerHTML = line.innerHTML.substr(1);
-	    }
-	    else if (line.innerHTML.startsWith("%"))
-	    {
-	    	div.className = "description";
-	    	line.innerHTML = line.innerHTML.substr(1);
-	    }
-	    else
+		// single line parsing
+		// multi line parsing
+
+		// if any token matches
+
+		var state = setParsingState(line);
+
+		function setParsingState(line)
+		{
+			for (var token in tags)
+			{
+				if (line.startsWith(token))
+				{
+					if (tags[token] === "location")
+					{
+						return "location";
+					}
+					else if (tags[token])
+					{
+
+					}
+				}
+			}
+			
+			return "multi";
+			return "single";
+		}
+		
+		// Add classes to divs
+		for (var token in tags)
+		{
+			if (line.startsWith(token))
+			{
+				div.className = tags[token];
+				line = line.substr(token.length, line.length); // Remove the markdown
+
+				// Set background image for locations
+				if (tags[token] === "location")
+				{
+					var location = line.substring(0, line.lastIndexOf(':'));
+					if (location) 
+					{
+						div.style.backgroundImage = "url('" + locationDirectory + location + ".png')";
+					}
+					line = line.substr(line.indexOf(":") + 1, line.length);
+				}
+				else if (token === "%%")
+				{
+					comment = true;
+				}
+
+				break;
+			}
+		}
+
+		if (comment === true)
+		{
+			continue;
+		}
+
+		// Dialogue styling
+	    if (!div.className)
 	    {
 			div.className = "dialogue";
-	    }
+			var speaker = line.substr(0, line.indexOf(':')).toLowerCase();
+			var name = speaker;
+			var emote = "neutral"
 
-	    //Surround inner HTML with p tags
-	    p.innerHTML = line.innerHTML;
-	    div.innerHTML = p.outerHTML;
+			if (speaker.indexOf(' ') > -1)
+			{
+				name = speaker.substr(0, speaker.indexOf(' '));
+				emote = speaker.substr(speaker.indexOf(' ')+1, speaker.length);
+			}
 
-	    line.parentNode.replaceChild(div, line);
+			var emoteIndex = emotes.indexOf(emote);
+			var displayname = line.substr(0, line.indexOf(':')).toLowerCase();
+			var imagePath = "";
+
+			if (name in characters)
+			{
+				displayname = characters[name].displayName;
+
+				if (characters[name].imagePathPrefix)
+					imagePath = "<img id=double src=" + mugshotDirectory + characters[name].imagePathPrefix + emotes[emoteIndex] + ".png>"; 
+			}
+
+			var replace =  imagePath + " <p><profilename>" + displayname + "</profilename></br>";
+			find = new RegExp(speaker + ":", "gi");
+			line = line.replace(find, replace);	
+			div.innerHTML = line;
+		}
+		else 
+		{
+			p.innerHTML = line;
+			div.innerHTML = p.outerHTML;
+		}
+	    	
+	    paragraphs[i].parentNode.replaceChild(div, paragraphs[i]);
 	}
 }
 
-function insertMugshots()
+// Showdown markdown functionality
+
+showdown.setOption("strikethrough", "true");
+showdown.setOption("tables", "true");
+
+var text = document.getElementById("act1").innerHTML,
+    target = document.getElementById("targetDiv"),
+    converter = new showdown.Converter(),
+    html = converter.makeHtml(text);
+
+    target.innerHTML = html;
+
+// Page turner function. Are we keeping this?
+
+function pageTurn(sourceDiv)
 {
-	var directory = "./assets/images/mugshots/";
-	//Instances of where a character has an image attached to their name. Along with bolding the name.
+    text = document.getElementById(sourceDiv).innerHTML;
+    target = document.getElementById("targetDiv");
+    converter = new showdown.Converter();
+    html = converter.makeHtml(text);
 
-	//TODO: Import character names and emotes from separate text files
-	var names = {
-		//Seven Mercenaries Members
-		enker:"Enker",
-		quint:"Quint",
-		punk:"Punk",
-		ballade:"Ballade",
-		//Supporting Characters
-		crewjoe:"CrewJoe",
-		computer:"Computer",
-		//Villians
-		wily:"Wily",
-		sniperjoe:"SniperJoe",
-		riff:"Riff",
-		warpman:"WarpMan",
-		lento:"Lento",
-		staccato:"Staccato",
-		karasu:"Karasu",
-		//Generic NPCs
-		//Test Character
-		magma:"Magma",
-		//Temporary
-		enker:"Naoshi",
-		quint:"Hunter",
-		punk:"Shinobu",
-		ballade:"Kayorei",
-		busterrod:"Iga",
-		megawater:"Falling Star",
-		hyperstorm:"Stardust"
-	};
+    target.innerHTML = html;
+}
 
-	var emotes = {
-		original:"",
-		happy:"Happy",
-		annoyed:"Annoyed",
-		angry:"Angry",
-		shocked:"Shocked",
-		sad:"Sad",
-		damaged:"Damaged",
-		relieved:"Relieved",
-		pissed:"Pissed",
-		glare:"Glare",
-		aloof:"Aloof",
-		giddy:"Giddy",
-		scared:"Scared",
-		nani:"Nani",
-		snicker:"Snicker",
-		owo:"OwO",
-		sleep:"Sleep",
-		lenny:"Lenny",
-		hotdog:"Hotdog",
-		scary:"Scary",
-		punched:"Punched",
-		thinking:"Thinking",
-		gameboy:"GB",
-		glad:"Glad"
-	};
-
-	//TODO: make it work with brackets and spaces between the name and emote
-	//Look at all name/emote combinations
-	for (var nameKey in names)
-	{
-		for (var emoteKey in emotes)
-		{
-			var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
-			var suffix = "";
-
-			//Insert name suffix and prefix
-			var prefix = names[nameKey];
-
-			switch(nameKey)
-			{
-			//Cyborg Resistance Members
-				case "hornet":
-				case "magma":
-				case "splash":
-				case "galaxy":
-				case "plug":
-				case "tornado":
-					suffix = " Man";
-					break;
-				case "jewel":
-					suffix = " Woman";
-					break;
-				case "concrete":
-					prefix = "Con";
-					suffix = "critter";
-					break;
-				case "fake":
-					suffix = "tte";
-					break;
-				case "spike":
-					prefix = "Concrete";
-					suffix = " Man";
-					break;
-			//Villains
-			case "wily":
-					prefix = "Dr. ";
-					suffix = "Wily";
-					break;
-			case "sniperjoe":
-					prefix = "Sniper ";
-					suffix = "Joe";
-					break;
-			//Supporting Characters
-				case "drlight":
-					prefix = "Dr. ";
-					suffix = "Light";
-					break;
-				case "crewjoe":
-					prefix = "Crew ";
-					suffix = "Joe";
-					break;
-			}
-
-			var find = new RegExp(str, "gi");
-			var imagePath = directory + nameKey + emoteKey + ".png"; 
-
-			replace = "<test><img id=double src=" + imagePath + "> <p><b>" + prefix + suffix + ":</b></br></test>";
+function getJsonData() {
+	return ({
+		"names": {
+//Seven Mercenaries
+	//Armor Form
+			"enker": {
+				"displayName": "Enker",
+				"imagePathPrefix": "7mercs/enker"
+			},
 			
-			//TODO: check and see if replace path exists, if not, bold name and continue, else...
-			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
-		}
-	}
+			"quint": {
+			"displayName": "Quint",
+			"imagePathPrefix": "7mercs/quint"
+			},
+			
+			"ballade": {
+				"displayName": "Ballade",
+				"imagePathPrefix": "7mercs/ballade"
+			},
+			
+			"punk": {
+			"displayName": "Punk",
+			"imagePathPrefix": "7mercs/punk"
+			},
 
-	//Format
-	document.body.style.backgroundColor = "#101010";
-	document.body.style.color = "#C0C0C0";
-	document.body.style.fontSize = "medium";
+			"busterrod": {
+				"displayName": "Buster Rod G.",
+				"imagePathPrefix": "7mercs/busterrod"
+			},
+			
+			"megawater": {
+			"displayName": "Mega Water S.",
+			"imagePathPrefix": "7mercs/megawater"
+			},
+			
+			"hyperstorm": {
+			"displayName": "Hyper Storm H.",
+			"imagePathPrefix": "7mercs/hypersttorm"
+			}	
+		},
+		
+
+		"emotes": [
+			"neutral",
+			"happy",
+			"annoyed",
+			"angry",
+			"shocked",
+			"sad",
+			"damaged",
+			"relieved"
+		]
+	});
 }
