@@ -62,8 +62,6 @@ EpStart
 
 <!-- Epilogue -->
 
-%Test. 6:43AM
-
 %It's another... some point in time for the Mercs. Day and night don't exist in orbit. From their vantage point, it's sunrise in India, so we'll go with that. Anyway. The Mercs. They're doing stuff. On the Marauder. In orbit.
 
 Kayorei: We're actually playing DDR right now and you're very distracting.
@@ -78,7 +76,7 @@ Hunter Annoyed: No, we're not.
 
 Fallingstar: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
 
-Iga: Go, 109, go!
+Iga Happy: Go, 109, go!
 
 %The song finally ends and Kayorei and her "dance partner" step off the dance pads.
 
@@ -88,7 +86,7 @@ Naoshi Annoyed: What was with those teddy bears in that song?
 
 Kayorei: I have no idea... Better not to think on it. You guys can have your Smash Brothers now. I've had my daily dose of stompy.
 
-Iga: Yay!
+Iga Glad: Yay!
 
 Shinobu: Why do we only have one TV here for seven, anyway?
 
@@ -120,7 +118,7 @@ Wily: CURSES!
 
 Riff: *[flicks the light switch]* Warp Man... what are you doing...?
 
-Warpman: Hey! I'm trying to have an evil moment here!
+Warpman Angry: Hey! I'm trying to have an evil moment here!
 
 %Warp Man quickly stomps over to the light switch and turns it off, then continues his maniacal laughter.
 
@@ -142,7 +140,7 @@ Stardust: You just didn't want to admit you were getting your butt kicked.
 
 Naoshi Annoyed: Feh.
 
-Hunter: In all seriousness, though, there shouldn't have been any reason for the power to do that. I'm gonna go check the core.
+Hunter Annoyed: In all seriousness, though, there shouldn't have been any reason for the power to do that. I'm gonna go check the core.
 
 Shinobu: Okay.
 
@@ -160,7 +158,7 @@ Hunter: Oh. Well, I was going to investigate that power outage from a while back
 
 Kayorei: There was a power outage?
 
-Hunter Annoyed: Yeah, just a minute ago...
+Hunter: Yeah, just a minute ago...
 
 Kayorei: Huh. Wonder why I never noticed...
 
@@ -180,7 +178,7 @@ Naoshi Annoyed: Aw God... Pokefloats?
 
 Stardust: What the? I thought we took that out of the randomizer!
 
-Iga: Heh heh heh...
+Iga Happy: Heh heh heh...
 
 %Hunter steps back into the room.
 
@@ -188,7 +186,7 @@ Hunter: The Joes say everything is in perfect working order. No explanation or..
 
 %Hunter receives a cold glare from the gaming Mercs.
 
-Hunter: Okay, okay. Never mind.
+Hunter Annoyed: Okay, okay. Never mind.
 
 %And so the battle raged. Many punches, kicks, fireballs, sword swings, and Pokeball throwings later...
 
@@ -350,7 +348,7 @@ Hunter Annoyed: Do what...?
 
 Stardust: *[puts the popcorn on the table]* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
 
-Iga: Really weird.
+Iga Annoyed: Really weird.
 
 %The other Mercs nod in agreement, then resume their game. Stardust fidgets for a moment, then pulls out the paper clip and a rubber band he found under the table...
 
@@ -382,7 +380,7 @@ Warpman: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on 
 
 Lento: Unit wants to know what Warp Man is giggling about.
 
-Warpman: You! Out! I don't giggle! Out! *throws a wrench at Lento*
+Warpman Angry: You! Out! I don't giggle! Out! *throws a wrench at Lento*
 
 Lento: *closes the door* Strange.
 
@@ -392,15 +390,15 @@ Lento: Unit does not know.
 
 %The two glance at the floor under the door where green flashes of light peek out from beneath.
 
-Warpman: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
+Warpman Angry: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
 
 %Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.
 
-Warpman: I thought I told you to stay out!
+Warpman Angry: I thought I told you to stay out!
 
 Lento: But...
 
-Warpman: I SAID STAY OUT!
+Warpman Angry: I SAID STAY OUT!
 
 %Not wanting any more tools being launched in his general direction, Lento closes the door again.
 
@@ -412,7 +410,7 @@ Lento: Lento is... confused now.
 
 Hunter: I'd say our best option would probably be to check the security cameras. See if anything got in that'd cause this mess.
 
-Iga: And to see what everyone's up to.
+Iga Annoyed: And to see what everyone's up to.
 
 Shinobu: That's probably all we can do. We don't have any idea what's going on here.
 
@@ -420,21 +418,21 @@ Fallingstar: Well, let's go then. Time's a-wasting.
 
 %The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.
 
-Naoshi: WHEEEEEEEEEE!!!
+Naoshi Happy: WHEEEEEEEEEE!!!
 
 Stardust: Hey, come back here! I need those for... stuff!
 
 %Naoshi knocks down a crew Joe to block the path.
 
-Naoshi: You'll never catch me!
+Naoshi Happy: You'll never catch me!
 
 Stardust: Wanna bet, you little-- *[trips on the Joe]* Whoa! *[rolls across the floor and stops on top of Naoshi, crushing him.]*
 
-Naoshi: Ouchies.
+Naoshi Hurt: Ouchies.
 
-Iga: ...
+Iga Angry: ...
 
-Hunter: All the more reason for us to get a move on.
+Hunter Annoyed: All the more reason for us to get a move on.
 
 Fallingstar: Weren't those Kayorei's...?
 
@@ -446,7 +444,7 @@ Hunter: Riiight...
 
 %And so the four hurry on to the main computer room. Yeah, they kinda just... left Naoshi as is.
 
-Naoshi: Jerks... Owieowie.
+Naoshi Annoyed: Jerks... Owieowie.
 
 %Anyway. In the computer room...
 
@@ -458,9 +456,9 @@ Hunter: What the...?
 
 Shinobu: Looks like either something's jamming the signal or someone's trashed the cameras.
 
-Iga: So much for that plan.
+Iga Annoyed: So much for that plan.
 
-Hunter: *[mutters]* This just keeps getting better...
+Hunter Annoyed: *[mutters]* This just keeps getting better...
 
 Fallingstar: So now what?
 
@@ -492,7 +490,7 @@ Naoshi Shocked: *[recoils in shock]* Gah, you sunk my battleship!
 
 Shinobu: *[walks up to the "game"]* Uh... What's going on here?
 
-Naoshi: We've decided to settle this dispute over a game of cards. Should I deal you in?
+Naoshi Happy: We've decided to settle this dispute over a game of cards. Should I deal you in?
 
 Shinobu: Um... I thought you got flattened.
 
@@ -558,11 +556,11 @@ Hunter: Let's see it. Hopefully this'll tell us what's causing this mess.
 
 %Iga presses a few buttons and the cells of the grid light up with videos.
 
-Iga: Okay... nothing unusual so far... Whoa, hold up... *[stares dumbfoundedly at one of the screens]* Holy crunchmuffins, what are those Joes DOING?
+Iga Shocked: Okay... nothing unusual so far... Whoa, hold up... *[stares dumbfoundedly at one of the screens]* Holy crunchmuffins, what are those Joes DOING?
 
 Hunter Shocked: *[also staring]* Guh... That's... That's just... wrong...
 
-Iga: *[turning off the offensive screen]* Moving on...!
+Iga Angry: *[turning off the offensive screen]* Moving on...!
 
 Hunter Shocked: *[shudders]* Y-yeah...
 
@@ -638,7 +636,7 @@ Iga: Okay. Just be careful. Don't let her touch you!
 
 Fallingstar: Um...
 
-Iga: ... Mind out of the gutter.
+Iga Annoyed: ... Mind out of the gutter.
 
 Fallingstar: That's not it. She... already. Yeah. Why? ... Iga?
 
@@ -654,13 +652,13 @@ Fallingstar: *[bangs on the closet door]* Hey! Let me out of here!
 
 %Computer room...
 
-Hunter Angry: We're too late...
+Hunter Sad: We're too late...
 
-Iga: Looks like it's just us now...
+Iga Sad: Looks like it's just us now...
 
 Hunter Annoyed: Looks like it.
 
-Iga: What do we do now?
+Iga Sad: What do we do now?
 
 Hunter Annoyed: Keep investigating. It's all we can do. Shinobu mentioned something about lights that he saw from the lounge.
 
@@ -682,9 +680,9 @@ Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You 
 
 %The other Mercenaries turn their gazes to Hunter and Iga as well.
 
- The Bored Mercenaries: We are bored... Resistance is futile. You will be assimilated.
+The Bored Mercenaries: We are bored... Resistance is futile. You will be assimilated.
 
-Iga: This... can't possibly end well.
+Iga Shocked: This... can't possibly end well.
 
 %(Ooh, suspense. But there's business back on the planet to attend to... where the Fatal Five, minus Warp Man, are assembled in front of Warp Man's hideaway.)
 
@@ -712,13 +710,13 @@ WarpMan: Oh yes, it's very contagious! The slightest touch will cause it to spre
 
 Riff: *[groans and takes the device attached to the laser emitter]* Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
 
-WarpMan: No, you don't understand! It's meant to destroy them from the inside!
+WarpMan Angry: No, you don't understand! It's meant to destroy them from the inside!
 
 Riff: Uh huh. Yeah. Sure. *[hands the device to Lento]* Pull!
 
 %Lento throws Warp Man's device into the air and Riff unloads his gun at it, leaving nothing but a smoking pile of scrap.
 
-WarpMan: Nooo! What have you done?! My perfect anti-Mercenary machine... ruined!
+WarpMan Shocked: Nooo! What have you done?! My perfect anti-Mercenary machine... ruined!
 
 Riff: Right... Do us a favor and do something more productive with your time. Perhaps build something that'll really help us instead of some pretend weapons. *[turns on his heel and leaves with the other non-Warp Man members of the Five, leaving Warp Man to sulk over his new scrap pile]*
 
@@ -728,7 +726,7 @@ The bored Mercenaries: We are bored... Resistance is futile. You will be assimil
 
 Hunter Sad: Nice knowing you, man...
 
-Iga: Here's hoping our insanity will be fun...
+Iga Sad: Here's hoping our insanity will be fun...
 
 The bored Mercenaries: We are bored... Resistance is... *[stops]*
 
@@ -740,7 +738,7 @@ Shinobu: What happened...?
 
 Hunter Happy: Guys!
 
-Iga: You back with us?
+Iga Happy: You back with us?
 
 Kayorei: We were gone?
 

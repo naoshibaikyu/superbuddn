@@ -255,6 +255,7 @@ function getJsonData() {
 			"sad",
 			"damaged",
 			"relieved",
+			"hurt",
 			"glad"
 		]
 	});
