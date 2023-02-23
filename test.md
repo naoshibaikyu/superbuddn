@@ -72,7 +72,7 @@ Kayorei: To each his own. Am I even supposed to be talking to you?
 
 Hunter Annoyed: No, we're not.
 
-%Fine. *[grumble]*
+%Fine. **[grumble]**
 
 Fallingstar: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
 
@@ -104,7 +104,7 @@ CrewJoe: If you say so.
 
 SniperJoe: Your coffee, sir.
 
-Wily: Meh. *[takes the coffee]* I'm busy. Go away.
+Wily: Meh. **[takes the coffee]** I'm busy. Go away.
 
 SniperJoe: Yes sir.
 
@@ -116,17 +116,17 @@ Wily: CURSES!
 
 %In another sector of the fortress, a bright beam of light lances from the ceiling and into the sky. A figure in the darkened room laughs maniacally.
 
-Riff: *[flicks the light switch]* Warp Man... what are you doing...?
+Riff: **[flicks the light switch]** Warp Man... what are you doing...?
 
 Warpman Angry: Hey! I'm trying to have an evil moment here!
 
 %Warp Man quickly stomps over to the light switch and turns it off, then continues his maniacal laughter.
 
-Riff: Oy... *rolls his eyes and closes the door*
+Riff: Oy... **[rolls his eyes and closes the door]**
 
 %Back at the Marauder, the Mercs continued their game... When suddenly...
 
-%*BZZT!*
+%**BZZT!**
 
 %The power blinked off and on. The TV screen showed a little cube forming a logo before moving to the intro of the game they were playing.*
 
@@ -148,7 +148,7 @@ Shinobu: Okay.
 
 Hunter: Something wrong?
 
-Kayorei: *[staring blankly]* Ever have one of those times when you want to do something but nothing ever seems appealing?
+Kayorei: **[staring blankly]** Ever have one of those times when you want to do something but nothing ever seems appealing?
 
 Hunter: Maybe.
 
@@ -190,7 +190,7 @@ Hunter Annoyed: Okay, okay. Never mind.
 
 %And so the battle raged. Many punches, kicks, fireballs, sword swings, and Pokeball throwings later...
 
-%***Announcer:*** *This game's winner is... Samus!*
+%Announcer: **[This game's winner is... Samus!]**
 
 %A crew Joe walks in.
 
@@ -234,7 +234,7 @@ Kayorei: Computer, any new missions yet?
 
 Computer: Negative.
 
-Kayorei: Crags. *[spots Naoshi]* Oh, I was just checking to see if anyone had anything for us to do.
+Kayorei: Crags. **[spots Naoshi]** Oh, I was just checking to see if anyone had anything for us to do.
 
 CrewJoe: She has been repeatedly asking the same question to the computer roughly every fifteen seconds for the past ten minutes.
 
@@ -242,11 +242,11 @@ Naoshi Annoyed: ... You really are bored, aren't you?
 
 Kayorei Happy: Too much so. Hey, why don't you ask the computer if there's anything new? Maybe you'll get a different response.
 
-Naoshi Annoyed: *[gives Kayorei an odd look]* No, I don't think so.
+Naoshi Annoyed: **[gives Kayorei an odd look]** No, I don't think so.
 
-Kayorei: Oh, come on! *[grabs Naoshi by the shoulders and pulls him in front of the computer]* Ask!
+Kayorei: Oh, come on! **[grabs Naoshi by the shoulders and pulls him in front of the computer]** Ask!
 
-Naoshi Annoyed: Whoa, fine, fine... *takes a deep breath* Computer, are there any new missions for us?
+Naoshi Annoyed: Whoa, fine, fine... **[takes a deep breath]** Computer, are there any new missions for us?
 
 Computer: Negative.
 
@@ -278,7 +278,7 @@ Hunter Annoyed: Okay...
 
 %Naoshi leaves and the remaining Mercs finish their race.
 
-Stardust: *[stands]* Hey, while we're at a stopping point, I'm gonna get some popcorn started.
+Stardust: **[stands]** Hey, while we're at a stopping point, I'm gonna get some popcorn started.
 
 Iga: Sounds good.
 
@@ -300,7 +300,7 @@ Naoshi Happy: Popcorn, is it?
 
 Naoshi Glad: Popcorn.
 
-Kayorei Happy: *[nods]* Yah-hmm.
+Kayorei Happy: **[nods]** Yah-hmm.
 
 %With a flourish, Kayorei sweeps a package of popcorn out of its wrapper and puts it in the microwave, rhythmically pushing the buttons to get Stardust's snack prepared, then disappears into the pantry, all to the bewilderment of the porcine Mercenary.
 
@@ -312,9 +312,9 @@ Stardust: I thought it was Order King.
 
 Naoshi: Same difference.
 
-%*BEEP! BEEP! BEEEEEEEP!*
+%***BEEP! BEEP! BEEEEEEEP!***
 
-Naoshi Glad: And that would be your popcorn. *[fetches the popcorn]* Your total comes to... *[pokes the desk a few times]* fourteen fragmars.
+Naoshi Glad: And that would be your popcorn. **[fetches the popcorn]** Your total comes to... **[pokes the desk a few times]** fourteen fragmars.
 
 Stardust: What...?
 
@@ -324,17 +324,17 @@ Stardust: This is getting old, Naoshi. Just let me get my popcorn.
 
 Naoshi Annoyed: Fourteen fragmars.
 
-Stardust: *[grumbles under his breath]* Don't even know what the heck a fragmar is... *spots a string on the floor and picks it up* Here.
+Stardust: **[grumbles under his breath]** Don't even know what the heck a fragmar is... **[spots a string on the floor and picks it up]** Here.
 
-Naoshi Glad: *[takes the string and grimaces a bit]* Hoo... Kay! Change for a fifty!
+Naoshi Glad: **[takes the string and grimaces a bit]** Hoo... Kay! Change for a fifty!
 
 %Kayorei topples clumsily out of the pantry and falls in front of Naoshi, a paper clip in her outstretched hand.
 
-Naoshi Happy: *[takes the paper clip]* Thank you.
+Naoshi Happy: **[takes the paper clip]** Thank you.
 
-Kayorei Happy: *[hops up and salutes]* Yah-hm.
+Kayorei Happy: **[hops up and salutes]** Yah-hm.
 
-Naoshi Glad: *[hands Stardust the popcorn and the paper clip, then shakes his hand]* Good doing business with you, sir.
+Naoshi Glad: **[hands Stardust the popcorn and the paper clip, then shakes his hand]** Good doing business with you, sir.
 
 Stardust: Riiight...
 
@@ -346,7 +346,7 @@ Stardust: Naoshi. He blocked off the kitchen and turned it into some kind of fas
 
 Hunter Annoyed: Do what...?
 
-Stardust: *[puts the popcorn on the table]* Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
+Stardust: **[puts the popcorn on the table]** Just what I said. Kayorei was in there, too, going along with the whole thing. I had to pay fourteen frag-somethings for this popcorn. Apparently a string is good for fifty.
 
 Iga Annoyed: Really weird.
 
@@ -364,25 +364,25 @@ Hunter Annoyed: Don't tell me. Bored, too.
 
 Stardust: Um...
 
-Hunter Annoyed: *[puts down his controller]* Something's wrong here... *starts pacing around the room, eyes at the floor* Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
+Hunter Annoyed: **[puts down his controller]** Something's wrong here... **[starts pacing around the room, eyes at the floor]** Kayorei says she's bored, then she starts acting weird. Naoshi leaves to see what Kayorei's up to, then returns bored... and starts acting weird himself. Now Stardust...
 
 Shinobu: Who has just left.
 
-Hunter Shocked: Wha? *[looks up]* Gah!
+Hunter Shocked: Wha? **[looks up]** Gah!
 
 %Meanwhile, somewhere in the elsewhere...
 
 %Warp Man scurries around his darkened lair, flicking switches and giggling like a lunatic.
 
-Warpman: Ooh, hoo, hoo...! This one's going to be perfect! *turns some dials on a device in the middle of the room* Whee hee hee!
+Warpman: Ooh, hoo, hoo...! This one's going to be perfect! **[turns some dials on a device in the middle of the room]** Whee hee hee!
 
 %The door to the room opens and the lights turn on, shifting Warp Man's mood from giddy to startled to infuriated as he whirls to face the intruder.
 
 Lento: Unit wants to know what Warp Man is giggling about.
 
-Warpman Angry: You! Out! I don't giggle! Out! *throws a wrench at Lento*
+Warpman Angry: You! Out! I don't giggle! Out! **[throws a wrench at Lento]**
 
-Lento: *closes the door* Strange.
+Lento: **[closes the door]** Strange.
 
 Staccato: What has Warp Man been up to, anyway?
 
@@ -390,7 +390,7 @@ Lento: Unit does not know.
 
 %The two glance at the floor under the door where green flashes of light peek out from beneath.
 
-Warpman Angry: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! *grumblemutters* Can't aim with the frakkin' lights on...
+Warpman Angry: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! **[grumblemutters]** Can't aim with the frakkin' lights on...
 
 %Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.
 
@@ -426,7 +426,7 @@ Stardust: Hey, come back here! I need those for... stuff!
 
 Naoshi Happy: You'll never catch me!
 
-Stardust: Wanna bet, you little-- *[trips on the Joe]* Whoa! *[rolls across the floor and stops on top of Naoshi, crushing him.]*
+Stardust: Wanna bet, you little-- **[trips on the Joe]** Whoa! **[rolls across the floor and stops on top of Naoshi, crushing him.]**
 
 Naoshi Hurt: Ouchies.
 
@@ -448,7 +448,7 @@ Naoshi Annoyed: Jerks... Owieowie.
 
 %Anyway. In the computer room...
 
-Iga: *typing* Okay... now to have a look at the cameras.
+Iga: **[typing]** Okay... now to have a look at the cameras.
 
 %The monitor in front of them flickers, then changes to a gridded format, all but a few of the cells showing static.
 
@@ -458,7 +458,7 @@ Shinobu: Looks like either something's jamming the signal or someone's trashed t
 
 Iga Annoyed: So much for that plan.
 
-Hunter Annoyed: *[mutters]* This just keeps getting better...
+Hunter Annoyed: **[mutters]** This just keeps getting better...
 
 Fallingstar: So now what?
 
@@ -476,19 +476,19 @@ Hunter: Okay, then. Be careful.
 
 Shinobu: Well, I'm sure we already know where Stardust and Naoshi are. Now which of is is going to watch --
 
-Fallingstar: NOT IT! *[runs]*
+Fallingstar: NOT IT! **[runs]**
 
 Shinobu: ...
 
 %In the hallway, a struggle of epic proportions is taking place...
 
-Naoshi: *[stares at cards in his hand]* Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
+Naoshi: **[stares at cards in his hand]** Hm... Red ace on black queen, then I tap out and cast Fireball. Your move.
 
 Stardust: Ohh, you're good... but do you have any fives?
 
-Naoshi Shocked: *[recoils in shock]* Gah, you sunk my battleship!
+Naoshi Shocked: **[recoils in shock]** Gah, you sunk my battleship!
 
-Shinobu: *[walks up to the "game"]* Uh... What's going on here?
+Shinobu: **[walks up to the "game"]** Uh... What's going on here?
 
 Naoshi Happy: We've decided to settle this dispute over a game of cards. Should I deal you in?
 
@@ -496,37 +496,37 @@ Shinobu: Um... I thought you got flattened.
 
 Naoshi Happy: I got better.
 
-Shinobu: You're still wearing... those. *[points to the underwear on Naoshi's head]*
+Shinobu: You're still wearing... those. **[points to the underwear on Naoshi's head]**
 
 Stardust: I had to go through great peril to get those! I WILL win them back!
 
 Naoshi Glad: Great peril, yes. Many dangers for this treasure. And it's rightfully mine!
 
-Stardust: *[stands up]* Oh yeah?!
+Stardust: **[stands up]** Oh yeah?!
 
-Shinobu: *[eases Stardust back into a sitting position]* Hey, hey, cool it. You've... still got your game.
+Shinobu: **[eases Stardust back into a sitting position]** Hey, hey, cool it. You've... still got your game.
 
-Naoshi Glad: *[sticks his tongue out at Stardust]* Nyaaahh...
+Naoshi Glad: **[sticks his tongue out at Stardust]** Nyaaahh...
 
 Shinobu: .oO(Geez, what's with these guys...?)
 
 %Back with Falling star...
 
-Fallingstar: *[mumbles]* Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? *hesitates for a moment* Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
+Fallingstar: **[mumbles]** Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? **[hesitates for a moment]** Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
 
 Unknown: Someone out there...?
 
-Fallingstar: *looks around* Wha?
+Fallingstar: **[looks around]** Wha?
 
 %A door in the hallway opens and Kayorei pokes her head out of it, then urgently waves at Falling star.
 
-Kayorei: *[whispers]* Falling star! Over here, quick!
+Kayorei: **[whispers]** Falling star! Over here, quick!
 
 Fallingstar: What's going on?
 
 Kayorei: Just come on! They'll spot you!
 
-Fallingstar: Uh... Okay. *[enters the room that Kayorei is hiding in]* Um... The bathroom.
+Fallingstar: Uh... Okay. **[enters the room that Kayorei is hiding in]** Um... The bathroom.
 
 Kayorei: It's the only place I can think of that isn't under constant watch.
 
@@ -556,13 +556,13 @@ Hunter: Let's see it. Hopefully this'll tell us what's causing this mess.
 
 %Iga presses a few buttons and the cells of the grid light up with videos.
 
-Iga Shocked: Okay... nothing unusual so far... Whoa, hold up... *[stares dumbfoundedly at one of the screens]* Holy crunchmuffins, what are those Joes DOING?
+Iga Shocked: Okay... nothing unusual so far... Whoa, hold up... **[stares dumbfoundedly at one of the screens]** Holy crunchmuffins, what are those Joes DOING?
 
-Hunter Shocked: *[also staring]* Guh... That's... That's just... wrong...
+Hunter Shocked: **[also staring]** Guh... That's... That's just... wrong...
 
-Iga Angry: *[turning off the offensive screen]* Moving on...!
+Iga Angry: **[turning off the offensive screen]** Moving on...!
 
-Hunter Shocked: *[shudders]* Y-yeah...
+Hunter Shocked: **[shudders]** Y-yeah...
 
 %A bit of screen-watching later...
 
@@ -570,7 +570,7 @@ Iga: There's the part where the power cut. No intruders, nothing weird happening
 
 Hunter: ... Let's keep looking. At least we might be able to find out some way to keep this stuff from spreading further than it already has.
 
-Iga: *[nods]* Yeah... Come to think of it, why weren't you affected? You saw Kayorei first and she was the first to come down with this.
+Iga: **[nods]** Yeah... Come to think of it, why weren't you affected? You saw Kayorei first and she was the first to come down with this.
 
 Hunter: That's what's been bugging me. ... Hey, speaking of which, there's where she was supposedly interrogating the computer when Naoshi went to check on her.
 
@@ -578,7 +578,7 @@ Iga: Hmm... ... Heh, and there's Naoshi's "fast food place".
 
 Hunter: Hrm... I just remembered, we were all in the same room as Stardust when he came back bored, but none of us were affected. There has to be a connection between Naoshi's and Stardust's cases...
 
-Iga: Wait a minute... *[watches the videos of the "incidents" again]* I think I may have found it... We have to warn Shinobu and Falling star!
+Iga: Wait a minute... **[watches the videos of the "incidents" again]** I think I may have found it... We have to warn Shinobu and Falling star!
 
 %Meanwhile, at the epic competition, which has been relocated to the lounge...
 
@@ -588,15 +588,15 @@ Naoshi: Guess you're right...
 
 Stardust: Yeah, yeah. It's still your move, Shinobu.
 
-Shinobu: Oh, right. *[stares at his cards]* Um... Seven over three... and two creatures face-down. That'll do it.
+Shinobu: Oh, right. **[stares at his cards]** Um... Seven over three... and two creatures face-down. That'll do it.
 
-Stardust: *[raises an eyebrow]* Hrm... I'm not doing anything this turn.
+Stardust: **[raises an eyebrow]** Hrm... I'm not doing anything this turn.
 
-Naoshi: Guess that makes it my... Hey, check it! Lights! *[points at the window where, sure enough, brilliant green streaks of light pass by, tracing a line back to the planet below]*
+Naoshi: Guess that makes it my... Hey, check it! Lights! **[points at the window where, sure enough, brilliant green streaks of light pass by, tracing a line back to the planet below]**
 
-Shinobu and Stardust: *[turning to look]* Ooooh!
+Shinobu and Stardust: **[turning to look]** Ooooh!
 
-Hunter: *[on Shinobu's radio]* Shinobu! What's your status over there?
+Hunter: **[on Shinobu's radio]** Shinobu! What's your status over there?
 
 Shinobu: I'm in the lounge checking out the pretty lights outside. You should see this!
 
@@ -624,13 +624,13 @@ Kayorei: Exactly! The Joes!
 
 Fallingstar: But you just said it was --
 
-Kayorei: *[grabs Falling star and starts shaking him]* That's who they are! IT'S A CONSPIRACY, I TELL YOU!
+Kayorei: **[grabs Falling star and starts shaking him]** That's who they are! IT'S A CONSPIRACY, I TELL YOU!
 
-Fallingstar: *[pushes Kayorei off]* Whoa, easy there, Kay!
+Fallingstar: **[pushes Kayorei off]** Whoa, easy there, Kay!
 
-Iga: *[on Falling star's radio]* Hey, Falling star! What's your status?
+Iga: **[on Falling star's radio]** Hey, Falling star! What's your status?
 
-Fallingstar: Hang on a moment, Kay. *[into the radio]* I just found Kayorei.
+Fallingstar: Hang on a moment, Kay. **[into the radio]** I just found Kayorei.
 
 Iga: Okay. Just be careful. Don't let her touch you!
 
@@ -640,15 +640,15 @@ Iga Annoyed: ... Mind out of the gutter.
 
 Fallingstar: That's not it. She... already. Yeah. Why? ... Iga?
 
-Kayorei: *[levels her weapon at Falling star]* You're in with them... I shot out all the cameras and they still found me... It's because of you!
+Kayorei: **[levels her weapon at Falling star]** You're in with them... I shot out all the cameras and they still found me... It's because of you!
 
 Fallingstar: Hey! Wait a second...!
 
 %A few minutes later...
 
-Kayorei: *[dusts her hands off and leaves the room]* That takes care of that.
+Kayorei: **[dusts her hands off and leaves the room]** That takes care of that.
 
-Fallingstar: *[bangs on the closet door]* Hey! Let me out of here!
+Fallingstar: **[bangs on the closet door]** Hey! Let me out of here!
 
 %Computer room...
 
@@ -668,15 +668,15 @@ Hunter Annoyed: All we can do. Just have to keep our guard up. Let's go.
 
 %The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.
 
-Shinobu: Hunter! You made it! Check it out! *[points at the window]*
+Shinobu: Hunter! You made it! Check it out! **[points at the window]**
 
-Hunter Shocked: *[walks to the window]* Um... Yeah. They're... very pretty lights.
+Hunter Shocked: **[walks to the window]** Um... Yeah. They're... very pretty lights.
 
 Naoshi Happy: Aren't they, though?
 
-Hunter Shocked: Think you can trace where it's coming from, Iga? ... Iga? *[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]* Uh oh...
+Hunter Shocked: Think you can trace where it's coming from, Iga? ... Iga? **[sees Iga extremely tense looking at the door, which Kayorei has just entered and locked behind her]** Uh oh...
 
-Kayorei: *[stares at Iga and Hunter]* We are bored... Resistance is futile. You will be assimilated.
+Kayorei: **[stares at Iga and Hunter]** We are bored... Resistance is futile. You will be assimilated.
 
 %The other Mercenaries turn their gazes to Hunter and Iga as well.
 
@@ -686,9 +686,9 @@ Iga Shocked: This... can't possibly end well.
 
 %(Ooh, suspense. But there's business back on the planet to attend to... where the Fatal Five, minus Warp Man, are assembled in front of Warp Man's hideaway.)
 
-Riff: *[bangs on the door to Warp Man's "lab"]* Warp Man!
+Riff: **[bangs on the door to Warp Man's "lab"]** Warp Man!
 
-WarpMan: Graah! *[throws open the door]* What did I tell you about -- Riff! Perfect timing!
+WarpMan: Graah! **[throws open the door]** What did I tell you about -- Riff! Perfect timing!
 
 Riff: What the hell are you doing now?
 
@@ -702,23 +702,23 @@ Riff: Okay, but what is it?
 
 WarpMan: This device holds a very special program. See, it's a virus. I transmit it through this laser here and... it amplifies its victim's boredom levels to the point that it drives him completely insane within minutes!
 
-Riff: ... A virus. A computer virus. That influences boredom. Transmitted through a LASER. *[rolls eyes]* It apparently works. You've infected yourself with it.
+Riff: ... A virus. A computer virus. That influences boredom. Transmitted through a LASER. **[rolls eyes]** It apparently works. You've infected yourself with it.
 
 Karasu: Oh God, it's not contagious, is it?
 
 WarpMan: Oh yes, it's very contagious! The slightest touch will cause it to spread!
 
-Riff: *[groans and takes the device attached to the laser emitter]* Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
+Riff: **[groans and takes the device attached to the laser emitter]** Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
 
 WarpMan Angry: No, you don't understand! It's meant to destroy them from the inside!
 
-Riff: Uh huh. Yeah. Sure. *[hands the device to Lento]* Pull!
+Riff: Uh huh. Yeah. Sure. **[hands the device to Lento]** Pull!
 
 %Lento throws Warp Man's device into the air and Riff unloads his gun at it, leaving nothing but a smoking pile of scrap.
 
 WarpMan Shocked: Nooo! What have you done?! My perfect anti-Mercenary machine... ruined!
 
-Riff: Right... Do us a favor and do something more productive with your time. Perhaps build something that'll really help us instead of some pretend weapons. *[turns on his heel and leaves with the other non-Warp Man members of the Five, leaving Warp Man to sulk over his new scrap pile]*
+Riff: Right... Do us a favor and do something more productive with your time. Perhaps build something that'll really help us instead of some pretend weapons. **[turns on his heel and leaves with the other non-Warp Man members of the Five, leaving Warp Man to sulk over his new scrap pile]**
 
 %Back on the Marauder, the remaining sane Mercenaries are backed into a corner...
 
@@ -728,9 +728,9 @@ Hunter Sad: Nice knowing you, man...
 
 Iga Sad: Here's hoping our insanity will be fun...
 
-The bored Mercenaries: We are bored... Resistance is... *[stops]*
+The bored Mercenaries: We are bored... Resistance is... **[stops]**
 
-Naoshi Shocked: *[blinks]* Huh...? What's going...? Ow, man, my head...
+Naoshi Shocked: **[blinks]** Huh...? What's going...? Ow, man, my head...
 
 Stardust: I remember shooting Falling star with a paper clip, but it's all kinda hazy from there...
 
