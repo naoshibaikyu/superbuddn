@@ -709,7 +709,7 @@ WarpMan: Oh yes, it's very contagious! The slightest touch will cause it to spre
 
 Riff: *[groans and takes the device attached to the laser emitter]* Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
 
-Warp Man: No, you don't understand! It's meant to destroy them from the inside!
+WarpMan: No, you don't understand! It's meant to destroy them from the inside!
 
 Riff: Uh huh. Yeah. Sure. *[hands the device to Lento]* Pull!
 
