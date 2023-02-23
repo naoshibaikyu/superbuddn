@@ -1,7 +1,7 @@
 <head>
 <style>
 body  {
-  background-image: url("");
+  background-image: url("https://7mercs.pro/images/starrybg.PNG");
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #FDB;
