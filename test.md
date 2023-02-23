@@ -2,10 +2,7 @@
 <style>
 body  {
   background-image: url("https://7mercs.pro/images/starrybg.PNG");
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   color: #FDB;
-  background: #100410;
 	}
   
 .dialogue img {
