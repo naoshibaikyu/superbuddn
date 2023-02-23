@@ -1,4 +1,4 @@
-wtf...
+
 <head>
 <style>
 body  {
@@ -61,6 +61,8 @@ EpStart
 @AUTHOR: By Kayorei
 
 <!-- Epilogue -->
+
+%If you see this immediately after the push, you won!
 
 %It's another... some point in time for the Mercs. Day and night don't exist in orbit. From their vantage point, it's sunrise in India, so we'll go with that. Anyway. The Mercs. They're doing stuff. On the Marauder. In orbit.
 
