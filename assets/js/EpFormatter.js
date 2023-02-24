@@ -242,7 +242,27 @@ function getJsonData() {
 			"staccato": {
 				"displayName": "Staccato",
 				"imagePathPrefix": "fatalfive/staccato"
-			},			
+			},
+			"warpman": {
+				"displayName": "Warp Man",
+				"imagePathPrefix": "fatalfive/warpman"
+			},
+			"sniper": {
+				"displayName": "Sniper",
+				"imagePathPrefix": "fatalfive/sniper"
+			},
+			"armored": {
+				"displayName": "Armored",
+				"imagePathPrefix": "fatalfive/armored"
+			},
+			"raven": {
+				"displayName": "Raven",
+				"imagePathPrefix": "fatalfive/raven"
+			},
+			"knight": {
+				"displayName": "Knight",
+				"imagePathPrefix": "fatalfive/knight"
+			},				
 
 //Mega Man Characters
 			"wily": {
@@ -278,14 +298,7 @@ function getJsonData() {
 			"damaged",
 			"relieved",
 			"hurt",
-			"glad",
-//Characters as Mysterious Figures
-			"kay",
-			"rif",
-			"warp",
-			"lent",
-			"stac",
-			"kara"
+			"glad"
 		]
 	});
 }
