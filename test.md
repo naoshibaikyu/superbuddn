@@ -88,7 +88,7 @@ Kayorei: I have no idea... Better not to think on it. You guys can have your Sma
 
 Iga Glad: Yay!
 
-Shinobu: Why do we only have one TV here for seven, anyway?
+Shinobu Annoyed: Why do we only have one TV here for seven, anyway?
 
 Hunter Happy: Who knows? Hey, I call green!
 
@@ -132,7 +132,7 @@ Riff: Oy... **[rolls his eyes and closes the door]**
 
 Hunter Shocked: Aww!
 
-Shinobu: What was that?
+Shinobu Angry: What was that?
 
 Naoshi Happy: Divine intervention.
 
@@ -340,7 +340,7 @@ Stardust: Riiight...
 
 %Stardust returns to the lounge, glancing back over his shoulder as he goes and shaking his head in disbelief at what he had to go through just for some popcorn.
 
-Shinobu: Hey, what kept you?
+Shinobu Annoyed: Hey, what kept you?
 
 Stardust: Naoshi. He blocked off the kitchen and turned it into some kind of fast food joint or something.
 
@@ -436,7 +436,7 @@ Hunter Annoyed: All the more reason for us to get a move on.
 
 Fallingstar: Weren't those Kayorei's...?
 
-Shinobu: ... How would you know?
+Shinobu Annoyed: ... How would you know?
 
 Fallingstar: Uhh... Let's just go, we're wasting time.
 
@@ -488,15 +488,15 @@ Stardust: Ohh, you're good... but do you have any fives?
 
 Naoshi Shocked: **[recoils in shock]** Gah, you sunk my battleship!
 
-Shinobu: **[walks up to the "game"]** Uh... What's going on here?
+Shinobu Annoyed: **[walks up to the "game"]** Uh... What's going on here?
 
 Naoshi Happy: We've decided to settle this dispute over a game of cards. Should I deal you in?
 
-Shinobu: Um... I thought you got flattened.
+Shinobu Annoyed: Um... I thought you got flattened.
 
 Naoshi Happy: I got better.
 
-Shinobu: You're still wearing... those. **[points to the underwear on Naoshi's head]**
+Shinobu Annoyed: You're still wearing... those. **[points to the underwear on Naoshi's head]**
 
 Stardust: I had to go through great peril to get those! I WILL win them back!
 
@@ -504,11 +504,11 @@ Naoshi Glad: Great peril, yes. Many dangers for this treasure. And it's rightful
 
 Stardust: **[stands up]** Oh yeah?!
 
-Shinobu: **[eases Stardust back into a sitting position]** Hey, hey, cool it. You've... still got your game.
+Shinobu Shocked: **[eases Stardust back into a sitting position]** Hey, hey, cool it. You've... still got your game.
 
 Naoshi Glad: **[sticks his tongue out at Stardust]** Nyaaahh...
 
-Shinobu: .oO(Geez, what's with these guys...?)
+Shinobu Annoyed: .oO(Geez, what's with these guys...?)
 
 %Back with Falling star...
 
@@ -582,7 +582,7 @@ Iga: Wait a minute... **[watches the videos of the "incidents" again]** I think 
 
 %Meanwhile, at the epic competition, which has been relocated to the lounge...
 
-Shinobu: See? Wasn't it a good idea to get out of the hallway? Now you don't have to worry about being mashed!
+Shinobu Happy: See? Wasn't it a good idea to get out of the hallway? Now you don't have to worry about being mashed!
 
 Naoshi: Guess you're right...
 
@@ -598,11 +598,11 @@ Shinobu and Stardust: **[turning to look]** Ooooh!
 
 Hunter: **[on Shinobu's radio]** Shinobu! What's your status over there?
 
-Shinobu: I'm in the lounge checking out the pretty lights outside. You should see this!
+Shinobu Happy: I'm in the lounge checking out the pretty lights outside. You should see this!
 
 Hunter Shocked: Wha...? Were you...?
 
-Shinobu: Been playing cards with the guys.
+Shinobu Happy: Been playing cards with the guys.
 
 Hunter: Okay... Whatever you do, don't let them--
 
@@ -610,7 +610,7 @@ Shinobu: Whoops, sorry. Out of time. Call you back later.
 
 Stardust: Who was that?
 
-Shinobu: No one important. Whose move was it again?
+Shinobu Happy: No one important. Whose move was it again?
 
 %In the bathroom...
 
@@ -668,7 +668,7 @@ Hunter Annoyed: All we can do. Just have to keep our guard up. Let's go.
 
 %The two make their way uneventfully to the lounge where Shinobu, Naoshi, and Stardust await them.
 
-Shinobu: Hunter! You made it! Check it out! **[points at the window]**
+Shinobu Happy: Hunter! You made it! Check it out! **[points at the window]**
 
 Hunter Shocked: **[walks to the window]** Um... Yeah. They're... very pretty lights.
 
