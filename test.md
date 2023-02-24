@@ -418,13 +418,13 @@ Fallingstar: Well, let's go then. Time's a-wasting.
 
 %The Mercs nod, then head to the door, only to see Naoshi with a pair of underwear on his head running across the hallway full speed away from Stardust.
 
-Naoshi Happy: WHEEEEEEEEEE!!!
+Naoshi Glad: WHEEEEEEEEEE!!!
 
 Stardust: Hey, come back here! I need those for... stuff!
 
 %Naoshi knocks down a crew Joe to block the path.
 
-Naoshi Happy: You'll never catch me!
+Naoshi Glad: You'll never catch me!
 
 Stardust: Wanna bet, you little-- **[trips on the Joe]** Whoa! **[rolls across the floor and stops on top of Naoshi, crushing him.]**
 
