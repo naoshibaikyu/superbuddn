@@ -118,7 +118,7 @@ Wily: CURSES!
 
 Riff: **[flicks the light switch]** Warp Man... what are you doing...?
 
-Warpman Angry: Hey! I'm trying to have an evil moment here!
+WarpMan Annoyed: Hey! I'm trying to have an evil moment here!
 
 %Warp Man quickly stomps over to the light switch and turns it off, then continues his maniacal laughter.
 
@@ -380,7 +380,7 @@ Warpman: Ooh, hoo, hoo...! This one's going to be perfect! **[turns some dials o
 
 Lento: Unit wants to know what Warp Man is giggling about.
 
-Warpman Angry: You! Out! I don't giggle! Out! **[throws a wrench at Lento]**
+WarpMan Annoyed: You! Out! I don't giggle! Out! **[throws a wrench at Lento]**
 
 Lento: **[closes the door]** Strange.
 
@@ -390,15 +390,15 @@ Lento: Unit does not know.
 
 %The two glance at the floor under the door where green flashes of light peek out from beneath.
 
-Warpman Angry: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! **[grumblemutters]** Can't aim with the frakkin' lights on...
+WarpMan Annoyed: Gah! LIGHTS! Lento, you blockhead, you forgot the LIGHTS! **[grumblemutters]** Can't aim with the frakkin' lights on...
 
 %Lento opens the door to turn the lights in Warp Man's "lab" back off, only to be greeted by a pair of wire clippers, a soldering iron, and about three more wrenches of varying sizes.
 
-Warpman Angry: I thought I told you to stay out!
+WarpMan Annoyed: I thought I told you to stay out!
 
 Lento: But...
 
-Warpman Angry: I SAID STAY OUT!
+WarpMan Angry: I SAID STAY OUT!
 
 %Not wanting any more tools being launched in his general direction, Lento closes the door again.
 
@@ -710,7 +710,7 @@ WarpMan: Oh yes, it's very contagious! The slightest touch will cause it to spre
 
 Riff: **[groans and takes the device attached to the laser emitter]** Warp Man... If you're going to be shooting lasers at the Mercenaries, at least make said lasers able to do some damage, not give the world a light show.
 
-WarpMan Angry: No, you don't understand! It's meant to destroy them from the inside!
+WarpMan Annoyed: No, you don't understand! It's meant to destroy them from the inside!
 
 Riff: Uh huh. Yeah. Sure. **[hands the device to Lento]** Pull!
 
