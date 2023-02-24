@@ -262,7 +262,7 @@ function getJsonData() {
 //Misc
 			"unknown": {
 				"displayName": "???",
-				"imagePathPrefix": "anonymous"
+				"imagePathPrefix": "unknown/anonymous"
 			}
 			
 			
@@ -278,7 +278,14 @@ function getJsonData() {
 			"damaged",
 			"relieved",
 			"hurt",
-			"glad"
+			"glad",
+//Characters as Mysterious Figures
+			"kay",
+			"rif",
+			"warp",
+			"lent",
+			"stac",
+			"kara"
 		]
 	});
 }
