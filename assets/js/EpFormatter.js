@@ -206,7 +206,7 @@ function getJsonData() {
 			
 			"1-GA": {
 				"displayName": "1-GA",
-				"imagePathPrefix": "7mercs/humanform/1-GA"
+				"imagePathPrefix": "7mercs/humanform/iga"
 			},
 
 //Fatal Five
