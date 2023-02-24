@@ -204,6 +204,19 @@ function getJsonData() {
 				"imagePathPrefix": "7mercs/humanform/naoshi"
 			},
 			
+			"humanhunter": {
+				"displayName": "Hunter",
+				"imagePathPrefix": "7mercs/humanform/hunter"
+			},
+			"humanshinobu": {
+				"displayName": "Shinobu",
+				"imagePathPrefix": "7mercs/humanform/shinobu"
+			},
+			"humankayorei": {
+				"displayName": "Kayorei",
+				"imagePathPrefix": "7mercs/humanform/kayorei"
+			},
+			
 			"1ga": {
 				"displayName": "1-GA",
 				"imagePathPrefix": "7mercs/humanform/iga"
