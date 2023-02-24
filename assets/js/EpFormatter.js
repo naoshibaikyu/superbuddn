@@ -204,7 +204,7 @@ function getJsonData() {
 				"imagePathPrefix": "7mercs/humanform/naoshi"
 			},
 			
-			"1GA": {
+			"1ga": {
 				"displayName": "1-GA",
 				"imagePathPrefix": "7mercs/humanform/iga"
 			},
