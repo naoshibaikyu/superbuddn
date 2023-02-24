@@ -243,9 +243,9 @@ function getJsonData() {
 				"displayName": "Staccato",
 				"imagePathPrefix": "fatalfive/staccato"
 			},
-			"warpman": {
-				"displayName": "Warp Man",
-				"imagePathPrefix": "fatalfive/warpman"
+			"bigarm": {
+				"displayName": "Big Arm",
+				"imagePathPrefix": "fatalfive/bigarm"
 			},
 			"sniper": {
 				"displayName": "Sniper",
