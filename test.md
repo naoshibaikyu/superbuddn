@@ -24,7 +24,7 @@ Hunter Annoyed: No, we're not.
 
 %Fine. **[grumble]**
 
-Fallingstar: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
+Fallingstar Happy: Okay, that has to be the craziest thing I've ever seen. Who would have thought a Joe could dance?
 
 Iga Happy: Go, 109, go!
 
@@ -220,7 +220,7 @@ Hunter: Why do you ask? You're not getting "bored" too, are you?
 
 Naoshi Shocked: No! Well, maybe a little.
 
-Fallingstar: I'll let you take my spot after this race if you want.
+Fallingstar Happy: I'll let you take my spot after this race if you want.
 
 Naoshi Annoyed: Nah. I'm not really up for Mario Kart. I'll find something.
 
@@ -304,7 +304,7 @@ Iga Annoyed: Really weird.
 
 %*TWANG!*
 
-Fallingstar: Ow! What was that?!
+Fallingstar Angry: Ow! What was that?!
 
 Stardust: Nothing!
 
@@ -384,13 +384,13 @@ Iga Angry: ...
 
 Hunter Annoyed: All the more reason for us to get a move on.
 
-Fallingstar: Weren't those Kayorei's...?
+Fallingstar Annoyed: Weren't those Kayorei's...?
 
 Shinobu Annoyed: ... How would you know?
 
 Fallingstar: Uhh... Let's just go, we're wasting time.
 
-Hunter: Riiight...
+Hunter Annoyed: Riiight...
 
 %And so the four hurry on to the main computer room. Yeah, they kinda just... left Naoshi as is.
 
@@ -426,7 +426,7 @@ Hunter: Okay, then. Be careful.
 
 Shinobu: Well, I'm sure we already know where Stardust and Naoshi are. Now which of is is going to watch --
 
-Fallingstar: NOT IT! **[runs]**
+Fallingstar Glad: NOT IT! **[runs]**
 
 Shinobu: ...
 
@@ -462,11 +462,11 @@ Shinobu Annoyed: .oO(Geez, what's with these guys...?)
 
 %Back with Falling star...
 
-Fallingstar: **[mumbles]** Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? **[hesitates for a moment]** Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
+Fallingstar Annoyed: **[mumbles]** Man, I don't care what anyone says... I am NOT about to get caught handling a girl's underwear. Now... if I were an insanely bored chick, where would I go...? **[hesitates for a moment]** Ah, skew it. Hey, Kay! Where'd you go and disappear to this time?!
 
 Unknown: Someone out there...?
 
-Fallingstar: **[looks around]** Wha?
+Fallingstar Shocked: **[looks around]** Wha?
 
 %A door in the hallway opens and Kayorei pokes her head out of it, then urgently waves at Falling star.
 
@@ -476,7 +476,7 @@ Fallingstar: What's going on?
 
 Kayorei: Just come on! They'll spot you!
 
-Fallingstar: Uh... Okay. **[enters the room that Kayorei is hiding in]** Um... The bathroom.
+Fallingstar Annoyed: Uh... Okay. **[enters the room that Kayorei is hiding in]** Um... The bathroom.
 
 Kayorei: It's the only place I can think of that isn't under constant watch.
 
@@ -484,7 +484,7 @@ Fallingstar: I would hope so. What's going on, anyway?
 
 Kayorei: It's... them. They've come for us.
 
-Fallingstar: Who?
+Fallingstar Annoyed: Who?
 
 Kayorei: I can't say it out loud... but I'll tell you what I know...
 
@@ -564,15 +564,15 @@ Shinobu Happy: No one important. Whose move was it again?
 
 %In the bathroom...
 
-Fallingstar: ... That has to be the most far-fetched thing I've ever heard. And out of you, that's saying a lot.
+Fallingstar Annoyed: ... That has to be the most far-fetched thing I've ever heard. And out of you, that's saying a lot.
 
 Kayorei: No one ever believes at first. But I tell you... I've seen them. They're here... on the ship.
 
-Fallingstar: Kay... It's just the seven of us and the Joes.
+Fallingstar Annoyed: Kay... It's just the seven of us and the Joes.
 
 Kayorei: Exactly! The Joes!
 
-Fallingstar: But you just said it was --
+Fallingstar Annoyed: But you just said it was --
 
 Kayorei: **[grabs Falling star and starts shaking him]** That's who they are! IT'S A CONSPIRACY, I TELL YOU!
 
@@ -584,7 +584,7 @@ Fallingstar: Hang on a moment, Kay. **[into the radio]** I just found Kayorei.
 
 Iga: Okay. Just be careful. Don't let her touch you!
 
-Fallingstar: Um...
+Fallingstar Annoyed: Um...
 
 Iga Annoyed: ... Mind out of the gutter.
 
@@ -592,7 +592,7 @@ Fallingstar: That's not it. She... already. Yeah. Why? ... Iga?
 
 Kayorei: **[levels her weapon at Falling star]** You're in with them... I shot out all the cameras and they still found me... It's because of you!
 
-Fallingstar: Hey! Wait a second...!
+Fallingstar Shocked: Hey! Wait a second...!
 
 %A few minutes later...
 
@@ -708,7 +708,7 @@ Shinobu: Heh. Hey, wait a sec... Where's Falling star?
 
 %(Back in the closet...)
 
-Fallingstar: Guys...? Guys! Can someone let me out of here? It smells like towels in here! Hey! I'm... I'm developing claustrophobia here...!
+Fallingstar Sad: Guys...? Guys! Can someone let me out of here? It smells like towels in here! Hey! I'm... I'm developing claustrophobia here...!
 
 %Well, all's well that ends well, as they say. Even if you have no idea what the heck just happened. Until next time, never underestimate the power of a mind that seeks entertainment!
 
