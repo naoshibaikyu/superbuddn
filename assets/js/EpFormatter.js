@@ -270,9 +270,18 @@ function getJsonData() {
 			},				
 
 //Mega Man Characters
+	//Team Wily
 			"wily": {
 				"displayName": "Dr. Wily",
 				"imagePathPrefix": "wilylabs/wily"
+			},
+			"bass": {
+				"displayName": "Bass",
+				"imagePathPrefix": "wilylabs/bass"
+			},
+			"treble": {
+				"displayName": "Treble",
+				"imagePathPrefix": "wilylabs/treble"
 			},
 //Sniper Joes
 			"crewjoe": {
