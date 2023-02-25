@@ -236,7 +236,7 @@ function getJsonData() {
 				"imagePathPrefix": "fatalfive/lento"
 			},
 			"karasu": {
-				"displayName": "Karasu",
+				"displayName": "Karasû",
 				"imagePathPrefix": "fatalfive/karasu"
 			},
 			"staccato": {
