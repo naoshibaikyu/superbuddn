@@ -216,6 +216,11 @@ function getJsonData() {
 				"displayName": "Kayorei",
 				"imagePathPrefix": "7mercs/humanform/kayorei"
 			},
+			"humanfallingstar": {
+				"displayName": "Falling Star",
+				"imagePathPrefix": "7mercs/humanform/fallingstar"
+			},
+			
 			
 			"1ga": {
 				"displayName": "1-GA",
