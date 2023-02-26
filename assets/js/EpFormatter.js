@@ -344,6 +344,10 @@ function getJsonData() {
 				"displayName": "Bubble Man",
 				"imagePathPrefix": "otherteams/mm2/bubble"
 			},
+			"whiz": {
+				"displayName": "Whiz",
+				"imagePathPrefix": "otherteams/mm2/whiz"
+			},
 
 //Misc
 			"unknown": {
