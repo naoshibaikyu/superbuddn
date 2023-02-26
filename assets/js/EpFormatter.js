@@ -282,6 +282,7 @@ function getJsonData() {
 			"protoman": {
 				"displayName": "Proto Man",
 				"imagePathPrefix": "lightlabs/protoman"
+			},
 	//Team Wily
 			"wily": {
 				"displayName": "Dr. Wily",
