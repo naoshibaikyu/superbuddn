@@ -270,6 +270,18 @@ function getJsonData() {
 			},				
 
 //Mega Man Characters
+	//Team Light
+			"light": {
+				"displayName": "Dr. Light",
+				"imagePathPrefix": "lightlabs/light"
+			},
+			"megaman": {
+				"displayName": "Mega Man",
+				"imagePathPrefix": "lightlabs/megaman"
+			},
+			"protoman": {
+				"displayName": "Proto Man",
+				"imagePathPrefix": "lightlabs/protoman"
 	//Team Wily
 			"wily": {
 				"displayName": "Dr. Wily",
