@@ -267,7 +267,11 @@ function getJsonData() {
 			"knight": {
 				"displayName": "Knight",
 				"imagePathPrefix": "fatalfive/knight"
-			},				
+			},	
+			"warpmanhead": {
+				"displayName": "Warp Man",
+				"imagePathPrefix": "fatalfive/warpmanhead"
+			},			
 
 //Mega Man Characters
 	//Team Light
