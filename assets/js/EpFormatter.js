@@ -310,6 +310,41 @@ function getJsonData() {
 				"imagePathPrefix": "genericbots/sniperjoe"
 			},	
 			
+//Other Teams
+	//Wily's Warriors
+			"quick": {
+				"displayName": "Quick Man",
+				"imagePathPrefix": "otherteams/mm2/quick"
+			},
+			"heat": {
+				"displayName": "Heat Man",
+				"imagePathPrefix": "otherteams/mm2/heat"
+			},
+			"air": {
+				"displayName": "Air Man",
+				"imagePathPrefix": "otherteams/mm2/air"
+			},
+			"crash": {
+				"displayName": "Crash Man",
+				"imagePathPrefix": "otherteams/mm2/crash"
+			},
+			"metal": {
+				"displayName": "Metal Man",
+				"imagePathPrefix": "otherteams/mm2/metal"
+			},
+			"wood": {
+				"displayName": "Wood Man",
+				"imagePathPrefix": "otherteams/mm2/wood"
+			},
+			"flash": {
+				"displayName": "Flash Man",
+				"imagePathPrefix": "otherteams/mm2/flash"
+			},
+			"bubble": {
+				"displayName": "Bubble Man",
+				"imagePathPrefix": "otherteams/mm2/bubble"
+			},
+
 //Misc
 			"unknown": {
 				"displayName": "???",
