@@ -35,6 +35,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 font-family: "GameBoy";
 src: url("../fonts/Early GameBoy.ttf");
 }
+
 .dialogue 
 {  
   margin: auto;
@@ -72,13 +73,14 @@ src: url("../fonts/Early GameBoy.ttf");
 { 
     color: #CDE;
     text-shadow: black -2px 1px;
-    font-family: 'Mega Man 9';
-    font-size: 75%;
+    font-family: 'GameBoy';
+    font-size: 16px;
     padding-left: 4px;
+	scale: 1.0;
     text-transform: uppercase;
     float: left;
     margin-left: -4px;
-    margin-top: 4px;
+    margin-top: 0px;
     word-break: break-word;
 }
 
