@@ -220,6 +220,10 @@ function getJsonData() {
 				"displayName": "Falling Star",
 				"imagePathPrefix": "7mercs/humanform/fallingstar"
 			},
+			"humanstardust": {
+				"displayName": "Stardust",
+				"imagePathPrefix": "7mercs/humanform/stardust"
+			},
 			
 			
 			"1ga": {
