@@ -168,32 +168,26 @@ function getJsonData() {
 				"displayName": "Enker",
 				"imagePathPrefix": "7mercs/enker"
 			},
-			
 			"hunter": {
 			"displayName": "Quint",
 			"imagePathPrefix": "7mercs/quint"
 			},
-			
 			"kayorei": {
 				"displayName": "Ballade",
 				"imagePathPrefix": "7mercs/ballade"
 			},
-			
 			"shinobu": {
 			"displayName": "Punk",
 			"imagePathPrefix": "7mercs/punk"
 			},
-
 			"iga": {
 				"displayName": "Buster Rod G.",
 				"imagePathPrefix": "7mercs/busterrod"
-			},
-			
+			},			
 			"fallingstar": {
 			"displayName": "Mega Water S.",
 			"imagePathPrefix": "7mercs/megawater"
-			},
-			
+			},			
 			"stardust": {
 			"displayName": "Hyper Storm H.",
 			"imagePathPrefix": "7mercs/hyperstorm"
@@ -202,8 +196,7 @@ function getJsonData() {
 			"humannaoshi": {
 				"displayName": "Naoshi",
 				"imagePathPrefix": "7mercs/humanform/naoshi"
-			},
-			
+			},			
 			"humanhunter": {
 				"displayName": "Hunter",
 				"imagePathPrefix": "7mercs/humanform/hunter"
@@ -223,9 +216,7 @@ function getJsonData() {
 			"humanstardust": {
 				"displayName": "Stardust",
 				"imagePathPrefix": "7mercs/humanform/stardust"
-			},
-			
-			
+			},			
 			"1ga": {
 				"displayName": "1-GA",
 				"imagePathPrefix": "7mercs/humanform/iga"
@@ -354,11 +345,14 @@ function getJsonData() {
 			},
 
 //Misc
+			"hasselhoff": {
+				"displayName": "David Hasslehoff",
+				"imagePathPrefix": "misc/hasselhoff"
+			},
 			"koolaid": {
 				"displayName": "Kool-Aid Man",
 				"imagePathPrefix": "misc/koolaid"
 			},
-			
 			"unknown": {
 				"displayName": "???",
 				"imagePathPrefix": "unknown/anonymous"
