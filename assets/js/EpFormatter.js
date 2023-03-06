@@ -343,7 +343,39 @@ function getJsonData() {
 				"displayName": "Whiz",
 				"imagePathPrefix": "otherteams/mm2/whiz"
 			},
-
+	//Drastic Measures
+			"turbo": {
+				"displayName": "Turbo Man",
+				"imagePathPrefix": "otherteams/mm7/turbo"
+			},
+			"spring": {
+				"displayName": "Spring Man",
+				"imagePathPrefix": "otherteams/mm7/spring"
+			},
+			"slash": {
+				"displayName": "Slash Man",
+				"imagePathPrefix": "otherteams/mm7/slash"
+			},
+			"burst": {
+				"displayName": "Burst Man",
+				"imagePathPrefix": "otherteams/mm7/burst"
+			},
+			"cloud": {
+				"displayName": "Cloud Man",
+				"imagePathPrefix": "otherteams/mm7/cloud"
+			},
+			"shade": {
+				"displayName": "Shade Man",
+				"imagePathPrefix": "otherteams/mm7/shade"
+			},
+			"frost": {
+				"displayName": "Frost Man",
+				"imagePathPrefix": "otherteams/mm7/frost"
+			},
+			"junk": {
+				"displayName": "Junk Man",
+				"imagePathPrefix": "otherteams/mm7/junk"
+			},
 //Misc
 			"hasselhoff": {
 				"displayName": "David Hasslehoff",
