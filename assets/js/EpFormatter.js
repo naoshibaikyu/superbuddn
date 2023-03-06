@@ -354,6 +354,11 @@ function getJsonData() {
 			},
 
 //Misc
+			"koolaid": {
+				"displayName": "Kool-Aid Man",
+				"imagePathPrefix": "misc/koolaid"
+			},
+			
 			"unknown": {
 				"displayName": "???",
 				"imagePathPrefix": "unknown/anonymous"
