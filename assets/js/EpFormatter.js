@@ -376,6 +376,16 @@ function getJsonData() {
 				"displayName": "Junk Man",
 				"imagePathPrefix": "otherteams/mm7/junk"
 			},
+			
+//Humans
+			"yai": {
+				"displayName": "Yai Ayanokoji",
+				"imagePathPrefix": "humans/yai"
+			},
+			"monk": {
+				"displayName": "Monk",
+				"imagePathPrefix": "humans/monk"
+			},
 //Misc
 			"hasselhoff": {
 				"displayName": "David Hasslehoff",
