@@ -386,6 +386,10 @@ function getJsonData() {
 				"displayName": "Monk",
 				"imagePathPrefix": "humans/monk"
 			},
+			"reporterchunli": {
+				"displayName": "News Reporter",
+				"imagePathPrefix": "humans/reporterA"
+			},
 //Misc
 			"hasselhoff": {
 				"displayName": "David Hasslehoff",
@@ -394,6 +398,14 @@ function getJsonData() {
 			"koolaid": {
 				"displayName": "Kool-Aid Man",
 				"imagePathPrefix": "misc/koolaid"
+			},
+			"kitt": {
+				"displayName": "KITT",
+				"imagePathPrefix": "misc/kitt"
+			},
+			"Selhoff": {
+				"displayName": "Mecha-Selhoff",
+				"imagePathPrefix": "misc/selhoff"
 			},
 			"unknown": {
 				"displayName": "???",
