@@ -192,6 +192,10 @@ function getJsonData() {
 			"displayName": "Hyper Storm H.",
 			"imagePathPrefix": "7mercs/hyperstorm"
 			},	
+			"magnus": {
+			"displayName": "Hyper Storm H.",
+			"imagePathPrefix": "7mercs/hyperstorm"
+			},	
 	//Human Form
 			"humannaoshi": {
 				"displayName": "Naoshi",
@@ -220,6 +224,10 @@ function getJsonData() {
 			"1ga": {
 				"displayName": "1-GA",
 				"imagePathPrefix": "7mercs/humanform/iga"
+			},
+			"HumanMagnus": {
+				"displayName": "Magnus",
+				"imagePathPrefix": "7mercs/humanform/magnus"
 			},
 
 //Fatal Five
