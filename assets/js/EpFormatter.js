@@ -418,14 +418,14 @@ function getJsonData() {
 		"emotes": [
 			"neutral",
 			"happy",
+			"glad",
 			"annoyed",
 			"angry",
-			"shocked",
 			"sad",
-			"damaged",
-			"relieved",
+			"shocked",
 			"hurt",
-			"glad"
+			"damaged",
+			"relieved"
 		]
 	});
 }
