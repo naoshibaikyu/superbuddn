@@ -1,14 +1,22 @@
+<h2>Epilogue Select</h2>
 
-EpStart
-
-Naoshi Happy: Select an epilogue!
-
-EpFin
+<h3>SEASON 1</h3>
+> |**#**|**Epilogue Name**|**Author**|**Original Date**|
+> |**1**|To Be Announced|Arrietty|20XX|
 
 <h2>Classic</h2>
 
+EpStart
+Kayorei: The initial works of the Seven Mercenaries, preserved for the sake of history and updated into the present-day presentation style. These remastered "Epilogues" are no longer a part of the Seven Mercenaries canon.
+EpFin
+
+EpStart
+Kayorei: The initial works of the Seven Mercenaries, preserved for the sake of history and updated into the present-day presentation style. These remastered "Epilogues" are no longer a part of the Seven Mercenaries canon.
+EpFin
+
 <h3>SEASON 1</h3>
 
+The season that started it all... obviously!
 
 > |**#**|**Epilogue Name**|**Author**|**Original Date**|
 > |**1**|[Seven Strangers, Seven Mercenaries](s1e1.html)|Hunter|03/17/07|
@@ -24,12 +32,19 @@ EpFin
 > |**11**|[Finale (Part 1)](s1e11.html)|Hunter|09/30/07|
 > |**12**|[Finale (Part 2)](s1e12.html)|Hunter|12/25/07|
 
+<h3>SEASON 2</h3>
 
+The adventure carries on!
 
-
-
-
-
+> |**#**|**Epilogue Name**|**Author**|**Original Date**|
+> |**0**|[Aftermath](s2e0.html)|Hunter|08/28/08|
+> |**1**|[New Beginnings (With A Revenge)](s2e1.html)|Hunter & Magnus|08/28/08|
+> |**2**|[The Clash of the Generations](s2e2.html)|Hunter|09/06/08|
+> |**3**|[Frogs Don't Make Good Contracts](s2e3.html)|Hunter|10/02/08|
+> |**4**|???|???|Unwritten|
+> |**5**|[Noooobody Expected That Story!](s2e5.html)|Hunter|03/08/10|
+> |**6**|[You Could Say, A Skin Problem?](s2e6.html)|Hunter|12/25/08|
+> |**7**|[Slow, Boring Day...?](s2e7.html)|Kayorei|08/08/10|
 
 
 
