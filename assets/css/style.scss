@@ -54,6 +54,12 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     color: #f0f0ff;
 }
 
+
+body  {
+  background-image: url("https://7mercs.pro/images/starrybg.PNG");
+  color: #E8E8F8;
+	}
+
 #topbar
 {
     background: #181868;
@@ -106,6 +112,13 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 {
     margin-top: 8px;
     margin-left: 3%;
+}
+
+#footer
+{
+    text-align: center;
+    font-size: 0.8em;
+    background: #181868;
 }
 
 #topbanner
@@ -185,13 +198,6 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     display: block;
     clear: both;
 }
-
-.navhead
-{
-    text-align: center;
-    clear: both;
-}
-
 
 
 /* Mobile Mode */
@@ -479,17 +485,8 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 
 
 
-body  {
-  background-image: url("https://7mercs.pro/images/starrybg.PNG");
-  color: #E0E0FF;
-	}
 	
-#footer
-{
-    text-align: center;
-    font-size: 0.8em;
-    background: #181868;
-}
+
 
 tr:hover { background-color: #181868; }
 
