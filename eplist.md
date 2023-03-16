@@ -39,9 +39,8 @@ The adventure carries on!
 > |**5**|[Noooobody Expected That Story!](s2e5.html)|Hunter|03/08/10|
 > |**6**|[You Could Say, A Skin Problem?](s2e6.html)|Hunter|12/25/08|
 > |**7**|[Slow, Boring Day...?](s2e7.html)|Kayorei|08/08/10|
-
-
-
+> |**X**|[Crossover Event - The Business of War](https://themechanicalmaniacs.com/stories/series6/War/)|The Mega Man Team Community| 2008|
+> |**8**|???|???|Unwritten|
 
 
 
