@@ -624,6 +624,98 @@ tr:hover { background-color: #123; }
     clear: both;
 }
 
+
+#main
+{
+    width: 98%;
+    max-width: 1200px;
+    min-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #00000A;
+    color: #f0f0ff;
+}
+
+
+
+@media only screen and (max-width: 767px)
+{
+    /* Hamburger Menu */
+    /*#dropbutton:hover*/ #navmenu, .menuitem, .drop
+    {
+        clear: both;
+        width: 130px;
+        position: relative;
+    }
+
+    .drop:hover .submenu, .submenu a
+    {
+        display: block;
+        position: relative;
+        top: 0px;
+    }
+}
+
+@media only screen and (min-width: 768px)
+{
+    /* Tablet Mode */
+    #navmenu, .menuitem, .drop
+    {
+        display: inline-block;
+        float: left;
+    }
+    
+    #mobilemenu
+    {
+        display: none;
+    }
+
+    #topbanner
+    {
+        height: 200px;
+        line-height: 200px;
+        background-size: 176px 70px, 200px 200px, 200px 200px;
+    }
+
+    #topbanner h1
+    {
+        font-size: 3vw;
+    }
+    
+    #teaser
+    {
+        float: right;
+        width: 30%;
+        min-width: 200px;
+    }
+}
+
+@media only screen and (min-width: 1500px)
+{
+    /* Desktop Mode */
+    body
+    {
+        background: #030303;
+        background-image: url("/files/resources/marauder-color.png"), url("/files/resources/starfield.png");
+        background-repeat: no-repeat, repeat;
+        background-position: 98% 95%, left top;
+        background-attachment: fixed, scroll;
+        background-size: 8%, auto;
+    }
+
+    #main
+    {
+        width: 70%;
+    }
+    
+    /* Homepage */
+    #teaser
+    {
+        float: right;
+        min-width: 400px;
+    }
+}
+
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
 // outline: solid;
