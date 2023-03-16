@@ -548,11 +548,65 @@ tr:hover { background-color: #123; }
 
 
 //Site Menu
+
+#topbar
+{
+    background: #181868;
+    background-image: url("https://nonnietestsite.cfw.me/files/resources/pixelgrade.png");
+    width: 100%;
+    height: 50px;
+    top: 0px;
+    position: -webkit-sticky;
+    position: sticky;
+}
+
+#content
+{
+    clear: both;
+    padding: 1%;
+}
+
+#mobilemenu
+{
+    float: left;
+    width: 5%;
+    min-width: 50px;
+    height: 50px;
+    font-size: 2em;
+    line-height: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#navmenu .menuitem
+{
+    background: #030303;
+    font-family: nes, monospace;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+    min-width: 130px;
+    border: 8px solid transparent;
+    box-shadow: 2px 2px #00000066;
+    display: inline-block;
+    font-size: 0.75rem;
+    margin-right: 5px;
+    border-image: url("https://nonnietestsite.cfw.me/files/resources/buttonborder-color.png") 8 round;
+}
+
+#navmenu
+{
+    margin-top: 7px;
+    margin-left: 3%;
+}
+
 #topbanner
 {
     /*background-color: #151525;*/
     background-color: black;
-    background-image: url("https://nonnietestsite.cfw.me//files/resources/bg-planet.png"), url("https://nonnietestsite.cfw.me//files/resources/mmk-group.png"), url("https://nonnietestsite.cfw.me//files/resources/gu-group.png");
+    background-image: url("https://nonnietestsite.cfw.me/files/resources/bg-planet.png"), url("https://nonnietestsite.cfw.me/files/resources/mmk-group.png"), url("https://nonnietestsite.cfw.me/files/resources/gu-group.png");
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: bottom center, bottom left, right 10px;
     image-rendering: pixelated;
@@ -583,7 +637,7 @@ tr:hover { background-color: #123; }
     border-left: 8px solid transparent;
     border-right: 8px solid transparent;
     border-bottom: 8px solid transparent;
-    border-image: url("https://nonnietestsite.cfw.me//files/resources/buttonborder-color.png") 8 round;
+    border-image: url("https://nonnietestsite.cfw.me/files/resources/buttonborder-color.png") 8 round;
 }
 
 .submenu a
@@ -687,32 +741,6 @@ tr:hover { background-color: #123; }
         float: right;
         width: 30%;
         min-width: 200px;
-    }
-}
-
-@media only screen and (min-width: 1500px)
-{
-    /* Desktop Mode */
-    body
-    {
-        background: #030303;
-        background-image: url("/files/resources/marauder-color.png"), url("/files/resources/starfield.png");
-        background-repeat: no-repeat, repeat;
-        background-position: 98% 95%, left top;
-        background-attachment: fixed, scroll;
-        background-size: 8%, auto;
-    }
-
-    #main
-    {
-        width: 70%;
-    }
-    
-    /* Homepage */
-    #teaser
-    {
-        float: right;
-        min-width: 400px;
     }
 }
 
