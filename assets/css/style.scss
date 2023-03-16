@@ -43,6 +43,17 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 
 //Site Menu
 
+#main
+{
+    width: 98%;
+    max-width: 1200px;
+    min-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #00000A;
+    color: #f0f0ff;
+}
+
 #topbar
 {
     background: #181868;
@@ -175,16 +186,31 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     clear: both;
 }
 
-
-#main
+.navhead
 {
-    width: 98%;
-    max-width: 1200px;
-    min-width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    background: #00000A;
-    color: #f0f0ff;
+    text-align: center;
+    clear: both;
+}
+
+
+
+/* Mobile Mode */
+#navmenu
+{
+    display: none;
+}
+
+#topbanner
+{
+    height: 100px;
+    line-height: 100px;
+}
+
+#teaser
+{
+    float: none;
+    clear: both;
+    width: 100%;
 }
 
 
@@ -241,6 +267,40 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     }
 }
 
+
+@media only screen and (min-width: 1500px)
+{
+    /* Desktop Mode */
+    body
+    {
+        background: #030303;
+        background-image: url("https://nonnietestsite.cfw.me/files/resources/marauder-color.png"), url("https://7mercs.pro/images/starrybg.PNG");
+        background-repeat: no-repeat, repeat;
+        background-position: 98% 95%, left top;
+        background-attachment: fixed, scroll;
+        background-size: 8%, auto;
+
+		image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+		image-rendering: -moz-crisp-edges;          /* Firefox                        */
+		image-rendering: -o-crisp-edges;            /* Opera                          */
+		image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+		image-rendering: pixelated;                 /* Chrome                         */
+		image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+		-ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+    }
+
+    #main
+    {
+        width: 70%;
+    }
+    
+    /* Homepage */
+    #teaser
+    {
+        float: right;
+        min-width: 400px;
+    }
+}
 
 //Epilogue Format
 
@@ -432,40 +492,6 @@ body  {
 }
 
 tr:hover { background-color: #181868; }
-
-@media only screen and (min-width: 1500px)
-{
-    /* Desktop Mode */
-    body
-    {
-        background: #030303;
-        background-image: url("https://nonnietestsite.cfw.me/files/resources/marauder-color.png"), url("https://7mercs.pro/images/starrybg.PNG");
-        background-repeat: no-repeat, repeat;
-        background-position: 98% 95%, left top;
-        background-attachment: fixed, scroll;
-        background-size: 8%, auto;
-
-		image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
-		image-rendering: -moz-crisp-edges;          /* Firefox                        */
-		image-rendering: -o-crisp-edges;            /* Opera                          */
-		image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
-		image-rendering: pixelated;                 /* Chrome                         */
-		image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
-		-ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-    }
-
-    #main
-    {
-        width: 70%;
-    }
-    
-    /* Homepage */
-    #teaser
-    {
-        float: right;
-        min-width: 400px;
-    }
-}
 
 
 
