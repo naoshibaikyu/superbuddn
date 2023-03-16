@@ -5,9 +5,9 @@ Naoshi Happy: Select an epilogue!
 
 EpFin
 
-##Classic
+<h2>Classic</h2>
 
-###SEASON 1
+<h3>SEASON 1</h3>
 
 
 > |**EpNumber**|**Epilogue Name**|**Author**|
