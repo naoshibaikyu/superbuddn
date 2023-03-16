@@ -77,7 +77,6 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 .dialogue profilename
 { 
     color: #E0A010;
-    text-shadow: #000000 -2px 1px;
     font-family: 'GameBoy';
     font-size: 16px;
     padding-left: 4px;
@@ -134,7 +133,7 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
   font-size: 14px;
   text-align: center;
   text-shadow: -2px 1px #202070;
-  color: #d8d8f8;
+  color: #e8e8f8;
   text-transform: uppercase;
   height: 16px;
 }
@@ -143,10 +142,11 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 { 
   font-size: 16px;
   text-align: center;
-  text-shadow: -3px 2px #202070;
+  text-shadow: -4px 2px #101050;
   color: #E0A010;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
+  margin-top: 16px;
   height: 16px;
 }
 
@@ -155,7 +155,7 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
   font-size: 14px;
   text-align: center;
   text-shadow: -2px 1px #202070;
-  color: #d8d8f8;
+  color: #e8e8f8;
 }
 
 
