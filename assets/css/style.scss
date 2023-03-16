@@ -546,6 +546,84 @@ tr:hover { background-color: #123; }
     }
 }
 
+
+//Site Menu
+#topbanner
+{
+    /*background-color: #151525;*/
+    background-color: black;
+    background-image: url("https://nonnietestsite.cfw.me//files/resources/bg-planet.png"), url("https://nonnietestsite.cfw.me//files/resources/mmk-group.png"), url("https://nonnietestsite.cfw.me//files/resources/gu-group.png");
+    background-repeat: no-repeat, no-repeat, no-repeat;
+    background-position: bottom center, bottom left, right 10px;
+    image-rendering: pixelated;
+}
+
+#topbanner h1
+{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 6vw;
+    text-shadow: 0px 0px 5px cyan;
+    text-transform: none;
+}
+
+.submenu
+{
+    display: none;
+    position: absolute;
+    top: 30px;
+    z-index: 1;
+    width: 130px;
+    background: #030303;
+    color: white;
+    text-align: center;
+    font-family: inherit;
+    margin: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-image: url("https://nonnietestsite.cfw.me//files/resources/buttonborder-color.png") 8 round;
+}
+
+.submenu a
+{
+    border-top: 1px solid gold;
+    display: block;
+    padding: 5px;
+    font-family: nes, monospace;
+    text-transform: lowercase;
+    font-size: 0.75rem;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+}
+
+.submenu a:hover, #navmenu .menuitem:hover
+{
+    background-color: steelblue;
+    transition: background-color 0.3s;
+}
+
+.menuitem a, .menuitem a:hover, .menuitem a:visited
+{
+    color: white;
+}
+
+.drop
+{
+    display: inline-block;
+    position: relative;
+    font-family: inherit;
+    margin: 0;
+}
+
+.drop:hover .submenu
+{
+    display: block;
+    clear: both;
+}
+
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
 // outline: solid;
