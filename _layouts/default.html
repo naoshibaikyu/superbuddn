@@ -56,6 +56,28 @@
 	<div id="footer">
             <p>Mega Man and all related characters belong to Capcom.</p>
             </div>
-  </body>
   
+      <script>
+        function menuPull()
+        {
+            if (window.innerWidth < 768)
+            {
+                document.getElementById("navmenu").style.display = "block";
+            }
+        }
+    
+        window.onclick = function(event)
+        {
+            if ((window.innerWidth < 768) && (!event.target.matches("#mobilemenu")))
+            {
+                document.getElementById("navmenu").style.display = "none";
+            }
+        }
+    
+        window.onresize = function(event)
+        {
+            document.getElementById("navmenu").removeAttribute("style");
+        }
+    </script>
+   </body>
 </html>
