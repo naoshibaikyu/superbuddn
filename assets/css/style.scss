@@ -76,8 +76,8 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 
 .dialogue profilename
 { 
-    color: #DEF;
-    text-shadow: black -2px 1px;
+    color: #E0A010;
+    text-shadow: #000000 -2px 1px;
     font-family: 'GameBoy';
     font-size: 16px;
     padding-left: 4px;
@@ -133,32 +133,29 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 { 
   font-size: 14px;
   text-align: center;
-  text-shadow: -2px 1px #234;
-  color: #BCD;
-  width: 98%;
+  text-shadow: -2px 1px #202070;
+  color: #d8d8f8;
   text-transform: uppercase;
-  height: 22px;
+  height: 16px;
 }
 
 .eptitle p
 { 
-  font-size: 100%;
+  font-size: 16px;
   text-align: center;
-  text-shadow: -3px 2px #234;
-  color: #DEF;
-  width: 98%;
+  text-shadow: -3px 2px #202070;
+  color: #E0A010;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
-  height: 24px;
+  height: 16px;
 }
 
 .author p
 { 
-  font-size: 12px;
+  font-size: 14px;
   text-align: center;
-  text-shadow: -2px 1px #234;
-  color: #BCD;
-  width: 98%;
+  text-shadow: -2px 1px #202070;
+  color: #d8d8f8;
 }
 
 
@@ -168,8 +165,6 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
   text-align: center;
   text-shadow: -4px 3px #234;
   color: #CDE;
-  width: 98%;
-  font-family: 'Mega Man 6 Stats';
 }
 
 
@@ -511,11 +506,6 @@ body  {
 	font-size: 16px;
 }
 
-.dialogue profilename{ 
-    color: #A0A0FF;
-    text-shadow: #002 -4px 2px;
-}
-
 .narration p{ 
   background: #080858;
 }
@@ -524,25 +514,6 @@ body  {
   background: #080858;
 }
 
-.epnum{ 
-  text-shadow: -2px 1px #424;
-  color: #FFB070;
-}
-
-.eptitle p{ 
-  text-shadow: -3px 2px #424;
-  color: #FFB070;
-}
-
-.author p{ 
-  text-shadow: -2px 1px #424;
-  color: #FFB070;
-}
-
-.actnum{ 
-  text-shadow: -4px 3px #424;
-  color: #FFB070;
-}
 
 
 // background-color: #0c376d; //bg
