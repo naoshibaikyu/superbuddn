@@ -33,12 +33,12 @@ The adventure carries on!
 > |**#**|**Epilogue Name**|**Author**|**Original Date**|
 > |**0**|[Aftermath](epilogues\classic\s2e0.html)|Hunter|08/28/08|
 > |**1**|[New Beginnings (With A Revenge)](epilogues\classic\s2e1.html)|Hunter & Magnus|08/28/08|
-> |**2**|[The Clash of the Generations](epilogues\classic\s2e2.html)|Hunter|09/06/08|
-> |**3**|[Frogs Don't Make Good Contracts](epilogues\classic\s2e3.html)|Hunter|10/02/08|
+> |**2**|The Clash of the Generations)|Hunter|09/06/08|
+> |**3**|Frogs Don't Make Good Contracts|Hunter|10/02/08|
 > |**4**|???|???|Unwritten|
-> |**5**|[Noooobody Expected That Story!](epilogues\classic\s2e5.html)|Hunter|03/08/10|
-> |**6**|[You Could Say, A Skin Problem?](epilogues\classic\s2e6.html)|Hunter|12/25/08|
-> |**7**|[Slow, Boring Day...?](epilogues\classic\s2e7.html)|Kayorei|08/08/10|
+> |**5**|Noooobody Expected That Story!|Hunter|03/08/10|
+> |**6**|You Could Say, A Skin Problem?|Hunter|12/25/08|
+> |**7**|Slow, Boring Day...?|Kayorei|08/08/10|
 > |**X**|[Crossover Event - The Business of War](epilogues\classic\https://themechanicalmaniacs.com/stories/series6/War/)|The Mega Man Team Community| 2008|
 > |**8**|???|???|Unwritten|
 
