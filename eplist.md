@@ -6,13 +6,7 @@
 
 <h2>Classic</h2>
 
-EpStart
-Kayorei: The initial works of the Seven Mercenaries, preserved for the sake of history and updated into the present-day presentation style. These remastered "Epilogues" are no longer a part of the Seven Mercenaries canon.
-EpFin
-
-EpStart
-Kayorei: The initial works of the Seven Mercenaries, preserved for the sake of history and updated into the present-day presentation style. These remastered "Epilogues" are no longer a part of the Seven Mercenaries canon.
-EpFin
+The initial works of the Seven Mercenaries, preserved for the sake of history and updated into the present-day presentation style. These remastered "Epilogues" are no longer a part of the Seven Mercenaries canon.
 
 <h3>SEASON 1</h3>
 
