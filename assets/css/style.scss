@@ -57,14 +57,16 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     margin-right: 25px;
     margin-left: 25px;
     padding: 1px;
-    background-color: #111; 
 	border-radius: 2px;
+    border: 1px solid #E0E0FF;
+    background-color: #181868; 
 }
 
 .dialogue p
 {  
     border-radius: 12px;
-    background: #223;
+	background: #181868;
+	font-size: 16px;
     margin-bottom: 12px;
     padding-left: 8px;
     padding-bottom: 8px;
@@ -89,6 +91,8 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
     word-break: break-word;
 }
 
+
+
 .narration
 { 
   margin: auto;
@@ -106,6 +110,7 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
   height: 100%;
   word-wrap: break-word;
   font-size: 15px;
+  background: #111144;
 }
 
 .description
@@ -125,6 +130,7 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
   height: 100%;
   word-wrap: break-word;
   font-size: 15px;
+  background: #111144;
 }
 
 //Misc Epilogue Formatting
@@ -496,24 +502,6 @@ body  {
   background-image: url("https://7mercs.pro/images/starrybg.PNG");
   color: #E0E0FF;
 	}
-  
-.dialogue img {
-    border: 1px solid #E0E0FF;
-    background-color: #101068; 
-}
-
-.dialogue p{  
-    background: #101068;
-	font-size: 16px;
-}
-
-.narration p{ 
-  background: #080858;
-}
-
-.description p{ 
-  background: #080858;
-}
 
 
 tr:hover { background-color: #123; }
