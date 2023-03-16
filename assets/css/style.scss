@@ -499,7 +499,7 @@ src: url("../fonts/GamegirlClassic-9MVj.ttf");
 }
 
 body  {
-  background-image: url("https://7mercs.pro/images/starrybg.PNG");
+  background-image: url("");
   color: #E0E0FF;
 	}
 	
@@ -512,6 +512,31 @@ body  {
 
 tr:hover { background-color: #123; }
 
+@media only screen and (min-width: 1500px)
+{
+    /* Desktop Mode */
+    body
+    {
+        background: #030303;
+        background-image: url("https://nonnietestsite.cfw.me/files/resources/marauder-color.png"), url("/images/starrybg.PNG");
+        background-repeat: no-repeat, repeat;
+        background-position: 98% 95%, left top;
+        background-attachment: fixed, scroll;
+        background-size: 8%, auto;
+    }
+
+    #main
+    {
+        width: 70%;
+    }
+    
+    /* Homepage */
+    #teaser
+    {
+        float: right;
+        min-width: 400px;
+    }
+}
 
 // background-color: #0c376d; //bg
 // background-color: #0a0f3a; //dialog bg
