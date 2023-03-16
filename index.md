@@ -2,31 +2,7 @@
 
 EpStart
 
-## Act 1
-
-@Location: ???
-
-Punk: ???
-
-Enker: oh we're here
-
-QuintHappy: huh so we are
-
-Punk: asfdldkglaskalgk
-
-Ballade: oh
-
-PunkGB: askdsafkajgjka
-
-EnkerAnnoyed: Uh, you ok?
-
-PunkGB: no
-
-BalladeGB: same
-
-Quint: fin
-
-%Fin
+Naoshi: We are working on the index page. Hang tight!
 
 EpFin
 
