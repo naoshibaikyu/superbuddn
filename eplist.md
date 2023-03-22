@@ -38,7 +38,7 @@ The adventure carries on!
 > |**4**|???|???|Unwritten|
 > |**5**|Noooobody Expected That Story!|Hunter|03/08/10|
 > |**6**|You Could Say, A Skin Problem?|Hunter|12/25/08|
-> |**7**|Slow, Boring Day...?|Kayorei|08/08/10|
+> |**7**|[Slow, Boring Day...?](epilogues\classic\s2e7.html)|Kayorei|08/08/10|
 > |**X**|[Crossover Event - The Business of War](epilogues\classic\https://themechanicalmaniacs.com/stories/series6/War/)|The Mega Man Team Community| 2008|
 > |**8**|???|???|Unwritten|
 
