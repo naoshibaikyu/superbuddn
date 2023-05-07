@@ -419,8 +419,6 @@ function getJsonData() {
 				"displayName": "Glowing Metool",
 				"imagePathPrefix": "misc/glowingmetool"
 			},
-			
-			},
 			"unknown": {
 				"displayName": "???",
 				"imagePathPrefix": "unknown/anonymous"
