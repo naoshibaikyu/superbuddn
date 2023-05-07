@@ -18,8 +18,8 @@ The season that started it all... obviously!
 > |**3**|[Trouble in Town](epilogues\classic\s1e3.html)|Hunter|04/02/07|
 > |**4**|[Meet the Fatal Five](epilogues\classic\s1e4.html)|Hunter|04/12/07|
 > |**5**|[When Idle Minds Go Astray...](epilogues\classic\s1e5.html)|Kayorei|05/25/07|
-> |**6**|[Worst. Plan. Ever.](epilogues\classic\s1e6.html)|Naoshi & Magnus & Iga & Shinobu|06/01/07|
-> |**7**|[Battle of Wits... Or At Least Rocket Launchers](epilogues\classic\s1e7.html)|Naoshi & Magnus|06/24/07|
+> |**6**|[Worst. Plan. Ever.](epilogues\classic\s1e6.html)|Arrietty & Magnus & Iga & Shinobu|06/01/07|
+> |**7**|[Battle of Wits... Or At Least Rocket Launchers](epilogues\classic\s1e7.html)|Arrietty & Magnus|06/24/07|
 > |**8**|[Oh yeah!!!](epilogues\classic\s1e8.html)|Hunter|08/07/07|
 > |**9**|[Tale of the Raven](epilogues\classic\s1e9.html)|Hunter|03/16/08|
 > |**10**|[Like a Sentence From 300](epilogues\classic\s1e10.html)|Hunter|08/31/07|

@@ -411,9 +411,15 @@ function getJsonData() {
 				"displayName": "KITT",
 				"imagePathPrefix": "misc/kitt"
 			},
-			"Selhoff": {
+			"selhoff": {
 				"displayName": "Mecha-Selhoff",
 				"imagePathPrefix": "misc/selhoff"
+			},
+			"glowingmetool": {
+				"displayName": "Glowing Metool",
+				"imagePathPrefix": "misc/glowingmetool"
+			},
+			
 			},
 			"unknown": {
 				"displayName": "???",
