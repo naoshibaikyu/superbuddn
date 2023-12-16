@@ -213,7 +213,6 @@ function getJsonData() {
 				"displayName": "Naoshi",
 				"imagePathPrefix": "prototypen/naoshi"
 			},
-		},
 		
 //B.U.D.D.
 			"eris": {
