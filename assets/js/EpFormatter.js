@@ -190,8 +190,29 @@ function getJsonData() {
 			"sticky": {
 				"displayName": "Sticky",
 				"imagePathPrefix": "superfreaks/sticky"
-			},			
-
+			},
+			"uncleswordsman": {
+				"displayName": "Uncle Swordsman",
+				"imagePathPrefix": "superfreaks/uncleswordsman"
+			},	
+			
+//Prototype N
+			"nadine": {
+				"displayName": "Nadine",
+				"imagePathPrefix": "prototypen/nadine"
+			},
+			"clara": {
+				"displayName": "Clara",
+				"imagePathPrefix": "prototypen/clara"
+			},
+			"selena": {
+				"displayName": "Selena",
+				"imagePathPrefix": "prototypen/selena"
+			},
+			"naoshi": {
+				"displayName": "Naoshi",
+				"imagePathPrefix": "prototypen/naoshi"
+			},
 		},
 //Emotes
 		"emotes": [
