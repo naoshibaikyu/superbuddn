@@ -162,269 +162,36 @@ function pageTurn(sourceDiv)
 function getJsonData() {
 	return ({
 		"names": {
-//Seven Mercenaries
-	//Armor Form
-			"naoshi": {
-				"displayName": "Enker",
-				"imagePathPrefix": "7mercs/enker"
+//Super Freaks
+			"scruffy": {
+				"displayName": "Scruffy",
+				"imagePathPrefix": "superfreaks/scruffy"
 			},
-			"hunter": {
-			"displayName": "Quint",
-			"imagePathPrefix": "7mercs/quint"
+			"quincy": {
+				"displayName": "Quincy",
+				"imagePathPrefix": "superfreaks/quincy"
 			},
-			"kayorei": {
-				"displayName": "Ballade",
-				"imagePathPrefix": "7mercs/ballade"
+			"gambi": {
+				"displayName": "Gambi",
+				"imagePathPrefix": "superfreaks/gambi"
 			},
-			"shinobu": {
-			"displayName": "Punk",
-			"imagePathPrefix": "7mercs/punk"
+			"tikiman": {
+				"displayName": "Tikiman",
+				"imagePathPrefix": "superfreaks/tikiman"
 			},
-			"iga": {
-				"displayName": "Buster Rod G.",
-				"imagePathPrefix": "7mercs/busterrod"
-			},			
-			"fallingstar": {
-			"displayName": "Mega Water S.",
-			"imagePathPrefix": "7mercs/megawater"
-			},			
-			"stardust": {
-			"displayName": "Hyper Storm H.",
-			"imagePathPrefix": "7mercs/hyperstorm"
-			},	
-			"magnus": {
-			"displayName": "Hyper Storm H.",
-			"imagePathPrefix": "7mercs/hyperstorm"
-			},	
-	//Human Form
-			"humannaoshi": {
-				"displayName": "Naoshi",
-				"imagePathPrefix": "7mercs/humanform/naoshi"
-			},			
-			"humanhunter": {
-				"displayName": "Hunter",
-				"imagePathPrefix": "7mercs/humanform/hunter"
+			"kranion": {
+				"displayName": "Kranion",
+				"imagePathPrefix": "superfreaks/kranion"
 			},
-			"humanshinobu": {
-				"displayName": "Shinobu",
-				"imagePathPrefix": "7mercs/humanform/shinobu"
+			"cranion": {
+				"displayName": "Cranion",
+				"imagePathPrefix": "superfreaks/cranion"
 			},
-			"humankayorei": {
-				"displayName": "Kayorei",
-				"imagePathPrefix": "7mercs/humanform/kayorei"
-			},
-			"humanfallingstar": {
-				"displayName": "Falling Star",
-				"imagePathPrefix": "7mercs/humanform/fallingstar"
-			},
-			"humanstardust": {
-				"displayName": "Stardust",
-				"imagePathPrefix": "7mercs/humanform/stardust"
-			},			
-			"1ga": {
-				"displayName": "1-GA",
-				"imagePathPrefix": "7mercs/humanform/iga"
-			},
-			"HumanMagnus": {
-				"displayName": "Magnus",
-				"imagePathPrefix": "7mercs/humanform/magnus"
-			},
-
-//Fatal Five
-			"warpman": {
-				"displayName": "Warp Man",
-				"imagePathPrefix": "fatalfive/warpman"
-			},
-			"riff": {
-				"displayName": "Riff",
-				"imagePathPrefix": "fatalfive/riff"
-			},
-			"lento": {
-				"displayName": "Lento",
-				"imagePathPrefix": "fatalfive/lento"
-			},
-			"karasu": {
-				"displayName": "Karasû",
-				"imagePathPrefix": "fatalfive/karasu"
-			},
-			"staccato": {
-				"displayName": "Staccato",
-				"imagePathPrefix": "fatalfive/staccato"
-			},
-			"bigarm": {
-				"displayName": "Big Arm",
-				"imagePathPrefix": "fatalfive/bigarm"
-			},
-			"sniper": {
-				"displayName": "Sniper",
-				"imagePathPrefix": "fatalfive/sniper"
-			},
-			"armored": {
-				"displayName": "Armored",
-				"imagePathPrefix": "fatalfive/armored"
-			},
-			"raven": {
-				"displayName": "Raven",
-				"imagePathPrefix": "fatalfive/raven"
-			},
-			"knight": {
-				"displayName": "Knight",
-				"imagePathPrefix": "fatalfive/knight"
-			},	
-			"warpmanhead": {
-				"displayName": "Warp Man",
-				"imagePathPrefix": "fatalfive/warpmanhead"
+			"sticky": {
+				"displayName": "Sticky",
+				"imagePathPrefix": "superfreaks/sticky"
 			},			
 
-//Mega Man Characters
-	//Team Light
-			"light": {
-				"displayName": "Dr. Light",
-				"imagePathPrefix": "lightlabs/light"
-			},
-			"megaman": {
-				"displayName": "Mega Man",
-				"imagePathPrefix": "lightlabs/megaman"
-			},
-			"protoman": {
-				"displayName": "Proto Man",
-				"imagePathPrefix": "lightlabs/protoman"
-			},
-	//Team Wily
-			"wily": {
-				"displayName": "Dr. Wily",
-				"imagePathPrefix": "wilylabs/wily"
-			},
-			"bass": {
-				"displayName": "Bass",
-				"imagePathPrefix": "wilylabs/bass"
-			},
-			"treble": {
-				"displayName": "Treble",
-				"imagePathPrefix": "wilylabs/treble"
-			},
-//Sniper Joes
-			"crewjoe": {
-				"displayName": "Crew Joe",
-				"imagePathPrefix": "genericbots/crewjoe"
-			},
-			"sniperjoe": {
-				"displayName": "Sniper Joe",
-				"imagePathPrefix": "genericbots/sniperjoe"
-			},	
-			
-//Other Teams
-	//Wily's Warriors
-			"quick": {
-				"displayName": "Quick Man",
-				"imagePathPrefix": "otherteams/mm2/quick"
-			},
-			"heat": {
-				"displayName": "Heat Man",
-				"imagePathPrefix": "otherteams/mm2/heat"
-			},
-			"air": {
-				"displayName": "Air Man",
-				"imagePathPrefix": "otherteams/mm2/air"
-			},
-			"crash": {
-				"displayName": "Crash Man",
-				"imagePathPrefix": "otherteams/mm2/crash"
-			},
-			"metal": {
-				"displayName": "Metal Man",
-				"imagePathPrefix": "otherteams/mm2/metal"
-			},
-			"wood": {
-				"displayName": "Wood Man",
-				"imagePathPrefix": "otherteams/mm2/wood"
-			},
-			"flash": {
-				"displayName": "Flash Man",
-				"imagePathPrefix": "otherteams/mm2/flash"
-			},
-			"bubble": {
-				"displayName": "Bubble Man",
-				"imagePathPrefix": "otherteams/mm2/bubble"
-			},
-			"whiz": {
-				"displayName": "Whiz",
-				"imagePathPrefix": "otherteams/mm2/whiz"
-			},
-	//Drastic Measures
-			"turbo": {
-				"displayName": "Turbo Man",
-				"imagePathPrefix": "otherteams/mm7/turbo"
-			},
-			"spring": {
-				"displayName": "Spring Man",
-				"imagePathPrefix": "otherteams/mm7/spring"
-			},
-			"slash": {
-				"displayName": "Slash Man",
-				"imagePathPrefix": "otherteams/mm7/slash"
-			},
-			"burst": {
-				"displayName": "Burst Man",
-				"imagePathPrefix": "otherteams/mm7/burst"
-			},
-			"cloud": {
-				"displayName": "Cloud Man",
-				"imagePathPrefix": "otherteams/mm7/cloud"
-			},
-			"shade": {
-				"displayName": "Shade Man",
-				"imagePathPrefix": "otherteams/mm7/shade"
-			},
-			"frost": {
-				"displayName": "Frost Man",
-				"imagePathPrefix": "otherteams/mm7/frost"
-			},
-			"junk": {
-				"displayName": "Junk Man",
-				"imagePathPrefix": "otherteams/mm7/junk"
-			},
-			
-//Humans
-			"yai": {
-				"displayName": "Yai Ayanokoji",
-				"imagePathPrefix": "humans/yai"
-			},
-			"monk": {
-				"displayName": "Monk",
-				"imagePathPrefix": "humans/monk"
-			},
-			"reporterchunli": {
-				"displayName": "News Reporter",
-				"imagePathPrefix": "humans/reporterA"
-			},
-//Misc
-			"hasselhoff": {
-				"displayName": "David Hasslehoff",
-				"imagePathPrefix": "misc/hasselhoff"
-			},
-			"koolaid": {
-				"displayName": "Kool-Aid Man",
-				"imagePathPrefix": "misc/koolaid"
-			},
-			"kitt": {
-				"displayName": "KITT",
-				"imagePathPrefix": "misc/kitt"
-			},
-			"selhoff": {
-				"displayName": "Mecha-Selhoff",
-				"imagePathPrefix": "misc/selhoff"
-			},
-			"glowingmetool": {
-				"displayName": "Glowing Metool",
-				"imagePathPrefix": "misc/glowingmetool"
-			},
-			"unknown": {
-				"displayName": "???",
-				"imagePathPrefix": "unknown/anonymous"
-			}
-			
-			
 		},
 //Emotes
 		"emotes": [
