@@ -214,6 +214,17 @@ function getJsonData() {
 				"imagePathPrefix": "prototypen/naoshi"
 			},
 		},
+		
+//B.U.D.D.
+			"eris": {
+				"displayName": "Eris",
+				"imagePathPrefix": "budd/eris"
+			},
+			"rhea": {
+				"displayName": "Rhea",
+				"imagePathPrefix": "budd/rhea"
+			},
+		},
 //Emotes
 		"emotes": [
 			"neutral",
