@@ -235,7 +235,7 @@ function getJsonData() {
 			"shocked",
 			"hurt",
 			"damaged",
-			"relieved"
+			"relieved",
 			"confused"
 		]
 	});
