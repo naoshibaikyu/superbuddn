@@ -236,6 +236,7 @@ function getJsonData() {
 			"hurt",
 			"damaged",
 			"relieved"
+			"question"
 		]
 	});
 }
