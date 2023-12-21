@@ -228,6 +228,13 @@ function getJsonData() {
 				"imagePathPrefix": "budd/rhea"
 			},
 		},
+//Turbo Leaper
+			"fred": {
+				"displayName": "Fred",
+				"imagePathPrefix": "turboleaper/fred"
+			},
+		},		
+
 //Emotes
 		"emotes": [
 			"neutral",
