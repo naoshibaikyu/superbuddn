@@ -195,6 +195,10 @@ function getJsonData() {
 				"displayName": "Uncle Swordsman",
 				"imagePathPrefix": "superfreaks/uncleswordsman"
 			},	
+			"dino": {
+				"displayName": "Dino",
+				"imagePathPrefix": "superfreaks/dino"
+			},	
 			
 //Prototype N
 			"nadine": {
