@@ -385,6 +385,35 @@ Nadine Sad:
 
 Fred: hi i am fred from turbo leaps
 
+%
+
+Nadine: I’m too short to kiss my girlfriend on the lips, what should I do?
+
+Margaret: Kick her in the stomach, and then when she doubles over, kiss her!
+
+Gambi: Trip her.
+
+Sticky: Dump her.
+
+Clara: LITERALLY DON’T DO ANY OF THAT SHIT JUST FUCKING ASK ME TO BEND DOWN. *JESUS*.
+
+
+%
+
+Nadine Happy: (at a restaurant) You guys should get the orange soda, it's amazing.
+
+Fred: Okay
+
+Waiter: Can I get you three anything to drink?
+
+Nadine Happy: Orange soda, please!
+
+Fred: I'll have the strawberry soda.
+
+Scruffy: Me too, strawberry soda.
+
+Nadine Happy:
+
 EpFin
 
 |**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
