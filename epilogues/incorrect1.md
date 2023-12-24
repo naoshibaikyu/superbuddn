@@ -414,6 +414,16 @@ Scruffy: Me too, strawberry soda.
 
 Nadine Happy:
 
+%
+
+Eris: Sometimes I drink milk straight out of the container.
+
+Nadine: The cow???
+
+Eris Shocked: What?
+
+Selena: Nadine, W H Y?
+
 EpFin
 
 |**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
