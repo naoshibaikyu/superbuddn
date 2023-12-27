@@ -531,7 +531,7 @@ Nadine: It is an optical phenomenon that separates sunlight into its continuous 
 
 Store Worker: Would a “Eris” please come to the front desk?
 
-Eris: )arriving at the desk) Hello, is there a problem?
+Eris: (arriving at the desk) Hello, is there a problem?
 
 Store Worker: (pointing to Scruffy and Fred) I believe they belong to you?
 
@@ -552,6 +552,54 @@ Sticky: Wanna start drama for no reason?
 Kranion: I thought ya’d nevah ask!
 
 %
+
+Sticky: I hate to tell you this, but one of you was adopted.
+
+Cranion: 
+
+Kranion: 
+
+Cranion Angry: Only one...?
+
+%
+
+Gambi: In your opinion, what is the height of stupidity?
+
+Sticky: (turning to Kranion) How tall are you?
+
+%
+
+Nadine Happy: (jumping out of Eris's closet) BOO!
+
+Eris: 
+
+Nadine: 
+
+Eris: 
+
+Nadine Sad: 
+
+Eris: Ahh! Oh my god! You scared me!
+
+%
+
+Eris Angry: I've met a lot of pricks in my time, but you, Margaret, are a fucking cactus.
+
+%
+
+Nadine: I just ended a five year relationship.
+
+Eris: Oh no, are you okay?
+
+Nadine: It's okay, it wasn't mine.
+
+%
+
+Sticky: “I wouldn’t wish that on my worst enemy” I would. Pussy.
+
+Sticky: “I’m not gonna sink to their level” I will. Coward.
+
+Sticky Angry: “I’m the bigger person” I’m 150cm tall give me the gun bitch.
 
 EpFin
 
