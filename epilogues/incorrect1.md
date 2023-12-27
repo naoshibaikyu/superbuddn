@@ -587,11 +587,11 @@ Eris Angry: I've met a lot of pricks in my time, but you, Margaret, are a fuckin
 
 %
 
-Nadine: I just ended a five year relationship.
+Sticky: I just ended a five year relationship.
 
-Eris: Oh no, are you okay?
+Boney M: Oh no, are you okay?
 
-Nadine: It's okay, it wasn't mine.
+Sticky: It's okay, it wasn't mine.
 
 %
 
@@ -609,6 +609,11 @@ Margaret: Yup.
 
 Margaret: Don't think you're special.
 
+%
+
+Eris: Why are you guys acting like this?
+
+Gambi: Oh, we're not acting. We really are like this.
 
 EpFin
 
