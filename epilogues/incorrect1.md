@@ -641,8 +641,196 @@ Nadine Sad: (nervously) Oh...yeah, of course it's cold.
 
 Eris: I lied. It's actually hot.
 
-EpFin
+%
 
-|**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
+Nadine Annoyed: Why are you guys acting like this?
+
+Sticky: Oh, we're not acting. We really are like this.
+
+%
+
+Eris: Y’know, maybe things aren’t so bad. I’m here. I got the nice ocean breeze. Just alone with my thoughts.
+
+Scruffy: Hey, Eris.
+
+Eris Angry: GODDAMNIT!
+
+%
+
+Margaret: Am I a good person? No. But do I try to be better every single day? Also no.
+
+%
+
+Tikiman: Two truths and a lie, I’ll start!
+
+Tikiman: I’ve killed a man, I will kill again, and it burns when I pee.
+
+Selena: (visibly nervous) I don’t- I don’t like this game.
+
+%
+
+Scruffy: Hello, McDonald's, I would like to purchase 130 chicken nuggets. Prepare yourselves.
+
+%
+
+Sticky: I keep a picture of all of us in my wallet. Whenever I face difficulties, I take it out and stare at the picture. 
+
+Dino: Awwww- 
+
+Sticky Angry: And I tell myself "If I can deal with these idiots, then I can deal with anything." 
+
+Dino: Oh.
+
+%
+
+Nadine Happy: I’d die for you.
+
+Sticky: Then perish.
+
+Margaret: You will.
+
+Eris: Please don’t.
+
+Tikiman: Cool.
+
+Clara Happy: I’d die for you first.
+
+%
+
+Apex: Well, aren’t you all a rag-tag group of adventurers with unclear goals and good hearts! Oh, let me guess: you’re out to save the world!
+
+Eris: Well, actually, that sounds like a pretty fair assessment.
+
+Fred: More or less, I guess...
+
+Scruffy: That sounds awesome! Let’s do that!
+
+Clara: I’m new here, but I am open to the concept.
+
+Nadine Confused: I thought that’s what we were doing, guys, come on!
+
+%
+
+%When they drop food
+
+Fred: Eh, oh well.
+
+Selena: FIVE-SECOND RULE!
+
+Eris Angry: FUCK!
+
+Clara: **[just gets more food]**
+
+Nadine Sad: **[drops to their knees and mourns the food]**
+
+Scruffy: **[eats the food off the ground]**
+
+%
+
+%Everyone's reaction to being told they're the chosen one
+
+Nadine Glad: I will not let you down.
+
+King Quincy: Sounds fun.
+
+Fred: K.
+
+Sticky Angry: No, I'm fucking not.
+
+Eris: Do I have to be?
+
+Selena: Please god, I am so tired.
+
+%
+
+Nadine: Can you keep a secret? 
+
+Margaret: Do you know anything about my life? 
+
+Nadine: No, I don't. Good point.
+
+%
+
+Margaret: I don’t hate you. I hate everyone. 
+
+Clara: The feeling is mutual.
+
+%
+
+Selena: I don’t need to touch grass, I need the fall of capitalism.
+
+%
+
+Gambi: Sometimes I like to call people by the wrong name to show them I don’t care about them. 
+
+Dino: That’s brilliant. 
+
+Gambi: Thank you, Selena.
+
+%
+
+Bailiff: Do you swear to tell the truth, the whole truth, and nothing but the truth?
+
+Sticky: No.
+
+%
+
+Dino: I can’t believe my birth certificate says F...
+
+Dino: ...How did I fail being born?
+
+%
+
+Dino: Ha! What are you gonna do? Stab me?
+
+%Five minutes later
+
+Dino: (calling 911) HELP, IVE BEEN STABBED.
+
+%
+
+Selena: So you’re dating Clara? 
+
+Nadine: What? No! I’m just buying them an accessory since they have terrible fashion sense. 
+
+Selena: That’s literally a wedding ring.
+
+%
+
+Sticky: I need you to come meet me, and I need you to come alone. 
+
+Rhea: And I need you to be less vague and weird.
+
+%
+
+Selena: What's my sexuality?! I don't fucking know! I'm not straight, and that's all that matters. Well, maybe that's unfair to the straights. Some of my best friends are straight! Well, one of them. Well, I know them, and Kranion is perfectly tolerable person in small doses!
+
+%
+
+Scruffy: I bet you can’t make a sentence without the letter “A”!
+
+Tikiman: You thought you just did something there, didn’t you? Well, sorry to burst your bubble, but numerous sentences could be constructed without employing the first letter of the English lexicon.
+
+Sticky: Fuck you.
+
+%
+
+Gambi: You’re alive. 
+
+Dino: No need to sound so disappointed.
+
+%
+
+Rhea: Eris and I are no longer friends. 
+
+Eris Shocked: RHEA THAT IS THE WORST WAY TO TELL PEOPLE THAT WE’RE DATING!
+
+%
+
+Clara: Don't break someone's heart, they only have one.
+
+Sticky: Break one of their bones instead, they have 206 of them.
+
+EpFin
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
