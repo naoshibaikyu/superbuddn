@@ -424,6 +424,123 @@ Eris Shocked: What?
 
 Selena: Nadine, W H Y?
 
+%
+
+Sticky: What did you do with Dino's body?
+
+Tikiman: What didn’t I do with the body?
+
+Sticky:
+
+Tikiman: Okay, that sounded more sexual than I intended. I disposed of the corpse respectfully.
+
+%
+
+Cranion: Let me copy your homework.
+
+Kranion: I was gonna copy yours.
+
+Cranion Angry: Well, shit.
+
+Kranion: Guess I'm not doing it.
+
+%
+
+Eris: **[traps a Waspin under a cup]**
+
+Scruffy: **[puts down 2 more cups]**
+
+Eris Angry: Don't.
+
+Scruffy: **[shuffles them]**
+
+%
+
+Ceres: And now for a gay update with Eris and Rhea.
+
+Eris: Getting gayer.
+
+Ceres: Thank you, Eris.
+
+
+%
+
+Eris: So what’s for dinner?
+
+Scruffy: I can’t tell you, it’s a soup-prise!
+
+Eris: …
+
+Eris Annoyed: Is it soup?
+
+Scruffy: I soup-pose it could be! winks
+
+Eris Angry: Please, enough with the soup puns!
+
+Scruffy: Wow, you’re soup-per mean.
+
+Eris Angry: STOP!
+
+%One hour later
+
+Eris Angry: It’s fucking tacos?!?!?!
+
+%
+
+Scruffy: Hey, wanna help me commit arson?
+
+Nadine Shocked: What the hell!?
+
+Scruffy: Oh, sorry, my bad.
+
+Scruffy: **[whispering]** Wanna help me commit arson?
+
+Nadine Happy: **[whispering]** Of course. What do you need?
+
+%
+
+Eris: Good news!
+
+Scruffy: You found where I hid your phone?
+
+Eris Annoyed: ...
+
+Scruffy: You found your phone?
+
+%
+
+Sticky: Thanks for opening my message and not responding.
+
+Kranion: All good bro, any time.
+
+Sticky Angry: Fuck you.
+
+%
+
+Ellie: What do rainbows mean to you?
+
+Eris: Gay rights.
+
+Scruffy: There's money.
+
+Shootem: The sign of God's promise to never destroy the whole Earth with a flood.
+
+Nadine: It is an optical phenomenon that separates sunlight into its continuous spectrum when the sun shines on raindrops.
+
+%
+
+Store Worker: Would a “Eris” please come to the front desk?
+
+Eris: )arriving at the desk) Hello, is there a problem?
+
+Store Worker: (pointing to Scruffy and Fred) I believe they belong to you?
+
+FredScruffy: (simultaneously) We got lost.
+
+Eris: I didn’t even bring you guys here with me—
+
+%
+
 EpFin
 
 |**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
