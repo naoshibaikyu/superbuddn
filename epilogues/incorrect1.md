@@ -865,6 +865,10 @@ Fred: Incredible violence.
 
 Nadine Happy: And love!
 
+%
+
+Selena: I hate taking off my glasses, because without them, my vision goes from Full HD all the way down to buffering at 240p and I just can't handle that.
+
 EpFin
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
