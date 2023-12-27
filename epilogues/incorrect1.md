@@ -831,6 +831,40 @@ Clara: Don't break someone's heart, they only have one.
 
 Sticky: Break one of their bones instead, they have 206 of them.
 
+%
+
+Gambi: Apparently, it was Rude™ of me to pitch in my two cents on a conversation I happened to overhear, despite agreeing with them. 
+
+Gambi: On an unrelated note, I am no longer allowed in the ceiling vents.
+
+%
+
+Sticky: I’ve been described as a ‘heartless villain’ and a 'little shit’, but I prefer… 'has alternative ways of having fun’.
+
+%
+
+Margaret: Who the fuck-
+
+Clara: Language!
+
+Margaret: Whom the fuck-
+
+Clara: No.
+
+%
+
+Apex: You’re too later, Superdorks! You'll never stop me now! 
+
+Nadine Happy: That’s where you’re wrong, evildoer! We WILL stop you, with the powers of: 
+
+King Quincy: Friendship! 
+
+Clara: Harmony! 
+
+Fred: Incredible violence. 
+
+Nadine Happy: And love!
+
 EpFin
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
