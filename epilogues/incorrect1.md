@@ -601,6 +601,15 @@ Sticky: “I’m not gonna sink to their level” I will. Coward.
 
 Sticky Angry: “I’m the bigger person” I’m 150cm tall give me the gun bitch.
 
+%
+
+Eris Angry: Are you this rude to everyone?!
+
+Margaret: Yup.
+
+Margaret: Don't think you're special.
+
+
 EpFin
 
 |**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
