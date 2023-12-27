@@ -232,7 +232,6 @@ function getJsonData() {
 				"displayName": "Fred",
 				"imagePathPrefix": "turboleaper/fred"
 			},
-		},	
 
 //combo
 
@@ -240,8 +239,12 @@ function getJsonData() {
 				"displayName": "Fred & Scruffy",
 				"imagePathPrefix": "combo/fredscruffy"
 			},
+			
+			
+			
+			
+//don't touch this part			
 		},
-
 //Emotes
 		"emotes": [
 			"neutral",
