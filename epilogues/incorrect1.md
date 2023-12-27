@@ -731,7 +731,7 @@ Scruffy: **[eats the food off the ground]**
 
 Nadine Glad: I will not let you down.
 
-King Quincy: Sounds fun.
+Quincy: Sounds fun.
 
 Fred: K.
 
@@ -857,7 +857,7 @@ Apex: You’re too later, Superdorks! You'll never stop me now!
 
 Nadine Happy: That’s where you’re wrong, evildoer! We WILL stop you, with the powers of: 
 
-King Quincy: Friendship! 
+Quincy: Friendship! 
 
 Clara: Harmony! 
 
