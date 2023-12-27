@@ -10,7 +10,7 @@ EpStart
 
 %
 
-Scruffy: I'm freaks.
+Sticky: I'm freaks.
 
 Gambi: You're freaks.
 
@@ -18,7 +18,7 @@ Quincy: They're freaks.
 
 Tikiman: We're all freaks!
 
-Scruffy: Guess you can call it a Super Freaks Sweep!
+Sticky: Guess you can call it a Super Freaks Sweep!
 
 Sticky: Please shut the fuck up.
 
@@ -68,21 +68,21 @@ Eris Happy: Or is the author flexing the emote format?
 
 Rhea: Hmmm...
 
-Scruffy: Hey! Wanna see me crack open a B.U.D.D for an omelette???
+Sticky: Hey! Wanna see me crack open a B.U.D.D for an omelette???
 
 Eris Annoyed: **[being held back by Rhea]** I am going to *fucking gut your insides* with a **rusty knife**.
 
-Scruffy: Oh, look! Markdown support! How **bold** of you!
+Sticky: Oh, look! Markdown support! How **bold** of you!
 
 Clara: Help! Nadine won't respond to my text anymore!
 
 %
 
-Scruffy: Hey Eris, can I get some ice cream?
+Sticky: Hey Eris, can I get some ice cream?
 
 Eris: Only a spoonful! 
 
-Scruffy: **[Proceeds to pull out a comically large spoon.]**
+Sticky: **[Proceeds to pull out a comically large spoon.]**
 
 % 
 
@@ -112,11 +112,11 @@ Selena: —n. It was $100; *all my money* just went down the fucking drain.
 
 %
 
-Scruffy: I’m so excited! 
+Sticky: I’m so excited! 
 
 Nadine Happy: We’re gonna have the best costumes, get the most candy... 
 
-Scruffy: And have the biggest stomach aches ever! 
+Sticky: And have the biggest stomach aches ever! 
 
 Nadine Glad: Yeah!
 
@@ -130,7 +130,7 @@ Kranion: Lmao, @Cranion.
 
 %
 
-Scruffy: We’re having a moment, aren’t we? 
+Sticky: We’re having a moment, aren’t we? 
 
 Eris: If by 'a moment' you mean me not wanting to strangle you for the first time since we met, then I guess we are.
 
@@ -142,7 +142,7 @@ Margaret: You seem familiar... have I threatened you before?
 
 Nadine Confused: Is Kranion always like this when he lose? 
 
-Scruffy: Oh, yes. You should've been there for the Great Fast Cars Underground 2 Tantrum of 2023. 
+Sticky: Oh, yes. You should've been there for the Great Fast Cars Underground 2 Tantrum of 2023. 
 
 Kranion Angry: You banged a u-ie at wicked impossible speeds and you know it!
 
@@ -158,15 +158,15 @@ Sticky: I don’t know how you keep forgetting this.
 
 %
 
-Michelle: Scruffy, how could you possibly have gotten into this much trouble in one day?
+Michelle: Sticky, how could you possibly have gotten into this much trouble in one day?
 
-Scruffy: It... It didn't take me the whole day...
+Sticky: It... It didn't take me the whole day...
 
 %
 
 Eris: So, did everyone learn their lesson? 
 
-Scruffy: No. 
+Sticky: No. 
 
 Sticky: I did not.
  
@@ -210,7 +210,7 @@ Shootem: That’s fair.
 
 Kranion: I’m a reverse necromancer!
 
-Scruffy: Isn’t that just- 
+Sticky: Isn’t that just- 
 
 Sticky: No. Shut up. Shut the fuck up. You are literally so fucking unfunny that it hurts. It physically hurts my body knowing that people still think murder is funny. I cant believe im saying this but do you guys know how chronically online you all are, thinking that saying “oOh iM a rEVeRsE nECrOmANcER i LOvE tO kiLL pEOpLe” is genuinely funny and will get everyone in the room shitting themselves from laughter?? cause its not. It’s fucking not. In fact, its the unfunniest fucking joke ever. Not just any joke about killing people. This one specifically. Its so unfunny and stupid. Nobody is fucking laughing at that, Kranion. It makes you look like a greasy emo kid who has never been outside once in their life and uses tumblr religiously. Like not even the funny side of tumblr. the fucking unfunny side filled with overused jokes about murder and illegal acts. Honestly, youre so unfunny, Kranion. Fuck you.
 
@@ -296,7 +296,7 @@ Sticky: The poison is kicking in.
 
 %
 
-Scruffy: Who thinks I can fit 15 marshmallows in my mouth?
+Sticky: Who thinks I can fit 15 marshmallows in my mouth?
 
 Eris: You’re a hazard to society
 
@@ -306,19 +306,19 @@ Nadine: And a coward. DO TWENTY.
 
 Nadine: What time is it?
 
-Scruffy: I don’t know; pass me that saxophone and we’ll find out
+Sticky: I don’t know; pass me that saxophone and we’ll find out
 
-Scruffy: *Plays sax loudly and extremely out of tune*
+Sticky: *Plays sax loudly and extremely out of tune*
 
 Eris Shocked: WHO THE FUCK IS PLAYING THE SAXOPHONE AT TWO IN THE MORNING
 
-Scruffy: It’s 2 am
+Sticky: It’s 2 am
 
 %
 
 Eris: Let me show you a picture from last night that really upset me
 
-Scruffy: Okay, but in my defense, Margaret bet me 50 cents I couldn’t drink all that shampoo.
+Sticky: Okay, but in my defense, Margaret bet me 50 cents I couldn’t drink all that shampoo.
 
 Eris: That’s not what I wanted to- you drank SHAMPOO?!
 
@@ -344,17 +344,17 @@ Eris Shocked: No wait-
 
 Nadine Confused: (learning how to drive) What happens if I press the gas and the brake at the same time?
 
-Scruffy: The car takes a screenshot.
+Sticky: The car takes a screenshot.
 
 Eris Annoyed: Please pull over. I’m driving now.
 
 %
 
-Scruffy: Freaks? I was freaks once. They put me in a room, a rubber room, a rubber room with rats, the rats made me freaks.
+Sticky: Freaks? I was freaks once. They put me in a room, a rubber room, a rubber room with rats, the rats made me freaks.
 
 Nadine: Aren't you already a super freak?
 
-Scruffy: Ultimate Edition
+Sticky: Ultimate Edition
 
 Nadine Confused: 
 
@@ -365,7 +365,7 @@ Selena: Here’s a fun Christmas idea. We hang mistletoe, but instead of kissing
 
 Nadine Sad: Selena no.
 
-Scruffy: Mistlefoe.
+Sticky: Mistlefoe.
 
 Nadine Annoyed: Please stop encouraging her.
 
@@ -410,7 +410,7 @@ Nadine Happy: Orange soda, please!
 
 Fred: I'll have the strawberry soda.
 
-Scruffy: Me too, strawberry soda.
+Sticky: Me too, strawberry soda.
 
 Nadine Happy:
 
@@ -448,11 +448,11 @@ Kranion: Guess I'm not doing it.
 
 Eris: **[traps a Waspin under a cup]**
 
-Scruffy: **[puts down 2 more cups]**
+Sticky: **[puts down 2 more cups]**
 
 Eris Angry: Don't.
 
-Scruffy: **[shuffles them]**
+Sticky: **[shuffles them]**
 
 %
 
@@ -467,17 +467,17 @@ Ceres: Thank you, Eris.
 
 Eris: So what’s for dinner?
 
-Scruffy: I can’t tell you, it’s a soup-prise!
+Sticky: I can’t tell you, it’s a soup-prise!
 
 Eris: …
 
 Eris Annoyed: Is it soup?
 
-Scruffy: I soup-pose it could be! winks
+Sticky: I soup-pose it could be! winks
 
 Eris Angry: Please, enough with the soup puns!
 
-Scruffy: Wow, you’re soup-per mean.
+Sticky: Wow, you’re soup-per mean.
 
 Eris Angry: STOP!
 
@@ -487,13 +487,13 @@ Eris Angry: It’s fucking tacos?!?!?!
 
 %
 
-Scruffy: Hey, wanna help me commit arson?
+Sticky: Hey, wanna help me commit arson?
 
 Nadine Shocked: What the hell!?
 
-Scruffy: Oh, sorry, my bad.
+Sticky: Oh, sorry, my bad.
 
-Scruffy: **[whispering]** Wanna help me commit arson?
+Sticky: **[whispering]** Wanna help me commit arson?
 
 Nadine Happy: **[whispering]** Of course. What do you need?
 
@@ -501,11 +501,11 @@ Nadine Happy: **[whispering]** Of course. What do you need?
 
 Eris: Good news!
 
-Scruffy: You found where I hid your phone?
+Sticky: You found where I hid your phone?
 
 Eris Annoyed: ...
 
-Scruffy: You found your phone?
+Sticky: You found your phone?
 
 %
 
@@ -521,7 +521,7 @@ Ellie: What do rainbows mean to you?
 
 Eris: Gay rights.
 
-Scruffy: There's money.
+Sticky: There's money.
 
 Shootem: The sign of God's promise to never destroy the whole Earth with a flood.
 
@@ -533,9 +533,9 @@ Store Worker: Would a “Eris” please come to the front desk?
 
 Eris: (arriving at the desk) Hello, is there a problem?
 
-Store Worker: (pointing to Scruffy and Fred) I believe they belong to you?
+Store Worker: (pointing to Sticky and Fred) I believe they belong to you?
 
-FredScruffy: (simultaneously) We got lost.
+FredSticky: (simultaneously) We got lost.
 
 Eris: I didn’t even bring you guys here with me—
 
@@ -614,6 +614,32 @@ Margaret: Don't think you're special.
 Eris: Why are you guys acting like this?
 
 Gambi: Oh, we're not acting. We really are like this.
+
+%
+
+Nadine Confused: What is it, Eris?
+
+Eris: I thought it’d be nice for us to talk just by ourselves.
+
+Nadine Confused: ...Sure.
+
+Eris: (giving Nadine one of the mugs) Here, it's hot coffee.
+
+Nadine Happy: Thanks.
+
+Eris: Hot isn't it?
+
+Nadine Confused: Yeah... really hot.
+
+Eris: (with concern) It's actually iced coffee.
+
+Nadine Shocked: What?
+
+Eris: I had Rhea make it cold.
+
+Nadine Sad: (nervously) Oh...yeah, of course it's cold.
+
+Eris: I lied. It's actually hot.
 
 EpFin
 
