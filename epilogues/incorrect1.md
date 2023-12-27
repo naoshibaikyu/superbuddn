@@ -541,6 +541,18 @@ Eris: I didn’t even bring you guys here with me—
 
 %
 
+Kranion Angry: **[sighs]**
+
+Sticky: You bored?
+
+Kranion Angry: Ya...
+
+Sticky: Wanna start drama for no reason?
+
+Kranion: I thought ya’d nevah ask!
+
+%
+
 EpFin
 
 |**<<** PREV EPILOGUE|**[EPILOGUE LIST]**(../../../../superbuddn/eplist.html)|**[NEXT EPILOGUE]**(s1e2.html) **>>**|
