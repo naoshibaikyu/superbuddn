@@ -869,6 +869,141 @@ Nadine Happy: And love!
 
 Selena: I hate taking off my glasses, because without them, my vision goes from Full HD all the way down to buffering at 240p and I just can't handle that.
 
+%
+
+Eris: Damn, the power went out. 
+
+Scruffy: Don’t worry, I got this. 
+
+Scruffy: shakes rapidly and starts to light up 
+
+Eris Annoyed: What-? 
+
+Scruffy: I swallowed a glow stick! 
+
+Eris Shocked: WHY WOULD YOU-
+
+%
+
+Eris: I love cooking breakfast. It makes the whole house smell like bacon. 
+
+Tikiman: That’s true, but it also smells like fire and panic. 
+
+Eris: You and the smoke detector need to get off my case.
+
+%
+
+Eris: So I can either do something dumb that could very well get me injured or I can listen to Rhea and not do the thing, 
+
+Eris: Well there’s a clear right answer here. 
+
+%Eris proceeds to throw five packs of mentos into a barrel full of diet coke.
+
+%
+
+Nadine Happy: I'm gonna eat the chicken breasts! 
+
+Dino: (snickering) Yeah, eat what you lack. 
+
+Eris: (deadpanning at Dino) Then maybe I should order brains on delivery for you.
+
+%
+
+Selena: **[pulls a glass a water from out of nowhere]**
+
+Clara: Where did you get that? 
+
+Selena: My pocket. 
+
+Clara: How do you keep a glass of water in your pocket? 
+
+Selena: Skills.
+
+%
+
+Eris: Is this your plan B? 
+
+Nadine Annoyed: Technically, this is plan P. 
+
+Eris: Plan P? Is there a plan M? 
+
+Nadine Happy: Yes, but I marry Clara in plan M. 
+
+Clara Happy: I like plan M.
+
+%
+
+Selena: You have to apologize to King Quincy! 
+
+Kranion Angry: Fine! 
+
+Kranion Angry: Unfuck you, or whateva!
+
+%
+
+
+Selena: Remember, if you die in the simulation—
+
+Gambi: Yeah, yeah, I know, if you die in the simulation you die in real life.
+
+Selena: What? No! You need to reset the simulation with the terminal! What is WRONG with you?!
+
+%
+
+Sticky: I’m never donating blood ever again. 
+
+Sticky: The second you walk through the door, it’s just one invasive question after another! 
+
+Sticky Angry: ‘Where did you get it?’ 'Why is it in a bucket?’ I mean, do you want it or not?
+
+%
+
+Clara: Knowledge is knowing that a tomato is a fruit, and wisdom is not putting it in a fruit salad. 
+
+Nadine: That's deep. 
+
+Quincy: That means that ketchup is a smoothie. 
+
+Nadine Happy: That's deeper. 
+
+Sticky Angry: ...You guys are idiots.
+
+%
+
+Nadine Confused: Where did you get that tomato soup? 
+
+Quincy: It’s actually a bowl of ketchup I just microwaved.
+
+%
+
+Sticky: Quick! You must come with me! Your in great danger! 
+
+Tikiman: Why?! 
+
+Sticky: Because I’ll kill you if you don’t.
+
+%
+
+Clara: Oh, they left the bowl out? 
+
+Clara: It says, “Take two pieces of candy.” 
+
+Gambi: Nobody around though… 
+
+%Gambi grabs the entire bowl and runs off with it.
+
+Clara: NO—
+
+%
+
+Nadine: When I get murdered, can you make sure I become an unsolved case? 
+
+Eris Shocked: wHat? 
+
+Nadine Happy: I want to be on Buzzfeed Unsolved. 
+
+Eris Angry: Can we go back to the part when you said "when I get murdered"?
+
 EpFin
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
