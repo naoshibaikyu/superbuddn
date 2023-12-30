@@ -617,12 +617,6 @@ Gambi: Oh, we're not acting. We really are like this.
 
 %
 
-Nadine Confused: What is it, Eris?
-
-Eris: I thought it’d be nice for us to talk just by ourselves.
-
-Nadine Confused: ...Sure.
-
 Eris: (giving Nadine one of the mugs) Here, it's hot coffee.
 
 Nadine Happy: Thanks.
@@ -631,13 +625,13 @@ Eris: Hot isn't it?
 
 Nadine Confused: Yeah... really hot.
 
-Eris: (with concern) It's actually iced coffee.
+Eris: It's actually iced coffee.
 
 Nadine Shocked: What?
 
 Eris: I had Rhea make it cold.
 
-Nadine Sad: (nervously) Oh...yeah, of course it's cold.
+Nadine Sad: Oh...yeah, of course it's cold.
 
 Eris: I lied. It's actually hot.
 
