@@ -7,13 +7,11 @@ EpStart
 
 <!-- Epilogue Info -->
 
-@EPNUM: Season 1 Episode 1
+@EPNUM: Season 1 Episode ?
 
 @TITLE: Roadtrip Episode
 
 @AUTHOR: By Arrietty
-
-# ACT I
 
 Dino: We've finally caught Nadine and Eris!! Yeah!!
 
@@ -63,7 +61,7 @@ Kranion: ...
 
 Sticky Angry: Wait, **how** did we get here...??
 
-???: HONK HONKKKK
+Unknown: HONK HONKKKK
 
 Dino: What the?
 
