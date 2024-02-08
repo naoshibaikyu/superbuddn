@@ -65,7 +65,7 @@ Unknown: HONK HONKKKK
 
 Dino: What the?
 
-Suddenly a floating bus has its balloons popped and it comes crashing down on the skeletons next to the girls.
+%Suddenly a floating bus has its balloons popped and it comes crashing down on the skeletons next to the girls.
 
 Scruffy: I'm back!
 
