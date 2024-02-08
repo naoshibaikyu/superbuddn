@@ -37,7 +37,7 @@ Kranion Angry: Ugh!! Yah still on about this, bro?
 
 Sticky Angry: Watch it, diphead. You will finally realize I'm not the crazy one! 
 
-Kranion Angry: Whatevah, let tear her apart anyways. I've got a bone to pick with her!
+Kranion Angry: Whatevah, lemme tear her apart anyways. I've got a bone to pick with her!
 
 Nadine Annoyed: Is this still about the skull mobile?
 
