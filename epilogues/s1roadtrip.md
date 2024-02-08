@@ -45,7 +45,7 @@ Sticky: Can it, Kranion. I'm calling the shots here. I will make sure she will b
 
 Sticky Angry: ...professionally.
 
-Nadine Shocked: (very nervious) U-um. What?!
+Nadine Shocked: (very nervous) U-um. What?!
 
 Eris Angry: She's not a robot either, weirdo. Don't you lay a finger on her!
 
@@ -61,7 +61,7 @@ Kranion: ...
 
 Sticky Angry: Wait, **how** did we get here...??
 
-Unknown: HONK HONKKKK
+Unknown: **HONK HONKKKK**
 
 Dino: What the?
 
