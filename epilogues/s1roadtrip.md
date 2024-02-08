@@ -51,7 +51,7 @@ Eris Angry: She's not a robot either, weirdo. Don't you lay a finger on her!
 
 Sticky: Silence! Dino, get the tools and ***dismantle*** Nadine.
 
-Nadine Happy: *interrupting* Hey how did you three end up here? Aren't we on Ludicrous World?
+Nadine Happy: (interrupting) Hey how did you three end up here? Aren't we on Ludicrous World?
 
 Sticky: ...
 
