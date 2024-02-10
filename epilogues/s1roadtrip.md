@@ -107,7 +107,6 @@ Dino: Who was that again?
 
 Sticky: Shut it and get in the skull van!
 
-
 %
 
 Dino: We've finally caught Nadine and Eris!! Yeah!!
@@ -160,7 +159,7 @@ Sticky Angry: Wait, **how** did we get here...??
 
 Unknown: **HONK HONKKKK**
 
-Dino Shocked: What the?
+Dino Surprised: What the?
 
 %Suddenly a floating bus has its balloons popped and it comes crashing down on the skeletons next to the girls.
 
