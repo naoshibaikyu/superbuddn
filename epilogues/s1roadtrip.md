@@ -159,7 +159,7 @@ Sticky Angry: Wait, **how** did we get here...??
 
 Unknown: **HONK HONKKKK**
 
-Dino Surprised: What the?
+Dino Shocked: What the?
 
 %Suddenly a floating bus has its balloons popped and it comes crashing down on the skeletons next to the girls.
 
