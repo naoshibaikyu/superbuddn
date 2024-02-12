@@ -120,57 +120,57 @@ Nadine: There is a little restaurant right there too.
 
 Eris: Hungry?
 
-Nadine: Mm-hm!
+Nadine Happy: Mm-hm!
 
 Scruffy: (mindlessly playing paddle ball) 302, 303, 304, 305... (stops for a bit) I guess I can go for some funfetti chicken...
 
-Eris: Do you ever get tired of that bit?
+Eris Annoyed: Do you ever get tired of that bit?
 
 Scruffy: What bit?
 
-Eris: Nothing.
+Eris Annoyed: Nevermind.
 
 Scruffy: (continues) 306, 307...
 
-%At the stop the trio enters the resturant. Not too long after, little do they know the skeleton trio has been searching for them.
+%At the stop the trio enters the restaurant. Not too long after, little do they know the skeleton trio has been searching for them.
 
 Dino: H-Hey, Boss! I think I found them at a stop! 
 
-Sticky: Perfect. I knew Scruffy would stop at the Funfetti Resturant and I have an idea.
+Sticky: Perfect. I knew Scruffy would stop at the Funfetti Restaurant and I have an idea.
 
-Kranion: Ah brotha, here we go...
+Kranion Angry: Ah brotha, here we go...
 
-Sticky: Can it! What was I gonna say... ah yeah-
+Sticky Angry: Can it! What was I gonna say... ah yeah-
 
 Sticky: We slash their tires and then when they come back and try to start the car then we ambush them. Easy as pie.
 
 Kranion: Yawn... that's lame and unimaginative.
 
-Sticky: Oh yeah? Why don't you come up witha better one if you're so smart.
+Sticky Angry: Oh yeah? Why don't you come up witha better one if you're so smart.
 
 Dino: ...
 
-Kranion: Uhh... 
+Kranion Angry: Uhh... 
 
-Sticky: Well?
+Sticky Angry: Well?
 
 Dino: Guys.
 
 Kranion: Why don't we flatten their tires and then beat them to death! (crosses arms smugly)
 
-Sticky: That's the same exact plan as mine you nicompoop!!
+Sticky Angry: That's the same exact plan as mine you nincompoop!!
 
 Dino: Guys!
 
-Sticky: Shut up! We are doing a classic pointless brother to brother bickering!
+Sticky Angry: Shut up! We are doing a classic pointless brother to brother bickering!
 
-Kranion: Yah!!
+Kranion Angry: Yah!! Shut it!!
 
 %Eris's car goes past them.
 
 Sticky: What the-
 
-Kranion: Dino! Why didn't you say anything?
+Kranion Angry: Dino! Why didn't you say anything?
 
 Dino: I tried to!
 
@@ -178,19 +178,19 @@ Sticky: Whatever. After them!
 
 %
 
-Eris: (completely deadpan) ...
+Eris Annoyed: (completely deadpan) ...
 
-Nadine: (eating Funfetti cake happily)
+Nadine Happy: (eating Funfetti cake happily)
 
 Scruffy: (eating Funfetti Chicken) Told you I wasn't doing a bit!
 
-Eris: ...
+Eris Annoyed: ...
 
-Nadine: I've saved a slice for you!
+Nadine Happy: I've saved a slice for you!
 
 Eris: Thank you Nadine but I've kinda lost my appetite.
 
-Nadine: More cake for me!
+Nadine Glad: More cake for me!
 
 %Minutes later, Scruffy turns his back around and notices the Skull Van nearby.
 
@@ -198,7 +198,7 @@ Kranion: (holding a rocket launcher) Ready to fire, bro.
 
 Scruffy: Huh, didn't expect to see them!
 
-Nadine: Huh? You said something?
+Nadine Confused: Huh? You said something?
 
 Scruffy: Don't worry about it, just talking to myself.
 
@@ -206,55 +206,55 @@ Nadine: Okay.
 
 %Scruffy hastily tosses tiny spikes out of the window.
 
-Pop!!
+%**Pop!!**
 
 Sticky: OUR TIRES!! WE'RE SPINNING OUT OF CONTROL!!
 
-Dino: WHAT DO WE DO BOSS?!
+Dino Shocked: WHAT DO WE DO BOSS?!
 
 Kranion: PANIC!!
 
-Sticky: I'M THE BOSS-
+Sticky Angry: I'M THE BOSS-
 
 %The trio crashes into a nearby tree, Kranion's rocket launcher goes off hitting the tree and it falls over on the van, crushing it and blocking the road.
 
-Nadine: What was that?!
+Nadine Confused: What was that?!
 
 Scruffy: Traffic.
 
 Nadine: Must've been a real serious accident... right Eris?
 
-Nadine: Eris?
+Nadine Confused: Eris?
 
 Eris: (asleep at the wheel) Zzzz...
 
-Nadine: U-Uh- ERIS WAKE UP!! (attempts to steer the wheel in a panic)
+Nadine Shocked: U-Uh- ERIS WAKE UP!! (attempts to steer the wheel in a panic)
 
-Eris: H-Huh wh-
+Eris Shocked: H-Huh wh-
 
 The car swerves off road, the trio screams as the car drives nearly off the hill but Nadine hits the breaks on time.
 
-Eris: Ugh... What happened?
+Eris Shocked: Ugh... What happened?
 
-Nadine: (shaken) Y-you fell asleep and we almost drove off the hill!
+Nadine Shocked: (shaken) Y-you fell asleep and we almost drove off the hill!
 
 Eris: Nadine! I'm so sorry- I...
 
-Nadine: That was scary and fun!!! Can we do it again?
+Nadine Happy: That was scary and fun!!! Can we do it again?
 
-Eris: ...No! I had enough near death crashing experiences in my life.
+Eris Annoyed: ...No! I had enough near death crashing experiences in my life.
 
 Scruffy: And how!
 
 Eris: Nadine, can you drive in my place? I don't think I'm rested enough...
 
-Nadine: I never drove a car... No license either.
+Nadine Sad: I never drove a car... No license either.
 
 Eris: ...
 
 Scruffy: You can count on me-
 
-Eris: No!
+Eris Angry: No!
 
 Nadine: I can keep him in check! I promise we will be perfectly okay! You can change back when you rest enough.
 
@@ -266,117 +266,119 @@ Nadine: Uh, aye aye!
 
 Eris: (waking up) Mmmm..? (Looking at the window) Why are we in a desert... full of... mountains made of BARRELS?!
 
-Scruffy: Oh hey funny story.
+Scruffy: Oh hey! Funny story.
 
-Eris: Scruffy!! Are we in Barrel Canyon?!
+Eris Annoyed: Scruffy!! Are we in Barrel Canyon?!
 
 Scruffy: The interstate of Barrel Canyon!
 
-Eris: How?! I was just joking!!
+Eris Angry: How?! I was just joking!!
 
 Scruffy: (shrugs)
 
-Nadine: I've been keeping an eye out too. One moment I blinked and the next we are suddenly here! Interesting sight though! What's the problem?
+Nadine Confused: I've been keeping an eye out too. One moment I blinked and the next we are suddenly here! Interesting sight though! What's the problem?
 
 Eris: WE AREN'T ON EARTH ANYMORE!
 
-Nadine: What?!
+Nadine Shocked: What?!
 
 Scruffy: Haha yeah we're somehow on Ludicrous World! Buckle up! It'll be a wild ride!
 
-Nadine: We... are on another planet? For real?
+Nadine Shocked: We... are on another planet? For real?
 
-Eris: How did this happened?! Tell me the truth! How long was I out?!
+Eris Angry: How did this happened?! Tell me the truth! How long was I out?!
 
-Scruffy: Dunno how we got here. (shrugs earnestly)
+Scruffy: Dunno how we got here! (shrugs earnestly)
 
 Nadine: And you were only asleep for like two minutes.
 
-Eris: ...
+Eris Annoyed: ...
 
 Scruffy: That's okay! It'll only take us 8 hours to get out of here!
 
-Eris: ... ...
+Eris Annoyed: ... ...
 
-Nadine: ...Can't we just turn around?
+Nadine Sad: ...Can't we just turn around?
 
 Scruffy: Nope! We'd only hit an invisible wall! And if we touch the edges of the road, we will be blown back to the start!
 
-Eris: ... ... ...
+Eris Annoyed: ... ... ...
 
 Nadine: Sounds like a weird video game!
 
 Scruffy: But real!
 
-Eris: (curls into a ball)
+Eris Annoyed: (curls into a ball)
 
 Nadine: I guess I'll keep counting the utility poles we've been passing by. 230... 231... 232...
 
 Scruffy: On the bright side, there is a really nice monument right at the end of the road!
 
-Eris: ... ... ... ...
+Eris Annoyed: ... ... ... ...
 
 Nadine: Ohh, is it worth it?
 
 Scruffy: You betcha it is!
 
-Nadine: How exciting and also grueling.
+Nadine Happy: How exciting and also grueling...
 
-Eris: (thud)
+Eris Annoyed: (thud)
 
 %Overwhelmed and exhausted, Eris drops asleep again.
 
-Nadine: ...Oh.
+Nadine Sad: ...Oh.
 
 Scruffy: Eh, we'll be halfway through on the next stop.
 
-Nadine: H-half way? (picks up map and looks at the back) Wow. It really is a barren wasteland... 380... 381... 382...
+Nadine Shocked: H-half way? (picks up map and looks at the back) Wow. It really is a barren wasteland... 380... 381... 382...
 
 %Later...
 
 Scruffy: Oh hey! A suspiciously highly detailed rat!
 
-Nadine: (looking at the sides of the road) Ohhh... Weird!
+Nadine Happy: (looking at the sides of the road) Ohhh... Weird!
 
 Scruffy: Not as weird as the monument we're going to see!
 
-Nadine: Yay!
+Nadine Happy: Yay!
 
 Nadine: ...
 
-Nadine: This is kind of boring... Hey can I learn how to drive? It's a straight road so can't be too hard, right?
+Nadine Sad: This is kind of boring...
+
+Nadine Happy: Hey can I learn how to drive? It's a straight road so that can't be too hard, right?
 
 Scruffy: Sure!
 
 %Meanwhile
 
-Kranion: Oh that does it! We are really gonna make it personal!!
+Kranion Angry: Oh!! That does it! We are really gonna make it personal!!
 
 Dino: But boss, you've been making it personal the entire time.
 
-Sticky: (glares) I am the boss for the last time!
+Sticky Angry: (glares) I am the boss for the last time!
 
 Dino: Sorry Boss Sticky...
 
-Kranion: (glares at Sticky) No! I am the Boss! And I am leading the charge! 
+Kranion Angry: (glares at Sticky) No! I am the Boss! And I am leading the charge! 
 
 Dino: (sweating) C-Can't we work as a team or s-something?
 
-Kranion: What team? I'm only here because I have a personal vandana against Nadine!
+Kranion Angry: What team? I'm only here because I have a personal vendetta against Nadine!
 
-Sticky: And I'm only here because I have a life-long personal vandana against Scruffy AND my diphead brother.
+Sticky Angry: And I'm only here because I have a life-long personal vendetta against Scruffy AND my diphead brother.
 
-Kranion: Oh yeah? Why don't you fight me then, diphead?
+Kranion Angry: Oh yeah? Why don't you fight me then, diphead?
 
-Sticky: You're only here so I can prove you wrong! I'll probably kill you later.
+Sticky Angry: You're only here so I can prove you wrong! I'll probably kill you later.
 
-Kranion: Bro, you're still really on about that dumb robot thing?!
+Kranion Angry: Bro, you're still really on about that dumb robot thing?!
 
 Sticky: Whatever. DINO! ETA on the repairs?
 
 Dino: All ready, b-boss!
 
-Kranion: ...
+Kranion Angry: ...
 
 Sticky: And the rocket thrusters?
 
@@ -386,39 +388,39 @@ Sticky: Excellent... Let's give them a surprise.
 
 %
 
-Nadine: What happens if I press the gas and the brake at the same time?
+Nadine Happy: What happens if I press the gas and the brake at the same time?
 
 Scruffy: The car takes a screenshot.
 
-Eris: (jolts up awake) Pull over. I’m driving now!
+Eris Annoyed: (jolts up awake) Pull over. I’m driving now!
 
 Nadine: Okay! (successfully stops the car) Oh hey, I did it right this time!
 
 %As Nadine and Eris gets out of the car to swap seats...
 
-Eris: (opening the driver seats door) Wait, do you hear that?
+Eris Shocked: (opening the driver seats door) Wait, do you hear that?
 
-Nadine: Sounds like its coming from behind-
+Nadine Confused: Sounds like its coming from behind-
 
 Kranion: SURPRISE FUCKERS-
 
-Sticky: DINO! WE WENT PAST THEM! TURN AROUND!
+Sticky Angry: DINO! YOU IDIOT! WE WENT WAY PAST THEM! ***TURN AROUND!***
 
-Dino: SORRY BOSS THE THRUSTERS ARE TOO FAST!! 
+Dino Shocked: SORRY BOSS THE THRUSTERS ARE TOO FAST!! 
 
-Kranion: THEN PUT A BREAK ON THEM AND TURN!!
+Kranion Angry: THEN PUT A BREAK ON THEM AND TURN!!
 
 %The skull van swerves around but immediately gets blown away by the mysterious wind for going off road.
 
-Sticky: YOU IDIOTSSSSS....
+Sticky Angry: YOU IDIOTSSSSS....
 
 %The skull van disappears from view.
 
-Eris: Huh? What was that all about?
+Eris Annoyed: Huh? What was that all about?
 
 Scruffy: (knowing smile) Heh heh beats me.
 
-Nadine: Huh... anyways... Are you well rested? You've slept for 2 hours. 
+Nadine Confused: Huh... anyways... Are you well rested? You've slept for 2 hours. 
 
 Eris: Yeah I think that was enough to keep me going for the rest of the... trip. Do we really have 6 hours more of this?
 
@@ -426,19 +428,19 @@ Scruffy: We can listen to the radio to pass time!
 
 %
 
-Nadine: Hey, the radio host told us to "Press L to Learn". What does that mean?
+Nadine Confused: Hey, the radio host told us to "Press L to Learn". What does that mean?
 
-Eris: There is no L button!
+Eris: But there is no L button.
 
-Nadine: Awww... it'll forever be a mystery...
+Nadine Sad: Awww... it'll forever be a mystery...
 
 Scruffy: (eating funfetti chicken)
 
-Eris: Hasn't those gotten bad by now?
+Eris Annoyed: Hasn't those gotten bad by now?
 
 Scruffy: Not when they're injected with funfetti!
 
-Nadine: ...
+Nadine Sad: ...
 
 Eris: Okay nevermind, I don't want to know anymore.
 
@@ -446,7 +448,7 @@ Scruffy: I'm freaks.
 
 %A low tone beep plays.
 
-Nadine: Don't tell me...
+Nadine Sad: Don't tell me...
 
 Eris: Our gas is getting really low!
 
@@ -456,49 +458,49 @@ Eris: Is there no gas stations here?
 
 Scruffy: No but we can stop at the balloon store in the next hour.
 
-Eris: ...Why?
+Eris Annoyed: ...Why?
 
 Scruffy: To buy balloons.
 
-Eris: This isn't funny. We're in danger, Scruffy.
+Eris Angry: This isn't funny. We're in danger, Scruffy.
 
-Nadine: Are we going to be okay?
+Nadine Sad: Are we going to be okay?
 
 %The last bit of gas finally gives out.
 
-Nadine: No!
+Nadine Sad: No!
 
-Eris: Anddd that's it. The gas is all used up. We're stuck. Stuck in this endless hell of an interstate. (slams her head on the steering wheel in utter defeat)
+Eris Annoyed: Anddd that's it. The gas is all used up. We're stuck. Stuck in this endless hell of an interstate. (slams her head on the steering wheel in utter defeat)
 
-Nadine: Eris...
+Nadine Sad: Eris...
 
 %Scruffy thinks very hard til his head hurts bad then he gets an idea.
 
 Scruffy: (clutching his head) One moment.
 
-Nadine: What are you doing?
+Nadine Confused: What are you doing?
 
 %Scruffy gets out of the car then sits on the road.
 
-Eris: Even he has given up...
+Eris Annoyed: Even he has given up...
 
 %Scruffy slowly levitates above the road and starts making engine noises.
 
-Nadine: Uh...
+Nadine Shocked: Uh...
 
 Scruffy: Be back in a few minutes.
 
 %VROOOM. Scruffy takes off like a car!
 
-Eris: 
+Eris Shocked: 
 
-Nadine: 
+Nadine Shocked: 
 
-Eris: 
+Eris Shocked: 
 
-Nadine:
+Nadine Shocked: 
 
-Eris: What the h-
+Eris Shocked: What the h-
 
 %
 
