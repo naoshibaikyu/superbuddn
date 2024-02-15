@@ -232,7 +232,7 @@ Nadine Shocked: U-Uh- ERIS WAKE UP!! (attempts to steer the wheel in a panic)
 
 Eris Shocked: H-Huh wh-
 
-The car swerves off road, the trio screams as the car drives nearly off the hill but Nadine hits the breaks on time.
+%The car swerves off road, the trio screams as the car drives nearly off the hill but Nadine hits the breaks on time.
 
 Eris Shocked: Ugh... What happened?
 
