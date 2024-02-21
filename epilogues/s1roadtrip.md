@@ -238,7 +238,7 @@ Eris Shocked: Ugh... What happened?
 
 Nadine Shocked: (shaken) Y-you fell asleep and we almost drove off the hill!
 
-Eris: Nadine! I'm so sorry- I...
+Eris Shocked: Nadine! I'm so sorry- I...
 
 Nadine Happy: That was scary and fun!!! Can we do it again?
 
@@ -250,7 +250,7 @@ Eris: Nadine, can you drive in my place? I don't think I'm rested enough...
 
 Nadine Sad: I never drove a car... No license either.
 
-Eris: ...
+Eris: 
 
 Scruffy: You can count on me-
 
@@ -370,15 +370,17 @@ Sticky Angry: And I'm only here because I have a life-long personal vendetta aga
 
 Kranion Angry: Oh yeah? Why don't you fight me then, diphead?
 
-Sticky Angry: You're only here so I can prove you wrong! I'll probably kill you later.
+Sticky Angry: I only brought you here so I can prove you wrong! I'll kill you another time.
 
-Kranion Angry: Bro, you're still really on about that dumb robot thing?!
+Kranion Angry: Prove me wrong? Bro, you're still really on about that dumb robot thing?!
 
-Sticky: Whatever. DINO! ETA on the repairs?
-
-Dino: All ready, b-boss!
+Sticky Angry: Says the idiot who still thinks she stole your wallet.
 
 Kranion Angry: ...
+
+Sticky: DINO! ETA on the repairs?
+
+Dino: All ready, b-boss!
 
 Sticky: And the rocket thrusters?
 
@@ -404,6 +406,8 @@ Nadine Confused: Sounds like its coming from behind-
 
 Kranion: SURPRISE FUCKERS-
 
+%The skull van zooms straight past them.
+
 Sticky Angry: DINO! YOU IDIOT! WE WENT WAY PAST THEM! ***TURN AROUND!***
 
 Dino Shocked: SORRY BOSS THE THRUSTERS ARE TOO FAST!! 
@@ -420,9 +424,9 @@ Eris Annoyed: Huh? What was that all about?
 
 Scruffy: (knowing smile) Heh heh beats me.
 
-Nadine Confused: Huh... anyways... Are you well rested? You've slept for 2 hours. 
+Nadine Confused: Huh... anyways... Are you well rested? You've only slept for two more hours. 
 
-Eris: Yeah I think that was enough to keep me going for the rest of the... trip. Do we really have 6 hours more of this?
+Eris: Yeah I think that was enough to keep me going for the rest of the... trip. Do we really have six hours more of this?
 
 Scruffy: We can listen to the radio to pass time!
 
@@ -430,19 +434,19 @@ Scruffy: We can listen to the radio to pass time!
 
 Nadine Confused: Hey, the radio host told us to "Press L to Learn". What does that mean?
 
-Eris: But there is no L button.
+Eris: No idea, this car has no L button.
 
 Nadine Sad: Awww... it'll forever be a mystery...
 
-Scruffy: (eating funfetti chicken)
+Scruffy: (chewing on Funfetti chicken)
 
 Eris Annoyed: Hasn't those gotten bad by now?
 
-Scruffy: Not when they're injected with funfetti!
+Scruffy: Not when they're injected with Funfetti!
 
 Nadine Sad: ...
 
-Eris: Okay nevermind, I don't want to know anymore.
+Eris: Okay, never mind. I don't want to know anymore.
 
 Scruffy: I'm freaks.
 
@@ -450,21 +454,25 @@ Scruffy: I'm freaks.
 
 Nadine Sad: Don't tell me...
 
-Eris: Our gas is getting really low!
+Eris Shocked: We're running out of gas!
 
-Scruffy: (searching the bags) We don't have any gas canisters either!
+Nadine Angry: I said don't tell me!
 
-Eris: Is there no gas stations here?
+Eris: Do we have any back up?
 
-Scruffy: No but we can stop at the balloon store in the next hour.
+Scruffy: (searching the bags) We don't have any gas canisters, so no.
 
-Eris Annoyed: ...Why?
+Eris: When's the nearest gas station?
+
+Scruffy: There's nothing here but a balloon store a several miles ahead.
+
+Eris Annoyed: ...What? Why that of all things?
 
 Scruffy: To buy balloons.
 
-Eris Angry: This isn't funny. We're in danger, Scruffy.
+Eris Angry: That's not what I mean!
 
-Nadine Sad: Are we going to be okay?
+Nadine Sad: Are we even going to be okay?
 
 %The last bit of gas finally gives out.
 
@@ -482,7 +490,7 @@ Nadine Confused: What are you doing?
 
 %Scruffy gets out of the car then sits on the road.
 
-Eris Annoyed: Even he has given up...
+Eris Annoyed: Wow. Even he has given up...
 
 %Scruffy slowly levitates above the road and starts making engine noises.
 
