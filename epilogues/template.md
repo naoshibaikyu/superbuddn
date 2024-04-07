@@ -12,9 +12,9 @@ EpStart
 
 %The percent sign is what we use for narration or dialog said by no character.
 
-Nadine: This is an example of Nadine, with a neutral expression, saying something. "Nadine:" For example.
+Nadine: This is an example of Nadine, with a neutral expression, saying something.
 
-Nadine Angry: This is an example of Nadine, but angry. Remember to type their names properly along with the emote (if needed). "Nadine Angry:" For example.
+Nadine Angry: This is an example of Nadine, but angry. Remember to type their names properly along with the emote (if needed).
 
 %Right now there are several universal emotes, but most characters at the moment don't have most of these.
 
