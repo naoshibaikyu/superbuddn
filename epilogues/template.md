@@ -42,6 +42,8 @@ Kranion Angry: SHUT UP I'M TRYING TO SLEEP
 
 Dumbass: Sorry.
 
+%The end.
+
 <!-- The episode ends here with "EpFin". It ends the format. Since it's already here, you don't need to mess with it. -->
 
 EpFin
