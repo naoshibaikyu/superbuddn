@@ -46,7 +46,7 @@ Eris Annoyed: Stop.
 
 Kranion Angry: SHUT UP I'M TRYING TO SLEEP
 
-Stick Angry: FOR REAL OR WE'LL SKIN YOU ALL ALIVE.
+Sticky Angry: FOR REAL OR WE'LL SKIN YOU ALL ALIVE.
 
 Eris Shocked: Sorry.
 
