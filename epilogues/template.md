@@ -36,7 +36,7 @@ Scruffy: This is another character. The freak himself!!
 
 Scruffy Shocked: Unfortunately he does not have Shocked right now. So he'll look like this. But that is okay because that can be solved by having the webmaster insert a mugshot emote of that. So it's fine to have this here because it doesn't mess with the formatting at all.
 
-Dumbass: A character named "Dumbass" does not exist. So he'll be displayed like this. No mugshot, so it's safe to assume it's a random NPC. If you want a mugshot for a character, we can talk about making a mugshot and adding them in.
+Dumbass: A character named "Dumbass" does not exist in the character database file, unlike Nadine and Scruffy. So he'll be displayed with no mugshot, so it's safe to assume it's a random unimportant NPC. If you want a mugshot for a character, we can talk about making a mugshot and adding them in. The webmaster handles it all! ovo7
 
 Kranion Angry: SHUT UP I'M TRYING TO SLEEP
 
