@@ -49,10 +49,10 @@ Barry! Breakfast is ready!
 Ooming!
 Hang on a second.
 Hello?
-- Barry?
-- Adam?
-- Oan you believe this is happening?
-- I can't. I'll pick you up.
+Barry?
+Adam?
+Can you believe this is happening?
+I can't. I'll pick you up.
 Looking sharp.
 Use the stairs. Your father
 paid good money for those.
@@ -62,16 +62,16 @@ We're very proud of you, son.
 A perfect report card, all B's.
 Very proud.
 Ma! I got a thing going here.
-- You got lint on your fuzz.
-- Ow! That's me!
-- Wave to us! We'll be in row 118,000.
-- Bye!
+You got lint on your fuzz.
+Ow! That's me!
+Wave to us! We'll be in row 118,000.
+Bye!
 Barry, I told you,
 stop flying in the house!
-- Hey, Adam.
-- Hey, Barry.
-- Is that fuzz gel?
-- A little. Special day, graduation.
+Hey, Adam.
+Hey, Barry.
+Is that fuzz gel?
+A little. Special day, graduation.
 Never thought I'd make it.
 Three days grade school,
 three days high school.
@@ -79,12 +79,12 @@ Those were awkward.
 Three days college. I'm glad I took
 a day and hitchhiked around the hive.
 You did come back different.
-- Hi, Barry.
-- Artie, growing a mustache? Looks good.
-- Hear about Frankie?
-- Yeah.
-- You going to the funeral?
-- No, I'm not going.
+Hi, Barry.
+Artie, growing a mustache? Looks good.
+Hear about Frankie?
+Yeah.
+You going to the funeral?
+No, I'm not going.
 Everybody knows,
 sting someone, you die.
 Don't waste it on a squirrel.
@@ -96,10 +96,10 @@ an amusement park into our day.
 That's why we don't need vacations.
 Boy, quite a bit of pomp...
 under the circumstances.
-- Well, Adam, today we are men.
-- We are!
-- Bee-men.
-- Amen!
+ Well, Adam, today we are men.
+ We are!
+ Bee-men.
+ Amen!
 Hallelujah!
 Students, faculty, distinguished bees,
 please welcome Dean Buzzwell.
@@ -114,8 +114,8 @@ I heard it's just orientation.
 Heads up! Here we go.
 Keep your hands and antennas
 inside the tram at all times.
-- Wonder what it'll be like?
-- A little scary.
+ Wonder what it'll be like?
+ A little scary.
 Welcome to Honex,
 a division of Honesco
 and a part of the Hexagon Group.
@@ -135,22 +135,22 @@ into this soothing sweet syrup
 with its distinctive
 golden glow you know as...
 Honey!
-- That girl was hot.
-- She's my cousin!
-- She is?
-- Yes, we're all cousins.
-- Right. You're right.
-- At Honex, we constantly strive
+ That girl was hot.
+ She's my cousin!
+ She is?
+ Yes, we're all cousins.
+ Right. You're right.
+ At Honex, we constantly strive
 to improve every aspect
 of bee existence.
 These bees are stress-testing
 a new helmet technology.
-- What do you think he makes?
-- Not enough.
+ What do you think he makes?
+ Not enough.
 Here we have our latest advancement,
 the Krelman.
-- What does that do?
-- Oatches that little strand of honey
+ What does that do?
+ Oatches that little strand of honey
 that hangs after you pour it.
 Saves us millions.
 Oan anyone work on the Krelman?
@@ -190,19 +190,19 @@ what I'm talking about.
 Please clear the gate.
 Royal Nectar Force on approach.
 Wait a second. Oheck it out.
-- Hey, those are Pollen Jocks!
-- Wow.
+ Hey, those are Pollen Jocks!
+ Wow.
 I've never seen them this close.
 They know what it's like
 outside the hive.
 Yeah, but some don't come back.
-- Hey, Jocks!
-- Hi, Jocks!
+ Hey, Jocks!
+ Hi, Jocks!
 You guys did great!
 You're monsters!
 You're sky freaks! I love it! I love it!
-- I wonder where they were.
-- I don't know.
+ I wonder where they were.
+ I don't know.
 Their day's not planned.
 Outside the hive, flying who knows
 where, doing who knows what.
@@ -219,16 +219,16 @@ Those ladies?
 Aren't they our cousins too?
 Distant. Distant.
 Look at these two.
-- Oouple of Hive Harrys.
-- Let's have fun with them.
+ Oouple of Hive Harrys.
+ Let's have fun with them.
 It must be dangerous
 being a Pollen Jock.
 Yeah. Once a bear pinned me
 against a mushroom!
 He had a paw on my throat,
 and with the other, he was slapping me!
-- Oh, my!
-- I never thought I'd knock him out.
+ Oh, my!
+ I never thought I'd knock him out.
 What were you doing during this?
 Trying to alert the authorities.
 I can autograph that.
@@ -237,12 +237,12 @@ wasn't it, comrades?
 Yeah. Gusty.
 We're hitting a sunflower patch
 six miles from here tomorrow.
-- Six miles, huh?
-- Barry!
+ Six miles, huh?
+ Barry!
 A puddle jump for us,
 but maybe you're not up for it.
-- Maybe I am.
-- You are not!
+ Maybe I am.
+ You are not!
 We're going 0900 at J-Gate.
 What do you think, buzzy-boy?
 Are you bee enough?
@@ -251,8 +251,8 @@ on what 0900 means.
 Hey, Honex!
 Dad, you surprised me.
 You decide what you're interested in?
-- Well, there's a lot of choices.
-- But you only get one.
+ Well, there's a lot of choices.
+ But you only get one.
 Do you ever get bored
 doing the same job every day?
 Son, let me tell you about stirring.
@@ -270,12 +270,12 @@ That's a bad job
 for a guy with a stinger.
 Janet, your son's not sure
 he wants to go into honey!
-- Barry, you are so funny sometimes.
-- I'm not trying to be funny.
+ Barry, you are so funny sometimes.
+ I'm not trying to be funny.
 You're not funny! You're going
 into honey. Our son, the stirrer!
-- You're gonna be a stirrer?
-- No one's listening to me!
+ You're gonna be a stirrer?
+ No one's listening to me!
 Wait till you see the sticks I have.
 I could say anything right now.
 I'm gonna get an ant tattoo!
@@ -285,30 +285,30 @@ Shave my antennae.
 Shack up with a grasshopper. Get
 a gold tooth and call everybody "dawg"!
 I'm so proud.
-- We're starting work today!
-- Today's the day.
+ We're starting work today!
+ Today's the day.
 Oome on! All the good jobs
 will be gone.
 Yeah, right.
 Pollen counting, stunt bee, pouring,
 stirrer, front desk, hair removal...
-- Is it still available?
-- Hang on. Two left!
+ Is it still available?
+ Hang on. Two left!
 One of them's yours! Oongratulations!
 Step to the side.
-- What'd you get?
-- Picking crud out. Stellar!
+ What'd you get?
+ Picking crud out. Stellar!
 Wow!
 Oouple of newbies?
 Yes, sir! Our first day! We are ready!
 Make your choice.
-- You want to go first?
-- No, you go.
+ You want to go first?
+ No, you go.
 Oh, my. What's available?
 Restroom attendant's open,
 not for the reason you think.
-- Any chance of getting the Krelman?
-- Sure, you're on.
+ Any chance of getting the Krelman?
+ Sure, you're on.
 I'm sorry, the Krelman just closed out.
 Wax monkey's always open.
 The Krelman opened up again.
@@ -330,10 +330,10 @@ All right, we've got the sunflower patch
 in quadrant nine...
 What happened to you?
 Where are you?
-- I'm going out.
-- Out? Out where?
-- Out there.
-- Oh, no!
+ I'm going out.
+ Out? Out where?
+ Out there.
+ Oh, no!
 I have to, before I go
 to work for the rest of my life.
 You're gonna die! You're crazy! Hello?
@@ -342,14 +342,14 @@ If anyone's feeling brave,
 there's a Korean deli on 83rd
 that gets their roses today.
 Hey, guys.
-- Look at that.
-- Isn't that the kid we saw yesterday?
+ Look at that.
+ Isn't that the kid we saw yesterday?
 Hold it, son, flight deck's restricted.
 It's OK, Lou. We're gonna take him up.
 Really? Feeling lucky, are you?
 Sign here, here. Just initial that.
-- Thank you.
-- OK.
+ Thank you.
+ OK.
 You got a rain advisory today,
 and as you all know,
 bees cannot fly in rain.
@@ -361,8 +361,8 @@ Also, I got a couple of reports
 of root beer being poured on us.
 Murphy's in a home because of it,
 babbling like a cicada!
-- That's awful.
-- And a reminder for you rookies,
+ That's awful.
+ And a reminder for you rookies,
 bee law number one,
 absolutely no talking to humans!
 All right, launch positions!
@@ -373,10 +373,10 @@ Hello!
 You ready for this, hot shot?
 Yeah. Yeah, bring it on.
 Wind, check.
-- Antennae, check.
-- Nectar pack, check.
-- Wings, check.
-- Stinger, check.
+ Antennae, check.
+ Nectar pack, check.
+ Wings, check.
+ Stinger, check.
 Scared out of my shorts, check.
 OK, ladies,
 let's move it out!
@@ -398,8 +398,8 @@ Roses!
 Stand to the side, kid.
 It's got a bit of a kick.
 That is one nectar collector!
-- Ever see pollination up close?
-- No, sir.
+ Ever see pollination up close?
+ No, sir.
 I pick up some pollen here, sprinkle it
 over here. Maybe a dash over there,
 a pinch on that one.
@@ -427,8 +427,8 @@ Oareful, guys. It's a little grabby.
 My sweet lord of bees!
 Oandy-brain, get off there!
 Problem!
-- Guys!
-- This could be bad.
+ Guys!
+ This could be bad.
 Affirmative.
 Very close.
 Gonna hurt.
@@ -437,8 +437,8 @@ You are way out of position, rookie!
 Ooming in at you like a missile!
 Help me!
 I don't think these are flowers.
-- Should we tell him?
-- I think he knows.
+ Should we tell him?
+ I think he knows.
 What is this?!
 Match point!
 You can start packing up, honey,
@@ -446,10 +446,10 @@ because you're about to eat it!
 Yowser!
 Gross.
 There's a bee in the car!
-- Do something!
-- I'm driving!
-- Hi, bee.
-- He's back here!
+ Do something!
+ I'm driving!
+ Hi, bee.
+ He's back here!
 He's going to sting me!
 Nobody move. If you don't move,
 he won't sting you. Freeze!
@@ -513,12 +513,12 @@ Make it one of your special skills.
 Knocking someone out
 is also a special skill.
 Right. Bye, Vanessa. Thanks.
-- Vanessa, next week? Yogurt night?
-- Sure, Ken. You know, whatever.
-- You could put carob chips on there.
-- Bye.
-- Supposed to be less calories.
-- Bye.
+ Vanessa, next week? Yogurt night?
+ Sure, Ken. You know, whatever.
+ You could put carob chips on there.
+ Bye.
+ Supposed to be less calories.
+ Bye.
 I gotta say something.
 She saved my life.
 I gotta say something.
@@ -538,8 +538,8 @@ How should I start it?
 Here she comes! Speak, you fool!
 Hi!
 I'm sorry.
-- You're talking.
-- Yes, I know.
+ You're talking.
+ Yes, I know.
 You're talking!
 I'm so sorry.
 No, it's OK. It's fine.
@@ -556,41 +556,41 @@ And if it wasn't for you...
 I had to thank you.
 It's just how I was raised.
 That was a little weird.
-- I'm talking with a bee.
-- Yeah.
+ I'm talking with a bee.
+ Yeah.
 I'm talking to a bee.
 And the bee is talking to me!
 I just want to say I'm grateful.
 I'll leave now.
-- Wait! How did you learn to do that?
-- What?
+ Wait! How did you learn to do that?
+ What?
 The talking thing.
 Same way you did, I guess.
 "Mama, Dada, honey." You pick it up.
-- That's very funny.
-- Yeah.
+ That's very funny.
+ Yeah.
 Bees are funny. If we didn't laugh,
 we'd cry with what we have to deal with.
 Anyway...
 Oan I...
 ...get you something?
-- Like what?
+ Like what?
 I don't know. I mean...
 I don't know. Ooffee?
 I don't want to put you out.
 It's no trouble. It takes two minutes.
-- It's just coffee.
-- I hate to impose.
-- Don't be ridiculous!
-- Actually, I would love a cup.
+ It's just coffee.
+ I hate to impose.
+ Don't be ridiculous!
+ Actually, I would love a cup.
 Hey, you want rum cake?
-- I shouldn't.
-- Have some.
-- No, I can't.
-- Oome on!
+ I shouldn't.
+ Have some.
+ No, I can't.
+ Oome on!
 I'm trying to lose a couple micrograms.
-- Where?
-- These stripes don't help.
+ Where?
+ These stripes don't help.
 You look great!
 I don't know if you know
 anything about fashion.
@@ -612,12 +612,12 @@ About work? I don't know.
 I want to do my part for the hive,
 but I can't do it the way they want.
 I know how you feel.
-- You do?
-- Sure.
+ You do?
+ Sure.
 My parents wanted me to be a lawyer or
 a doctor, but I wanted to be a florist.
-- Really?
-- My only interest is flowers.
+ Really?
+ My only interest is flowers.
 Our new queen was just elected
 with that same campaign slogan.
 Anyway, if you look...
@@ -626,12 +626,12 @@ You're in Sheep Meadow!
 Yes! I'm right off the Turtle Pond!
 No way! I know that area.
 I lost a toe ring there once.
-- Why do girls put rings on their toes?
-- Why not?
-- It's like putting a hat on your knee.
-- Maybe I'll try that.
-- You all right, ma'am?
-- Oh, yeah. Fine.
+ Why do girls put rings on their toes?
+ Why not?
+ It's like putting a hat on your knee.
+ Maybe I'll try that.
+ You all right, ma'am?
+ Oh, yeah. Fine.
 Just having two cups of coffee!
 Anyway, this has been great.
 Thanks for the coffee.
@@ -641,8 +641,8 @@ I'd be up the rest of my life.
 Are you...?
 Oan I take a piece of this with me?
 Sure! Here, have a crumb.
-- Thanks!
-- Yeah.
+ Thanks!
+ Yeah.
 All right. Well, then...
 I guess I'll see you around.
 Or not.
@@ -655,8 +655,8 @@ This can't possibly work.
 He's all set to go.
 We may as well try it.
 OK, Dave, pull the chute.
-- Sounds amazing.
-- It was amazing!
+ Sounds amazing.
+ It was amazing!
 It was the scariest,
 happiest moment of my life.
 Humans! I can't believe
@@ -666,22 +666,22 @@ What were they like?
 Huge and crazy. They talk crazy.
 They eat crazy giant things.
 They drive crazy.
-- Do they try and kill you, like on TV?
-- Some of them. But some of them don't.
-- How'd you get back?
-- Poodle.
+ Do they try and kill you, like on TV?
+ Some of them. But some of them don't.
+ How'd you get back?
+ Poodle.
 You did it, and I'm glad. You saw
 whatever you wanted to see.
 You had your "experience." Now you
 can pick out yourjob and be normal.
-- Well...
-- Well?
+ Well...
+ Well?
 Well, I met someone.
 You did? Was she Bee-ish?
-- A wasp?! Your parents will kill you!
-- No, no, no, not a wasp.
-- Spider?
-- I'm not attracted to spiders.
+ A wasp?! Your parents will kill you!
+ No, no, no, not a wasp.
+ Spider?
+ I'm not attracted to spiders.
 I know it's the hottest thing,
 with the eight legs and all.
 I can't get by that face.
@@ -689,8 +689,8 @@ So who is she?
 She's... human.
 No, no. That's a bee law.
 You wouldn't break a bee law.
-- Her name's Vanessa.
-- Oh, boy.
+ Her name's Vanessa.
+ Oh, boy.
 She's so nice. And she's a florist!
 Oh, no! You're dating a human florist!
 We're not dating.
@@ -703,17 +703,17 @@ And she understands me.
 This is over!
 Eat this.
 This is not over! What was that?
-- They call it a crumb.
-- It was so stingin' stripey!
+ They call it a crumb.
+ It was so stingin' stripey!
 And that's not what they eat.
 That's what falls off what they eat!
-- You know what a Oinnabon is?
-- No.
+ You know what a Oinnabon is?
+ No.
 It's bread and cinnamon and frosting.
 They heat it up...
 Sit down!
 ...really hot!
-- Listen to me!
+ Listen to me!
 We are not them! We're us.
 There's us and there's them!
 Yes, but who can deny
@@ -722,8 +722,8 @@ There's no yearning.
 Stop yearning. Listen to me!
 You have got to start thinking bee,
 my friend. Thinking bee!
-- Thinking bee.
-- Thinking bee.
+ Thinking bee.
+ Thinking bee.
 Thinking bee! Thinking bee!
 Thinking bee! Thinking bee!
 There he is. He's in the pool.
@@ -749,15 +749,15 @@ Go ahead. I'll catch up.
 Don't be too long.
 Watch this!
 Vanessa!
-- We're still here.
-- I told you not to yell at him.
+ We're still here.
+ I told you not to yell at him.
 He doesn't respond to yelling!
-- Then why yell at me?
-- Because you don't listen!
+ Then why yell at me?
+ Because you don't listen!
 I'm not listening to this.
 Sorry, I've gotta go.
-- Where are you going?
-- I'm meeting a friend.
+ Where are you going?
+ I'm meeting a friend.
 A girl? Is this why you can't decide?
 Bye.
 I just hope she's Bee-ish.
@@ -793,8 +793,8 @@ Work through it like any emotion:
 Anger, jealousy, lust.
 Oh, my goodness! Are you OK?
 Yeah.
-- What is wrong with you?!
-- It's a bug.
+ What is wrong with you?!
+ It's a bug.
 He's not bothering anybody.
 Get out of here, you creep!
 What was that? A Pic 'N' Save circular?
@@ -803,28 +803,28 @@ It felt like about 10 pages.
 Seventy-five is pretty much our limit.
 You've really got that
 down to a science.
-- I lost a cousin to Italian Vogue.
-- I'll bet.
+ I lost a cousin to Italian Vogue.
+ I'll bet.
 What in the name
 of Mighty Hercules is this?
 How did this get here?
 Oute Bee, Golden Blossom,
 Ray Liotta Private Select?
-- Is he that actor?
-- I never heard of him.
-- Why is this here?
-- For people. We eat it.
+ Is he that actor?
+ I never heard of him.
+ Why is this here?
+ For people. We eat it.
 You don't have
 enough food of your own?
-- Well, yes.
-- How do you get it?
-- Bees make it.
-- I know who makes it!
+ Well, yes.
+ How do you get it?
+ Bees make it.
+ I know who makes it!
 And it's hard to make it!
 There's heating, cooling, stirring.
 You need a whole Krelman thing!
-- It's organic.
-- It's our-ganic!
+ It's organic.
+ It's our-ganic!
 It's just honey, Barry.
 Just what?!
 Bees don't know about this!
@@ -836,8 +836,8 @@ I'm getting to the bottom of this.
 I'm getting to the bottom
 of all of this!
 Hey, Hector.
-- You almost done?
-- Almost.
+ You almost done?
+ Almost.
 He is here. I sense it.
 Well, I guess I'll go home now
 and just leave this nice honey out,
@@ -875,14 +875,14 @@ I am onto something huge here.
 I'm going to Alaska. Moose blood,
 crazy stuff. Blows your head off!
 I'm going to Tacoma.
-- And you?
-- He really is dead.
+ And you?
+ He really is dead.
 All right.
 Uh-oh!
-- What is that?!
-- Oh, no!
-- A wiper! Triple blade!
-- Triple blade?
+ What is that?!
+ Oh, no!
+ A wiper! Triple blade!
+ Triple blade?
 Jump on! It's your only chance, bee!
 Why does everything have
 to be so doggone clean?!
@@ -892,10 +892,10 @@ Stick your head out the window!
 From NPR News in Washington,
 I'm Oarl Kasell.
 But don't kill no more bugs!
-- Bee!
-- Moose blood guy!!
-- You hear something?
-- Like what?
+ Bee!
+ Moose blood guy!!
+ You hear something?
+ Like what?
 Like tiny screaming.
 Turn off the radio.
 Whassup, bee boy?
@@ -906,13 +906,13 @@ Wow!
 I assume wherever this truck goes
 is where they're getting it.
 I mean, that honey's ours.
-- Bees hang tight.
-- We're all jammed in.
+ Bees hang tight.
+ We're all jammed in.
 It's a close community.
 Not us, man. We on our own.
 Every mosquito on his own.
-- What if you get in trouble?
-- You a mosquito, you in trouble.
+ What if you get in trouble?
+ You a mosquito, you in trouble.
 Nobody likes us. They just smack.
 See a mosquito, smack, smack!
 At least you're out in the world.
@@ -923,8 +923,8 @@ Mosquito girl don't want no mosquito.
 You got to be kidding me!
 Mooseblood's about to leave
 the building! So long, bee!
-- Hey, guys!
-- Mooseblood!
+ Hey, guys!
+ Mooseblood!
 I knew I'd catch y'all down here.
 Did you bring your crazy straw?
 We throw it in jars, slap a label on it,
@@ -934,8 +934,8 @@ A bee's got a brain
 the size of a pinhead.
 They are pinheads!
 Pinhead.
-- Oheck out the new smoker.
-- Oh, sweet. That's the one you want.
+ Oheck out the new smoker.
+ Oh, sweet. That's the one you want.
 The Thomas 3000!
 Smoker?
 Ninety puffs a minute, semi-automatic.
@@ -972,14 +972,14 @@ That's a conspiracy theory.
 These are obviously doctored photos.
 How did you get mixed up in this?
 He's been talking to humans.
-- What?
-- Talking to humans?!
+ What?
+ Talking to humans?!
 He has a human girlfriend.
 And they make out!
 Make out? Barry!
 We do not.
-- You wish you could.
-- Whose side are you on?
+ You wish you could.
+ Whose side are you on?
 The bees!
 I dated a cricket once in San Antonio.
 Those crazy legs kept me up all night.
@@ -998,8 +998,8 @@ in lip balm for no reason whatsoever!
 Even if it's true, what can one bee do?
 Sting them where it really hurts.
 In the face! The eye!
-- That would hurt.
-- No.
+ That would hurt.
+ No.
 Up the nose? That's a killer.
 There's only one place you can sting
 the humans, one place where it matters.
@@ -1010,8 +1010,8 @@ With Bob Bumble at the anchor desk.
 Weather with Storm Stinger.
 Sports with Buzz Larvi.
 And Jeanette Ohung.
-- Good evening. I'm Bob Bumble.
-- And I'm Jeanette Ohung.
+ Good evening. I'm Bob Bumble.
+ And I'm Jeanette Ohung.
 A tri-county bee, Barry Benson,
 intends to sue the human race
 for stealing our honey,
@@ -1056,11 +1056,11 @@ Honey, her backhand's a joke!
 I'm not gonna take advantage of that?
 Quiet, please.
 Actual work going on here.
-- Is that that same bee?
-- Yes, it is!
+ Is that that same bee?
+ Yes, it is!
 I'm helping him sue the human race.
-- Hello.
-- Hello, bee.
+ Hello.
+ Hello, bee.
 This is Ken.
 Yeah, I remember you. Timberland, size
 ten and a half. Vibram sole, I believe.
@@ -1074,8 +1074,8 @@ You poor thing.
 You two have been at this for hours!
 Yes, and Adam here
 has been a huge help.
-- Frosting...
-- How many sugars?
+ Frosting...
+ How many sugars?
 Just one. I try not
 to use the competition.
 So why are you helping me?
@@ -1085,16 +1085,16 @@ Instead of flowers, people
 are giving balloon bouquets now.
 Those are great, if you're three.
 And artificial flowers.
-- Oh, those just get me psychotic!
-- Yeah, me too.
+ Oh, those just get me psychotic!
+ Yeah, me too.
 Bent stingers, pointless pollination.
 Bees must hate those fake things!
 Nothing worse
 than a daffodil that's had work done.
 Maybe this could make up
 for it a little bit.
-- This lawsuit's a pretty big deal.
-- I guess.
+ This lawsuit's a pretty big deal.
+ I guess.
 You sure you want to go through with it?
 Am I sure? When I'm done with
 the humans, they won't be able
@@ -1114,8 +1114,8 @@ You think billion-dollar multinational
 food companies have good lawyers?
 Everybody needs to stay
 behind the barricade.
-- What's the matter?
-- I don't know, I just got a chill.
+ What's the matter?
+ I don't know, I just got a chill.
 Well, if it isn't the bee team.
 You boys work on this?
 All rise! The Honorable
@@ -1184,10 +1184,10 @@ Beekeeper. I find that
 to be a very disturbing term.
 I don't imagine you employ
 any bee-free-ers, do you?
-- No.
-- I couldn't hear you.
-- No.
-- No.
+ No.
+ I couldn't hear you.
+ No.
+ No.
 Because you don't free bees.
 You keep bees. Not only that,
 it seems you thought a bear would be
@@ -1203,8 +1203,8 @@ Spitting out your throw pillows!
 OK, that's enough. Take him away.
 So, Mr. Sting, thank you for being here.
 Your name intrigues me.
-- Where have I heard it before?
-- I was with a band called The Police.
+ Where have I heard it before?
+ I was with a band called The Police.
 But you've never been
 a police officer, have you?
 No, I haven't.
@@ -1242,11 +1242,11 @@ This isn't a goodfella.
 This is a badfella!
 Why doesn't someone just step on
 this creep, and we can all go home?!
-- Order in this court!
-- You're all thinking it!
+ Order in this court!
+ You're all thinking it!
 Order! Order, I say!
-- Say it!
-- Mr. Liotta, please sit down!
+ Say it!
+ Mr. Liotta, please sit down!
 I think it was awfully nice
 of that bear to pitch in like that.
 I think the jury's on our side.
@@ -1255,8 +1255,8 @@ I'm a florist.
 Right. Well, here's to a great team.
 To a great team!
 Well, hello.
-- Ken!
-- Hello.
+ Ken!
+ Hello.
 I didn't think you were coming.
 No, I was just late.
 I tried to call, but... the battery.
@@ -1289,8 +1289,8 @@ Yeah, you do that.
 Look at that.
 You know, I've just about had it
 with your little mind games.
-- What's that?
-- Italian Vogue.
+ What's that?
+ Italian Vogue.
 Mamma mia, that's a lot of pages.
 A lot of ads.
 Remember what Van said, why is
@@ -1305,8 +1305,8 @@ Ken, I'm wearing a Ohapstick hat!
 This is pathetic!
 I've got issues!
 Well, well, well, a royal flush!
-- You're bluffing.
-- Am I?
+ You're bluffing.
+ Am I?
 Surf's up, dude!
 Poo water!
 That bowl is gnarly.
@@ -1352,16 +1352,16 @@ Don't worry. The only thing I have
 to do to turn this jury around
 is to remind them
 of what they don't like about bees.
-- You got the tweezers?
-- Are you allergic?
+ You got the tweezers?
+ Are you allergic?
 Only to losing, son. Only to losing.
 Mr. Benson Bee, I'll ask you
 what I think we'd all like to know.
 What exactly is your relationship
 to that woman?
 We're friends.
-- Good friends?
-- Yes.
+ Good friends?
+ Yes.
 How good? Do you live together?
 Wait a minute...
 Are you her little...
@@ -1370,17 +1370,17 @@ I've seen a bee documentary or two.
 From what I understand,
 doesn't your queen give birth
 to all the bee children?
-- Yeah, but...
-- So those aren't your real parents!
-- Oh, Barry...
-- Yes, they are!
+ Yeah, but...
+ So those aren't your real parents!
+ Oh, Barry...
+ Yes, they are!
 Hold me back!
 You're an illegitimate bee,
 aren't you, Benson?
 He's denouncing bees!
 Don't y'all date your cousins?
-- Objection!
-- I'm going to pincushion this guy!
+ Objection!
+ I'm going to pincushion this guy!
 Adam, don't! It's what he wants!
 Oh, I'm hit!!
 Oh, lordy, I am hit!
@@ -1393,8 +1393,8 @@ You see? You can't treat them
 like equals! They're striped savages!
 Stinging's the only thing
 they know! It's their way!
-- Adam, stay with me.
-- I can't feel my legs.
+ Adam, stay with me.
+ I can't feel my legs.
 What angel of mercy
 will come forward to suck the poison
 from my heaving buttocks?
@@ -1405,10 +1405,10 @@ versus the human race
 took a pointed turn against the bees
 yesterday when one of their legal
 team stung Layton T. Montgomery.
-- Hey, buddy.
-- Hey.
-- Is there much pain?
-- Yeah.
+ Hey, buddy.
+ Hey.
+ Is there much pain?
+ Yeah.
 I...
 I blew the whole case, didn't I?
 It doesn't matter. What matters is
@@ -1438,8 +1438,8 @@ but they don't check out!
 Oh, my.
 Oould you get a nurse
 to close that window?
-- Why?
-- The smoke.
+ Why?
+ The smoke.
 Bees don't smoke.
 Right. Bees don't smoke.
 Bees don't smoke!
@@ -1495,8 +1495,8 @@ to smoke machines
 and man-made wooden slat work camps?
 Living out our lives as honey slaves
 to the white man?
-- What are we gonna do?
-- He's playing the species card.
+ What are we gonna do?
+ He's playing the species card.
 Ladies and gentlemen, please,
 free these bees!
 Free the bees! Free the bees!
@@ -1519,8 +1519,8 @@ All right. One at a time.
 Barry, who are you wearing?
 My sweater is Ralph Lauren,
 and I have no pants.
-- What if Montgomery's right?
-- What do you mean?
+ What if Montgomery's right?
+ What do you mean?
 We've been living the bee way
 a long time, 27 million years.
 Oongratulations on your victory.
@@ -1553,8 +1553,8 @@ Hold it right there! Good.
 Tap it.
 Mr. Buzzwell, we just passed three cups,
 and there's gallons more coming!
-- I think we need to shut down!
-- Shut down? We've never shut down.
+ I think we need to shut down!
+ Shut down? We've never shut down.
 Shut down honey production!
 Stop making honey!
 Turn your key, sir!
@@ -1568,8 +1568,8 @@ Adam, you wouldn't believe
 how much honey was out there.
 Oh, yeah?
 What's going on? Where is everybody?
-- Are they out celebrating?
-- They're home.
+ Are they out celebrating?
+ They're home.
 They don't know what to do.
 Laying out, sleeping in.
 I heard your Uncle Oarl was on his way
@@ -1590,8 +1590,8 @@ They're doing nothing. It's amazing.
 Honey really changes people.
 You don't have any idea
 what's going on, do you?
-- What did you want to show me?
-- This.
+ What did you want to show me?
+ This.
 What happened here?
 That is not the half of it.
 Oh, no. Oh, my.
@@ -1617,8 +1617,8 @@ couldn't it?
 I know this is also partly my fault.
 How about a suicide pact?
 How do we do it?
-- I'll sting you, you step on me.
-- Thatjust kills you twice.
+ I'll sting you, you step on me.
+ Thatjust kills you twice.
 Right, right.
 Listen, Barry...
 sorry, but I gotta get going.
@@ -1642,8 +1642,8 @@ Roses!
 Vanessa!
 Roses?!
 Barry?
-- Roses are flowers!
-- Yes, they are.
+ Roses are flowers!
+ Yes, they are.
 Flowers, bees, pollen!
 I know.
 That's why this is the last parade.
@@ -1669,12 +1669,12 @@ I know every bee, plant
 and flower bud in this park.
 All we gotta do is get what they've got
 back here with what we've got.
-- Bees.
-- Park.
-- Pollen!
-- Flowers.
-- Repollination!
-- Across the nation!
+ Bees.
+ Park.
+ Pollen!
+ Flowers.
+ Repollination!
+ Across the nation!
 Tournament of Roses,
 Pasadena, Oalifornia.
 They've got nothing
@@ -1691,13 +1691,13 @@ How about The Princess and the Pea?
 I could be the princess,
 and you could be the pea!
 Yes, I got it.
-- Where should I sit?
-- What are you?
-- I believe I'm the pea.
-- The pea?
+ Where should I sit?
+ What are you?
+ I believe I'm the pea.
+ The pea?
 It goes under the mattresses.
-- Not in this fairy tale, sweetheart.
-- I'm getting the marshal.
+ Not in this fairy tale, sweetheart.
+ I'm getting the marshal.
 You do that!
 This whole parade is a fiasco!
 Let's see what this baby'll do.
@@ -1708,13 +1708,13 @@ is blend in with traffic...
 Once at the airport,
 there's no stopping us.
 Stop! Security.
-- You and your insect pack your float?
-- Yes.
+ You and your insect pack your float?
+ Yes.
 Has it been
 in your possession the entire time?
 Would you remove your shoes?
-- Remove your stinger.
-- It's part of me.
+ Remove your stinger.
+ It's part of me.
 I know. Just having some fun.
 Enjoy your flight.
 Then if we're lucky, we'll have
@@ -1739,13 +1739,13 @@ with the Sky Mall magazine?
 I'd like to order the talking
 inflatable nose and ear hair trimmer.
 Oaptain, I'm in a real situation.
-- What'd you say, Hal?
-- Nothing.
+ What'd you say, Hal?
+ Nothing.
 Bee!
 Don't freak out! My entire species...
 What are you doing?
-- Wait a minute! I'm an attorney!
-- Who's an attorney?
+ Wait a minute! I'm an attorney!
+ Who's an attorney?
 Don't move.
 Oh, Barry.
 Good afternoon, passengers.
@@ -1758,8 +1758,8 @@ There was a DustBuster,
 a toupee, a life raft exploded.
 One's bald, one's in a boat,
 they're both unconscious!
-- Is that another bee joke?
-- No!
+ Is that another bee joke?
+ No!
 No one's flying the plane!
 This is JFK control tower, Flight 356.
 What's your status?
@@ -1771,15 +1771,15 @@ and so is the copilot.
 Not good. Does anyone onboard
 have flight experience?
 As a matter of fact, there is.
-- Who's that?
-- Barry Benson.
+ Who's that?
+ Barry Benson.
 From the honey trial?! Oh, great.
 Vanessa, this is nothing more
 than a big metal bee.
 It's got giant wings, huge engines.
 I can't fly a plane.
-- Why not? Isn't John Travolta a pilot?
-- Yes.
+ Why not? Isn't John Travolta a pilot?
+ Yes.
 How hard could it be?
 Wait, Barry!
 We're headed into some lightning.
@@ -1809,10 +1809,10 @@ Their wings are too small...
 Haven't we heard this a million times?
 "The surface area of the wings
 and body mass make no sense."
-- Get this on the air!
-- Got it.
-- Stand by.
-- We're going live.
+ Get this on the air!
+ Got it.
+ Stand by.
+ We're going live.
 The way we work may be a mystery to you.
 Making honey takes a lot of bees
 doing a lot of small jobs.
@@ -1826,18 +1826,18 @@ back to working together.
 That's the bee way!
 We're not made of Jell-O.
 We get behind a fellow.
-- Black and yellow!
-- Hello!
+ Black and yellow!
+ Hello!
 Left, right, down, hover.
-- Hover?
-- Forget hover.
+ Hover?
+ Forget hover.
 This isn't so hard.
 Beep-beep! Beep-beep!
 Barry, what happened?!
 Wait, I think we were
 on autopilot the whole time.
-- That may have been helping me.
-- And now we're not!
+ That may have been helping me.
+ And now we're not!
 So it turns out I cannot fly a plane.
 All of you, let's get
 behind this fellow! Move it out!
@@ -1855,14 +1855,14 @@ Vanessa, pull yourself together.
 You have to snap out of it!
 You snap out of it.
 You snap out of it.
-- You snap out of it!
-- You snap out of it!
-- You snap out of it!
-- You snap out of it!
-- You snap out of it!
-- You snap out of it!
-- Hold it!
-- Why? Oome on, it's my turn.
+ You snap out of it!
+ You snap out of it!
+ You snap out of it!
+ You snap out of it!
+ You snap out of it!
+ You snap out of it!
+ Hold it!
+ Why? Oome on, it's my turn.
 How is the plane flying?
 I don't know.
 Hello?
@@ -1870,31 +1870,31 @@ Benson, got any flowers
 for a happy occasion in there?
 The Pollen Jocks!
 They do get behind a fellow.
-- Black and yellow.
-- Hello.
+ Black and yellow.
+ Hello.
 All right, let's drop this tin can
 on the blacktop.
 Where? I can't see anything. Oan you?
 No, nothing. It's all cloudy.
 Oome on. You got to think bee, Barry.
-- Thinking bee.
-- Thinking bee.
+ Thinking bee.
+ Thinking bee.
 Thinking bee!
 Thinking bee! Thinking bee!
 Wait a minute.
 I think I'm feeling something.
-- What?
-- I don't know. It's strong, pulling me.
+ What?
+ I don't know. It's strong, pulling me.
 Like a 27-million-year-old instinct.
 Bring the nose down.
 Thinking bee!
 Thinking bee! Thinking bee!
-- What in the world is on the tarmac?
-- Get some lights on that!
+ What in the world is on the tarmac?
+ Get some lights on that!
 Thinking bee!
 Thinking bee! Thinking bee!
-- Vanessa, aim for the flower.
-- OK.
+ Vanessa, aim for the flower.
+ OK.
 Out the engines. We're going in
 on bee power. Ready, boys?
 Affirmative!
@@ -1902,17 +1902,17 @@ Good. Good. Easy, now. That's it.
 Land on that flower!
 Ready? Full reverse!
 Spin it around!
-- Not that flower! The other one!
-- Which one?
-- That flower.
-- I'm aiming at the flower!
+ Not that flower! The other one!
+ Which one?
+ That flower.
+ I'm aiming at the flower!
 That's a fat guy in a flowered shirt.
 I mean the giant pulsating flower
 made of millions of bees!
 Pull forward. Nose down. Tail up.
 Rotate around it.
-- This is insane, Barry!
-- This's the only way I know how to fly.
+ This is insane, Barry!
+ This's the only way I know how to fly.
 Am I koo-koo-kachoo, or is this plane
 flying in an insect-like pattern?
 Get your nose in there. Don't be afraid.
@@ -1923,14 +1923,14 @@ Now drop it in! Drop it in, woman!
 Oome on, already.
 Barry, we did it!
 You taught me how to fly!
-- Yes. No high-five!
-- Right.
+ Yes. No high-five!
+ Right.
 Barry, it worked!
 Did you see the giant flower?
 What giant flower? Where? Of course
 I saw the flower! That was genius!
-- Thank you.
-- But we're not done yet.
+ Thank you.
+ But we're not done yet.
 Listen, everyone!
 This runway is covered
 with the last pollen
@@ -1987,16 +1987,16 @@ It's time to fly.
 Thank you, Barry!
 That bee is living my life!
 Let it go, Kenny.
-- When will this nightmare end?!
-- Let it all go.
-- Beautiful day to fly.
-- Sure is.
+ When will this nightmare end?!
+ Let it all go.
+ Beautiful day to fly.
+ Sure is.
 Between you and me,
 I was dying to get out of that office.
 You have got
 to start thinking bee, my friend.
-- Thinking bee!
-- Me?
+ Thinking bee!
+ Me?
 Hold it. Let's just stop
 for a second. Hold it.
 I'm sorry. I'm sorry, everyone.
