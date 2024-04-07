@@ -38,9 +38,23 @@ Scruffy Shocked: Unfortunately he does not have Shocked right now. So he'll look
 
 Dumbass: A character named "Dumbass" does not exist in the character database file, unlike Nadine and Scruffy. So he'll be displayed with no mugshot, so it's safe to assume it's a random unimportant NPC. If you want a mugshot for a character, we can talk about making a mugshot and adding them in. The webmaster handles it all! ovo7
 
+Eris: Oh yeah, by the way. Markdown is supported.
+
+Scruffy: It's pretty **bold** of you to mention this in front of a bunch of *italics*. ***Bold Italics.***
+
+Eris Annoyed: Stop.
+
 Kranion Angry: SHUT UP I'M TRYING TO SLEEP
 
-Dumbass: Sorry.
+Stick Angry: FOR REAL OR WE'LL SKIN YOU ALL ALIVE.
+
+Eris Shocked: Sorry.
+
+Dino: Hey boss-
+
+%**SFX:** Slice!
+
+Dino Shocked: ***AAAAAAAAAAAAAAAAAAAAA-***
 
 %The end.
 
