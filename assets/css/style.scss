@@ -46,6 +46,13 @@ font-family: "BUDD2";
 src: url("../fonts/vipnagorgialla_bd.otf");
 }
 
+@font-face {
+font-family: "BUDD3";
+src: url("../fonts/vipnagorgialla_rg.otf");
+}
+
+
+
 .callout {
     aign: center;
 }
@@ -429,9 +436,9 @@ body  {
   text-align: center;
   text-shadow: -4px 2px #101050;
   color: #E0A010;
-  font-family: 'BUDD2';
+  font-family: 'BUDD3';
   text-transform: uppercase;
-  margin-top: 16px;
+  margin-top: 24px;
   height: 8px;
 }
 
