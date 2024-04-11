@@ -10,41 +10,43 @@ EpStart
 
 <!-- The episode starts here. Feel free to erase this line. -->
 
-% Scruffy, Eris, and Nadine are going to the mall.
+% Saturday. The start of the weekend, many for which are off from work today. And what better way to spend your weekend and measly underpaid paycheck than a mall? Probably not. Either way, the usual trio: Scruffy, Eris, and Nadine enters the mall located not far from their apartment.
 
-Nadine: Oh boy, my first ever mall trip!
+Nadine Glad: Oh boy, my first ever mall trip!
 
-Eris: Yeah, it's nice to bring you somewhere normal for a change. And there's lots of different stores to check out here!
+Eris Happy: Yeah, it's nice to bring you somewhere normal for a change. And there's lots of different stores to check out here!
 
 Scruffy: The funny capitalism building!
 
-Eris: I hate that you're right...but let's let Nadine have this moment, at least before she discovers the crushing weight of American greed.
+Eris Annoyed: I hate that you're right... but let Nadine have this moment, at least before she discovers the crushing weight of American greed.
+
+Nadine Annoyed: (mumbling to self) I would know what capitalism's greed is...
 
 Scruffy: Ah, Santa logic, got it. Not that he isn't real or anything, I don't know why you keep telling me he isn't real.
 
-Nadine: Of course Santa's real! What do you mean, Eris?
+Nadine Surprised: Of course Santa's real! What do you mean, Eris?
 
-Eris: Uhh, nothing! Now come on, let's pick a store to visit. What are you thinking, guys?
+Eris Happy: Uhh, nothing! Now come on, let's pick a store to visit. What are you thinking, guys?
 
 Scruffy: I want a hot dog!
 
-Eris: That's it. You just want a hot dog.
+Eris Annoyed: That's it. You just want a hot dog.
 
 Scruffy: Uh, yeah.
 
-Nadine: That sounds amazing! Let's go see the hot dog!
+Nadine Happy: That sounds amazing! Let's go see the hot dog!
 
 Eris: Don't humor him. Nadine, why don't we go check out GameStore. Scruffy, why don't you meet up with us there after you get your hot dog.
 
 Scruffy: Sure thing. Thanks for the 50 bucks by the way!
 
-Eris: Wait, I didn't give you any money--
+Eris Shocked: Wait, I didn't give you any money--
 
 Scruffy: --what, can't hear you, see you in a bit!
 
-Eris: Ah, whatever, better he has something to focus on.
+Eris Annoyed: Ah, whatever, better he has something to focus on.
 
-Nadine: Do we really want to let him loose in a shopping mall like that?
+Nadine Confused: Do we really want to let him loose in a shopping mall like that?
 
 Eris: He's not our problem right now. Anyways, let's go!
 
@@ -58,19 +60,19 @@ Scruffy: Ah, found the ballpit! Just have to make my way weast...
 
 % Eris and Nadine are at GameStore looking at all of the games on sale.
 
-Nadine: Hey look, it's Scruffy!
+Nadine Happy: Hey look, it's Scruffy!
 
 Eris: WHERE??? Oh, you just mean this game. Wait, what?
 
 % Nadine is holding up a copy of Super Freaks 1 Ultimate Edition.
 
-Eris: What the hell??? Oh god...
+Eris Shocked: What the hell??? Oh god...
 
 % The entire shelf is full of every Super Freaks game. Eris's eyes gradually widen in horror.
 
 Nadine: Isn't this great? Our friend is in a video game series!! Look, even those evil skeletons are in these games!
 
-Eris: You don't say. Wait, what?
+Eris Annoyed: You don't say. Wait, what?
 
 % Eris notices BUDD on the shelf and sees herself on the cover. In horror, she flips the box around and sees a screenshot of herself standing next to the Super Freaks in Barrel Canyon. She goes completely silent.
 
@@ -94,27 +96,27 @@ Scruffy: Hellooooooo? Oops!
 
 % Scruffy falls through an endless black void with an echoing goofy holler. Back in the normal mall, Nadine and Eris are carrying some shopping bags.
 
-Nadine: That was so fun! There was so much stuff everywhere!
+Nadine Glad: That was so fun! There was so much stuff everywhere!
 
 Eris: Yeah, I told you it would be fun! I don't think we needed to buy every single Super Freaks game, but as long as you're having fun. Speaking of, where is that big headed acquaintance of ours?
 
 % Scruffy lands on top of Eris and Nadine. A solid five seconds later, a mountain of sand gradually pours down and covers them entirely. Eris pokes her head out.
 
-Eris: Scruffy what did you--
+Eris Annoyed: Scruffy what did you--
 
 % Eris looks around and sees that they're all back at their apartment.
 
-Eris: How did we--
+Eris Shocked: How did we--
 
-Nadine: Oh, wow, we're already home!
+Nadine Surprised: Oh, wow, we're already home!
 
 Scruffy: And I finally got my hot dog!
 
-Eris: I don't see you holding--
+Eris Annoyed: I don't see you holding--
 
 % Eris's arm is a hot dog, with green ketchup.
 
-Eris: WHAT THE FU--
+Eris Shocked: WHAT THE FU--
 
 % Scruffy chomps on her arm. Eris wakes up screaming in her bed.
 
@@ -126,23 +128,23 @@ Scruffy: Sup.
 
 % Eris wakes up screaming again, this time on a bench at the mall.
 
-Nadine: Come on Eris, we haven't gone to any stores yet!
+Nadine Sad: Come on Eris, we haven't gone to any stores yet!
 
 Eris: Oh, what? Uhh, yeah, sure, uhh....
 
 Scruffy: That's not entirely true, I went to the desert.
 
-Eris: You what?
+Eris Annoyed: You what?
 
 Scruffy: Yeah. Got my hot dog by the way, ketchup was green for some reason. I'm gonna go get mustard, be right back.
 
-Eris: Uh, yeah, have...fun with that.
+Eris Annoyed: Uh, yeah, have...fun with that.
 
-Nadine: What's wrong?
+Nadine Sad: What's wrong?
 
 Eris: A lot of things. Come on, let's go to the store.
 
-Nadine: Which one?
+Nadine Confused: Which one?
 
 Eris: We went to GameStore already didn't we?
 
