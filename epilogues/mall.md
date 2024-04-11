@@ -158,13 +158,13 @@ Eris: Were those games real?
 
 Nadine Confused: What? The funny porcupine game?
 
-Nadine Happy: Wait, we haven't gotten to the LEGO store yet!
+Nadine Happy: Wait, we haven't been to the LEGO store yet!
 
 Eris: Nevermind. You can go. I think I'll just-
 
-Nadine: Come on, let's go!
+Nadine Glad: Come on, let's go!
 
-% Nadine drags a very overwhelmed Eris.
+% Nadine drags a very overwhelmed Eris to the LEGO store.
 
 <!-- The episode ends here with "EpFin". It ends the format. Since it's already here, you don't need to mess with it. -->
 
