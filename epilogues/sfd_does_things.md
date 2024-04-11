@@ -2,7 +2,7 @@ EpStart
 
 <!-- Epilogue Info -->
 
-@EPNUM: Season # Episode #
+@EPNUM: Season Fuck Episode Shit
 
 @TITLE: SuperFreaksDev learns how to use this thing
 
@@ -2006,6 +2006,8 @@ during a production number!
 All right. Take ten, everybody.
 Wrap it up, guys.
 I had virtually no rehearsal for that.
+
+Sticky: What the fuck
 
 <!-- The episode ends here with "EpFin". It ends the format. Since it's already here, you don't need to mess with it. -->
 
