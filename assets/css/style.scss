@@ -36,6 +36,16 @@ font-family: "GameBoy";
 src: url("../fonts/GamegirlClassic-9MVj.ttf");
 }
 
+@font-face {
+font-family: "BUDD";
+src: url("../fonts/kimberley_bl.otf");
+}
+
+@font-face {
+font-family: "BUDD2";
+src: url("../fonts/vipnagorgialla_bd.otf");
+}
+
 .callout {
     aign: center;
 }
@@ -92,7 +102,7 @@ body  {
 #navmenu .menuitem
 {
     background: #030303;
-    font-family: 'GameBoy';
+    font-family: 'BUDD2';
     text-transform: uppercase;
     text-decoration: none;
     font-weight: normal;
@@ -165,7 +175,7 @@ body  {
     border-top: 1px solid gold;
     display: block;
     padding: 8px;
-    font-family: 'GameBoy';
+    font-family: 'BUDD';
     text-transform: lowercase;
     font-size: 0.75rem;
     text-decoration: none;
@@ -348,8 +358,8 @@ body  {
 { 
     color: #E0A010;
     text-shadow: #000000 -2px 1px;
-    font-family: 'GameBoy';
-    font-size: 16px;
+    font-family: 'BUDD';
+    font-size: 14px;
     padding-left: 4px;
 	scale: 1.0;
     text-transform: uppercase;
@@ -419,7 +429,7 @@ body  {
   text-align: center;
   text-shadow: -4px 2px #101050;
   color: #E0A010;
-  font-family: 'GameBoy';
+  font-family: 'BUDD2';
   text-transform: uppercase;
   margin-top: 16px;
   height: 8px;
