@@ -24,7 +24,7 @@ Nadine Annoyed: (mumbling to self) I would know what capitalism's greed is...
 
 Scruffy: Ah, Santa logic, got it. Not that he isn't real or anything, I don't know why you keep telling me he isn't real.
 
-Nadine Surprised: Of course Santa's real! What do you mean, Eris?
+Nadine Shocked: Of course Santa's real! What do you mean, Eris?
 
 Eris Happy: Uhh, nothing! Now come on, let's pick a store to visit. What are you thinking, guys?
 
@@ -108,7 +108,7 @@ Eris Annoyed: Scruffy what did you--
 
 Eris Shocked: How did we--
 
-Nadine Surprised: Oh, wow, we're already home!
+Nadine Shocked: Oh, wow, we're already home!
 
 Scruffy: And I finally got my hot dog!
 
