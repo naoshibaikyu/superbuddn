@@ -40,7 +40,9 @@ Dumbass: A character named "Dumbass" does not exist in the character database fi
 
 Eris: Oh yeah, by the way. Markdown is supported.
 
-Scruffy: It's pretty **bold** of you to mention this in front of a bunch of *italics*. ***Bold Italics.***
+Scruffy: It's pretty **bold** of you to mention this in front of a bunch of *Italics*. ***Bold Italics.***
+
+Nadine Confused: I'm not Italician.
 
 Eris Annoyed: Stop.
 
