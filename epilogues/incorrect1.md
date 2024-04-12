@@ -27,24 +27,6 @@ Nadine Confused: **[confused chewing noises]**
 
 %
 
-Selena: **HEY HEY! DON’T TOUCH THOSE!**
-
-Margaret: (touching a figurine) Why? What’s wrong with touching a *doll*? 
-
-Selena: *THAT IS NOT A DOLL!* This is a *figurine*, thank you very much. 
-
-Gambi: (from afar) IT’S JUST A STIFF DOLL! 
-
-Margaret: FIGURINE MY ASS! IT’S JUST A STIFF DOLL— as Gambi said! 
-
-Selena: I hate all of you. That is a limited edition figurine I got from a conventio— 
-
-Margaret: **[drops figurine on the ground]**
-
-Selena: —n. It was $100; *all my money* just went down the fucking drain.
-
-%
-
 Scruffy: I’m so excited! 
 
 Nadine Happy: We’re gonna have the best costumes, get the most candy... 
