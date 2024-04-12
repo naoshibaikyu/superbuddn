@@ -2,79 +2,12 @@ EpStart
 
 <!-- Epilogue Info -->
 
-@EPNUM: Incorrect Quotes Part 1
-
-@TITLE: What the fuck (test episode)
+@TITLE: Incorrect Quotes Part 1
 
 @AUTHOR: By Arrietty
 
-%
 
-Scruffy: I'm freaks.
-
-Gambi: You're freaks.
-
-Quincy: They're freaks.
-
-Tikiman: We're all freaks!
-
-Scruffy: Guess you can call it a Super Freaks Sweep!
-
-Sticky: Please shut the fuck up.
-
-Cranion: **[exists]**
-
-Kranion Angry: Give back my castle you freakin imposta.
-
-Uncleswordsman: We'll be right back after these messages.
-
-%
-
-Nadine: **[entering the shop, waving at Clara]**
-
-Clara: **[waving back]** Hello, how may I help you cutie?
-
-Clara: Did you know that you can inject Funfetti into raw chicken? It tastes very fucking good.
-
-Nadine: 
-
-Clara: 
-
-Nadine: 
-
-Clara: I'm freaks.
-
-%Nadine slowly backs out of the store.
-
-Clara: **[sobbing uncontrollably]**
-
-Selena: Congrats, Sis! You've blew it!
-
-%
-
-Eris: Holy shit.
-
-Rhea: Language. Also what?
-
-Eris Happy: I have a variety of emotes for my mugshot!
-
-Rhea: Unfair, I only have the neutral one!
-
-Eris Shocked: What a shame! Not my fault our mugshots are just placeholders.
-
-Rhea: You're just flexing by this point.
-
-Eris Happy: Or is the author flexing the emote format?
-
-Rhea: Hmmm...
-
-Scruffy: Hey! Wanna see me crack open a B.U.D.D for an omelette???
-
-Eris Annoyed: **[being held back by Rhea]** I am going to *fucking gut your insides* with a **rusty knife**.
-
-Scruffy: Oh, look! Markdown support! How **bold** of you!
-
-Clara: Help! Nadine won't respond to my text anymore!
+%**NOTE:** This "episode" is a collection of our characters being associated with random quotes taken from various outside media (such as games, tv shows, movies, etc) and social media posts. Hence it being an "incorrect" quotes. These quotes are often taken from an Incorrect Quotes generator or typed up. Enjoy!
 
 %
 
@@ -122,7 +55,7 @@ Nadine Glad: Yeah!
 
 %
 
-Kranion: It ain't gonnah work, I’m not ah snitch. 
+Kranion Angry: It ain't gonnah work, I’m not ah snitch. 
 
 Cop: Fine, let's try something else. Tag a friend you recently committed a crime with. 
 
@@ -132,11 +65,11 @@ Kranion: Lmao, @Cranion.
 
 Scruffy: We’re having a moment, aren’t we? 
 
-Eris: If by 'a moment' you mean me not wanting to strangle you for the first time since we met, then I guess we are.
+Eris Annoyed: If by 'a moment' you mean me not wanting to strangle you for the first time since we met, then I guess we are.
 
 %
 
-Margaret: You seem familiar... have I threatened you before?
+Sticky: You seem familiar... have I threatened you before?
 
 %
 
@@ -150,7 +83,7 @@ Kranion Angry: You banged a u-ie at wicked impossible speeds and you know it!
 
 Nadine Annoyed: Why would you think any of this was a good idea? 
 
-Sticky: Probably because I’m a dangerous sociopath with a long history of violence. 
+Sticky Angry: Probably because I’m a dangerous sociopath with a long history of violence. 
 
 Nadine Shocked: 
 
@@ -158,7 +91,7 @@ Sticky: I don’t know how you keep forgetting this.
 
 %
 
-Michelle: Scruffy, how could you possibly have gotten into this much trouble in one day?
+Nadine Sad: Scruffy, how could you possibly have gotten into this much trouble in one day?
 
 Scruffy: It... It didn't take me the whole day...
 
@@ -172,7 +105,7 @@ Sticky: I did not.
  
 Nadine: I may have actually forgotten one. 
 
-Margaret: Also no. 
+Selena: Also no. 
 
 Eris: Oh good, neither did I. 
 
@@ -186,51 +119,11 @@ Sticky: I once edited a Wikipedia article to win an argument I was wrong about.
 
 %
 
-Cheddar: Kranion, please calm down. 
-
-Kranion Angry: I asked for two large fries! 
-
-Kranion Angry: **[dumps fries onto table**] 
-
-Kranion Angry: But all they did was give me a MILLION FUCKING LITTLE ONES!
-
-%
-
-Shootem: Did you have to stab them? 
-
-Ellie: You weren’t there. You didn’t hear what they said to me. 
-
-Shootem: What did they say? 
-
-Ellie: "What are you going to do, stab me?" 
-
-Shootem: That’s fair.
-
-%
-
 Kranion: I’m a reverse necromancer!
 
-Scruffy: Isn’t that just- 
+Dino: Isn’t that just- 
 
-Sticky: No. Shut up. Shut the fuck up. You are literally so fucking unfunny that it hurts. It physically hurts my body knowing that people still think murder is funny. I cant believe im saying this but do you guys know how chronically online you all are, thinking that saying “oOh iM a rEVeRsE nECrOmANcER i LOvE tO kiLL pEOpLe” is genuinely funny and will get everyone in the room shitting themselves from laughter?? cause its not. It’s fucking not. In fact, its the unfunniest fucking joke ever. Not just any joke about killing people. This one specifically. Its so unfunny and stupid. Nobody is fucking laughing at that, Kranion. It makes you look like a greasy emo kid who has never been outside once in their life and uses tumblr religiously. Like not even the funny side of tumblr. the fucking unfunny side filled with overused jokes about murder and illegal acts. Honestly, youre so unfunny, Kranion. Fuck you.
-
-%
-
-%Kranion and the Anti Freaks are planning to break into the IRS.
-
-Superior: We need to distract the guards. 
-
-Kranion: Gotcha.
-
-Negative Quincy: What are we gonna do? 
-
-Kranion: I'mma gonna break their elbows while yah poke their eyes. 
-
-AntiFreaks: 
-
-Kranion: 
-
-Superior: Deal.
+Sticky Angry: No. Shut up. Shut the fuck up. You are literally so fucking unfunny that it hurts. It physically hurts my body knowing that people still think murder is funny. I can't believe I'm saying this but do you guys know how chronically online you all are, thinking that saying “oOh iM a rEVeRsE nECrOmANcER i LOvE tO kiLL pEOpLe” is genuinely funny and will get everyone in the room shitting themselves from laughter?? Cause it's not. It’s fucking not. In fact, it's the unfunniest fucking joke ever. Not just any joke about killing people. This one specifically. It's so unfunny and stupid. Nobody is fucking laughing at that, Kranion. It makes you look like a greasy emo kid who has never been outside once in their life and uses tumblr religiously. Like not even the funny side of tumblr. the fucking unfunny side filled with overused jokes about murder and illegal acts. Honestly, you're so unfunny, Kranion. Fuck you.
 
 %
 
@@ -244,7 +137,7 @@ Dino: Yeah, no shit.
 
 %
 
-Eris: It's pretty cold outside... wanna hold hands? We should stay close. 
+Eris Happy: It's pretty cold outside... wanna hold hands? We should stay close. 
 
 Rhea: (blushing) Okay.
 
@@ -258,7 +151,7 @@ Sticky: ...
 
 Sticky: What a stupid fucking quote. 
 
-Sticky: I'm killing way more than two people, idiot.
+Sticky Angry: I'm killing way more than two people, idiot.
 
 %
 
@@ -270,15 +163,15 @@ Tikiman: Yeah, sure.
 
 Gambi: Bold of you to assume I did the homework.
 
-Margaret: lol nope.
+Sticky: No.
 
 Nadine Shocked: Wait, we had homework?!?!?!
 
-Eris: *Read 5:55pm*
+Scruffy: *Read 5:55pm*
 
 %
 
-Sticky: You kill people for money?!
+Sticky Angry: You kill people for money?!
 
 Tikiman: I can explain!
 
@@ -298,37 +191,37 @@ Sticky: The poison is kicking in.
 
 Scruffy: Who thinks I can fit 15 marshmallows in my mouth?
 
-Eris: You’re a hazard to society
+Eris Annoyed: You’re a hazard to society.
 
-Nadine: And a coward. DO TWENTY.
-
-%
-
-Nadine: What time is it?
-
-Scruffy: I don’t know; pass me that saxophone and we’ll find out
-
-Scruffy: *Plays sax loudly and extremely out of tune*
-
-Eris Shocked: WHO THE FUCK IS PLAYING THE SAXOPHONE AT TWO IN THE MORNING
-
-Scruffy: It’s 2 am
+Nadine Happy: And a coward. DO TWENTY.
 
 %
 
-Eris: Let me show you a picture from last night that really upset me
+Nadine confused: What time is it?
+
+Scruffy: I don’t know; pass me that saxophone and we’ll find out.
+
+Scruffy: (plays sax loudly and extremely out of tune)
+
+Eris Shocked: WHO THE FUCK IS PLAYING THE SAXOPHONE AT TWO IN THE MORNING?!!
+
+Scruffy: It’s 2AM.
+
+%
+
+Eris Annoyed: Let me show you a picture from last night that really upset me.
 
 Scruffy: Okay, but in my defense, Margaret bet me 50 cents I couldn’t drink all that shampoo.
 
-Eris: That’s not what I wanted to- you drank SHAMPOO?!
+Eris Shocked: That’s not what I wanted to- you drank SHAMPOO?!
 
 %
 
-Eris: Don't worry, I got a plan.
+Eris Happy: Don't worry, I got a plan.
 
-Nadine: Alright.
+Nadine Glad: Alright.
 
-Eris: TraitorSayWhat?
+Eris Happy: TraitorSayWhat?
 
 Sticky: Excuse me?
 
@@ -358,7 +251,6 @@ Scruffy: Ultimate Edition
 
 Nadine Confused: 
 
-
 %
 
 Selena: Here’s a fun Christmas idea. We hang mistletoe, but instead of kissing, you have to FIGHT whoever else is under it.
@@ -387,22 +279,24 @@ Fred: hi i am fred from turbo leaps
 
 %
 
-Nadine: I’m too short to kiss my girlfriend on the lips, what should I do?
+Nadine Sad: I’m too short to kiss my girlfriend on the lips, what should I do?
 
-Margaret: Kick her in the stomach, and then when she doubles over, kiss her!
+Scruffy: Kick her in the stomach, and then when she doubles over, kiss her!
 
 Gambi: Trip her.
 
-Sticky: Dump her.
+Dino: Dump her.
 
-Clara: LITERALLY DON’T DO ANY OF THAT SHIT JUST FUCKING ASK ME TO BEND DOWN. *JESUS*.
+Sticky Angry: Kill her.
+
+Clara: LITERALLY DON’T DO ANY OF THAT SHIT. JUST FUCKING ASK ME TO BEND DOWN. *JESUS*.
 
 
 %
 
 Nadine Happy: (at a restaurant) You guys should get the orange soda, it's amazing.
 
-Fred: Okay
+Fred: Okay.
 
 Waiter: Can I get you three anything to drink?
 
@@ -418,7 +312,7 @@ Nadine Happy:
 
 Eris: Sometimes I drink milk straight out of the container.
 
-Nadine: The cow???
+Nadine Confused: The cow???
 
 Eris Shocked: What?
 
@@ -456,12 +350,11 @@ Scruffy: **[shuffles them]**
 
 %
 
-Ceres: And now for a gay update with Eris and Rhea.
+Stella: And now for a gay update with Eris and Rhea.
 
 Eris: Getting gayer.
 
-Ceres: Thank you, Eris.
-
+Stella: Thank you, Eris.
 
 %
 
@@ -517,25 +410,25 @@ Sticky Angry: Fuck you.
 
 %
 
-Ellie: What do rainbows mean to you?
+Stella: What do rainbows mean to you?
 
 Eris: Gay rights.
 
 Scruffy: There's money.
 
-Shootem: The sign of God's promise to never destroy the whole Earth with a flood.
+Clara: The sign of God's promise to never destroy the whole Earth with a flood.
 
 Nadine: It is an optical phenomenon that separates sunlight into its continuous spectrum when the sun shines on raindrops.
 
 %
 
-Store Worker: Would a “Eris” please come to the front desk?
+Store Worker: Would an “Eris” please come to the front desk?
 
 Eris: (arriving at the desk) Hello, is there a problem?
 
 Store Worker: (pointing to Scruffy and Fred) I believe they belong to you?
 
-FredScruffy: (simultaneously) We got lost.
+Fred: (simultaneously with Scruffy) We got lost.
 
 Eris: I didn’t even bring you guys here with me—
 
@@ -579,17 +472,17 @@ Eris:
 
 Nadine Sad: 
 
-Eris: Ahh! Oh my god! You scared me!
+Eris Shocked: Ahh! Oh my god! You scared me!
 
 %
 
-Eris Angry: I've met a lot of pricks in my time, but you, Margaret, are a fucking cactus.
+Eris Angry: I've met a lot of pricks in my time, but you, Sticky, are a fucking cactus.
 
 %
 
 Sticky: I just ended a five year relationship.
 
-Boney M: Oh no, are you okay?
+Dino: Oh no, are you okay?
 
 Sticky: It's okay, it wasn't mine.
 
@@ -599,21 +492,7 @@ Sticky: “I wouldn’t wish that on my worst enemy” I would. Pussy.
 
 Sticky: “I’m not gonna sink to their level” I will. Coward.
 
-Sticky Angry: “I’m the bigger person” I’m 150cm tall give me the gun bitch.
-
-%
-
-Eris Angry: Are you this rude to everyone?!
-
-Margaret: Yup.
-
-Margaret: Don't think you're special.
-
-%
-
-Eris: Why are you guys acting like this?
-
-Gambi: Oh, we're not acting. We really are like this.
+Sticky Angry: “I’m the bigger person” I’m 12 ft tall, give me the gun bitch.
 
 %
 
@@ -631,7 +510,7 @@ Nadine Shocked: What?
 
 Eris: I had Rhea make it cold.
 
-Nadine Sad: Oh...yeah, of course it's cold.
+Nadine Sad: Oh... yeah, of course it's cold.
 
 Eris: I lied. It's actually hot.
 
@@ -639,7 +518,7 @@ Eris: I lied. It's actually hot.
 
 Nadine Annoyed: Why are you guys acting like this?
 
-Sticky: Oh, we're not acting. We really are like this.
+Sticky Angry: Oh, we're not acting. We really are like this.
 
 %
 
@@ -651,7 +530,7 @@ Eris Angry: GODDAMNIT!
 
 %
 
-Margaret: Am I a good person? No. But do I try to be better every single day? Also no.
+Sticky: Am I a good person? No. But do I try to be better every single day? Also no.
 
 %
 
@@ -679,29 +558,15 @@ Dino: Oh.
 
 Nadine Happy: I’d die for you.
 
-Sticky: Then perish.
+Sticky Angry: Then perish.
 
-Margaret: You will.
+Kranion Angry: You will.
 
 Eris: Please don’t.
 
 Tikiman: Cool.
 
 Clara Happy: I’d die for you first.
-
-%
-
-Apex: Well, aren’t you all a rag-tag group of adventurers with unclear goals and good hearts! Oh, let me guess: you’re out to save the world!
-
-Eris: Well, actually, that sounds like a pretty fair assessment.
-
-Fred: More or less, I guess...
-
-Scruffy: That sounds awesome! Let’s do that!
-
-Clara: I’m new here, but I am open to the concept.
-
-Nadine Confused: I thought that’s what we were doing, guys, come on!
 
 %
 
@@ -739,15 +604,9 @@ Selena: Please god, I am so tired.
 
 Nadine: Can you keep a secret? 
 
-Margaret: Do you know anything about my life? 
+Gambi: Do you know anything about my life? 
 
 Nadine: No, I don't. Good point.
-
-%
-
-Margaret: I don’t hate you. I hate everyone. 
-
-Clara: The feeling is mutual.
 
 %
 
@@ -769,9 +628,9 @@ Sticky: No.
 
 %
 
-Dino: I can’t believe my birth certificate says F...
+Selena: I can’t believe my birth certificate says F...
 
-Dino: ...How did I fail being born?
+Selena: ...How did I fail being born?
 
 %
 
@@ -797,7 +656,7 @@ Rhea: And I need you to be less vague and weird.
 
 %
 
-Selena: What's my sexuality?! I don't fucking know! I'm not straight, and that's all that matters. Well, maybe that's unfair to the straights. Some of my best friends are straight! Well, one of them. Well, I know them, and Kranion is perfectly tolerable person in small doses!
+Selena: What's my sexuality?! I don't fucking know! I'm not straight, and that's all that matters. Well, maybe that's unfair to the straights. Some of my best friends are straight! Well, one of them. Well, I know them, and Gambi is perfectly tolerable person in small doses!
 
 %
 
@@ -815,9 +674,9 @@ Dino: No need to sound so disappointed.
 
 %
 
-Rhea: Eris and I are no longer friends. 
+Eris Happy: Rhea and I are no longer friends. 
 
-Eris Shocked: RHEA THAT IS THE WORST WAY TO TELL PEOPLE THAT WE’RE DATING!
+Rhea: ERIS THAT IS THE WORST WAY TO TELL PEOPLE THAT WE’RE DATING!
 
 %
 
@@ -834,30 +693,6 @@ Gambi: On an unrelated note, I am no longer allowed in the ceiling vents.
 %
 
 Sticky: I’ve been described as a ‘heartless villain’ and a 'little shit’, but I prefer… 'has alternative ways of having fun’.
-
-%
-
-Margaret: Who the fuck-
-
-Clara: Language!
-
-Margaret: Whom the fuck-
-
-Clara: No.
-
-%
-
-Apex: You’re too later, Superdorks! You'll never stop me now! 
-
-Nadine Happy: That’s where you’re wrong, evildoer! We WILL stop you, with the powers of: 
-
-Quincy: Friendship! 
-
-Clara: Harmony! 
-
-Fred: Incredible violence. 
-
-Nadine Happy: And love!
 
 %
 
@@ -881,13 +716,13 @@ Eris Shocked: WHY WOULD YOU-
 
 Eris: I love cooking breakfast. It makes the whole house smell like bacon. 
 
-Tikiman: That’s true, but it also smells like fire and panic. 
+Nadine Sad: That’s true, but it also smells like fire and panic. 
 
-Eris: You and the smoke detector need to get off my case.
+Eris Annoyed: You and the smoke detector need to get off my case.
 
 %
 
-Eris: So I can either do something dumb that could very well get me injured or I can listen to Rhea and not do the thing, 
+Eris Annoyed: So I can either do something dumb that could very well get me injured or I can listen to Rhea and not do the thing, 
 
 Eris: Well there’s a clear right answer here. 
 
@@ -899,7 +734,7 @@ Nadine Happy: I'm gonna eat the chicken breasts!
 
 Dino: (snickering) Yeah, eat what you lack. 
 
-Eris: (deadpanning at Dino) Then maybe I should order brains on delivery for you.
+Eris Annoyed: (deadpanning at Dino) Then maybe I should order brains on delivery for you.
 
 %
 
@@ -919,7 +754,7 @@ Eris: Is this your plan B?
 
 Nadine Annoyed: Technically, this is plan P. 
 
-Eris: Plan P? Is there a plan M? 
+Eris Annoyed: Plan P? Is there a plan M? 
 
 Nadine Happy: Yes, but I marry Clara in plan M. 
 
@@ -931,7 +766,7 @@ Selena: You have to apologize to King Quincy!
 
 Kranion Angry: Fine! 
 
-Kranion Angry: Unfuck you, or whateva!
+Kranion: Unfuck you, or whateva!
 
 %
 
@@ -990,13 +825,15 @@ Clara: NO—
 
 %
 
-Nadine: When I get murdered, can you make sure I become an unsolved case? 
+Nadine Happy: When I get murdered, can you make sure I become an unsolved case? 
 
 Eris Shocked: wHat? 
 
-Nadine Happy: I want to be on Buzzfeed Unsolved. 
+Nadine Glad: I want to be on Buzzfeed Unsolved. 
 
-Eris Angry: Can we go back to the part when you said "when I get murdered"?
+Eris Annoyed: Can we go back to the part when you said "when I get murdered"?
+
+%End of Part 1
 
 EpFin
 
