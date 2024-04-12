@@ -105,7 +105,7 @@ Kranion: I’m a reverse necromancer!
 
 Dino: Isn’t that just- 
 
-Sticky Angry: No. Shut up. Shut the fuck up. You are literally so fucking unfunny that it hurts. It physically hurts my body knowing that people still think murder is funny. I can't believe I'm saying this but do you guys know how chronically online you all are, thinking that saying “oOh iM a rEVeRsE nECrOmANcER i LOvE tO kiLL pEOpLe” is genuinely funny and will get everyone in the room shitting themselves from laughter?? Cause it's not. It’s fucking not. In fact, it's the unfunniest fucking joke ever. Not just any joke about killing people. This one specifically. It's so unfunny and stupid. Nobody is fucking laughing at that, Kranion. It makes you look like a greasy emo kid who has never been outside once in their life and uses tumblr religiously. Like not even the funny side of tumblr. the fucking unfunny side filled with overused jokes about murder and illegal acts. Honestly, you're so unfunny, Kranion. Fuck you.
+Sticky Angry: No. Shut up. Shut the fuck up. You are literally so fucking unfunny that it hurts. It physically hurts my body knowing that people still think murder is funny. I can't believe I'm saying this but do you guys know how chronically online you all are, thinking that saying “oOh iM a rEVeRsE nECrOmANcER i LOvE tO kiLL pEOpLe” is genuinely funny and will get everyone in the room shitting themselves from laughter?? Cause it's not. It’s fucking not. In fact, it's the unfunniest fucking joke ever. Not just any joke about killing people. This one specifically. It's so unfunny and stupid. Nobody is fucking laughing at that, Kranion. It makes you look like a greasy emo kid who has never been outside once in their life and uses tumblr religiously. Like not even the funny side of tumblr. The fucking unfunny side filled with overused jokes about murder and illegal acts. Honestly, you're so unfunny, Kranion. Fuck you.
 
 %
 
@@ -193,7 +193,7 @@ Scruffy: It’s 2AM.
 
 Eris Annoyed: Let me show you a picture from last night that really upset me.
 
-Scruffy: Okay, but in my defense, Margaret bet me 50 cents I couldn’t drink all that shampoo.
+Scruffy: Okay, but in my defense, King Quincy bet me 50 cents I couldn’t drink all that shampoo.
 
 Eris Shocked: That’s not what I wanted to- you drank SHAMPOO?!
 
@@ -229,7 +229,7 @@ Scruffy: Freaks? I was freaks once. They put me in a room, a rubber room, a rubb
 
 Nadine: Aren't you already a super freak?
 
-Scruffy: Ultimate Edition
+Scruffy: Ultimate Edition.
 
 Nadine Confused: 
 
@@ -348,7 +348,7 @@ Eris: …
 
 Eris Annoyed: Is it soup?
 
-Scruffy: I soup-pose it could be! winks
+Scruffy: I soup-pose it could be! (winks)
 
 Eris Angry: Please, enough with the soup puns!
 
@@ -416,7 +416,7 @@ Eris: I didn’t even bring you guys here with me—
 
 %
 
-Kranion Angry: **[sighs]**
+Kranion Angry: (sighs)
 
 Sticky: You bored?
 
@@ -458,10 +458,6 @@ Eris Shocked: Ahh! Oh my god! You scared me!
 
 %
 
-Eris Angry: I've met a lot of pricks in my time, but you, Sticky, are a fucking cactus.
-
-%
-
 Sticky: I just ended a five year relationship.
 
 Dino: Oh no, are you okay?
@@ -474,27 +470,29 @@ Sticky: “I wouldn’t wish that on my worst enemy” I would. Pussy.
 
 Sticky: “I’m not gonna sink to their level” I will. Coward.
 
-Sticky Angry: “I’m the bigger person” I’m 12 ft tall, give me the gun bitch.
+Sticky Angry: “I’m the bigger person” I’m 12ft tall, give me the gun bitch!
 
 %
 
 Eris: (giving Nadine one of the mugs) Here, it's hot coffee.
 
-Nadine Happy: Thanks.
+Nadine Happy: Thanks. (sipping, not knowing Eris learned she has no sense of taste)
 
 Eris: Hot isn't it?
 
-Nadine Confused: Yeah... really hot.
+Nadine Happy: Yeah... really hot.
 
 Eris: It's actually iced coffee.
 
-Nadine Shocked: What?
+Nadine Sad: What?
 
 Eris: I had Rhea make it cold.
 
 Nadine Sad: Oh... yeah, of course it's cold.
 
 Eris: I lied. It's actually hot.
+
+Nadine Shocked:
 
 %
 
@@ -626,7 +624,7 @@ Dino: (calling 911) HELP, IVE BEEN STABBED.
 
 Selena: So you’re dating Clara? 
 
-Nadine: What? No! I’m just buying them an accessory since they have terrible fashion sense. 
+Nadine Shocked: What? No! I’m just buying them an accessory since they have terrible fashion sense. 
 
 Selena: That’s literally a wedding ring.
 
@@ -686,7 +684,7 @@ Eris: Damn, the power went out.
 
 Scruffy: Don’t worry, I got this. 
 
-Scruffy: shakes rapidly and starts to light up 
+Scruffy: (shakes rapidly and starts to light up)
 
 Eris Annoyed: What-? 
 
