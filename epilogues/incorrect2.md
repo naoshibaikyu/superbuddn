@@ -164,7 +164,19 @@ Selena: (punches the person)
 
 %
 
+%The Squad is at Home Depot
 
+Gambi: (Fell in the cacti display while wandering around the garden section)
+
+Scruffy: (Shitting in the display toilets)
+
+Kranion: (Tokyo Drifting one of those flatbed carts down the aisles)
+
+Selena: (Stealing paint chips for aesthetic purposes)
+
+Rhea: (Just wanted some goddamn lightbulbs and everyone ruined it)
+
+Eris: (In the car sleeping)
 
 %
 
