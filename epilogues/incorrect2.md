@@ -352,7 +352,13 @@ Eris Happy: (lifts up a glass of blended toast) Bon appetite!
 
 %
 
+Quincy: What’s something you guys are better than Kranion at? 
 
+Scruffy: Fast Cars Underground 2.
+
+Tikiman: Yeah, video games. 
+
+Gambi: Emotional vulnerability.
 
 %
 
