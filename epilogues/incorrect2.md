@@ -148,7 +148,19 @@ Rhea: (retreating) Something suddenly came up.
 
 %
 
+%The cast reactions to being called straight:
 
+Eris Annoyed: The fuck, no I'm not. 
+
+Rhea: Excuse the hell out of you? 
+
+Stella: Ding dong, you are wrong! 
+
+Nadine Angry: Who told you that? And why did they lie? 
+
+Clara: Rude. 
+
+Selena: (punches the person)
 
 %
 
