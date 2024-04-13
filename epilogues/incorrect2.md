@@ -190,11 +190,17 @@ Scruffy: She got Dino.
 
 %
 
+Dino: What’s up? I’m back.
 
+Sticky: I literally saw you die. You died. You were dead.
+
+Dino: Death is a social construct.
 
 %
 
+Kranion: Your lab is in the bathroom?
 
+Dino: Tikiman says this is the perfect place for my work. I’m just now realizing that remark may not have been entirely complimentary.
 
 %
 
