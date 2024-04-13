@@ -226,6 +226,44 @@ Eris: Yes, and I take full responsibility for that.
 
 %
 
+Dino: But we’re friends! I was building up to calling you a nickname soon!
+
+Sticky: That’ll never happen! In fact, you just lost “Sticky” privileges. From now on, you can call me by my last name or ‘Hey, you.’.
+
+Dino: Come on, Sticky.
+
+Sticky Angry: (glares)
+
+Dino: Come on, Hey you.
+
+%
+
+Kranion: Consider the fundraising over! Your hero has arrived!
+
+Nadine Confused: Uhh… where did you get so much money from, Kranion?
+
+Kranion: Well, you know, I’m pretty good at numbers. I just crunched them, I stretched them, I analyzed my accounts, I timed the market-
+
+%Police sirens start to wail in the background.
+
+Nadine Shocked: DID YOU ROB A BANK?!
+
+Kranion Angry: Oh, come on, Nadine, do you really think so little of me? (opens the bag as purple dye explodes on their face)
+
+Nadine Annoyed:
+
+Kranion: …it was a credit union.
+
+%
+
+
+
+%
+
+
+
+%
+
 
 
 %
