@@ -39,6 +39,14 @@ Selena: I’m sick and tired of being called 'mortal' like, you don’t know tha
 
 %
 
+Nadine Annoyed: (tearing up the room) Where are they? 
+
+Nadine Annoyed: (looking under a pillow) Who moved them? Who moved my children?
+
+Nadine Angry: Somebody moved my M&M's, and now I am going to start killing.
+
+%
+
 
 
 
