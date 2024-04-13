@@ -58,7 +58,7 @@ Clara: (to Selena) I'm leaving for the weekend, so I hid 100 dollars in your roo
 
 %
 
-Sticky Angry: When I die I want Dino to lower me into my grave so they can let me down one last time.
+Sticky Angry: When I die I want Dino to lower me into my grave so he can let me down one last time.
 
 %
 
