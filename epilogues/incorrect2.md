@@ -116,7 +116,9 @@ Dentist: Please stop, there’s literally a sink right next to you.
 
 %
 
+Clara Happy: Dom or sub?
 
+Nadine Confused: I guess Domino's, since I don't go to Subway that much. Don't see why you'd put them in the same category though.
 
 %
 
