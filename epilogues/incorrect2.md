@@ -204,15 +204,25 @@ Dino: Tikiman says this is the perfect place for my work. I’m just now realizi
 
 %
 
+Eris: Don’t trust everything you see on the internet.
 
+Dino: Pfft. What possibly nonsense could come from the internet? Oh. Did you know that the Earth is actually flat?
+
+Eris Annoyed: *Takes away Dino’s phone* Yeah, that's enough for you.
 
 %
 
+Murderer: Any last words?
 
+Nadine Happy: Do you think I'm cute? Be honest.
 
 %
 
+Eris: I am the most responsible person in the group.
 
+Nadine Sad: …You just set the kitchen on fire.
+
+Eris: Yes, and I take full responsibility for that.
 
 %
 
