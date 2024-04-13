@@ -44,15 +44,21 @@ Eris Angry: (Struggling to hold a seagull) Fucking say that next time!
 
 %
 
+Eris: What's the most efficient way to burn calories?
 
+Nadine Happy: Exercise more!
+
+Sticky: Set yourself on fire.
+
+Tikiman: There are two kinds of people.
 
 %
 
-
+Clara: (to Selena) I'm leaving for the weekend, so I hid 100 dollars in your room for food. Clean your room, and you will find it.
 
 %
 
-
+Sticky Angry: When I die I want Dino to lower me into my grave so they can let me down one last time.
 
 %
 
