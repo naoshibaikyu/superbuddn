@@ -62,11 +62,13 @@ Sticky Angry: When I die I want Dino to lower me into my grave so they can let m
 
 %
 
+Scruffy: Thanks for not telling Eris what happened.
 
+Nadine Annoyed: I wouldn’t even know where to begin trying to explain this.
 
 %
 
-
+Sticky: If you ever feel stupid or weak or powerless, just remember that I am not. I am out there, very dangerous, and I am looking for you. Good luck.
 
 %
 
