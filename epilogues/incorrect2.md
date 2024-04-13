@@ -84,7 +84,13 @@ Eris: Yeah, don’t think about that too hard.
 
 %
 
+Judge: Does the defendant have any special requests?
 
+Gambi: Death penalty.
+
+Eris Annoyed: (from the gallery) Gambi, it’s just a parking ticket.
+
+Gambi: (whispering into the mic) Please kill me.
 
 %
 
