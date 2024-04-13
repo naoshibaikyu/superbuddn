@@ -21,8 +21,28 @@ Selena: Wonderful suggestion, thank you.
 
 Nadine Annoyed: Please don’t encourage her, Scruffy.
 
+%
 
-%End of Part 1
+Gambi: What does “take out” mean?
+
+Nadine Glad: Food.
+
+Clara Happy: Dating.
+
+Tikiman: Murder.
+
+Sticky: It can be all three if you’re brave enough.
+
+%
+
+Selena: I’m sick and tired of being called 'mortal' like, you don’t know that. Neither do I. I have never died even ONCE. Nothing has been proven yet. Stop making assumptions. It’s rude.
+
+%
+
+
+
+
+%End of Part 2
 
 EpFin
 
