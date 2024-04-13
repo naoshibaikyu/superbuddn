@@ -164,7 +164,7 @@ Selena: (punches the person)
 
 %
 
-%The Squad is at Home Depot
+%Everyone at Home Depot
 
 Gambi: (Fell in the cacti display while wandering around the garden section)
 
