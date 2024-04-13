@@ -130,11 +130,21 @@ Dino: (takes another sip of milk)
 
 %
 
+Selena: Swear words are illegal now. If you say one you'll be fined.
 
+Nadine: Heck.
+
+Selena: You're on thin fucking ice.
+
+Selena: Oh no-
 
 %
 
+Rhea: (visiting) Hello, I just came to-
+ 
+Rhea: (sees Scruffy shoving Dino into the washing machine while Tikiman records and Nadine watches)
 
+Rhea: (retreating) Something suddenly came up.
 
 %
 
