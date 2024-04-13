@@ -72,7 +72,15 @@ Sticky: If you ever feel stupid or weak or powerless, just remember that I am no
 
 %
 
+Rhea: Ugh, crushes are so dumb.
 
+Eris Annoyed: I know. Whenever I’m near the person I like I just start acting stupid.
+
+Rhea: But you’re always acting stupid?
+
+Eris Shocked: ...
+
+Eris: Yeah, don’t think about that too hard.
 
 %
 
