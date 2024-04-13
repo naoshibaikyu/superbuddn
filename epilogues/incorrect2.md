@@ -19,7 +19,7 @@ Scruffy: Why not both? Get creative!
 
 Selena: Wonderful suggestion, thank you.
 
-Nadine Annoyed: Please don’t encourage them, Scruffy.
+Nadine Annoyed: Please don’t encourage her, Scruffy.
 
 
 %End of Part 1
