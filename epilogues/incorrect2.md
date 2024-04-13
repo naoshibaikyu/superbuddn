@@ -277,7 +277,13 @@ Sticky: Sticky is dead. You’re next. Love, Moth.
 
 %
 
+Eris: (clearly upset) Sometimes I like to place my hands on someone’s cheeks, look into their eyes...
 
+Eris Angry: ...And violently jerk their head until it snaps.
+
+Tikiman: ...That took an unexpected turn.
+
+Quincy: So did their neck.
 
 %
 
