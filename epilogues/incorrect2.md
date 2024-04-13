@@ -320,8 +320,41 @@ Nadine Angry: Somebody moved my M&M's, and now I am going to start killing.
 
 %
 
+Kranion Angry: Fool me once, shame on you. Fool me twice, that’s fucked up. Like c'mon, you know I’m dumb as hell!
+
+%
+
+Nadine: So Eris, how did your first time cooking dinner go?
+
+Eris: Pretty good if I do say so myself.
+
+Nadine Happy: Oo! Okay, what are we having?
+
+Eris: Alright, so for appetizers, we have a potato. 
+
+Nadine Confused: A whole potato? 
+
+Eris Happy: Yes. And then for the main course, we have grilled cheese sandwiches! 
+
+Nadine Sad: These just look like big slabs of black. 
+
+Eris: Because that's what they are! 
+
+Eris: And then for desert, we have chocolate. 
+
+Nadine Sad: These are just chocolate chips? 
+
+Eris Happy: They sure are! 
+
+Eris: And then for drinks, we have toast! 
+
+Eris Happy: (lifts up a glass of blended toast) Bon appetite!
+
+%
 
 
+
+%
 
 %End of Part 2
 
