@@ -8,7 +8,6 @@ EpStart
 
 %
 
-
 Selena: I have so much energy, I want to run a marathon or commit a crime... which should I do?
 
 Nadine Sad: Please don’t get arrested.
@@ -36,6 +35,108 @@ Sticky: It can be all three if you’re brave enough.
 %
 
 Selena: I’m sick and tired of being called 'mortal' like, you don’t know that. Neither do I. I have never died even ONCE. Nothing has been proven yet. Stop making assumptions. It’s rude.
+
+%
+
+Rhea: When I said bring me something back from the beach I meant like a conch shell!
+
+Eris Angry: (Struggling to hold a seagull) Fucking say that next time!
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
 
 %
 
