@@ -122,7 +122,11 @@ Nadine Confused: I guess Domino's, since I don't go to Subway that much. Don't s
 
 %
 
+Dino: (takes a sip of milk and gags)
 
+Dino Shocked: Oh my god, is this expired?
+
+Dino: (takes another sip of milk)
 
 %
 
