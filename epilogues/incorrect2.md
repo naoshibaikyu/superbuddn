@@ -292,7 +292,23 @@ Quincy: So did their neck.
 
 %
 
+Clara: I’ve been dropping them the most insanely obvious hints for like a year now. No response.
 
+Nadine Annoyed: Wow. They sound stupid.
+
+Clara: But they’re not. They’re really smart actually. Just dense.
+
+Nadine: Maybe you need to be more obvious? Like, I don’t know… “Hey! I love you!”
+
+Clara: I guess you’re right. Hey Nadine, I love you.
+
+Nadine Happy: See! Just say that!
+
+Clara: Holy fucking shit.
+
+Nadine Sad: If that flies over their head then, sorry Clara, but they're too dumb for you.
+
+Clara: Nadine.
 
 %
 
