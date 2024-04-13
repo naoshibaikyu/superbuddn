@@ -94,15 +94,25 @@ Gambi: (whispering into the mic) Please kill me.
 
 %
 
+Stella: Do you want to be the Sun in my life?
 
+Dino: Yes.
+
+Stella: Good, then stay 92,935,700 miles away from me :)
 
 %
 
+Selena: I typed "bitch" into my GPS and guess what? I'm in your driveway.
 
+Sticky Angry:
+
+Selena: Vroom vroom, come out already.
 
 %
 
+Sticky Angry: (spits mouthful of blood onto floor) You’ve become far more powerful since we last crossed paths.
 
+Dentist: Please stop, there’s literally a sink right next to you.
 
 %
 
