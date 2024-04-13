@@ -256,7 +256,15 @@ Kranion: …it was a credit union.
 
 %
 
+Nadine Sad: Did it hurt when you fell-
 
+Clara Happy: From heaven? Wow, I didn’t think you were such a flirt-
+
+Nadine Confused: No, I meant when you fell down the stairs.
+
+Clara: ...
+
+Nadine Annoyed: You just laid there for 15 minutes.
 
 %
 
