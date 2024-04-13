@@ -9,9 +9,21 @@ EpStart
 %
 
 
-Person A: I have so much energy, I want to run a marathon or commit a crime... which should I do? 
-Person B: Please don’t get arrested. 
-Person A: No promises! ❤️ 
-Person F: Why not both? Get creative! 
-Person A: Wonderful suggestion, thank you. 
-Person B: Please don’t encourage them, Person F.
+Selena: I have so much energy, I want to run a marathon or commit a crime... which should I do?
+
+Nadine Sad: Please don’t get arrested.
+
+Selena: No promises! ❤️
+
+Scruffy: Why not both? Get creative!
+
+Selena: Wonderful suggestion, thank you.
+
+Nadine Annoyed: Please don’t encourage them, Scruffy.
+
+
+%End of Part 1
+
+EpFin
+
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script
