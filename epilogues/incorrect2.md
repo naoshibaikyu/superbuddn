@@ -180,7 +180,13 @@ Eris: (In the car sleeping)
 
 %
 
+Nadine Sad: Why is Selena crying on the floor?
 
+Scruffy: She took one of those 'what person are you?' quizzes.
+
+Nadine Confused: And?
+
+Scruffy: She got Dino.
 
 %
 
