@@ -268,11 +268,16 @@ Nadine Annoyed: You just laid there for 15 minutes.
 
 %
 
-Dino: (texting Sticky) Boss, there’s a moth on the outside of the bathroom door can you get rid of it? 
-Dino: Pls hurry because I’m going to cry 
+Dino: (texting Sticky) Boss, there’s a moth on the outside of the bathroom door can you get rid of it?
+
+Dino: Pls hurry because I’m going to cry
+
 Dino Shocked: Boss
+
 Dino Shocked: Boss
+
 Dino Shocked: Sticky
+
 Sticky: Sticky is dead. You’re next. Love, Moth.
 
 %
