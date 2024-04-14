@@ -392,6 +392,16 @@ Rhea: You guys are fucking terrifying.
 
 %
 
+Eris: The results are in, I’m afraid you have updog… 
+
+Nadine Sad: What’s updog? 
+
+Eris Happy: Selena! Get in here, I told you I could do it!
+
+Nadine Confused:
+
+%
+
 Scruffy: We can bake these cookies at 400 degrees for 10 minutes or 4,000 degrees for 1 minute. 
 
 Clara: No, that's not how you make cookies. 
