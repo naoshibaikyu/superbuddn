@@ -212,12 +212,6 @@ Eris Annoyed: *Takes away Dino’s phone* Yeah, that's enough for you.
 
 %
 
-Murderer: Any last words?
-
-Nadine Happy: Do you think I'm cute? Be honest.
-
-%
-
 Eris: I am the most responsible person in the group.
 
 Nadine Sad: …You just set the kitchen on fire.
@@ -413,7 +407,6 @@ Tikiman: Uh Dino, that would be salt.
 Tikiman: (takes salt packer from Dino) This is iodized table salt, which in addition to sodium chloride contains anti-caking agents and potassium iodate, which is added to prevent iodine deficiency. So not only are you being overly pretentious by insisting on using scientific terminology for everyday items, you are factually wrong. Your arrogance is your downfall, you annoying little crud.
 
 %
-
 
 Eris Annoyed: You bought a taco?
 
