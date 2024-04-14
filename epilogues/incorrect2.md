@@ -414,6 +414,17 @@ Tikiman: (takes salt packer from Dino) This is iodized table salt, which in addi
 
 %
 
+
+Eris Annoyed: You bought a taco?
+
+Scruffy: Yes.
+
+Eris Angry: From the same truck that hit Nadine?!
+
+Scruffy: (with a mouthful of taco) Well, me starving ain't gonna help her.
+
+%
+
 Scruffy: We can bake these cookies at 400 degrees for 10 minutes or 4,000 degrees for 1 minute. 
 
 Clara: No, that's not how you make cookies. 
