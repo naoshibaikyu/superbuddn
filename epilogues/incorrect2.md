@@ -380,6 +380,24 @@ Eris: I can't swim, dumbass— *sinks*
 
 Selena: ERIS!
 
+%
+
+Scruffy: We can bake these cookies at 400 degrees for 10 minutes or 4,000 degrees for 1 minute. 
+
+Clara: No, that's not how you make cookies. 
+
+Gambi: FLOOR IT!! 
+
+Scruffy: How about 4,000,000 degrees for 1 second?!? 
+
+Clara: yOU'RE GONNA BURN THE HOUSE DOWN- 
+
+Scruffy: I'M GONNA HARNESS THE POWER OF THE FUCKING SUN TO MAKE COOKIES!
+
+Tikiman: DO IT! 
+
+Clara: NO-
+
 %End of Part 2
 
 EpFin
