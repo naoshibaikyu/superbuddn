@@ -382,6 +382,16 @@ Selena: ERIS!
 
 %
 
+Nadine Sad: I haven't slept in seventy-three hours.
+
+Selena: Eighty. Democratically elected leader of insomnia.
+
+Eris Happy: Sure, but it's been ninety for me. I'm going for an even one hundred!
+
+Rhea: You guys are fucking terrifying.
+
+%
+
 Scruffy: We can bake these cookies at 400 degrees for 10 minutes or 4,000 degrees for 1 minute. 
 
 Clara: No, that's not how you make cookies. 
