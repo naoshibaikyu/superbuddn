@@ -402,6 +402,18 @@ Nadine Confused:
 
 %
 
+Dino: (holding a salt packet) It’s just a little sodium chloride.
+
+Tikiman: Actually Dino, it’s salt.
+
+Dino: That’s what I said, sodium chloride.
+
+Tikiman: Uh Dino, that would be salt. 
+
+Tikiman: (takes salt packer from Dino) This is iodized table salt, which in addition to sodium chloride contains anti-caking agents and potassium iodate, which is added to prevent iodine deficiency. So not only are you being overly pretentious by insisting on using scientific terminology for everyday items, you are factually wrong. Your arrogance is your downfall, you annoying little crud.
+
+%
+
 Scruffy: We can bake these cookies at 400 degrees for 10 minutes or 4,000 degrees for 1 minute. 
 
 Clara: No, that's not how you make cookies. 
