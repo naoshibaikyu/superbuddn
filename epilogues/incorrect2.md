@@ -161,7 +161,7 @@ Dino: (calling 911) HELP, IVE BEEN STABBED.
 
 Selena: So you’re dating Clara? 
 
-Nadine Shocked: What? No! I’m just buying them an accessory since they have terrible fashion sense. 
+Nadine Shocked: What? No! I’m just buying her an accessory since she has a terrible fashion sense. 
 
 Selena: That’s literally a wedding ring.
 

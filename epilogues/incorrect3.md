@@ -242,7 +242,7 @@ Eris: Yes, and I take full responsibility for that.
 
 Dino: But we’re friends! I was building up to calling you a nickname soon!
 
-Sticky: That’ll never happen! In fact, you just lost “Sticky” privileges. From now on, you can call me by my last name or ‘Hey, you.’.
+Sticky: That’ll never happen! In fact, you just lost "Sticky" privileges. From now on, you can call me by my last name or "Hey, you.".
 
 Dino: Come on, Sticky.
 
