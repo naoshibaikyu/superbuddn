@@ -130,6 +130,18 @@ Dino: (takes another sip of milk)
 
 %
 
+Clara: Problem, I can't tell if this food is over-sauced or undercooked. 
+
+Nadine Happy: Solution, just pop it back in the oven for another 10 minutes. There's at least a 50% chance that'll fix it, right? 
+
+Rhea: Result? Food has somehow become unpleasantly soggy and unpleasantly crunchy at the exact same time. 
+
+Scruffy: No better time than this to pull out my favorite word! Slunchy! 
+
+Eris Annoyed: ...put it away.
+
+%
+
 Selena: Swear words are illegal now. If you say one you'll be fined.
 
 Nadine: Heck.
@@ -195,6 +207,14 @@ Dino: What’s up? I’m back.
 Sticky: I literally saw you die. You died. You were dead.
 
 Dino: Death is a social construct.
+
+%
+
+Clara: WHOEVER CAUSED THIS MESS IS GOING TO- 
+
+Nadine Sad: It was me... 
+
+Clara Happy: ...Is going to be forgiven because everyone deserves a second chance.
 
 %
 
