@@ -1,4 +1,4 @@
-EpStart
+6EpStart
 
 @TITLE: Incorrect Quotes Part 2
 
@@ -361,6 +361,24 @@ Tikiman: Yeah, video games.
 Gambi: Emotional vulnerability.
 
 %
+
+Nadine Sad: Uh, Rhea? Eris is in the pool and I don't think she's waterproof.
+
+Rhea: What?
+
+Scruffy: I think she meant, Eris is drowning.
+
+Rhea: WHAT?!
+
+%Meanwhile
+
+Eris: *is drowning*
+
+Selena: OH MY GOD, ERIS! KEEP SWIMMING!
+
+Eris: I can't swim, dumbass— *sinks*
+
+Selena: ERIS!
 
 %End of Part 2
 
