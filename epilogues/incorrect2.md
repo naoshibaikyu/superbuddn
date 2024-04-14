@@ -1,4 +1,4 @@
-6EpStart
+EpStart
 
 @TITLE: Incorrect Quotes Part 2
 
