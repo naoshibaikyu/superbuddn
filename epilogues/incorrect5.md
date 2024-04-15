@@ -35,7 +35,11 @@ Sticky: I don’t think the therapist is supposed to say ‘wow’ that many tim
 
 %
 
+Nadine Confused: I’ve never been in a snowball fight before. I don’t know the rules.
 
+Eris Annoyed: What?
+
+Nadine: Is there a point system, or is it to the death?
 
 %
 
