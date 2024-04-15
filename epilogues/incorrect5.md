@@ -79,7 +79,17 @@ Nadine Angry: YES I AM AN ADULT AND I HAVE CRAYONS, I HAVE A BOX OF EMERGENCY CR
 
 %
 
+%The trio are using an Ouija board
 
+Scruffy: Tell us… Is there a spirit in this house?
+
+Spirit: (through the board) YES.
+
+Eris Happy: Great! Rent is due on the first of the month.
+
+Nadine Glad: Oh, and movie night is on Friday if you want to hang out.
+
+Spirit: WAIT, WHAT—
 
 %
 
