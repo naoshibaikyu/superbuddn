@@ -69,7 +69,13 @@ Nadine Sad: Don’t make me lie twice, Eris.
 
 %
 
+Kranion: You have Crayons?
 
+Nadine: Yes, I have—
+
+Kranion: You're— how old are you?
+
+Nadine Angry: YES I AM AN ADULT AND I HAVE CRAYONS, I HAVE A BOX OF EMERGENCY CRAYONS IN THE CABINET UNDER THE TV BECAUSE EVERYBODY NEEDS CRAYONS SOMETIMES, OKAY? *EVERYBODY NEEDS CRAYONS.*
 
 %
 
