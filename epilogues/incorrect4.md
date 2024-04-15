@@ -33,7 +33,7 @@ Eris: Yesterday, I overheard Gambi saying â€œAre you sure this is a good idea?â€
 
 %
 
-
+Selena: I hate when people ask me, 'What did you do today?' Buddy listen, I woke up at noon and then it was five p.m., okay? I don't KNOW!
 
 %
 
