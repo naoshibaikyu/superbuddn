@@ -240,7 +240,12 @@ function getJsonData() {
 				"imagePathPrefix": "combo/fredscruffy"
 			},
 			
-			
+//Others
+			"spirit": {
+				"displayName": "Spirit",
+				"imagePathPrefix": "others/spirit"
+			},
+
 			
 			
 //don't touch this part			
