@@ -65,7 +65,7 @@ Nadine Happy: Yeah, it was good.
 
 Eris: Really?
 
-Nadine Annoyed: Don’t make me lie twice, Eris.
+Nadine Sad: Don’t make me lie twice, Eris.
 
 %
 
