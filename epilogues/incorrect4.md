@@ -369,15 +369,41 @@ Kranion: (walking down the street) Ooh hey! A dime!
 
 %
 
+Selena: Tikiman, you look deep in thought. What’s wrong? 
 
+Tikiman: Did you know you can look at any object and know what it’s like to lick it? Even if you’ve never touched it before? 
+
+Selena: I’m never asking you anything ever again.
 
 %
 
+Scruffy: You can do it Eris! 
 
+Scruffy Happy: But if you can't, at least your death will be quick, painless, and really cool to watch.
 
 %
 
+Tikiman: I made lightly fried fish fillets for dinner. 
 
+Selena: Tikiman, It’s 1:15 am, what the fuck. 
+
+Tikiman: Do you want the lightly fried fish fillets or not. 
+
+Selena: Well, I mean yeah. 
+
+Tikiman: So come downstairs while they’re still hot. 
+
+Selena: Wait, you just made them? 
+
+Tikiman: Yeah, I wasn’t tired so I decided to make lightly fried fish fillets. 
+
+Selena: Say lightly fried fish fillets one more time Tikiman.
+
+%
+
+Dino: (ordering coffee) I’d like a light roast. 
+
+Tikiman: You're kinda ugly.
 
 %
 
@@ -391,7 +417,7 @@ Scruffy: (frantically pours marinara sauce into the vacuum tube)
 
 Kranion Angry: GODDAMMIT, IT'S THEM AGAIN!
 
-%End of Part 2
+%End of Part 4
 
 EpFin
 
