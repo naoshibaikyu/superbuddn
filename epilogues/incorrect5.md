@@ -13,3 +13,5 @@ EpStart
 %End of Part 5
 
 EpFin
+
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
