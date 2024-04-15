@@ -61,7 +61,7 @@ src: url("../fonts/vipnagorgialla_rg.otf");
 
 #main
 {
-    width: 98%;
+    width: 100%;
     max-width: 1200px;
     min-width: 300px;
     margin-left: auto;
@@ -141,7 +141,7 @@ body  {
 {
     /*background-color: #151525;*/
     background-color: black;
-    background-image: url("https://nonnietestsite.cfw.me/files/resources/bg-planet.png"), url("https://nonnietestsite.cfw.me/files/resources/mmk-group.png"), url("https://nonnietestsite.cfw.me/files/resources/gu-group.png");
+    background-image: url("https://nonnietestsite.cfw.me/files/resources/bg-planet.png");
     background-repeat: no-repeat, no-repeat, no-repeat;
     background-position: bottom center, bottom left, right 10px;
     image-rendering: pixelated;
