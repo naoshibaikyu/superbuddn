@@ -19,7 +19,15 @@ Selena: *pulls out their phone* Nevermind.
 
 %
 
+Sticky: What, in the name of sanity, have you got on your head?
 
+Dino: It's a fez, I wear a fez now. Fezzes are cool.
+
+Kranion angry: Sounds stupid. Hey bro! (snatches the fez, throws it in the air)
+
+Sticky: (shoots it)
+
+Dino Shocked: 
 
 %
 
