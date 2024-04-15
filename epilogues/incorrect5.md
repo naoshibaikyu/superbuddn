@@ -15,7 +15,7 @@ Selena: There's nothing to do....
 
 Stella: You can wash the dishes you promised to wash about a week ago. 
 
-Selena: *pulls out their phone* Nevermind.
+Selena: (pulls out her phone) Nevermind.
 
 %
 
