@@ -19,12 +19,20 @@ Eris: (starts filming) Waddup, guys, welcome to my vlog, today's topic: how to g
 
 %
 
+Clara: I'm sorry. Please talk to me. 
+
+Nadine Angry: 
+
+Clara: Hello? World's most amazing person?? Sweet pea? Precious cinnamon roll that's too good for this world, too pure? 
+
+Nadine Angry: 'Sorry' doesn't bring back my fucking M&Ms.
 
 %
 
 Eris: Yesterday, I overheard Gambi saying “Are you sure this is a good idea?” and Scruffy replying “Trust me,” and I have never moved from one room to another so quickly in my life.
 
 %
+
 
 
 %
