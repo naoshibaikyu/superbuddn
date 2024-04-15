@@ -31,7 +31,7 @@ Dino Shocked:
 
 %
 
-
+Sticky: I don’t think the therapist is supposed to say ‘wow’ that many times during their first session with a client, but here we are.
 
 %
 
