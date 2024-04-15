@@ -2,7 +2,7 @@
 
 EpStart
 
-Naoshi: We are working on the index page. Hang tight!
+Nadine Happy: We are working on the index page. Hang tight!
 
 EpFin
 
