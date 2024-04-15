@@ -57,7 +57,15 @@ Cranion: (slowly pushes a cannon into a 17th century bank) Okay everyone, be coo
 
 %
 
+Quincy: Do you cook?
 
+Eris: I made a cake once.
+
+Nadine Happy: Yeah, it was good.
+
+Eris: Really?
+
+Nadine Annoyed: Don’t make me lie twice, Eris.
 
 %
 
