@@ -22,7 +22,7 @@ Eris Annoyed: I hate that you're right... but let Nadine have this moment, at le
 
 Nadine Annoyed: (mumbling to self) I would know what capitalism's greed is...
 
-Scruffy: Ah, Santa logic, got it. Not that he isn't real or anything, I don't know why you keep telling me he isn't real.
+Scruffy Happy: Ah, Santa logic, got it. Not that he isn't real or anything, I don't know why you keep telling me he isn't real.
 
 Nadine Shocked: Of course Santa's real! What do you mean, Eris?
 
@@ -38,11 +38,11 @@ Nadine Happy: That sounds amazing! Let's go see the hot dog!
 
 Eris: Don't humor him. Nadine, why don't we go check out GameStore. Scruffy, why don't you meet up with us there after you get your hot dog.
 
-Scruffy: Sure thing. Thanks for the 50 bucks by the way!
+Scruffy Happy: Sure thing. Thanks for the 50 bucks by the way!
 
 Eris Shocked: Wait, I didn't give you any money--
 
-Scruffy: --what, can't hear you, see you in a bit!
+Scruffy Happy: --what, can't hear you, see you in a bit!
 
 Eris Annoyed: Ah, whatever, better he has something to focus on.
 
@@ -110,7 +110,7 @@ Eris Shocked: How did we--
 
 Nadine Shocked: Oh, wow, we're already home!
 
-Scruffy: And I finally got my hot dog!
+Scruffy Happy: And I finally got my hot dog!
 
 Eris Annoyed: I don't see you holding--
 

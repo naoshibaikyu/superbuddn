@@ -177,7 +177,7 @@ Selena: What's my sexuality?! I don't fucking know! I'm not straight, and that's
 
 %
 
-Scruffy: I bet you can’t make a sentence without the letter “A”!
+Scruffy Happy: I bet you can’t make a sentence without the letter “A”!
 
 Tikiman: You thought you just did something there, didn’t you? Well, sorry to burst your bubble, but numerous sentences could be constructed without employing the first letter of the English lexicon.
 
@@ -225,7 +225,7 @@ Scruffy: (shakes rapidly and starts to light up)
 
 Eris Annoyed: What-? 
 
-Scruffy: I swallowed a glow stick! 
+Scruffy Happy: I swallowed a glow stick! 
 
 Eris Shocked: WHY WOULD YOU-
 

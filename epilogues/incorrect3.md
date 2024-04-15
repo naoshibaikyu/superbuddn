@@ -14,7 +14,7 @@ Nadine Sad: Please don’t get arrested.
 
 Selena: No promises! ❤️
 
-Scruffy: Why not both? Get creative!
+Scruffy Happy: Why not both? Get creative!
 
 Selena: Wonderful suggestion, thank you.
 
@@ -62,7 +62,7 @@ Sticky Angry: When I die I want Dino to lower me into my grave so he can let me 
 
 %
 
-Scruffy: Thanks for not telling Eris what happened.
+Scruffy Happy: Thanks for not telling Eris what happened.
 
 Nadine Annoyed: I wouldn’t even know where to begin trying to explain this.
 
@@ -136,7 +136,7 @@ Nadine Happy: Solution, just pop it back in the oven for another 10 minutes. The
 
 Rhea: Result? Food has somehow become unpleasantly soggy and unpleasantly crunchy at the exact same time. 
 
-Scruffy: No better time than this to pull out my favorite word! Slunchy! 
+Scruffy Happy: No better time than this to pull out my favorite word! Slunchy! 
 
 Eris Annoyed: ...put it away.
 
@@ -434,7 +434,7 @@ Scruffy: Yes.
 
 Eris Angry: From the same truck that hit Nadine?!
 
-Scruffy: (with a mouthful of taco) Well, me starving ain't gonna help her.
+Scruffy Happy: (with a mouthful of taco) Well, me starving ain't gonna help her.
 
 %
 
@@ -448,7 +448,7 @@ Scruffy: How about 4,000,000 degrees for 1 second?!?
 
 Clara: yOU'RE GONNA BURN THE HOUSE DOWN- 
 
-Scruffy: I'M GONNA HARNESS THE POWER OF THE FUCKING SUN TO MAKE COOKIES!
+Scruffy Happy: I'M GONNA HARNESS THE POWER OF THE FUCKING SUN TO MAKE COOKIES!
 
 Tikiman: DO IT! 
 

@@ -15,7 +15,7 @@ Scruffy: Hey Eris, can I get some ice cream?
 
 Eris: Only a spoonful! 
 
-Scruffy: (Proceeds to pull out a comically large spoon.)
+Scruffy Happy: (Proceeds to pull out a comically large spoon.)
 
 % 
 
@@ -31,7 +31,7 @@ Scruffy: I’m so excited!
 
 Nadine Happy: We’re gonna have the best costumes, get the most candy... 
 
-Scruffy: And have the biggest stomach aches ever! 
+Scruffy Happy: And have the biggest stomach aches ever! 
 
 Nadine Glad: Yeah!
 
@@ -171,7 +171,7 @@ Sticky: The poison is kicking in.
 
 %
 
-Scruffy: Who thinks I can fit 15 marshmallows in my mouth?
+Scruffy Happy: Who thinks I can fit 15 marshmallows in my mouth?
 
 Eris Annoyed: You’re a hazard to society.
 
@@ -179,9 +179,9 @@ Nadine Happy: And a coward. DO TWENTY.
 
 %
 
-Nadine confused: What time is it?
+Nadine Confused: What time is it?
 
-Scruffy: I don’t know; pass me that saxophone and we’ll find out.
+Scruffy Happy: I don’t know; pass me that saxophone and we’ll find out.
 
 Scruffy: (plays sax loudly and extremely out of tune)
 
@@ -229,7 +229,7 @@ Scruffy: Freaks? I was freaks once. They put me in a room, a rubber room, a rubb
 
 Nadine: Aren't you already a super freak?
 
-Scruffy: Ultimate Edition.
+Scruffy Happy: Ultimate Edition.
 
 Nadine Confused: 
 
@@ -239,7 +239,7 @@ Selena: Here’s a fun Christmas idea. We hang mistletoe, but instead of kissing
 
 Nadine Sad: Selena no.
 
-Scruffy: Mistlefoe.
+Scruffy Happy: Mistlefoe.
 
 Nadine Annoyed: Please stop encouraging her.
 
@@ -342,17 +342,17 @@ Stella: Thank you, Eris.
 
 Eris: So what’s for dinner?
 
-Scruffy: I can’t tell you, it’s a soup-prise!
+Scruffy: I can’t tell you, it’s a *soup*-prise!
 
 Eris: …
 
 Eris Annoyed: Is it soup?
 
-Scruffy: I soup-pose it could be! (winks)
+Scruffy Happy: I *soup*-pose it could be! (winks)
 
 Eris Angry: Please, enough with the soup puns!
 
-Scruffy: Wow, you’re soup-per mean.
+Scruffy Sad: Wow, you’re *soup*-per mean.
 
 Eris Angry: STOP!
 
@@ -368,7 +368,7 @@ Nadine Shocked: What the hell!?
 
 Scruffy: Oh, sorry, my bad.
 
-Scruffy: (whispering) Wanna help me commit arson?
+Scruffy Happy: (whispering) Wanna help me commit arson?
 
 Nadine Happy: (whispering) Of course. What do you need?
 
