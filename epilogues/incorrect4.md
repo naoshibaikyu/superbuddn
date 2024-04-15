@@ -11,6 +11,11 @@ EpStart
 
 %
 
+Eris: *watching their house burn down*
+
+Eris:
+
+Eris: (starts filming) Waddup, guys, welcome to my vlog, today's topic: how to get away with accidentally committing arson because you forgot Spaghetti O's cans are metal and thus non-microwavable! Step one: deny everything.
 
 %
 
