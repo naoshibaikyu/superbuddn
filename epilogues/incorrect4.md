@@ -22,6 +22,7 @@ Eris: (starts filming) Waddup, guys, welcome to my vlog, today's topic: how to g
 
 %
 
+Eris: Yesterday, I overheard Gambi saying “Are you sure this is a good idea?” and Scruffy replying “Trust me,” and I have never moved from one room to another so quickly in my life.
 
 %
 
