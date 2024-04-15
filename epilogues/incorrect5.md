@@ -43,7 +43,13 @@ Nadine: Is there a point system, or is it to the death?
 
 %
 
+Clara: Here are two pictures. One of them is your bedroom, and the other is a garbage dumpster. Can you tell which is which?
 
+Selena: 
+
+Selena: This one is the dumpster. 
+
+Clara: They’re both your bedroom.
 
 %
 
