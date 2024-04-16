@@ -147,7 +147,9 @@ Eris Happy: (looks straight up) Not if I never look down.
 
 %
 
+Naoshi: (talking about Scruffy) How the hell are you ever able to put up with him?
 
+Eris Annoyed: You're making a ton of assumptions there.
 
 %
 
