@@ -134,7 +134,12 @@ Naoshi Angry: Scruffy, what the actual FUCK?
 
 %
 
+Eris: Wow. I keep stepping on a lot of crunchy twigs.
 
+
+Nadine Sad: Those are bones, Eris.
+
+Eris Happy: (looks straight up) Not if I never look down.
 
 %
 
