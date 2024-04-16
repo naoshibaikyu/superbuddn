@@ -227,7 +227,17 @@ Selena: Congratulations Naoshi, you're glowing!
 
 %
 
+Sticky Angry: You three, explain right now!
 
+Nadine Glad: It was Dino.
+
+Scruffy Happy: It was Dino. 
+
+Eris Happy: It was Dino. 
+
+Dino:
+
+Dino: …fuck.
 
 %
 
