@@ -115,7 +115,7 @@ Naoshi: What?
 
 Nadine Happy: Hello inferior me!
 
-Naoshi Surprised: HEY WHAT DID I DO-
+Naoshi Shocked: HEY WHAT DID I DO-
 
 
 %
