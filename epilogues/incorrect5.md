@@ -241,11 +241,15 @@ Dino: …fuck.
 
 %
 
-
+Gambi: So according to the cease and desist order I got, apparently you can’t ‘legally’ be a lawyer if your license is ‘cut out of a cereal box’.
 
 %
 
+Stella: Do you want this handful of moss?
 
+Naoshi Confused: Why would I want a handful of fucking moss?
+
+Stella: Damn, you could’ve just said no.
 
 %
 
