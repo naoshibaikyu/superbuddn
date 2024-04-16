@@ -205,7 +205,13 @@ Nadine Sad: I’ve been going through life assuming it’s already happened at s
 
 %
 
+Dino: You... you said I could trust you!!
 
+Dino: You said you were a GAMER!!!
+
+Clara: Dino... I only play mobile games.
+
+Dino Shocked: NOOOOOOOO!!!!!!
 
 %
 
