@@ -215,7 +215,15 @@ Dino Shocked: NOOOOOOOO!!!!!!
 
 %
 
+Clara: You're starting to forget your Spanish. You don't practice.
 
+Naoshi Annoyed: Lo siento. Estoy embarazada.
+
+Clara: ...You just told me you're pregnant.
+
+Naoshi Shocked: 
+
+Selena: Congratulations Naoshi, you're glowing!
 
 %
 
