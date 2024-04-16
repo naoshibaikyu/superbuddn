@@ -93,7 +93,13 @@ Spirit: WAIT, WHAT—
 
 %
 
+Selena: You know, when I first met you, I really didn’t like you.
 
+Dino:
+
+Dino: …I thought there was going to be another half to that sentence?
+
+Selena: Nope!
 
 %
 
