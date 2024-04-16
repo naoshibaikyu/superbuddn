@@ -159,7 +159,11 @@ Eris Annoyed: You're making a ton of assumptions there.
 
 %
 
+Kranion: I learned a valuable lesson from this.
 
+Nadine Annoyed: I’m guessing they are all horrible distortions on the lesson you actually should’ve taken away…
+
+Kranion Angry: DEATH ISN’T REAL AND I AM BASICALLY GOD!
 
 %
 
