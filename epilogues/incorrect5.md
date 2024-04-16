@@ -103,7 +103,9 @@ Selena: Nope!
 
 %
 
+Selena: I sort of did something and I need some advice, but I don't want a lot of judgment and criticism.
 
+Stella: And you came to me?
 
 %
 
