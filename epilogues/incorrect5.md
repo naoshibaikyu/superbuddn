@@ -267,11 +267,15 @@ Scruffy Happy: (pushing Dino down the stairs) Too late.
 
 %
 
+Scruffy: Are you an ‘arr’ pirate or a ‘yo ho ho’ pirate?
 
+Selena: I’m a ‘I’m not paying $600 for photoshop’ pirate.
 
 %
 
+Scruffy: You need to be more careful!
 
+Eris: (was dragged into Scruffy's issue) Careful? CAREFUL?! I'LL CAREFULLY WRAP MY HANDS AROUND YOUR THROAT-
 
 %
 
