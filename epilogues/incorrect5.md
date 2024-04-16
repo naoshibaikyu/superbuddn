@@ -193,7 +193,9 @@ Sticky: (is the reason why the child is crying)
 
 %
 
+Scruffy Happy: We have fun, don’t we, Eris?
 
+Eris Annoyed: I have never been more stressed out in my entire life.
 
 %
 
