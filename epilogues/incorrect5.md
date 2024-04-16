@@ -253,7 +253,17 @@ Stella: Damn, you could’ve just said no.
 
 %
 
+Scruffy: Some people are like slinkies.
 
+Rhea: What?
+
+Scruffy: Not really good for much but bring a smile to your face when you push them down the stairs.
+
+Rhea:
+
+Rhea: Please don't push Dino down the stairs.
+
+Scruffy Happy: (pushing Dino down the stairs) Too late.
 
 %
 
