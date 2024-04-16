@@ -167,7 +167,13 @@ Kranion Angry: DEATH ISN’T REAL AND I AM BASICALLY GOD!
 
 %
 
+Eris: (trying to get five seconds of sleep
 
+Nadine Sad: (poking Eris’s arm) Eris Eris. Eris. Eris.
+
+Eris Annoyed: WHAT?
+
+Nadine Sad: …We’re out of Capri Suns—
 
 %
 
