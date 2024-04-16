@@ -109,6 +109,25 @@ Stella: And you came to me?
 
 %
 
+%**A NEW CHALLENGER APPROACHES.
+
+Naoshi: What?
+
+Nadine Happy: Hello inferior me!
+
+Naoshi Shocked: HEY WHAT DID I DO-
+
+
+%
+
+Naoshi: You shouldn't be using a straw.
+
+Scruffy Sad: I know, I know, it's bad for the environment and stuff.
+
+Naoshi Annoyed: Yeah, but I mean... it's a weird way to eat spaghetti.
+
+%
+
 Naoshi Annoyed: Your Honor, I hereby submit the following to the court:
 
 Naoshi Angry: Scruffy, what the actual FUCK?
