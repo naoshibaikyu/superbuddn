@@ -124,11 +124,11 @@ Naoshi: You shouldn't be using a straw.
 
 Scruffy Sad: I know, I know, it's bad for the environment and stuff.
 
-Naoshi Annoyed: Yeah, but I mean... it's a weird way to eat spaghetti.
+Naoshi Confused: Yeah, but I mean... it's a weird way to eat spaghetti.
 
 %
 
-Naoshi Annoyed: Your Honor, I hereby submit the following to the court:
+Naoshi: Your Honor, I hereby submit the following to the court:
 
 Naoshi Angry: Scruffy, what the actual FUCK?
 
@@ -147,7 +147,7 @@ Eris Happy: (looks straight up) Not if I never look down.
 
 %
 
-Naoshi: (talking about Scruffy) How the hell are you ever able to put up with him?
+Naoshi Confused: (talking about Scruffy) How the hell are you ever able to put up with him?
 
 Eris Annoyed: You're making a ton of assumptions there.
 
