@@ -143,7 +143,13 @@ Eris Happy: (looks straight up) Not if I never look down.
 
 %
 
+Gambi: Are you alright with constructive criticism? I don't want to sound mean.
 
+Selena: No, go ahead. I want to hear it.
+
+Gambi: It sucks.
+
+Selena: That's not constructive criticism.
 
 %
 
