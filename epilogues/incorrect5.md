@@ -177,7 +177,19 @@ Nadine Sad: …We’re out of Capri Suns—
 
 %
 
+%When a child starts crying in public
 
+Rhea: (tries to make the child laugh)
+
+Nadine Happy: (tries to play a game with the child to make them calm down)
+
+Tikiman: (gives detailed instructions to the parents)
+
+Dino: (cries with the child)
+
+Naoshi Annoyed: (ignores the child)
+
+Sticky: (is the reason why the child is crying)
 
 %
 
