@@ -109,7 +109,9 @@ Stella: And you came to me?
 
 %
 
+Naoshi Annoyed: Your Honor, I hereby submit the following to the court:
 
+Naoshi Angry: Scruffy, what the actual FUCK?
 
 %
 
