@@ -199,7 +199,9 @@ Eris Annoyed: I have never been more stressed out in my entire life.
 
 %
 
+Gambi: How long do you reckon it’ll be until Naoshi finally snaps and commits murder?
 
+Nadine Sad: I’ve been going through life assuming it’s already happened at some point and it’s just that no one was ever able to trace it back to her.
 
 %
 
