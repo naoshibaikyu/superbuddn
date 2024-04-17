@@ -324,6 +324,18 @@ Naoshi Annoyed: And then you cried when she said she wasn't.
 
 %
 
+Cop: You ran a red light.
+
+Kranion Angry: So did you, hypocrite.
+
+Cop: I was following you.
+
+Kranion: That was dumb, I'm a terrible driver.
+
+Cop: Get out.
+
+%
+
 
 
 %End of Part 5
