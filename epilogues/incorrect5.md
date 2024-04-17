@@ -424,6 +424,22 @@ Sticky: “But how”, you may ask. Well, easy. Just don’t do it. Refuse to. S
 
 %
 
+Naoshi: Hey, Joe said he's coming over this afternoon.
+
+Selena: Cool.
+
+Naoshi: Do you know who Joe is?
+
+Selena: JOE MAMA!
+
+Stella: (not even looking up from her phone) Damn, that backfired.
+
+%Meanwhile
+
+Nadine Sad: Why is your nose bleeding suddenly, Scruffy?
+
+Scruffy: Huh???
+
 %End of Part 5
 
 EpFin
