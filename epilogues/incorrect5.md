@@ -105,11 +105,11 @@ Selena: Nope!
 
 Selena: I sort of did something and I need some advice, but I don't want a lot of judgment and criticism.
 
-Stella: And you came to me?
+Sticky: And you came to me?
 
 %
 
-%**A NEW CHALLENGER APPROACHES.
+%**A NEW CHALLENGER APPROACHES.**
 
 Naoshi: What?
 
@@ -266,7 +266,7 @@ Scruffy Happy: (pushing Dino down the stairs) Too late.
 
 %
 
-Scruffy: Are you an ‘arr’ pirate or a ‘yo ho ho’ pirate?
+Tikiman: Are you an ‘arr’ pirate or a ‘yo ho ho’ pirate?
 
 Selena: I’m a ‘I’m not paying $600 for photoshop’ pirate.
 
@@ -424,7 +424,7 @@ Sticky: “But how”, you may ask. Well, easy. Just don’t do it. Refuse to. S
 
 %
 
-Naoshi: Hey, Joe said he's coming over this afternoon.
+Naoshi Happy: Hey, Joe said he's coming over this afternoon.
 
 Selena: Cool.
 
@@ -436,7 +436,7 @@ Stella: (not even looking up from her phone) Damn, that backfired.
 
 %Meanwhile
 
-Nadine Sad: Why is your nose bleeding suddenly, Scruffy?
+Quincy: Why is your nose bleeding suddenly, Scruffy?
 
 Scruffy: Huh???
 
