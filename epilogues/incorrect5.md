@@ -354,7 +354,11 @@ Quincy: And it's not in use very often, it seems.
 
 %
 
+Clara: Where’s my chair?
 
+Tikiman: Scruffy broke it over Eris’s back while they were wrestling.
+
+Eris Annoyed: Correction, Scruffy was wrestling. I was eating soup.
 
 %
 
