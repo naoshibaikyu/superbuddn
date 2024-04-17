@@ -373,7 +373,13 @@ Gambi: Goodnight, Selena.
 
 %
 
+Scruffy: What is it called when you kill a friend?
 
+Tikiman: Homicide.
+
+Gambi: Murder.
+
+Quincy: Homiecide.
 
 %
 
