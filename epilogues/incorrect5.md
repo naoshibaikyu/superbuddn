@@ -136,8 +136,7 @@ Naoshi Angry: Scruffy, what the actual FUCK?
 
 Eris: Wow. I keep stepping on a lot of crunchy twigs.
 
-
-Nadine Sad: Those are bones, Eris.
+Quincy: Those are bones, Eris.
 
 Eris Happy: (looks straight up) Not if I never look down.
 
@@ -207,11 +206,11 @@ Nadine Sad: I’ve been going through life assuming it’s already happened at s
 
 Dino: You... you said I could trust you!!
 
-Dino: You said you were a GAMER!!!
+Dino: You said you were a *GAMER!!!*
 
 Clara: Dino... I only play mobile games.
 
-Dino Shocked: NOOOOOOOO!!!!!!
+Dino Shocked: **NOOOOOOOO!!!!!!**
 
 %
 
@@ -285,11 +284,19 @@ Naoshi Annoyed: Just when we thought it was safe to let you back into the conver
 
 %
 
+Quincy: Are you having another depressive episode?
 
+Selena: A depressive episode?
+
+Selena: I'm having a depressive series and we're just on season one.
 
 %
 
+Eris Happy: Hey, Rhea. What kind of flowers do you prefer?
 
+Rhea: I like sunflowers.
+
+Eris: (pulling out a bouquet of Venus Flytraps) Well, shit-
 
 %
 
