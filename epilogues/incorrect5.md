@@ -336,7 +336,15 @@ Cop: Get out.
 
 %
 
+Naoshi Angry: Fight me!
 
+Dino: Ha, look at your size! What are you gonna do, kick my ankle?
+
+*Later*
+
+Gambi: Why is Dino crying?
+
+Quincy: Naoshi kicked him really hard on the ankle.
 
 %End of Part 5
 
