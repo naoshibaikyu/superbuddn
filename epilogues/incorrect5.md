@@ -300,7 +300,15 @@ Eris: (pulling out a bouquet of Venus Flytraps) Well, shit-
 
 %
 
+Dino: sapnu puaS.
 
+Rhea: What??
+
+Clara: What language is that.
+
+Dino: Turn your phone 180 degrees.
+
+%Dino was removed from the groupchat
 
 %
 
