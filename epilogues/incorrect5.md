@@ -416,7 +416,11 @@ Rhea: Now replace “stroke” with “baby”. Congratulations!
 
 %
 
+Sticky: The real secret to immortality? Not dying. You want to be immortal? Okay, that’s easy. Just don’t die. That’s it. Refuse to die. There you go.
 
+Naoshi Confused: But how-
+
+Sticky: “But how”, you may ask. Well, easy. Just don’t do it. Refuse to. Say “no thanks”.
 
 %
 
