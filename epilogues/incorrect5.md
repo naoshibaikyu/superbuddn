@@ -363,6 +363,13 @@ Eris Annoyed: Correction, Scruffy was wrestling. I was eating soup.
 %
 
 
+Selena: Can we go to a haunted house?
+
+Gambi: What’s wrong with the one we live in?
+
+Selena: Wh-what?
+
+Gambi: Goodnight, Selena.
 
 %
 
