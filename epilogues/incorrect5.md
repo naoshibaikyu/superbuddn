@@ -279,7 +279,9 @@ Eris: (was dragged into Scruffy's issue) Careful? CAREFUL?! I'LL CAREFULLY WRAP 
 
 %
 
+Scruffy Happy: Go ahead, Selena. Let it out, cry. If you don't, your tear ducts will get blocked up, and then when you get old, you won't be able to cry.
 
+Naoshi Annoyed: Just when we thought it was safe to let you back into the conversation.
 
 %
 
