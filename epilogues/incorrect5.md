@@ -340,7 +340,7 @@ Naoshi Angry: Fight me!
 
 Dino: Ha, look at your size! What are you gonna do, kick my ankle?
 
-*Later*
+%Later
 
 Gambi: Why is Dino crying?
 
