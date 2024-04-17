@@ -312,6 +312,18 @@ Dino: Turn your phone 180 degrees.
 
 %
 
+Clara: I didn't drink that much last night.
+
+Naoshi: You were flirting with Nadine.
+
+Clara: So what? She's my partner. 
+
+Naoshi: You asked if she was single.
+
+Naoshi Annoyed: And then you cried when she said she wasn't.
+
+%
+
 
 
 %End of Part 5
