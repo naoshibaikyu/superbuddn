@@ -346,6 +346,34 @@ Gambi: Why is Dino crying?
 
 Quincy: Naoshi kicked him really hard on the ankle.
 
+%
+
+Gambi: I am convinced Kranion and Cranion share a brain cell.
+
+Quincy: And it's not in use very often, it seems.
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
 %End of Part 5
 
 EpFin
