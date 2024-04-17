@@ -383,7 +383,12 @@ Quincy: Homiecide.
 
 %
 
+%Everyone has just arrived in a new city.
+%%Kranion looks around at the wanted posters to see if he's on any of them.
 
+Naoshi: Kranion, are you a criminal?
+
+Kranion: Not here, I’m not!
 
 %
 
