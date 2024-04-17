@@ -392,6 +392,30 @@ Kranion: Not here, I’m not!
 
 %
 
+Gambi: Hey do you wanna hang out this weekend?
+
+Selena: Generic excuse.
+
+Gambi: I can’t believe you said that out loud, to my face.
+
+Selena: I can.
+
+%
+
+Dino: I truly hate it here.
+
+Clara: Now replace “it” with “women”. Not so funny now, is it?
+
+Quincy: Now replace “it” with “women”. Not so funny now, is women?
+
+Tikiman: Now replace “funny” with “women”. Not so women now, is funny?
+
+Sticky Angry: I’m having a fucking stroke.
+
+Rhea: Now replace “stroke” with “baby”. Congratulations!
+
+%
+
 
 
 %
