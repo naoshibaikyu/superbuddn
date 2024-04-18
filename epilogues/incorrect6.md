@@ -89,10 +89,29 @@ Eris Annoyed: How did either of those sentences occur naturally for you to disco
 
 %
 
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
+
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
-
 
 %End of Part 6
 
