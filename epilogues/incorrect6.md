@@ -141,6 +141,14 @@ Scruffy Happy: (grabbing a skull) This one will do!
 
 %
 
+Selena: Can you PLEASE peer pressure me into doing my project?
+
+Gambi: Do it or you're straight.
+
+Selena: I said peer pressure, NOT THREATEN!
+
+%
+
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
