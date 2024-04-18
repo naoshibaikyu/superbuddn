@@ -73,6 +73,16 @@ Naoshi Shocked: NO, THEY ATE ALL THE FOOD IN THE FRIDGE, BUT WHAT THE FU-
 
 %
 
+Gambi: Why does my arm shake and turn bright red when I’m eating dirt?
+
+Eris:
+
+Eris Annoyed: Why are you eating dirt?
+
+Gambi: Did I ask you if I should eat dirt? No, so answer my question.
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
