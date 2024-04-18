@@ -89,7 +89,9 @@ Eris Annoyed: How did either of those sentences occur naturally for you to disco
 
 %
 
+Selena: If I make you breakfast in bed, a simple "thank you" is all I need.
 
+Selena: Not all this "how did you get into my house" business.
 
 %
 
