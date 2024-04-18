@@ -83,6 +83,12 @@ Gambi: Did I ask you if I should eat dirt? No, so answer my question.
 
 %
 
+Scruffy Happy: "Go hang a salami" backwards is "I'm a lasagna hog".
+
+Eris Annoyed: How did either of those sentences occur naturally for you to discover this?
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
