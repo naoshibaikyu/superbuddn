@@ -57,6 +57,26 @@ Rhea: I’m literally just going to the store.
 
 %
 
+Naoshi Angry: Scruffy did it again.
+
+Eris: (sipping her cup of coffee while reading the newspaper) Peace disturbance? 
+
+Naoshi Annoyed: What no- 
+
+Eris: Arson? 
+
+Naoshi Shocked; NO, JESUS CHRIST, HOW MANY- 
+
+Eris: Attempted murder? 
+
+Naoshi Shocked: NO, THEY ATE ALL THE FOOD IN THE FRIDGE, BUT WHAT THE FU-
+
+Eris: Ah. I see. (continues sipping)
+
+Naoshi Shocked:
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
