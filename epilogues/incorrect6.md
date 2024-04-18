@@ -71,10 +71,6 @@ Eris: Attempted murder?
 
 Naoshi Shocked: NO, THEY ATE ALL THE FOOD IN THE FRIDGE, BUT WHAT THE FU-
 
-Eris: Ah. I see. (continues sipping)
-
-Naoshi Shocked:
-
 %
 
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
