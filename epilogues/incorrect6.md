@@ -22,6 +22,16 @@ Clara: (sighing) Fine. We're cowabunga.
 
 %
 
+Tikiman: What language do they speak at the center of the earth?
+
+Tikiman: Core-ean
+
+Eris Annoyed: The center of the earth is arond 5430 degrees Celsius! Nobody is going to live there so they don’t need a language!
+
+Gambi: Core-ean.
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
