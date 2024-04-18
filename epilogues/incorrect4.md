@@ -415,7 +415,7 @@ Kranion Angry: HEY BUDDY, WAIT, I REMEMBER YOU!
 
 Scruffy: (frantically pours marinara sauce into the vacuum tube)
 
-Kranion Angry: GODDAMMIT, IT'S THEM AGAIN!
+Kranion Angry: GODDAMMIT, IT'S HIM AGAIN!
 
 %End of Part 4
 
