@@ -11,6 +11,15 @@ EpStart
 
 %
 
+Rhea: Selena just said "I have an appetite for destruction" and then they reached down and untied my shoe.
+
+%
+
+
+
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
