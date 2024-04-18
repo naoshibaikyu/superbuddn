@@ -11,9 +11,9 @@ EpStart
 
 %
 
-Kranion: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
+Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
-Kranion: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
+Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
 
 
 %End of Part 6
