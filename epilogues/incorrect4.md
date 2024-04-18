@@ -227,7 +227,7 @@ Selena: I'm laughing at the comments.
 
 %During a game of Among Us.
 
-Quincy: I believe Naoshi is innocent, I was with them the whole time. Dino, what were you doing?
+Quincy: I believe Fred is innocent, I was with him the whole time. Dino, what were you doing?
 
 Dino: Oh, I was just murdering…
 
