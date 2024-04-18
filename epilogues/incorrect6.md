@@ -43,11 +43,11 @@ Gambi: Core-ean.
 
 %
 
-Nadine: (Reading a letter)
+Nadine Angry: (Reading a letter)
 
 Fred: Well, what does it say?
 
-Nadine: It’s a confession letter. It turns out Gambi killed my pet rock.
+Nadine Annoyed: It’s a confession letter. It turns out Gambi killed my pet rock.
 
 %
 
@@ -65,7 +65,7 @@ Naoshi Annoyed: What no-
 
 Eris: Arson? 
 
-Naoshi Shocked; NO, JESUS CHRIST, HOW MANY- 
+Naoshi Shocked: NO, JESUS CHRIST, HOW MANY- 
 
 Eris: Attempted murder? 
 
