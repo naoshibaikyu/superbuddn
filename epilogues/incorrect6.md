@@ -15,7 +15,9 @@ Rhea: Selena just said "I have an appetite for destruction" and then they reache
 
 %
 
+Selena: No more making fun of me when I misuse dated cultural references, alright? Are we cowabunga on this?
 
+Clara: (sighing) Fine. We're cowabunga.
 
 
 %
