@@ -19,6 +19,17 @@ Selena: No more making fun of me when I misuse dated cultural references, alrigh
 
 Clara: (sighing) Fine. We're cowabunga.
 
+%
+
+Quincy: What's your greatest fear?
+
+Nadine Sad: Being forgotten.
+
+Quincy: ...
+
+Quincy: Damn, that's deep.
+
+Quincy: Mine is the Kool Aid man, but I feel kinda stupid about it now...
 
 %
 
