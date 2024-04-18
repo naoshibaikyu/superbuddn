@@ -109,6 +109,16 @@ Naoshi: I’ve never had something go from making no sense to making complete se
 
 %
 
+%During a game of Hangman
+
+Gambi: Nope, there’s no Q. You lose.
+
+Clara: Are you *kidding* me?! You can still add *something*!
+
+Gambi: I already added a belt, four earrings and an extra arm! **YOU LOSE!**
+
+%
+
 
 
 %
@@ -117,13 +127,9 @@ Naoshi: I’ve never had something go from making no sense to making complete se
 
 %
 
+Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
-
-%
-
-Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
-
-Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
+Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
 
 %End of Part 6
 
