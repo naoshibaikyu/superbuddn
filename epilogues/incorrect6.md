@@ -51,6 +51,12 @@ Nadine: It’s a confession letter. It turns out Gambi killed my pet rock.
 
 %
 
+Eris: (wiping tears from her eyes) If you love someone, set them free. If they come back, it’s meant to be…
+
+Rhea: I’m literally just going to the store.
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
