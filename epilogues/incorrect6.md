@@ -11,7 +11,7 @@ EpStart
 
 %
 
-Rhea: Selena just said "I have an appetite for destruction" and then they reached down and untied my shoe.
+Rhea: Selena just said "I have an appetite for destruction" and then she reached down and untied my shoe.
 
 %
 
@@ -69,7 +69,7 @@ Naoshi Shocked: NO, JESUS CHRIST, HOW MANY-
 
 Eris: Attempted murder? 
 
-Naoshi Shocked: NO, THEY ATE ALL THE FOOD IN THE FRIDGE, BUT WHAT THE FU-
+Naoshi Shocked: NO, HE ATE ALL THE FOOD IN THE FRIDGE, BUT WHAT THE FU-
 
 %
 
