@@ -43,6 +43,14 @@ Gambi: Core-ean.
 
 %
 
+Nadine: (Reading a letter)
+
+Fred: Well, what does it say?
+
+Nadine: It’s a confession letter. It turns out Gambi killed my pet rock.
+
+%
+
 Kranion Angry: (very grumpy, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: HEY! WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
