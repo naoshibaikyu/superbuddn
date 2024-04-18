@@ -119,7 +119,13 @@ Gambi: I already added a belt, four earrings and an extra arm! **YOU LOSE!**
 
 %
 
+Rhea: Coca Cola can remove rust from metal, imagine what it’s doing to your body.
 
+Gambi: Pfff, getting rid of the rust, idiot.
+
+Rhea: THAT'S NOT HOW IT WORKS!
+
+Scruffy: Hmm... I've been drinking soda and my body's rust free... not sure where you're getting your facts from...
 
 %
 
