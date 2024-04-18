@@ -129,7 +129,15 @@ Scruffy: Hmm... I've been drinking soda and my body's rust free... not sure wher
 
 %
 
+Scruffy: I'm gonna need a human skull but you can't ask why.
 
+Sticky: Only if you also don't ask why.
+
+Sticky: (pulls four pristine human skulls out of their bag)
+
+Scruffy: ...
+
+Scruffy Happy: (grabbing a skull) This one will do!
 
 %
 
