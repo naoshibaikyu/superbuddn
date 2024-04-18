@@ -95,7 +95,17 @@ Selena: Not all this "how did you get into my house" business.
 
 %
 
+Scruffy: What are your adjectives?
 
+Naoshi Confused: …You mean my pronouns?
+
+Scruffy: No, I know what your pronouns are! What are your adjectives?
+
+Naoshi Confused: …I dunno. What are yours?
+
+Scruffy Happy: Noisy and chaotic!
+
+Naoshi: I’ve never had something go from making no sense to making complete sense so quickly.
 
 %
 
