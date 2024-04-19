@@ -155,6 +155,25 @@ Stella: It’s 3AM, please go back to sleep.
 
 %
 
+
+Quincy: The Ocean is a soup. 
+
+Tikiman: 
+
+Tikiman: Do elaborate.
+
+Quincy: What are needed for something to be a soup? 
+
+Tikiman: Erm... Water, salt, some form of vegetation, and personally I prefer some meat in mine.  
+
+Quincy: *Tilts head* 
+
+Tikiman: The Ocean is a Soup. 
+
+Quincy: The Ocean is a Soup.
+
+%
+
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
