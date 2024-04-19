@@ -262,7 +262,7 @@ Kranion: Well, you know, I’m pretty good at numbers. I just crunched them, I s
 
 Nadine Shocked: DID YOU ROB A BANK?!
 
-Kranion Angry: Oh, come on, Nadine, do you really think so little of me? (opens the bag as purple dye explodes on their face)
+Kranion Angry: Oh, come on, Nadine, do you really think so little of me? (opens the bag as purple dye explodes on his face)
 
 Nadine Annoyed:
 
