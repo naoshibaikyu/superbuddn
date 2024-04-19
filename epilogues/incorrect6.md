@@ -198,7 +198,11 @@ Gambi: You said any card.
 
 %
 
+Gambi: Wow, I feel happy and I’m having so much fun!
 
+Gambi:
+
+Gambi: (narrows eye) Something’s wrong here.
 
 %
 
