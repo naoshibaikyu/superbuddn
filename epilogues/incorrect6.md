@@ -174,7 +174,9 @@ Quincy: The Ocean is a Soup.
 
 %
 
+Selena: Scruffy, are you drinking… drinking hydrogen peroxide?!
 
+Scruffy: It says H2O2! That means it’s the sequel to water!
 
 %
 
