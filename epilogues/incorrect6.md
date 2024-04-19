@@ -149,6 +149,12 @@ Selena: I said peer pressure, NOT THREATEN!
 
 %
 
+Gambi: Do you ever feel like exploding? Have you experienced the urge to enter the process of combustion? Has your mind created a logical idea, known as thought, to disperse your body into thousands of particles suddenly?
+
+Stella: It’s 3AM, please go back to sleep.
+
+%
+
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
