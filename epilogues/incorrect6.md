@@ -180,7 +180,11 @@ Scruffy: It says H2O2! That means it’s the sequel to water!
 
 %
 
+Eris: I’m so jetlagged I can’t even regrender my chorf.
 
+%Everyone stares at Eris
+
+Eris Annoyed: I don’t even know what I was *trying* to say.
 
 %
 
