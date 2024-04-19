@@ -188,7 +188,13 @@ Eris Annoyed: I don’t even know what I was *trying* to say.
 
 %
 
+Clara: Pick a card, any card. 
 
+Gambi: Fine. 
+
+Clara: Wait, that's my credit card! 
+
+Gambi: You said any card.
 
 %
 
