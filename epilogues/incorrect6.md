@@ -226,7 +226,13 @@ Clara: That one. I want that one.
 
 %
 
+Eris: I truly go into housewife mode when I'm someone's soulmate- like, I'll make you pancakes and bacon every morning. 
 
+Rhea: This is a lie. 
+
+Rhea: I'm literally dating her. This is a lie. 
+
+Rhea: SHE DON'T EVEN KNOW HOW TO COOK A PANCAKE, WHAT IS THIS.
 
 %
 
