@@ -266,7 +266,7 @@ Nadine: (covering the phone to look at her roommates) Do we want a talking cake?
 
 %
 
-
+Selena: Hey, thanks for checking in, I’m ✨still a piece of garbage✨
 
 %
 
