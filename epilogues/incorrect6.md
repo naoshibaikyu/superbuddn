@@ -270,7 +270,7 @@ Selena: Hey, thanks for checking in, I’m ✨still a piece of garbage✨
 
 %
 
-
+Scruffy Happy: I wasn't hurt that badly. The doctor said all my bleeding was internal, that's where the blood's supposed to be!
 
 %
 
