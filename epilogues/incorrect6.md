@@ -238,7 +238,15 @@ Clara: That one. I want that one.
 
 %
 
+Nadine Sad: (nervously) Clara, there’s something I need to ask you- 
 
+Clara: Finally! You’re proposing! 
+
+Nadine Shocked: How’d you know? 
+
+Clara: Nadine, you’ve dropped the ring five times during dinner. 
+
+Clara: I even picked it up once.
 
 %
 
