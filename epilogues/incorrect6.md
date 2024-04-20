@@ -214,7 +214,7 @@ Clara: That one. I want that one.
 
 %
 
-
+Quincy: When I see initials carved into a tree with a heart I think it’s so romantic. Two lovers on a date... one of them carrying a knife for some reason.
 
 %
 
