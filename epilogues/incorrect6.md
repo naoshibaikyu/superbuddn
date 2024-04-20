@@ -280,7 +280,17 @@ Clara: I even picked it up once.
 
 %
 
+Clara: Okay, I’m going to get the wedding cake.
 
+Nadine: Perfect, while you do that I’ll check on the ring bear. 
+
+Clara: ... 
+
+Clara: You mean ring bearER, right? 
+
+Nadine: ... 
+
+Clara: Look me in the eyes and tell me you are not going to bring a dangerous wild animal to our wedding.
 
 %
 
