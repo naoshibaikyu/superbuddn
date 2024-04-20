@@ -206,7 +206,11 @@ Gambi: (narrows eye) Something’s wrong here.
 
 %
 
+Clara Happy: My future partner must be brave, strong, intelligent, successful and organized. 
 
+Nadine Sad: (steps on a caterpillar and proceeds to drop to their knees and sob while apologizing profusely)
+
+Clara: That one. I want that one.
 
 %
 
