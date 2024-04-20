@@ -258,7 +258,11 @@ Clara: I even picked it up once.
 
 %
 
+%Nadine is ordering a cake over the phone
 
+Shop Employee: …and what would you like your cake to say? 
+
+Nadine: (covering the phone to look at her roommates) Do we want a talking cake?
 
 %
 
