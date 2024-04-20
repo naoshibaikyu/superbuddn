@@ -218,15 +218,15 @@ Quincy: When I see initials carved into a tree with a heart I think it’s so ro
 
 %
 
+Eris Happy: I like to play this game called nap roulette. I take a nap and don’t set an alarm. Will it be 20 min or 4 hours? Nobody knows. It’s risky and I like it.
+
+%
+
 
 
 %
 
-
-
-%
-
-Eris: I truly go into housewife mode when I'm someone's soulmate- like, I'll make you pancakes and bacon every morning. 
+Eris Happy: I truly go into housewife mode when I'm someone's soulmate- like, I'll make you pancakes and bacon every morning. 
 
 Rhea: This is a lie. 
 
@@ -262,7 +262,7 @@ Clara: I even picked it up once.
 
 Shop Employee: …and what would you like your cake to say? 
 
-Nadine: (covering the phone to look at her roommates) Do we want a talking cake?
+Nadine Confused: (covering the phone to look at her roommates) Do we want a talking cake?
 
 %
 
@@ -288,13 +288,13 @@ Scruffy Happy: I wasn't hurt that badly. The doctor said all my bleeding was int
 
 Clara: Okay, I’m going to get the wedding cake.
 
-Nadine: Perfect, while you do that I’ll check on the ring bear. 
+Nadine Happy: Perfect, while you do that I’ll check on the ring bear. 
 
 Clara: ... 
 
 Clara: You mean ring bearER, right? 
 
-Nadine: ... 
+Nadine Shocked: ... 
 
 Clara: Look me in the eyes and tell me you are not going to bring a dangerous wild animal to our wedding.
 
