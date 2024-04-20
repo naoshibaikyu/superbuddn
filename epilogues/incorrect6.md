@@ -236,7 +236,9 @@ Rhea: SHE DON'T EVEN KNOW HOW TO COOK A PANCAKE, WHAT IS THIS.
 
 %
 
+Selena: Oh, so when crows remember people who wronged them and hold grudges, its “intelligent” and “really cool”.
 
+Selena: But when I do it, I’m “petty” and “need to let it go”.
 
 %
 
