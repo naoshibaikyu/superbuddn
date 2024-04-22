@@ -287,7 +287,7 @@ Nadine Angry:
 
 Scruffy: Okay, maybe they won’t. 
 
-Scruffy: But they will be terrible in new and interesting ways!
+Scruffy Happy: But they will be terrible in new and interesting ways!
 
 %
 
