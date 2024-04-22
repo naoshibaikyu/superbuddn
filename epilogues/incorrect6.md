@@ -133,7 +133,7 @@ Scruffy: I'm gonna need a human skull but you can't ask why.
 
 Sticky: Only if you also don't ask why.
 
-Sticky: (pulls four pristine human skulls out of their bag)
+Sticky: (pulls four pristine human skulls out of his bag)
 
 Scruffy: ...
 
@@ -207,13 +207,13 @@ Gambi: (narrows eye) Something’s wrong here.
 
 Clara Happy: My future partner must be brave, strong, intelligent, successful and organized. 
 
-Nadine Sad: (steps on a caterpillar and proceeds to drop to their knees and sob while apologizing profusely)
+Nadine Sad: (steps on a caterpillar and proceeds to drop to her knees and sob while apologizing profusely)
 
 Clara: That one. I want that one.
 
 %
 
-Quincy: When I see initials carved into a tree with a heart I think it’s so romantic. Two lovers on a date... one of them carrying a knife for some reason.
+Rhea: When I see initials carved into a tree with a heart I think it’s so romantic. Two lovers on a date... one of them carrying a knife for some reason.
 
 %
 
@@ -243,7 +243,11 @@ Selena: But when I do it, I’m “petty” and “need to let it go”.
 
 %
 
+Clara: Quacking in my boobs over this
 
+Clara: QUAKING*
+
+Clara: BOOTS* FUCKER.
 
 %
 
