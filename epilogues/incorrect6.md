@@ -279,7 +279,15 @@ Scruffy Happy: I wasn't hurt that badly. The doctor said all my bleeding was int
 
 %
 
+Scruffy: Things will get better! 
 
+Eris Annoyed: 
+
+Nadine Angry:
+
+Scruffy: Okay, maybe they won’t. 
+
+Scruffy: But they will be terrible in new and interesting ways!
 
 %
 
