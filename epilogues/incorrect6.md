@@ -251,6 +251,34 @@ Clara: BOOTS* FUCKER.
 
 %
 
+Interviewer: What are your three best qualities?
+
+Selena: I’m hot, I have soft hair, and sometimes I cry because I love my friends.
+
+%
+
+Nadine Confused: Why do stores always say 'gifts for her'??? Who is she? Why are millions of people being encouraged to buy gifts for this entity? Someone explain.
+
+Gambi: We must appease Her.
+
+Selena: She is all that keeps the darkness at bay. Without Her the Old Ones will rise again, we must not disappoint Her.
+
+Nadine Shocked: 
+
+Quincy: She is watching. *She knows.*
+
+Nadine Sad: 
+
+%
+
+
+
+%
+
+
+
+%
+
 Nadine Sad: (nervously) Clara, there’s something I need to ask you- 
 
 Clara: Finally! You’re proposing! 
@@ -291,11 +319,15 @@ Scruffy Happy: But they will be terrible in new and interesting ways!
 
 %
 
+Eris Annoyed: What were you thinking?
 
+Scruffy: I heard releasing birds at a wedding is romantic!
+
+Eris Angry: You released OSTRICHES!
 
 %
 
-
+Tikiman: I scare people a lot because I walk very softly and they don't hear me enter rooms. So when they turn around, I'm just kind of there and their fear fuels me.
 
 %
 
@@ -313,11 +345,23 @@ Clara: Look me in the eyes and tell me you are not going to bring a dangerous wi
 
 %
 
+Quincy: Do you know the ABCs of first aid?
 
+Gambi: A. Bone. Coming out of the skin is very bad.
+
+Scruffy Happy: Bones.
+
+Nadine Glad: Bones.
 
 %
 
+Selena: How does one turn their emotions off?
 
+Nadine Happy: Okay, so first go to settings.
+
+Nadine Sad: I'm a idiot, I thought that said emojis at first.
+
+Selena: No, I'm still willing to try this, go ahead. I'm at settings, what do I do next?
 
 %
 
