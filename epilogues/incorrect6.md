@@ -271,11 +271,17 @@ Nadine Sad:
 
 %
 
+Stella: I still want to know how you managed to get the car on the roof
 
+Selena: I cant' reveal all my tricks
 
 %
 
+Scruffy: I won a new phone in a race.
 
+Nadine Confused: Huh? What kind of race lets you win a phone, Scruffy?
+
+Scruffy Happy: A race between the store owner, the cop, and me.
 
 %
 
@@ -367,7 +373,7 @@ Selena: No, I'm still willing to try this, go ahead. I'm at settings, what do I 
 
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
-Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
+Kranion Angry: **HEY!** WHERE DID THAT MOUNTAINTOP COME FR-**(crashes)**
 
 %End of Part 6
 
