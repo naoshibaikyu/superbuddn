@@ -371,6 +371,10 @@ Selena: No, I'm still willing to try this, go ahead. I'm at settings, what do I 
 
 %
 
+Scruffy: I love making parties more interesting by telling strangers “I want you to know that I personally have no problem with you being here.”
+
+%
+
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
 Kranion Angry: **HEY!** WHERE DID THAT MOUNTAINTOP COME FR-**(crashes)**
