@@ -251,6 +251,58 @@ Clara: BOOTS* FUCKER.
 
 %
 
+Selena: I left instructions for everyone while I'm gone. 
+
+Scruffy: Mine just says "Scruffy no." 
+
+Selena: I want you to apply it to every possible situation.
+
+%
+
+Nadine Happy: Eris, we're hungry! 
+
+Quincy: Eris! What's for dinner? 
+
+Scruffy Happy: We're hungry, Eris! 
+
+Eris Shocked: (screams while frying a bottle of ketchup over the stove)
+
+%
+
+Stella: Goddamn it, the printer broke while printing out Clara's birthday invitations. 
+
+Naoshi: Well, what are they supposed to say? 
+
+Stella: "Clara's birthday". 
+
+Naoshi: So, what do they say instead? 
+
+Stella: "Clara’s bi". 
+
+Naoshi: 
+
+Naoshi: Works out either way.
+
+%
+
+Selena: Rules were made to be broken. 
+
+Rhea: They were made to be followed. Nothing is made to be broken. 
+
+Quincy: Uh, piñatas. 
+
+Scruffy: Glow sticks. 
+
+Tikiman: Karate boards. 
+
+Clara: Spaghetti when you have a small pot. 
+
+Selena: Rules. 
+
+Rhea:
+
+%
+
 Interviewer: What are your three best qualities?
 
 Selena: I’m hot, I have soft hair, and sometimes I cry because I love my friends.
