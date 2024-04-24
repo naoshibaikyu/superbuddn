@@ -27,7 +27,7 @@ Here's a sentence with a footnote. [^1]
 
 
 
-
+![She's here!](assets\images\profiles\nadine.png)
 
 
 
