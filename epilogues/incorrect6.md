@@ -133,7 +133,7 @@ Scruffy: I'm gonna need a human skull but you can't ask why.
 
 Sticky: Only if you also don't ask why.
 
-Sticky: (pulls four pristine human skulls out of their bag)
+Sticky: (pulls four pristine human skulls out of his bag)
 
 Scruffy: ...
 
@@ -207,13 +207,13 @@ Gambi: (narrows eye) Something’s wrong here.
 
 Clara Happy: My future partner must be brave, strong, intelligent, successful and organized. 
 
-Nadine Sad: (steps on a caterpillar and proceeds to drop to their knees and sob while apologizing profusely)
+Nadine Sad: (steps on a caterpillar and proceeds to drop to her knees and sob while apologizing profusely)
 
 Clara: That one. I want that one.
 
 %
 
-Quincy: When I see initials carved into a tree with a heart I think it’s so romantic. Two lovers on a date... one of them carrying a knife for some reason.
+Rhea: When I see initials carved into a tree with a heart I think it’s so romantic. Two lovers on a date... one of them carrying a knife for some reason.
 
 %
 
@@ -243,7 +243,45 @@ Selena: But when I do it, I’m “petty” and “need to let it go”.
 
 %
 
+Clara: Quacking in my boobs over this
 
+Clara: QUAKING*
+
+Clara: BOOTS* FUCKER.
+
+%
+
+Interviewer: What are your three best qualities?
+
+Selena: I’m hot, I have soft hair, and sometimes I cry because I love my friends.
+
+%
+
+Nadine Confused: Why do stores always say 'gifts for her'??? Who is she? Why are millions of people being encouraged to buy gifts for this entity? Someone explain.
+
+Gambi: We must appease Her.
+
+Selena: She is all that keeps the darkness at bay. Without Her the Old Ones will rise again, we must not disappoint Her.
+
+Nadine Shocked: 
+
+Quincy: She is watching. *She knows.*
+
+Nadine Sad: 
+
+%
+
+Stella: I still want to know how you managed to get the car on the roof
+
+Selena: I cant' reveal all my tricks
+
+%
+
+Scruffy: I won a new phone in a race.
+
+Nadine Confused: Huh? What kind of race lets you win a phone, Scruffy?
+
+Scruffy Happy: A race between the store owner, the cop, and me.
 
 %
 
@@ -275,15 +313,27 @@ Scruffy Happy: I wasn't hurt that badly. The doctor said all my bleeding was int
 
 %
 
+Scruffy: Things will get better! 
 
+Eris Annoyed: 
+
+Nadine Angry:
+
+Scruffy: Okay, maybe they won’t. 
+
+Scruffy Happy: But they will be terrible in new and interesting ways!
 
 %
 
+Eris Annoyed: What were you thinking?
 
+Scruffy: I heard releasing birds at a wedding is romantic!
+
+Eris Angry: You released OSTRICHES!
 
 %
 
-
+Tikiman: I scare people a lot because I walk very softly and they don't hear me enter rooms. So when they turn around, I'm just kind of there and their fear fuels me.
 
 %
 
@@ -301,17 +351,33 @@ Clara: Look me in the eyes and tell me you are not going to bring a dangerous wi
 
 %
 
+Quincy: Do you know the ABCs of first aid?
 
+Gambi: A. Bone. Coming out of the skin is very bad.
+
+Scruffy Happy: Bones.
+
+Nadine Glad: Bones.
 
 %
 
+Selena: How does one turn their emotions off?
 
+Nadine Happy: Okay, so first go to settings.
+
+Nadine Sad: I'm a idiot, I thought that said emojis at first.
+
+Selena: No, I'm still willing to try this, go ahead. I'm at settings, what do I do next?
+
+%
+
+Scruffy: I love making parties more interesting by telling strangers “I want you to know that I personally have no problem with you being here.”
 
 %
 
 Kranion Angry: (steps out of his evil lair, gets into his Skull Mobile vehicle, starts the engine and flies off)
 
-Kranion Angry: **HEY!** WHERE DID THAT MOUNTAIN COME FR-(crashes into the mountain instantly exploding)
+Kranion Angry: **HEY!** WHERE DID THAT MOUNTAINTOP COME FR-**(crashes)**
 
 %End of Part 6
 
