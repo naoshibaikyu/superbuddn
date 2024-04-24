@@ -15,15 +15,6 @@ img#double
 
 }
 
-@font-face {
-font-family: "Mega Man 6 Stats";
-src: url("../fonts/Mega-Man-6-Stats.otf");
-}
-
-@font-face {
-font-family: "Mega Man 9";
-src: url("../fonts/MMRock9.otf");
-}
 
 @font-face {
 font-family: "Nintendo DS";
@@ -474,7 +465,7 @@ body  {
   color: #FCFCFC;
   border-radius: 4px;
   padding-top: 8px;
-  font-family: 'Mega Man 6 Stats';
+  font-family: 'BUDD3';
 }
 
 .location:before{
@@ -483,7 +474,7 @@ body  {
   text-shadow: -2px 1px #080808;
   color: #FCFCFC;
   border-radius: 4px;
-  font-family: 'Mega Man 6 Stats';
+  font-family: 'BUDD3';
   content: "Location";
 }
 
