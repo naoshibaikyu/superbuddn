@@ -179,6 +179,18 @@ Eris Annoyed: What do you mean?
 
 Scruffy: I heard you answer the door, and I sensed food.
 
+%
+
+Tikiman: Do you know a turtles only weakness? 
+
+Quincy: No... well, their slowness. 
+
+Tikiman: Their weaknesss is they can't roll over when they are on their backs. 
+
+Tikiman: Now I have a plan.
+
+Tikiman: If I duct tape two turtles together, they'll be unstoppable.
+
 %End of Part 7
 
 EpFin
