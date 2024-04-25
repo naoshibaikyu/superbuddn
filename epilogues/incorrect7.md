@@ -19,9 +19,86 @@ Quincy: Cut each chair in half to make six.
 
 Scruffy Happy: Make them FIGHT for their seats! 
 
-Eris Annoyed: I would never be near children. 
+Naoshi Annoyed: I would never be near children. 
 
 Sticky Angry: Kill two kids.
+
+%
+
+Dino: Any tips on how to make someone like me? 
+
+Kranion: Try to make them laugh all the time. 
+
+Dino: Oh, wow! You actually help me for once, and it's even good advice! 
+
+Kranion: Yeah, the more they laugh, the more time they spend with their eyes closed, so it'd be easier.
+
+%
+
+Selena: I never tell people off the bat that I'm gay. I wait. I wait until they say some homophobic shit and then I laugh and am like "you know I'm gay right?" and watch the look of terror on their face. 
+
+Stella: 
+
+Stella: I like you.
+
+%
+
+Nadine: Bye Clara! Bye Tikiman! Bye Selena! Bye Gambi! Bye Clara! 
+
+Eris Annoyed: You said ‘bye Clara’ twice. 
+
+Nadine Happy: I like Clara.
+
+%
+
+Sticky: I’m a reverse necromancer. 
+
+Naoshi Annoyed: Isn’t that just killing people? 
+
+Sticky: Technically.
+
+Kranion Angry: Hey, wait ta minute!
+
+%
+
+Tikiman: If you got arrested what would be the charges? 
+
+Selena: Theft. 
+
+Quincy: Disturbing the peace. 
+
+Gambi: Aggravated assault. 
+
+Scruffy: Arson. 
+
+Sticky: All of the above. In that order, probably.
+
+%
+
+Naoshi: (setting down a card) Ace of spades. 
+
+Clara: (pulling out an Uno card) +4. 
+
+Selena: (pulling out a Pokémon card) Jolteon, I choose you!
+
+Tikiman: (pulling out a Yu-Gi-Oh! card) I summon the **Blue-Eyes White Dragon**!
+
+Rhea: (trembling) What are we playing?!
+
+%
+
+Kranion Angry: You're pathetic! 
+
+Cranion Angry: You're pathetic-er! 
+
+Sticky: You're both losers.
+
+%
+
+Sticky: People always shoot down my ideas and I’m sick of it. Two sentences in and everyone’s always shouting “what the fuck? that’s illegal!” and “you can’t do that!”. Like, c'mon, let me talk!
+
+%
+
 
 %End of Part 7
 
