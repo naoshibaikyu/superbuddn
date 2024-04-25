@@ -201,6 +201,20 @@ Naoshi Annoyed: Dino... You don't have a clue about this thing, do you?
 
 Dino Surprised: *screams in anger*
 
+%
+
+Rhea: Good morning. 
+
+Nadine Happy: Good morning. 
+
+Clara Happy: Good morning. 
+
+Dino: You all sound like robots, try spicing it up a bit. 
+
+Nadine Angry: ...
+
+Gambi: MORNING MOTHERFUCKERS!
+
 %End of Part 7
 
 EpFin
