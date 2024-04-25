@@ -217,6 +217,14 @@ Nadine Angry: ...
 
 Gambi: MORNING MOTHERFUCKERS!
 
+%
+
+Scruffy: In my defense, I was left unsupervised. 
+
+Eris: Wasn’t Fred with you? 
+
+Fred: In my defense, I was also left unsupervised.
+
 %End of Part 7
 
 EpFin
