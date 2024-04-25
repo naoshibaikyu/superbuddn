@@ -173,7 +173,11 @@ Quincy: Look, I understand this is a tense situation, but let's watch the fuckin
 
 %
 
+Scruffy: What did you order this morning?
 
+Eris Annoyed: What do you mean? 
+
+Scruffy: I heard you answer the door, and I sensed food.
 
 %End of Part 7
 
