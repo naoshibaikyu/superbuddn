@@ -237,6 +237,17 @@ Stella: You’re smiling! I didn’t know you could do that?
 
 Gambi: (working at McDonald's) Sorry sir, we don't serve a McFuck here, so either you throw that one slice of pickle out or we're gonna have a McProblem.
 
+%
+
+Computer: Please enter a password. 
+
+Clara: (types in Nadine)
+
+Computer: Your password is too weak. 
+
+Clara: How fucking DARE YOU-
+
+
 %End of Part 7
 
 EpFin
