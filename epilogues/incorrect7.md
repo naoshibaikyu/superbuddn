@@ -273,6 +273,16 @@ Scruffy Happy: (enters room)
 
 Eris Annoyed: (jaw clenches)
 
+%
+
+Scruffy: It’s impossible to make a sentence without using the letter A.
+
+Tikiman: Despite your thinking, it is quite possible, yet difficult, to form one without the specific letter. Here’s one more to further disprove your theory.
+
+Gambi: Fuck you.
+
+Quincy: Didn't you went over this before?
+
 %End of Part 7
 
 EpFin
