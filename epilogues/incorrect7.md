@@ -142,6 +142,17 @@ Selena: It’s just a Notebook.
 
 %
 
+Dino: Can I have some water?
+
+Kranion: (starts chugging their water bottle)
+
+Kranion: (chokes from drinking too fast)
+
+Kranion: (spills water all over themself)
+
+Kranion: (coughing) I don't have any water.
+
+%
 
 %End of Part 7
 
