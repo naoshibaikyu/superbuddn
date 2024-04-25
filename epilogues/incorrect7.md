@@ -233,6 +233,10 @@ Gambi: What?
 
 Stella: You’re smiling! I didn’t know you could do that?
 
+%
+
+Gambi: (working at McDonald's) Sorry sir, we don't serve a McFuck here, so either you throw that one slice of pickle out or we're gonna have a McProblem.
+
 %End of Part 7
 
 EpFin
