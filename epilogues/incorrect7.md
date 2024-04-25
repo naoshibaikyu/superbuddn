@@ -263,6 +263,15 @@ Sticky: (Locks Dino in the car) Act like a child, get treated like a child.
 
 Dino: What? Isn't it illegal to leave a child locked in a car?
 
+%
+
+Eris: Do you ever get pre-annoyed? Like you already know someone is going to piss you off?
+
+Rhea: What? No, I—
+
+Scruffy Happy: (enters room)
+
+Eris Annoyed: (jaw clenches)
 
 %End of Part 7
 
