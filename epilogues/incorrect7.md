@@ -59,7 +59,6 @@ Sticky: Technically.
 
 Kranion Angry: Hey, wait ta minute!
 
-
 %
 
 Nadine Annoyed: Everyone thinks I'm this soft cute person but I'm not!
@@ -153,6 +152,17 @@ Kranion: (spills water all over themself)
 Kranion: (coughing) I don't have any water.
 
 %
+
+Nadine: It’s the gift that keeps giving!
+
+Eris: It’s the flower that keeps blooming!
+
+Scruffy: It’s the boat that keeps sailing!
+
+Tikiman: It’s the serial killer that keeps stabbing!
+
+%
+
 
 %End of Part 7
 
