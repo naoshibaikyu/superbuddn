@@ -124,6 +124,17 @@ Sticky: You are what you eat Naoshi.
 
 %
 
+Dino: Can I have some? 
+
+Kranion: (mouth full of cheesecake) It's really spicy, you wouldn't like it.
+
+%
+
+
+
+
+%
+
 
 %End of Part 7
 
