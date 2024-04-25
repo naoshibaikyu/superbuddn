@@ -191,6 +191,8 @@ Tikiman: Now I have a plan.
 
 Tikiman: If I duct tape two turtles together, they'll be unstoppable.
 
+%
+
 Dino: So you're looking for information on this thing, huh? Well, I feel like it must be from far away. 
 
 Naoshi Confused: What makes you say that? 
@@ -209,7 +211,7 @@ Nadine Happy: Good morning.
 
 Clara Happy: Good morning. 
 
-Dino: You all sound like robots, try spicing it up a bit. 
+Sticky: You all sound like robots, try spicing it up a bit. 
 
 Nadine Angry: ...
 
