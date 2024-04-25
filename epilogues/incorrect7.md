@@ -297,6 +297,16 @@ Clara: Blue is not a flavor!
 
 Nadine Happy: BLUE FLAVOR!
 
+%
+
+Gambi: What’s it like being tall?
+
+Nadine: Is it nice?
+
+Selena: Can you reach comfortably for the cupboards? 
+
+Clara: We live in constant fear of the short ones who, in my experience, will climb four chairs, two boxes, a small coffee table, and six oddly placed stools to get what they want.
+
 %End of Part 7
 
 EpFin
