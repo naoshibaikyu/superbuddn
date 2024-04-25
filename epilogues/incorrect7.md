@@ -59,6 +59,25 @@ Sticky: Technically.
 
 Kranion Angry: Hey, wait ta minute!
 
+
+%
+
+Nadine Annoyed: Everyone thinks I'm this soft cute person but I'm not!
+
+Gambi: Nadine, you cried for an hour after stepping on a bug yesterday.
+
+Nadine Sad: It had feelings! It was probably going home to dinner and I killed it!
+
+Naoshi: ...It was a bug.
+
+Nadine Angry: It was a BEETLE, and its wife is definitely worried sick, wondering where it is, and I really don't get why you all think I'm so sentimental because I'm not!
+
+Gambi: ...
+
+Naoshi Annoyed: ...
+
+Nadine Sad: Stop looking at me like that!
+
 %
 
 Tikiman: If you got arrested what would be the charges? 
@@ -100,7 +119,6 @@ Sticky: People always shoot down my ideas and I’m sick of it. Two sentences in
 %
 
 Naoshi: Sticky, you're an asshole, man.
-
 
 Sticky: You are what you eat Naoshi.
 
