@@ -191,6 +191,16 @@ Tikiman: Now I have a plan.
 
 Tikiman: If I duct tape two turtles together, they'll be unstoppable.
 
+Dino: So you're looking for information on this thing, huh? Well, I feel like it must be from far away. 
+
+Naoshi Confused: What makes you say that? 
+
+Dino: If it's something even I don't know about, then I'm sure nobody else must have a clue. So it's gotta be from some faraway place. Impeccable reasoning, isn't it? 
+
+Naoshi Annoyed: Dino... You don't have a clue about this thing, do you? 
+
+Dino Surprised: *screams in anger*
+
 %End of Part 7
 
 EpFin
