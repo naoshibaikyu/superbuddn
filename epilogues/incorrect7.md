@@ -167,6 +167,14 @@ Nadine Angry: (holding an empty bag of M&Ms) What doesn't kill me better start r
 
 %
 
+Tikiman: Oh, fiddlesticks.
+
+Quincy: Look, I understand this is a tense situation, but let's watch the fucking language.
+
+%
+
+
+
 %End of Part 7
 
 EpFin
