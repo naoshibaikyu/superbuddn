@@ -130,8 +130,15 @@ Kranion: (mouth full of cheesecake) It's really spicy, you wouldn't like it.
 
 %
 
+Nadine Confused: Hey, what are you reading?
 
+Selena: This is my magic book where any ink spilled shows a scripture of the future, however it bears a curse making it broken, and as such in order to make any scripture appears, I have to do it myself.
 
+Nadine Happy: Impressive! I must have it for myself!
+
+Eris Annoyed: So it’s just a Notebook?
+
+Selena: It’s just a Notebook.
 
 %
 
