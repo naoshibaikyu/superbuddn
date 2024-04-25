@@ -163,6 +163,9 @@ Tikiman: It’s the serial killer that keeps stabbing!
 
 %
 
+Nadine Angry: (holding an empty bag of M&Ms) What doesn't kill me better start running, because now I'm fucking pissed.
+
+%
 
 %End of Part 7
 
