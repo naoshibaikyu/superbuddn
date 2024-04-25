@@ -99,6 +99,13 @@ Sticky: People always shoot down my ideas and I’m sick of it. Two sentences in
 
 %
 
+Naoshi: Sticky, you're an asshole, man.
+
+
+Sticky: You are what you eat Naoshi.
+
+%
+
 
 %End of Part 7
 
