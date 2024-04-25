@@ -257,6 +257,12 @@ Rhea: That’s not a good thing.
 
 Selena: All I’m hearing is that you think I’m funny.
 
+%
+
+Sticky: (Locks Dino in the car) Act like a child, get treated like a child.
+
+Dino: What? Isn't it illegal to leave a child locked in a car?
+
 
 %End of Part 7
 
