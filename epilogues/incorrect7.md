@@ -283,6 +283,20 @@ Gambi: Fuck you.
 
 Quincy: Didn't you went over this before?
 
+%
+
+Clara: (handing out popsicles) Which flavor do you want? 
+
+Nadine Happy: Blue flavor! 
+
+Clara: Uh, you mean Blue Raspberry? 
+
+Nadine Happy: Blue flavor! Blue flavor! 
+
+Clara: Blue is not a flavor! 
+
+Nadine Happy: BLUE FLAVOR!
+
 %End of Part 7
 
 EpFin
