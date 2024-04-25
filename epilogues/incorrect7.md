@@ -247,6 +247,16 @@ Computer: Your password is too weak.
 
 Clara: How fucking DARE YOU-
 
+%
+
+Rhea: You use humor to deflect your trauma. 
+
+Selena: Awww, thanks- 
+
+Rhea: That’s not a good thing. 
+
+Selena: All I’m hearing is that you think I’m funny.
+
 
 %End of Part 7
 
