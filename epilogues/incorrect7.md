@@ -423,13 +423,17 @@ Quincy: The secret is that the house is on fire.
 
 %
 
-Eris: *fills up bottle and drinks from that*
+Nadine: *fills up bottle and drinks from that*
 
-Nadine: *brought 4 bottles of water so this wouldn’t happen* 
-Naoshi: *drinks straight from the tap* 
-Fred: *dehydrates* 
-Selena: *drinks from the puddle of water on the floor* 
-Gambi: *licks the tap, doesn’t even need a drink*
+Naoshi: *brought 4 bottles of water so this wouldn’t happen*
+
+Stella: *drinks straight from the tap*
+
+Dino Surprised: *dehydrates*
+
+Scruffy: *drinks from the puddle of water on the floor*
+
+Kranion: *licks the tap, doesn’t even need a drink*
 
 
 %End of Part 7
