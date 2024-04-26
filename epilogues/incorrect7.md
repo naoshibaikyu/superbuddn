@@ -344,6 +344,18 @@ Kranion Angry: (Pulling on a door that clearly says push)
 
 %
 
+Selena: The only thing keeping me from running away and hiding from society for the rest of my life is spite. I could disappear forever, but there are some bitches whose downfalls I have yet to witness, and I wanna be around when that happens.
+
+%
+
+Dino: I'm not that stupid!
+ 
+Fred: Dino, you literally ate the wax from a babybel. 
+
+Dino: QUINCY TOLD ME IT WAS EDIBLE!
+
+%
+
 
 
 
