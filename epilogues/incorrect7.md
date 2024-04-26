@@ -313,7 +313,7 @@ Nadine Annoyed: Why do you act like we’re three year olds?
 
 Eris: (exasperated) WHY?!? 
 
-Eris: (points at Gambi) YOU TRIED TO HYJACK A CAR! 
+Eris: (points at Fred) YOU TRIED TO HYJACK A CAR! 
 
 Eris: (points at Nadine) YOU NEARLY JUMPED 20 FEET OFF A CARPARK! 
 
