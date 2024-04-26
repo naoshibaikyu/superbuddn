@@ -387,6 +387,15 @@ Fred: Just now.
 
 %
 
+Clara: (cowering in fear) What do you want from me?!
+
+Sticky: (bites into the whole KitKat bar like a heathen)
+
+Clara: (crying) Please...stop...
+
+%
+
+
 
 
 %End of Part 7
