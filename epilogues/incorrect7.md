@@ -395,6 +395,20 @@ Clara: (crying) Please...stop...
 
 %
 
+Clara: Hi, could I ask how exactly does one accidentally set a lemon on fire??
+
+Fred: Microwave for 40 minutes. 😔
+
+Nadine: Why were you microwaving a lemon???
+
+Fred: I read boiling lemons helps cover up up bad smells (I wanted to cover up the scent of burnt oranges) but I didn't own any pots.
+
+Selena: Did you burn an orange too? How???
+
+Fred: Microwave for 40 minutes. 😔
+
+%
+
 
 
 
