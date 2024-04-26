@@ -283,6 +283,9 @@ Gambi: Fuck you.
 
 Quincy: Didn't you went over this before?
 
+Sticky: Fuck you.
+
+
 %
 
 Clara: (handing out popsicles) Which flavor do you want? 
