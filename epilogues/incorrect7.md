@@ -369,6 +369,24 @@ Fred: You can’t just name things I dream up.
 
 %
 
+Selena: Fred, can I ask you a question? 
+
+Fred: You just did. 
+
+Selena: Okay, can I ask you two questions? 
+
+Fred: You just did. 
+
+Selena, frustrated: OKAY, CAN I ASK YOU FOUR QUESTIONS?! 
+
+Fred: You just did. 
+
+Selena: When?! 
+
+Fred: Just now.
+
+%
+
 
 
 %End of Part 7
