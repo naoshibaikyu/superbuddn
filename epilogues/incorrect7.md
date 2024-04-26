@@ -377,7 +377,7 @@ Selena: Okay, can I ask you two questions?
 
 Fred: You just did. 
 
-Selena, frustrated: OKAY, CAN I ASK YOU FOUR QUESTIONS?! 
+Selena: OKAY, CAN I ASK YOU FOUR QUESTIONS?! 
 
 Fred: You just did. 
 
@@ -423,7 +423,13 @@ Quincy: The secret is that the house is on fire.
 
 %
 
+Eris: *fills up bottle and drinks from that*
 
+Nadine: *brought 4 bottles of water so this wouldn’t happen* 
+Naoshi: *drinks straight from the tap* 
+Fred: *dehydrates* 
+Selena: *drinks from the puddle of water on the floor* 
+Gambi: *licks the tap, doesn’t even need a drink*
 
 
 %End of Part 7
