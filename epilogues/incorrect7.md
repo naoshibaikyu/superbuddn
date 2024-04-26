@@ -435,6 +435,13 @@ Scruffy: *drinks from the puddle of water on the floor*
 
 Kranion: *licks the tap, doesn’t even need a drink*
 
+%
+
+Stella: Gambi, what did you just do!?
+
+Gambi: I took your advice. I stopped running from the problem and I tackled it head on.
+
+Stella: I meant try emotional honesty, *not murder!!*
 
 %End of Part 7
 
