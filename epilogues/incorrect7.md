@@ -409,6 +409,20 @@ Fred: Microwave for 40 minutes. 😔
 
 %
 
+Quincy: Hey, you wanna know a secret?
+
+Stella: No.
+
+Quincy: Okay.
+
+Stella: 
+
+Stella: Do you smell smoke? 
+
+Quincy: The secret is that the house is on fire.
+
+%
+
 
 
 
