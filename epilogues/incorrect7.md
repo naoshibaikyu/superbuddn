@@ -334,6 +334,18 @@ Rhea: No, don’t—
 
 Scruffy: Too late.
 
+%
+
+Eris Annoyed: So when are we gonna tell him? 
+
+Rhea: Just give him a minute. 
+
+Kranion Angry: (Pulling on a door that clearly says push)
+
+%
+
+
+
 
 %End of Part 7
 
