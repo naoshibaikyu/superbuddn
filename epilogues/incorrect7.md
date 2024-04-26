@@ -357,6 +357,18 @@ Dino: QUINCY TOLD ME IT WAS EDIBLE!
 %
 
 
+Fred: Last night, I had a dream about sandwich pizza.
+
+Eris: Yeah?
+
+Fred: It was pizza with bread on the top and the bottom. 
+
+Eris: So a calzone? 
+
+Fred: You can’t just name things I dream up.
+
+%
+
 
 
 %End of Part 7
