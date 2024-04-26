@@ -310,10 +310,15 @@ Clara: We live in constant fear of the short ones who, in my experience, will cl
 %
 
 Nadine Annoyed: Why do you act like we’re three year olds? 
+
 Eris: (exasperated) WHY?!? 
+
 Eris: (points at Gambi) YOU TRIED TO HYJACK A CAR! 
+
 Eris: (points at Nadine) YOU NEARLY JUMPED 20 FEET OFF A CARPARK! 
-Eris: (points at Scruffy) AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND! 
+
+Eris: (points at Scruffy) AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND!
+ 
 Eris: AND YOU ASK ME WHY????
 
 %End of Part 7
