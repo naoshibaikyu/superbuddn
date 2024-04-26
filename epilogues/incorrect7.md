@@ -321,6 +321,17 @@ Eris: (points at Scruffy) AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GR
  
 Eris: AND YOU ASK ME WHY????
 
+%
+
+Scruffy: Cronch. 
+
+Scruffy: You hear that? That's the sound of me eating bones. 
+
+Rhea: No, don’t— 
+
+Scruffy: Too late.
+
+
 %End of Part 7
 
 EpFin
