@@ -429,7 +429,7 @@ Naoshi: *brought 4 bottles of water so this wouldn’t happen*
 
 Stella: *drinks straight from the tap*
 
-Dino Surprised: *dehydrates*
+Dino Shocked: *dehydrates*
 
 Scruffy: *drinks from the puddle of water on the floor*
 
