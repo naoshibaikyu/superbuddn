@@ -201,7 +201,7 @@ Dino: If it's something even I don't know about, then I'm sure nobody else must 
 
 Naoshi Annoyed: Dino... You don't have a clue about this thing, do you? 
 
-Dino Surprised: *screams in anger*
+Dino Shocked: *screams in anger*
 
 %
 
