@@ -104,13 +104,19 @@ Nadine Happy: Roadtrip! Roadtrip! Roadtrip!
 
 Sticky: Hmm.... Let's give them a roadtrip alright. To HELL! Heheheh!! HAHAHAHAHAHA...!!
 
-Kranion: (cracking his knuckles) Time ta beat those losahs. Hey Cranion!
+Kranion: (cracking his knuckles) Time to beat those losahs. Hey, Cranion!
 
 Cranion: Nah, yah losers go have fun.
 
 Dino: I'm no loser! Right boss?
 
 Sticky: Shut it and get in the skull van!
+
+%
+
+# ACT II
+
+%
 
 Nadine Sad: (reading the map) Huh, this is really just a featureless barren wasteland.
 
@@ -226,7 +232,7 @@ Nadine Confused: What was that?!
 
 Scruffy Happy: Traffic.
 
-Nadine: Must've been a real serious accident... right Eris?
+Nadine Sad: Must've been a real serious accident... right Eris?
 
 Nadine Confused: Eris?
 
@@ -265,6 +271,12 @@ Nadine Happy: I can keep him in check! I promise we will be perfectly okay! You 
 Eris: Okay... Just make sure he doesn't somehow land us on a whole other planet or something.
 
 Nadine: Uh, aye aye!
+
+%
+
+# ACT III
+
+%
 
 %The trio drives off again with Scruffy as the current driver. Eris rests in the back seat with the pillow and blanket that Nadine had packed. As minutes pass, Eris falls asleep.
 
@@ -433,6 +445,10 @@ Nadine Confused: Huh... anyways... Are you well rested? You've only slept for tw
 Eris: Yeah I think that was enough to keep me going for the rest of the... trip. Do we really have six hours more of this?
 
 Scruffy: We can listen to the radio to pass time!
+
+%
+
+# ACT IV
 
 %
 
