@@ -14,13 +14,17 @@ EpStart
 
 @AUTHOR: By Arrietty
 
-%The story begins with Scruffy, our favorite freak, rushing to Eris's door as if there's an emergency. Instead of knocking the door, he blows a trumpet he has with him, making a loud disruptive noise waking the poor lady up.
+%
 
-Eris Shocked: **SCRUFFY!** It's 4 in the MORNING. What the heck???
+# ACT I
 
-Scruffy: It's an emergency! (opening the door, T-Posing right at the entrance not taking a step in)
+%
 
-Eris Angry: What is it?!
+%The story begins with Scruffy, our favorite freak, rushing to Eris's door like there's an emergency. Instead of knocking the door, he blows a trumpet, making a loud disruptive noise waking the poor lady up.
+
+Eris Shocked: It's 4 in the MORNING. What the heck???
+
+Scruffy: It's an emergency! (opening the door, T-Posing right at the entrance)
 
 Nadine Sad: (walking by, sleepy) Ugh... what is going on?
 
@@ -28,19 +32,19 @@ Scruffy: Roadtrip!
 
 Eris Angry: What?
 
-Scruffy Sad: We are going to be late on a roadtrip!
+Scruffy Sad: We are going to be late to our roadtrip!
 
-Eris Angry: How is this an emergency...
+Eris Angry: How is this an emergency... I don't recall a road trip!
 
-Nadine Annoyed: When did we agree to this...?
+Scruffy: You did last night! You were like "Sure whatever... It's 1am, so let me sleep"
 
-Scruffy: Eris did last night! She was like "Sure whatever..."
+Eris Angry: I was clearly half asleep.
 
-Eris Angry: I was half asleep...
+Nadine Confused: Also don't I get a say? I was never told about this!
 
-Nadine Confused: How are we late? Also don't I get a say? I never heard this til now!
+Nadine Happy: But on second thought, it'd be fun to be away from the annoying skeleton brothers...
 
-Nadine Happy: On second thought, it'd be fun to be away from the annoying skeleton brothers...
+Scruffy Sad: Don’t be a downer, Eris!
 
 Eris Angry: Good night.
 
@@ -50,9 +54,9 @@ Scruffy: That's the spirit!
 
 Eris Angry: Don't encourage him!
 
-Nadine Sad: But things been so stressful lately... I really want to explore this island and enjoy my time with my new friends.
+Nadine Sad: But things been so stressful here... I really want go out and explore the island while enjoying my time with my new friends.
 
-Eris: Fine.
+Eris: (feeling guilty) ...Well, I guess that's fine...
 
 Nadine Glad: Yay!
 
@@ -68,7 +72,7 @@ Nadine Happy: (packing) A toothbrush... hairbrush... some clothes...
 
 Eris: Huh? We're only going to be gone for most of the day. We don't need to pack up much.
 
-Scruffy: (stuffing comically large items into his small bag) ...a kitchen sink, a door, a sofa, some chairs-
+Scruffy: (stuffing comically large items into his small bag) ...a kitchen sink, a door, a sofa, some chairs, a portal gate, a space ship-
 
 Eris Angry: WE ARE DEFINITELY NOT PACKING THOSE.
 
@@ -82,33 +86,35 @@ Dino: (with binoculars) Hey boss.
 
 Kranion Angry: What is it? Can't you see I am suntanning my bones?
 
-Sticky Angry: He's talking to me, diphead. Now what is it?
+Sticky: He's talking to me, diphead. I'm the boss! Now what is it?
 
 Dino: It looks like Scruffy and the gang are going on a roadtrip! 
 
-Sticky: (snatches the binocular) Let me see...
+Sticky Angry: (snatches the binocular) Let me see...
 
 Nadine Happy: (finished packing) I call shotgun!
 
-Eris: Alright, we do sight seeing and we'll come back by 7 in the evening at the latest. I got an early shift tomorrow, so let's make the most of it!
+Eris Happy: Alright, we do sight seeing and we'll come back by 7 in the evening at the latest. I got an early shift tomorrow, so let's make the most of it!
 
-Scruffy: Yay! Roadtrip! Roadtrip! Roadtrip!
+Scruffy Happy: Yay! Roadtrip! Roadtrip! Roadtrip!
 
 Nadine Happy: Roadtrip! Roadtrip! Roadtrip!
 
-%The trio finished preparing and enters the car with Eris being the driver.
+%The trio finished preparing and enters the car.
 
-Sticky: Let's give them a roadtrip alright. To HELL! Heheheh!! HAHAHAHAHAHA...!!
+Sticky: Hmm.... Let's give them a roadtrip alright. To HELL! Heheheh!! HAHAHAHAHAHA...!!
 
-Cranion: Bleh, ya losers go have fun.
+Kranion: (cracking his knuckles) Time ta beat those losahs. Hey Cranion!
 
-Dino: Who was that again?
+Cranion: Nah, yah losers go have fun.
+
+Dino: I'm no loser! Right boss?
 
 Sticky: Shut it and get in the skull van!
 
-Nadine: (reading the map) Huh, this is really just a featureless barren wasteland.
+Nadine Sad: (reading the map) Huh, this is really just a featureless barren wasteland.
 
-Eris: Turn to the other side.
+Eris Annoyed: Turn to the other side.
 
 Nadine: (turns it around) Oh! It seems the nearest stop is 5 miles from now.
 
@@ -130,11 +136,11 @@ Eris Annoyed: Nevermind.
 
 Scruffy: (continues) 306, 307...
 
-%At the stop the trio enters the restaurant. Not too long after, little do they know the skeleton trio has been searching for them.
+%At the stop the trio enters the restaurant. Little do they know the skeleton trio has been following them...
 
-Dino: H-Hey, Boss! I think I found them at a stop! 
+Dino: H-Hey, Boss! I think I found them at the stop! 
 
-Sticky: Perfect. I knew Scruffy would stop at the Funfetti Restaurant and I have an idea.
+Sticky: Perfect. I knew Scruffy couldn't resist the Funfetti Restaurant and I have an idea.
 
 Kranion Angry: Ah brotha, here we go...
 
