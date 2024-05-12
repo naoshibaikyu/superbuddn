@@ -28,7 +28,7 @@ Scruffy: Roadtrip!
 
 Eris Angry: What?
 
-Scruffy: We are going to be late on a roadtrip!
+Scruffy Sad: We are going to be late on a roadtrip!
 
 Eris Angry: How is this an emergency...
 
@@ -38,9 +38,9 @@ Scruffy: Eris did last night! She was like "Sure whatever..."
 
 Eris Angry: I was half asleep...
 
-Nadine Confused: How are we late? Also I don't get a say?
+Nadine Confused: How are we late? Also don't I get a say? I never heard this til now!
 
-Scruffy: I just figure that we all deserve a break from this city. Eris you have vacation today and your job has been overworking you. And Nadine, you've been getting bullied by Kranion all month. So let's have this whole city behind us for the day and enjoy some sight seeing!
+Nadine Happy: On second thought, it'd be fun to be away from the annoying skeleton brothers...
 
 Eris Angry: Good night.
 
@@ -50,15 +50,15 @@ Scruffy: That's the spirit!
 
 Eris Angry: Don't encourage him!
 
-Nadine Sad: But he's right... The city has been the opposite of what I've hoped lately and we never got to explore this region...
+Nadine Sad: But things been so stressful lately... I really want to explore this island and enjoy my time with my new friends.
 
-Eris: Fine. I'll rest up a bit more then we can go prepare when we're awake.
+Eris: Fine.
 
 Nadine Glad: Yay!
 
 Eris Angry: But only under the condition *I* get to be the driver. I don't have much faith in Scruffy's sense of direction nor safety. ..No offense.
 
-Scruffy: Hey none taken at all! I don't trust me either.
+Scruffy Happy: Hey none taken at all! I don't trust me either.
 
 Nadine Happy: I can't wait to see what this region have in store for us! So many sights to see. Ahhh..  I am so excited!!
 
@@ -100,14 +100,11 @@ Nadine Happy: Roadtrip! Roadtrip! Roadtrip!
 
 Sticky: Let's give them a roadtrip alright. To HELL! Heheheh!! HAHAHAHAHAHA...!!
 
-Cranion: Bleh, ya losers go have fun. I'll look over the place in the meantime (grins)
-
-Kranion Angry: Whateva you're irrelevent, friggin color swappin impostah.
+Cranion: Bleh, ya losers go have fun.
 
 Dino: Who was that again?
 
 Sticky: Shut it and get in the skull van!
-
 
 Nadine: (reading the map) Huh, this is really just a featureless barren wasteland.
 
@@ -183,7 +180,7 @@ Eris Annoyed: (completely deadpan) ...
 
 Nadine Happy: (eating Funfetti cake happily)
 
-Scruffy: (eating Funfetti Chicken) Told you I wasn't doing a bit!
+Scruffy Happy: (eating Funfetti Chicken) Told you I wasn't doing a bit!
 
 Eris Annoyed: ...
 
@@ -201,7 +198,7 @@ Scruffy: Huh, didn't expect to see them!
 
 Nadine Confused: Huh? You said something?
 
-Scruffy: Don't worry about it, just talking to myself.
+Scruffy Happy: Don't worry about it, just talking to myself.
 
 Nadine: Okay.
 
@@ -221,7 +218,7 @@ Sticky Angry: I'M THE BOSS-
 
 Nadine Confused: What was that?!
 
-Scruffy: Traffic.
+Scruffy Happy: Traffic.
 
 Nadine: Must've been a real serious accident... right Eris?
 
@@ -253,11 +250,11 @@ Nadine Sad: I never drove a car... No license either.
 
 Eris: 
 
-Scruffy: You can count on me-
+Scruffy Happy: You can count on me-
 
 Eris Angry: No!
 
-Nadine: I can keep him in check! I promise we will be perfectly okay! You can change back when you rest enough.
+Nadine Happy: I can keep him in check! I promise we will be perfectly okay! You can change back when you rest enough.
 
 Eris: Okay... Just make sure he doesn't somehow land us on a whole other planet or something.
 
@@ -271,7 +268,7 @@ Scruffy: Oh hey! Funny story.
 
 Eris Annoyed: Scruffy!! Are we in Barrel Canyon?!
 
-Scruffy: The interstate of Barrel Canyon!
+Scruffy Happy: The interstate of Barrel Canyon!
 
 Eris Angry: How?! I was just joking!!
 
@@ -283,7 +280,7 @@ Eris: WE AREN'T ON EARTH ANYMORE!
 
 Nadine Shocked: What?!
 
-Scruffy: Haha yeah we're somehow on Ludicrous World! Buckle up! It'll be a wild ride!
+Scruffy Happy: Haha yeah we're somehow on Ludicrous World! Buckle up! It'll be a wild ride!
 
 Nadine Shocked: We... are on another planet? For real?
 
@@ -307,7 +304,7 @@ Eris Annoyed: ... ... ...
 
 Nadine: Sounds like a weird video game!
 
-Scruffy: But real!
+Scruffy Happy: But real!
 
 Eris Annoyed: (curls into a ball)
 
@@ -319,7 +316,7 @@ Eris Annoyed: ... ... ... ...
 
 Nadine: Ohh, is it worth it?
 
-Scruffy: You betcha it is!
+Scruffy Happy: You betcha it is!
 
 Nadine Happy: How exciting and also grueling...
 
@@ -337,7 +334,7 @@ Nadine Shocked: H-half way? (picks up map and looks at the back) Wow. It really 
 
 Scruffy: Oh hey! A suspiciously highly detailed rat!
 
-Nadine Happy: (looking at the sides of the road) Ohhh... Weird!
+Nadine Happy: (looking at the sides of the road, spotting the rat) Ohhh... Weird!
 
 Scruffy: Not as weird as the monument we're going to see!
 
