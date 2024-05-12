@@ -1,5 +1,4 @@
 
-# Act Navigation Bar
 
 [Act I](#act-i) [Act II](#act-ii) [Act III](#act-iii)
 
@@ -512,12 +511,314 @@ Eris Shocked: What the h-
 
 %
 
-%
+%Sometime after the skull van is using its rocket boosters at near max speed.
 
-%
+Sticky: (as the driver now) ...
 
-%
+Dino: (noticing Sticky's ice glare) S-sorry Boss...
 
+Kranion: (sideyeing) I don't care what it takes I wanna squash the annoying green girl.
+
+Dino: Which one-
+
+Kranion: The one with the hat! Duh!
+
+Sticky: Quiet! I can see them now!
+
+%Sticky gradually slows the boosters til the Skull Van comes at a stop slightly ahead of Eris's car.
+
+Nadine: Wa-wait what?
+
+Eris: Wait isn't that...
+
+Sticky Angry: (stepping out of the van)
+
+Kranion: Surprise fuckers!
+
+Dino: Uh, yeah.
+
+Eris: Ugh, it's them... What do you want?
+
+Nadine: Have you been stalking us this whole time?!
+
+Dino: Huh? When you put it that way-
+
+Sticky: Dino, shut up.
+
+Kranion: HA! Looks like they're both stranded!
+
+Dino: Uh, boss. I thought Scruffy was with them?
+
+Sticky Angry: Yeah, where is Scruffy?
+
+Eris: ... 
+
+Nadine: He's out there doing Scruffy things for a few minutes. Why?
+
+Sticky: Shame because I wanted a triple murdernbut just you two will be enough!
+
+Nadine: Why? What did we ever do to you?!
+
+Kranion: You humilated me when you stole my wallet!
+
+Nadine: It wasn't stolen for the last time!
+
+Kranion: You still smashed my Skull Mobile!
+
+Nadine: You did that to yourself!
+
+Kranion: Nuh uh, I saw what you did you freak!
+
+Eris Annoyed: ...Okay. But what did *I* do?
+
+Dino: Uhh, you humilated me when I had the AB power...
+
+Eris Annoyed: I don't remember ever fighting you...
+
+Dino: You did and you defeated me in 2 seconds flat!
+
+Eris Happy: Ah, that must be why I can't remember.
+
+Sticky: (glaring at Dino) Talk about pathetic.
+
+Dino: How dare you!! I wanna fight you now!!
+
+Eris Happy: Sure. Let's see how long the fight last this time. Maybe a new record of 1 second?
+
+Dino Shocked: YOU!!
+
+Sticky Angry: Enough bickering you idiots and fight!
+
+Sticky: (pointing at Nadine) But spare the little girl. I have some business to deal with.
+
+Kranion: Whateva weirdo! Hey kid, let's fight.
+
+Nadine: For the last time I'm not a kid!
+
+Dino: (jumping in front of Eris slashing his saber at her) 
+
+Eris Annoyed: (is an inch away) ...
+
+Dino: (keeps flailing his arm)
+
+Eris: (kicks him lightly)
+
+Dino: AUGHHH (falls over in pain) T-This isn't over- (gets picked up) H-Hey!!
+
+Eris Annoyed: (deadpan) If you keep talking I'll just toss you to the off road, alright?
+
+Kranion: (holding a bazooka) Are ya scared yet?
+
+Nadine: No.
+
+Kranion Angry: Do you have a death wish?! Ya dang lucky my half bro wants you alive! (fires anyways)
+
+Nadine Glad: (jumps onto the incoming rocket, bouncing on top of it and then stomps on Kranion's head)
+
+Kranion Angry: WHAT TA FREA- (gets his legs swiped from a sweep kick, falling over and dropping his weapon)
+
+Nadine: Hey, neat weapon. (holds up his bazooka)
+
+Sticky: Seriously, brother?
+
+Kranion: Ah shut up bro! You try taking the little runt on- (gets blown away by the bazooka and gets sent away from being out of the road's boundary)
+
+Eris Shocked: Huh? Didn't know you had that in you, Nadine.
+
+Nadine: Ah... heh um, my mom taught me a lot of self defense...!
+
+Eris Annoyed: I see.
+
+Dino Shocked: Please let me go...
+
+Eris Happy: Gladly!
+
+Sticky Angry: Dino! Diphead bro! You're both useless! Must I do everything myself?
+
+Dino: S-sorry boss- (is dropped onto the sides of the road, followed by a scream cut short as he's flown off)
+
+Eris: That just makes Sticky now.
+
+Nadine: Got it! (click) ... (click) Huh, out of rockets already. (tosses away the bazooka) Not that I need it anymore...
+
+Eris: Let's get this over with, Nadine.
+
+%The two of them approaches closer to Sticky.
+
+Sticky: (steps slowly away) So I'm outnumbered...
+
+Nadine: That's right!
+
+Sticky: (smirking) ...But can you outwit me?
+
+Eris Shocked: (realizing) Wait! D-Don't take another step Nadine!
+
+%Nadine steps on a hidden trap causing her and Eris to be suddenly trapped in a wire electrical net! The net instantly shocks them until they're unable to move.
+
+Sticky: Hahaha!! YES!!! You both fell for the easiest trick in the book. 
+
+Eris: Aggh... That's just dirty!
+
+Sticky: My brother may be stronger but he sure lacks my wit. Too bad he's not here to witness what I'm about to do, but I'll be sure to record this.
+
+Nadine: What are you talking about..?
+
+Eris: A-Are you a psychopath??
+
+Sticky: (getting out his tools) Silence you two! It's time to prove you're a robot!
+
+Eris: What?? Me?
+
+Sticky: Not you! (points his wrench at Nadine) Her!
+
+Nadine Shocked: !
+
+Eris Annoyed: Don’t lay a finger on her you lunatic!
+
+Nadine Sad: ...
+
+Sticky: And what are you going to do to stop me?
+
+Eris: You...!! Stay back from her!
+
+%Sticky opens the net briefly to pull Nadine out, holding her by her neck.
+
+Eris: Nadine!
+
+Nadine Angry: (flailing around) Ngh...!!
+
+Sticky: Stay still so I can tear you apart-
+
+%HONK HONK
+
+Sticky: What??
+
+%Suddenly a floating bus has its balloons popped and it comes crashing down onto Sticky, freeing Nadine from his grasp.
+
+Scruffy: I'm back!
+
+Eris Shocked: !!
+
+Scruffy: Yo you won't believe what just happened! Funny story!
+
+Nadine Sad: Can we just get out of here first.
+
+Sticky Angry: (slowly crawling out from under the bus but stops short) Damn you, Scruffy!! Get me out!!
+
+%Eris pulls an injured Sticky out and deathly glares at him.
+
+Eris Angry: ...
+
+Sticky Angry: ...
+
+Eris Happy: Mind doing the honors, Nadine?
+
+Nadine Happy: Gladly! (revs up her leg and kicks Sticky far)
+
+Sticky Angry: I WILL REMEMBER THIS!! MARK MY- (gets sent flying by the boundary wind)
+
+Eris: Now with that out of the way..
+
+Eris Annoyed: Where were you all this time??
+
+Scruffy Happy: I found an empty abandoned balloon store!
+
+Nadine: What did you need a balloon store for?
+
+Scruffy: To drop the abandoned bus I found onto Sticky.
+
+Eris: Where did you find a bus- Wait you knew they were stalking us this whole time?
+
+Scruffy: (obviously ignoring the other question) Found the bus at the gasoline store.
+
+Nadine Happy: You got gas for our car?!
+
+Scruffy: (already filling the gas tank) Sure did! Let's go see the momument!
+
+Eris Annoyed: No, we are going home.
+
+Scruffy Sad: Come onnn. We can exit right after. We are almost there! It is an hour away!
+
+Nadine Happy: Yay!
+
+Eris: Well if it makes Nadine happy... (I wanna see it too)
+
+%Later once they reach the end of the road.
+
+Scruffy Happy: There it is! The momument! Right there! (points forward)
+
+Eris Annoyed: ...
+
+Nadine Sad: ...
+
+Scruffy Happy: Yep!
+
+% Nadine and Eris slowly walks over to the "monument". It's a toilet. 
+
+Eris Annoyed: ...
+
+Nadine Sad: (reading the little sign next to it)
+
+Nadine Confused: "A toilet randomly built in the middle of the desert. It doesn't have any purpose as there is nothing connected to it. Locals always theorized what was its purpose making it the Stonehenge of Ludicrous World."
+
+Nadine Happy: Huh. Cool.
+
+Scruffy Happy: Yeah isn't it??
+
+
+Eris Annoyed: ...Right, cool whatever. Now where is the exit?
+
+Scruffy: Don't you want to admire the momument longer-
+
+Eris Annoyed: NOW!
+
+Scruffy: (pulling his bag out of the car, digging into it then pulls out a door) Right here! 
+
+Eris Shocked: You had a door with you?! But why?
+
+Scruffy Happy: It's not just a door. It's a warp gate! We can leave back home whenever we want! (unfolds it and boots it up, opening the portal inside)
+
+Eris: ...
+
+Eris: ...
+
+Scruffy Happy: I'm freaks.
+
+Eris: You are?
+
+Scruffy: Yep!
+
+Eris: Me too. I'm freaks. I'm freaks.
+
+Scruffy: Oh finally you've learn to become a freak like me- Uh.. Eris? What are you doing?
+
+Eris: HAHAHA I'M FREAKS!! (lounges at Scruffy beating the daylights out of him while shouting "I'm freaks" over and over with exasperated laughter)
+
+Nadine Sad: ...I'll be going home now...
+
+
+%Back at Nadine's room.
+
+Clara: (through text on phone) How was your day, cutie?
+
+Nadine: Trip.
+
+Nadine: Didn't enjoy the trip.
+
+Selena: Mind elaborating?
+
+Nadine Sad: No.
+
+Clara: Well I'm sure tomorrow will be a better day.
+
+Nadine Sad: I guess.
+
+%A loud door slam can be heard. Nadine turns and sees Eris storming to her room and an injured Scruffy wobbles to his.
+
+Nadine Sad: ...
+
+Scruffy: Bones.
+ 
 %
 
 Dino: We've finally caught Nadine and Eris!! Yeah!!
