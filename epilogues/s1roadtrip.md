@@ -368,41 +368,41 @@ Scruffy: Sure!
 
 %Meanwhile
 
-Kranion Angry: Oh!! That does it! We are really gonna make it personal!!
+Kranion Angry: Oh!! That's it!! I'mma make it personal!!
 
 Dino: But boss, you've been making it personal the entire time.
 
 Sticky Angry: (glares) I am the boss for the last time!
 
-Dino: Sorry Boss Sticky...
+Kranion Angry: (glares at Sticky) You’re wicked lame for a boss. It's mah turn!
 
-Kranion Angry: (glares at Sticky) No! I am the Boss! And I am leading the charge! 
-
-Dino: (sweating) C-Can't we work as a team or s-something?
+Dino: Can't we work as a team?
 
 Kranion Angry: What team? I'm only here because I have a personal vendetta against Nadine!
+
+Dino: I have one against Eris...
 
 Sticky Angry: And I'm only here because I have a life-long personal vendetta against Scruffy AND my diphead brother.
 
 Kranion Angry: Oh yeah? Why don't you fight me then, diphead?
 
-Sticky Angry: I only brought you here so I can prove you wrong! I'll kill you another time.
+Sticky Angry: I only brought you here to prove a point! I'll kill you another time!
 
-Kranion Angry: Prove me wrong? Bro, you're still really on about that dumb robot thing?!
+Kranion: A point? Bro, you're still really on about that dumb robot thing? Hahaha!
 
-Sticky Angry: Says the idiot who still thinks she stole your wallet.
+Sticky Angry: Says the idiot who still thinks the robot stole your wallet.
 
 Kranion Angry: ...
 
 Sticky: DINO! ETA on the repairs?
 
-Dino: All ready, b-boss!
+Dino: All ready, boss!
 
 Sticky: And the rocket thrusters?
 
 Dino: Installed and ready, sir!
 
-Sticky: Excellent... Let's give them a surprise.
+Sticky: Excellent.
 
 %
 
@@ -438,7 +438,7 @@ Sticky Angry: YOU IDIOTSSSSS....
 
 Eris Annoyed: Huh? What was that all about?
 
-Scruffy: (knowing smile) Heh heh beats me.
+Scruffy: (knowing smile) Heh heh, beats me.
 
 Nadine Confused: Huh... anyways... Are you well rested? You've only slept for two more hours. 
 
@@ -478,7 +478,7 @@ Eris Shocked: We're running out of gas!
 
 Nadine Angry: I said don't tell me!
 
-Eris: Do we have any back up?
+Eris: Do we have any back up?!
 
 Scruffy: (searching the bags) We don't have any gas canisters, so no.
 
@@ -498,7 +498,7 @@ Nadine Sad: Are we even going to be okay?
 
 Nadine Sad: No!
 
-Eris Annoyed: Anddd that's it. The gas is all used up. We're stuck. Stuck in this endless hell of an interstate. (slams her head on the steering wheel in utter defeat)
+Eris Annoyed: Anddd that's it. The gas is all used up. We're stuck. Stuck in this endless hell of a nightmare interstate. (slams her head on the steering wheel in utter defeat)
 
 Nadine Sad: Eris...
 
@@ -534,11 +534,11 @@ Eris Shocked: What the h-
 
 %Sometime after the skull van is using its rocket boosters at near max speed.
 
-Sticky: (as the driver now) ...
+Sticky Angry: (as the driver now) ...
 
 Dino: (noticing Sticky's ice glare) S-sorry Boss...
 
-Kranion: (sideyeing) I don't care what it takes I wanna squash the annoying green girl.
+Kranion Angry: (sideyeing) I don't care what it takes I wanna squash the annoying green girl.
 
 Dino: Which one-
 
@@ -548,47 +548,41 @@ Sticky: Quiet! I can see them now!
 
 %Sticky gradually slows the boosters til the Skull Van comes at a stop slightly ahead of Eris's car.
 
-Nadine: Wa-wait what?
-
-Eris: Wait isn't that...
+Eris Annoyed: Wait isn't that...
 
 Sticky Angry: (stepping out of the van)
 
 Kranion: Surprise fuckers!
 
-Dino: Uh, yeah.
+Eris Annoyed: Ugh, it's them... What do you want?
 
-Eris: Ugh, it's them... What do you want?
-
-Nadine: Have you been stalking us this whole time?!
+Nadine Shocked: Have you been stalking us this whole time?!
 
 Dino: Huh? When you put it that way-
 
-Sticky: Dino, shut up.
+Sticky Angry: Dino, shut up.
 
 Kranion: HA! Looks like they're both stranded!
 
 Dino: Uh, boss. I thought Scruffy was with them?
 
-Sticky Angry: Yeah, where is Scruffy?
+Sticky Angry: Yeah,you two! Where is Scruffy?
 
-Eris: ... 
+Nadine Sad: He's out there doing Scruffy things for a few minutes. Why?
 
-Nadine: He's out there doing Scruffy things for a few minutes. Why?
+Sticky: Shame, I wanted him to witness both your demises but whatever this is good enough.
 
-Sticky: Shame because I wanted a triple murdernbut just you two will be enough!
+Nadine Shocked: Why? What did we ever do to you?!
 
-Nadine: Why? What did we ever do to you?!
+Kranion Angry: You humilated me when you stole my wallet!
 
-Kranion: You humilated me when you stole my wallet!
+Nadine Angry: It wasn't stolen for the last time!
 
-Nadine: It wasn't stolen for the last time!
+Kranion Angry: You still smashed my Skull Mobile!
 
-Kranion: You still smashed my Skull Mobile!
+Nadine Angry: You did that to yourself!
 
-Nadine: You did that to yourself!
-
-Kranion: Nuh uh, I saw what you did you freak!
+Kranion Angry: Nuh uh, I saw what you did you freak!
 
 Eris Annoyed: ...Okay. But what did *I* do?
 
@@ -596,15 +590,15 @@ Dino: Uhh, you humilated me when I had the AB power...
 
 Eris Annoyed: I don't remember ever fighting you...
 
-Dino: You did and you defeated me in 2 seconds flat!
+Dino: You did and you defeated me in 10 seconds flat!
+
+Sticky Angry: (glaring at Dino) Talk about pathetic.
 
 Eris Happy: Ah, that must be why I can't remember.
 
-Sticky: (glaring at Dino) Talk about pathetic.
+Dino Shocked: That was a fluke. Let's have a rematch!!
 
-Dino: How dare you!! I wanna fight you now!!
-
-Eris Happy: Sure. Let's see how long the fight last this time. Maybe a new record of 1 second?
+Eris Happy: Sure. Let's see how long the fight last this time. Maybe a new record of 5 seconds?
 
 Dino Shocked: YOU!!
 
@@ -612,25 +606,25 @@ Sticky Angry: Enough bickering you idiots and fight!
 
 Sticky: (pointing at Nadine) But spare the little girl. I have some business to deal with.
 
-Kranion: Whateva weirdo! Hey kid, let's fight.
+Kranion Angry: Whateva weirdo! Hey kid, let's fight.
 
-Nadine: For the last time I'm not a kid!
+Nadine Angry: For the last time I'm not a kid nor little!
 
 Dino: (jumping in front of Eris slashing his saber at her) 
 
-Eris Annoyed: (is an inch away) ...
+Eris: (is an inch away, looking at her watch) ...
 
 Dino: (keeps flailing his arm)
 
-Eris: (kicks him lightly)
+Eris Annoyed: (kicks him lightly)
 
-Dino: AUGHHH (falls over in pain) T-This isn't over- (gets picked up) H-Hey!!
+Dino Shocked: AUGHHH (falls over in pain) T-This isn't over- (gets picked up) H-Hey!!
 
-Eris Annoyed: (deadpan) If you keep talking I'll just toss you to the off road, alright?
+Eris Happy: Looks like my predictions was right! Maybe next time!
 
 Kranion: (holding a bazooka) Are ya scared yet?
 
-Nadine: No.
+Nadine Annoyed: No. You don't scare me. You're just annoying.
 
 Kranion Angry: Do you have a death wish?! Ya dang lucky my half bro wants you alive! (fires anyways)
 
@@ -642,11 +636,11 @@ Nadine: Hey, neat weapon. (holds up his bazooka)
 
 Sticky: Seriously, brother?
 
-Kranion: Ah shut up bro! You try taking the little runt on- (gets blown away by the bazooka and gets sent away from being out of the road's boundary)
+Kranion Angry: Ah shut up bro! You try taking the little runt on- (gets blown away by the bazooka and gets sent away from being out of the road's boundary)
 
 Eris Shocked: Huh? Didn't know you had that in you, Nadine.
 
-Nadine: Ah... heh um, my mom taught me a lot of self defense...!
+Nadine Glad: Ah... heh um, my mom taught me a lot of self defense...!
 
 Eris Annoyed: I see.
 
@@ -656,13 +650,13 @@ Eris Happy: Gladly!
 
 Sticky Angry: Dino! Diphead bro! You're both useless! Must I do everything myself?
 
-Dino: S-sorry boss- (is dropped onto the sides of the road, followed by a scream cut short as he's flown off)
+Dino Shocked: S-sorry boss- (is dropped onto the sides of the road, followed by a scream cut short as he's flown off)
 
-Eris: That just makes Sticky now.
+Eris Happy: That just makes Sticky now.
 
-Nadine: Got it! (click) ... (click) Huh, out of rockets already. (tosses away the bazooka) Not that I need it anymore...
+Nadine Glad: Got it! (click) ... (click) Huh, out of rockets already. (tosses away the bazooka) Not that I need it anymore...
 
-Eris: Let's get this over with, Nadine.
+Eris: Oh well, let's get this over with, Nadine.
 
 %The two of them approaches closer to Sticky.
 
@@ -678,17 +672,17 @@ Eris Shocked: (realizing) Wait! D-Don't take another step Nadine!
 
 Sticky: Hahaha!! YES!!! You both fell for the easiest trick in the book. 
 
-Eris: Aggh... That's just dirty!
+Eris Annoyed: Aggh... That's just dirty!
 
 Sticky: My brother may be stronger but he sure lacks my wit. Too bad he's not here to witness what I'm about to do, but I'll be sure to record this.
 
-Nadine: What are you talking about..?
+Nadine Shocked: What are you talking about..?
 
-Eris: A-Are you a psychopath??
+Eris Shocked: A-Are you a psychopath??
 
-Sticky: (getting out his tools) Silence you two! It's time to prove you're a robot!
+Sticky Angry: (getting out his tools) Silence you two! It's time to prove you're a robot!
 
-Eris: What?? Me?
+Eris Shocked: What?? Me?
 
 Sticky: Not you! (points his wrench at Nadine) Her!
 
@@ -708,7 +702,7 @@ Eris: Nadine!
 
 Nadine Angry: (flailing around) Ngh...!!
 
-Sticky: Stay still so I can tear you apart-
+Sticky Angry: Stay still so I can tear you apart-
 
 %HONK HONK
 
@@ -720,7 +714,7 @@ Scruffy: I'm back!
 
 Eris Shocked: !!
 
-Scruffy: Yo you won't believe what just happened! Funny story!
+Scruffy Happy: Yo you won't believe what just happened! Funny story!
 
 Nadine Sad: Can we just get out of here first.
 
@@ -750,7 +744,7 @@ Scruffy: To drop the abandoned bus I found onto Sticky.
 
 Eris: Where did you find a bus- Wait you knew they were stalking us this whole time?
 
-Scruffy: (obviously ignoring the other question) Found the bus at the gasoline store.
+Scruffy: (obviously ignoring the other question) Found the bus stranded at the gasoline store parking lot.
 
 Nadine Happy: You got gas for our car?!
 
@@ -785,7 +779,6 @@ Nadine Confused: "A toilet randomly built in the middle of the desert. It doesn'
 Nadine Happy: Huh. Cool.
 
 Scruffy Happy: Yeah isn't it??
-
 
 Eris Annoyed: ...Right, cool whatever. Now where is the exit?
 
