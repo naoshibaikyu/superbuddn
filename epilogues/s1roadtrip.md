@@ -438,7 +438,7 @@ Sticky Angry: YOU IDIOTSSSSS....
 
 Eris Annoyed: Huh? What was that all about?
 
-Scruffy: (knowing smile) Heh heh, beats me.
+Scruffy Happy: (knowing smile) Heh heh, beats me.
 
 Nadine Confused: Huh... anyways... Are you well rested? You've only slept for two more hours. 
 
@@ -462,13 +462,13 @@ Scruffy: (chewing on Funfetti chicken)
 
 Eris Annoyed: Hasn't those gotten bad by now?
 
-Scruffy: Not when they're injected with Funfetti!
+Scruffy Happy: Not when they're injected with Funfetti!
 
 Nadine Sad: ...
 
 Eris: Okay, never mind. I don't want to know anymore.
 
-Scruffy: I'm freaks.
+Scruffy Happy: I'm freaks.
 
 %A low tone beep plays.
 
@@ -478,9 +478,9 @@ Eris Shocked: We're running out of gas!
 
 Nadine Angry: I said don't tell me!
 
-Eris: Do we have any back up?!
+Eris Annoyed: Do we have any back up?!
 
-Scruffy: (searching the bags) We don't have any gas canisters, so no.
+Scruffy Sad: (searching the bags) We don't have any gas canisters, so no.
 
 Eris: When's the nearest gas station?
 
@@ -488,7 +488,7 @@ Scruffy: There's nothing here but a balloon store a several miles ahead.
 
 Eris Annoyed: ...What? Why that of all things?
 
-Scruffy: To buy balloons.
+Scruffy Happy: To buy balloons.
 
 Eris Angry: That's not what I mean!
 
@@ -504,7 +504,7 @@ Nadine Sad: Eris...
 
 %Scruffy thinks very hard til his head hurts bad then he gets an idea.
 
-Scruffy: (clutching his head) One moment.
+Scruffy Sad: (clutching his head) One moment.
 
 Nadine Confused: What are you doing?
 
@@ -516,7 +516,7 @@ Eris Annoyed: Wow. Even he has given up...
 
 Nadine Shocked: Uh...
 
-Scruffy: Be back in a few minutes.
+Scruffy Happy: Be back in a few minutes.
 
 %VROOOM. Scruffy takes off like a car!
 
@@ -694,11 +694,11 @@ Nadine Sad: ...
 
 Sticky: And what are you going to do to stop me?
 
-Eris: You...!! Stay back from her!
+Eris Annoyed: You...!! Stay back from her!
 
 %Sticky opens the net briefly to pull Nadine out, holding her by her neck.
 
-Eris: Nadine!
+Eris Shocked: Nadine!
 
 Nadine Angry: (flailing around) Ngh...!!
 
