@@ -34,11 +34,11 @@ Eris Angry: What?
 
 Scruffy Sad: We are going to be late to our roadtrip!
 
-Eris Angry: How is this an emergency... I don't recall a road trip!
+Eris Angry: How is this an emergency... I don't recall agreeing to road trip! Especially not on such a short notice!
 
 Scruffy: You did last night! You were like "Sure whatever... It's 1am, so let me sleep"
 
-Eris Angry: I was clearly half asleep.
+Eris Angry: You've asked me a series of pointless questions while I was clearly half asleep.
 
 Nadine Confused: Also don't I get a say? I was never told about this!
 
@@ -72,7 +72,7 @@ Nadine Happy: (packing) A toothbrush... hairbrush... some clothes...
 
 Eris: Huh? We're only going to be gone for most of the day. We don't need to pack up much.
 
-Scruffy: (stuffing comically large items into his small bag) ...a kitchen sink, a door, a sofa, some chairs, a portal gate, a space ship-
+Scruffy: (stuffing comically large items into his small bag) ...a kitchen sink, a door, a sofa, some chairs, a space ship-
 
 Eris Angry: WE ARE DEFINITELY NOT PACKING THOSE.
 
@@ -106,9 +106,9 @@ Sticky: Hmm.... Let's give them a roadtrip alright. To HELL! Heheheh!! HAHAHAHAH
 
 Kranion: (cracking his knuckles) Time to beat those losahs. Hey, Cranion!
 
-Cranion: Nah, yah losers go have fun.
+Cranion: Nah, yah idjits go have fun. I'm taking a nap.
 
-Dino: I'm no loser! Right boss?
+Dino: HEY! I'm no loser! Right boss?
 
 Sticky: Shut it and get in the skull van!
 
