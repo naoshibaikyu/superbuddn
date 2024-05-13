@@ -62,7 +62,7 @@ Nadine Glad: Yay!
 
 Eris Angry: But only under the condition *I* get to be the driver. I don't have much faith in Scruffy's sense of direction nor safety. ..No offense.
 
-Scruffy Happy: Hey none taken at all! I don't trust me either.
+Scruffy Happy: Hey none taken at all! I wouldn't trust me either.
 
 Nadine Happy: I can't wait to see what this region have in store for us! So many sights to see. Ahhh..  I am so excited!!
 
