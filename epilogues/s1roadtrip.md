@@ -128,7 +128,7 @@ Eris: That's good. We can take a little break.
 
 Nadine: There is a little restaurant right there too.
 
-Eris: Hungry?
+Eris: Hungry already?
 
 Nadine Happy: Mm-hm!
 
