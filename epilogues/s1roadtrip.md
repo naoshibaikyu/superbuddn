@@ -44,9 +44,9 @@ Nadine Confused: Also don't I get a say? I was never told about this!
 
 Nadine Happy: But on second thought, it'd be fun to be away from the annoying skeleton brothers...
 
-Scruffy Sad: Don’t be a downer, Eris!
-
 Eris Angry: Good night.
+
+Scruffy Sad: Don’t be a downer, Eris!
 
 Nadine Happy: ROADTRIP! ROADTRIP!!!
 
