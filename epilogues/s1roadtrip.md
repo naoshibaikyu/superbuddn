@@ -674,9 +674,9 @@ Sticky: Hahaha!! YES!!! You both fell for the easiest trick in the book.
 
 Eris Annoyed: Aggh... That's just dirty!
 
-Sticky: My brother may be stronger but he sure lacks my wit. Too bad he's not here to witness what I'm about to do, but I'll be sure to record this.
+Sticky: My dimwitted brother may be stronger but he sure lacks any brain cells. Too bad he's not here to witness what I'm about to do, but I'll be sure to record this for him.
 
-Nadine Shocked: What are you talking about..?
+Nadine Annoyed: What are you talking about...?
 
 Eris Shocked: A-Are you a psychopath??
 
@@ -686,23 +686,23 @@ Eris Shocked: What?? Me?
 
 Sticky: Not you! (points his wrench at Nadine) Her!
 
-Nadine Shocked: !
+Nadine Shocked: Me??
 
-Eris Annoyed: Don’t lay a finger on her you lunatic!
-
-Nadine Sad: ...
+Eris Annoyed: Are you insane?? Don’t lay a finger on her, you lunatic!
 
 Sticky: And what are you going to do to stop me?
 
-Eris Annoyed: You...!! Stay back from her!
+Eris Annoyed: You...!! Stay back from her! She is not a robot!
 
 %Sticky opens the net briefly to pull Nadine out, holding her by her neck.
 
+Sticky Angry: We will see about that.
+
 Eris Shocked: Nadine!
 
-Nadine Angry: (flailing around) Ngh...!!
+Nadine Angry: (flailing around) Ngh...!! Let me go!
 
-Sticky Angry: Stay still so I can tear you apart-
+Sticky: Stay still so I can tear you apart-
 
 %HONK HONK
 
