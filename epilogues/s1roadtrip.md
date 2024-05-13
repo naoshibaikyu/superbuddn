@@ -2,7 +2,7 @@
 
 ## Act Navigation
 
-[Act I](#act-i) [Act II](#act-ii) [Act III](#act-iii)
+[Act I](#act-i) | [Act II](#act-ii) | [Act III](#act-iii) | [Act IV](#act-iv) | [Act V](#act-v)
 
 EpStart
 
@@ -750,15 +750,25 @@ Nadine Happy: You got gas for our car?!
 
 Scruffy: (already filling the gas tank) Sure did! Let's go see the momument!
 
-Eris Annoyed: No, we are going home.
+Eris Annoyed: And going home right after... We are going to be so late!
 
-Scruffy Sad: Come onnn. We can exit right after. We are almost there! It is an hour away!
+Nadine: Hey what if we steal Sticky's thrust boosters for our car?
+
+Eris: Huh. That should be doable.
+
+%Eris then goes to attach the thrusters to the car.
+
+Eris Happy: Seems simple enough. We can drastically cut the time to reach there by a few hours less!
 
 Nadine Happy: Yay!
 
-Eris: Well if it makes Nadine happy... (I wanna see it too)
+%
 
-%Later once they reach the end of the road.
+# ACT V
+
+%
+
+%Later once they reach the end of the road. Eris stops the car right before it gets too close to the edge.
 
 Scruffy Happy: There it is! The momument! Right there! (points forward)
 
@@ -780,11 +790,11 @@ Nadine Happy: Huh. Cool.
 
 Scruffy Happy: Yeah isn't it??
 
-Eris Annoyed: ...Right, cool whatever. Now where is the exit?
+Eris Annoyed: (disappointed) ...Right, cool whatever. Now where is the exit?
 
 Scruffy: Don't you want to admire the momument longer-
 
-Eris Annoyed: NOW!
+Eris Annoyed: *Please.*
 
 Scruffy: (pulling his bag out of the car, digging into it then pulls out a door) Right here! 
 
@@ -802,14 +812,13 @@ Eris: You are?
 
 Scruffy: Yep!
 
-Eris: Me too. I'm freaks. I'm freaks.
+Eris Happy: Me too. I'm freaks. I'm freaks.
 
 Scruffy: Oh finally you've learn to become a freak like me- Uh.. Eris? What are you doing?
 
-Eris: HAHAHA I'M FREAKS!! (lounges at Scruffy beating the daylights out of him while shouting "I'm freaks" over and over with exasperated laughter)
+Eris Happy: HAHAHA I'M FREAKS!! (lounges at Scruffy beating the daylights out of him while shouting "I'm freaks" over and over with exasperated laughter)
 
 Nadine Sad: ...I'll be going home now...
-
 
 %Back at Nadine's room.
 
@@ -831,71 +840,9 @@ Nadine Sad: I guess.
 
 Nadine Sad: ...
 
-Scruffy: Bones.
+Scruffy: (in bandages) Bones.
  
-%
-
-Dino: We've finally caught Nadine and Eris!! Yeah!!
-
-Nadine Sad: (Sigh)
-
-Eris Annoyed: You're lucky, you know that right? Lucky that we're battered from the heat and exhaustion! Lucky that we're trapped in this death road with no way out! Lucky that-
-
-Kranion: Cope. Anyways, bro! Dino did the friggin' right thing for once!
-
-Sticky: About time.
-
-Dino: What should we do?
-
-Kranion: Use them as bait for Scruffy!
-
-Sticky: And while I'm at it, we can also expose the robot girl for who she is!
-
-Eris Annoyed: What? I'm not a robot...
-
-Sticky: Wasn't talking about you. I'm talking to (pointing at Nadine) her!
-
-Kranion Angry: Ugh!! Yah still on about this, bro?
-
-Sticky Angry: Watch it, diphead. You will finally realize I'm not the crazy one! 
-
-Kranion Angry: Whatevah, lemme tear her apart anyways. I've got a bone to pick with her!
-
-Nadine Annoyed: Is this still about the skull mobile?
-
-Sticky: Can it, Kranion. I'm calling the shots here. I will make sure she will be torn apart...
-
-Sticky Angry: ...professionally.
-
-Nadine Shocked: (very nervous) U-um. What?!
-
-Eris Angry: She's not a robot either, weirdo. Don't you lay a finger on her!
-
-Sticky: Silence! Dino, get the tools and ***dismantle*** Nadine.
-
-Nadine Happy: (interrupting) Hey how did you three end up here? Aren't we on Ludicrous World?
-
-Sticky: ...
-
-Dino: ...
-
-Kranion: ...
-
-Sticky Angry: Wait, **how** did we get here...??
-
-Unknown: **HONK HONKKKK**
-
-Dino Shocked: What the?
-
-%Suddenly a floating bus has its balloons popped and it comes crashing down on the skeletons next to the girls.
-
-Scruffy: I'm back!
-
-Eris Angry: What the fuck?
-
-Scruffy: Yo you won't believe what just happened! Funny story!
-
-Nadine Sad: Can you just untie us first...
+%THE END.
 
 EpFin
 
