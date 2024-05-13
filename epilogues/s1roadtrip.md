@@ -108,7 +108,7 @@ Kranion: (cracking his knuckles) Time to beat those losahs. Hey, Cranion!
 
 Cranion: Nah, yah idjits go have fun. I'm taking a nap.
 
-Dino: HEY! I'm no loser! Right boss?
+Dino: HEY! I'm no idiot!
 
 Sticky: Shut it and get in the skull van!
 
