@@ -201,7 +201,7 @@ Dino: If it's something even I don't know about, then I'm sure nobody else must 
 
 Naoshi Annoyed: Dino... You don't have a clue about this thing, do you? 
 
-Dino Shocked: *screams in anger*
+Dino Shocked: (screams in anger)
 
 %
 
@@ -221,7 +221,7 @@ Gambi: MORNING MOTHERFUCKERS!
 
 Scruffy: In my defense, I was left unsupervised. 
 
-Eris: Wasn’t Fred with you? 
+Eris Annoyed: Wasn’t Fred with you? 
 
 Fred: In my defense, I was also left unsupervised.
 
@@ -275,7 +275,7 @@ Eris Annoyed: (jaw clenches)
 
 %
 
-Scruffy: It’s impossible to make a sentence without using the letter A.
+Scruffy Happy: It’s impossible to make a sentence without using the letter A.
 
 Tikiman: Despite your thinking, it is quite possible, yet difficult, to form one without the specific letter. Here’s one more to further disprove your theory.
 
@@ -314,15 +314,15 @@ Clara: We live in constant fear of the short ones who, in my experience, will cl
 
 Nadine Annoyed: Why do you act like we’re three year olds? 
 
-Eris: (exasperated) WHY?!? 
+Eris Angry: (exasperated) **WHY?!? **
 
-Eris: (points at Fred) YOU TRIED TO HYJACK A CAR! 
+Eris Angry: (points at Fred) **YOU TRIED TO HYJACK A CAR! **
 
-Eris: (points at Nadine) YOU NEARLY JUMPED 20 FEET OFF A CARPARK! 
+Eris Angry: (points at Nadine) **YOU NEARLY JUMPED 20 FEET OFF A CARPARK! **
 
-Eris: (points at Scruffy) AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND!
+Eris Angry:  (points at Scruffy) **AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND!**
  
-Eris: AND YOU ASK ME WHY????
+Eris Angry: ***AND YOU ASK ME WHY????***
 
 %
 
@@ -363,7 +363,7 @@ Eris: Yeah?
 
 Fred: It was pizza with bread on the top and the bottom. 
 
-Eris: So a calzone? 
+Eris Annoyed: So a calzone? 
 
 Fred: You can’t just name things I dream up.
 
@@ -399,7 +399,7 @@ Clara: Hi, could I ask how exactly does one accidentally set a lemon on fire??
 
 Fred: Microwave for 40 minutes. 😔
 
-Nadine: Why were you microwaving a lemon???
+Nadine Confused: Why were you microwaving a lemon???
 
 Fred: I read boiling lemons helps cover up up bad smells (I wanted to cover up the scent of burnt oranges) but I didn't own any pots.
 
