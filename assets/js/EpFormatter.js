@@ -227,6 +227,10 @@ function getJsonData() {
 				"displayName": "Rhea",
 				"imagePathPrefix": "budd/rhea"
 			},
+			"boxer": {
+				"displayName": "Boxer",
+				"imagePathPrefix": "budd/boxer"
+			},
 //Turbo Leaper
 			"fred": {
 				"displayName": "Fred",
