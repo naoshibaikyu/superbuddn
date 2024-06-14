@@ -314,13 +314,13 @@ Clara: We live in constant fear of the short ones who, in my experience, will cl
 
 Nadine Annoyed: Why do you act like we’re three year olds? 
 
-Eris Angry: (exasperated) **WHY?!? **
+Eris Angry: (exasperated) **WHY?!?**
 
-Eris Angry: (points at Fred) **YOU TRIED TO HYJACK A CAR! **
+Eris Angry: (points at Fred) **YOU TRIED TO HYJACK A CAR!**
 
-Eris Angry: (points at Nadine) **YOU NEARLY JUMPED 20 FEET OFF A CARPARK! **
+Eris Angry: (points at Nadine) **YOU NEARLY JUMPED 20 FEET OFF A CARPARK!**
 
-Eris Angry:  (points at Scruffy) **AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND!**
+Eris Angry: (points at Scruffy) **AND YOU ATE MULTIPLE DRIED LEAVES AND ROCKS OFF THE GROUND!**
  
 Eris Angry: ***AND YOU ASK ME WHY????***
 
