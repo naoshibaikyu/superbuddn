@@ -11,6 +11,14 @@ EpStart
 
 %
 
+Selena: You don't have to "ship" things... just a reminder.
+
+Stella: Yeah you could deliver them insteJSHCKWNFIWNFO WJCIEN@*"#$ ENICIWJFJW!>+`=
+
+Selena: Poor thing... walked right into the electrical fence while speaking...
+
+%
+
 
 
 
