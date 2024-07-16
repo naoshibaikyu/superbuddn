@@ -443,7 +443,7 @@ Gambi: I took your advice. I stopped running from the problem and I tackled it h
 
 Stella: I meant try emotional honesty, *not murder!!*
 
-%End of Part 7
+%End of Part 78
 
 EpFin
 
