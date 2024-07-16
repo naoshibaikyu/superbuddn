@@ -227,6 +227,10 @@ function getJsonData() {
 				"displayName": "Rhea",
 				"imagePathPrefix": "budd/rhea"
 			},
+			"stella": {
+				"displayName": "Stella",
+				"imagePathPrefix": "budd/stella"
+			},
 			"boxer": {
 				"displayName": "Boxer",
 				"imagePathPrefix": "budd/boxer"
