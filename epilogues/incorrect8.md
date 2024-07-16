@@ -19,8 +19,13 @@ Selena: Poor thing... walked right into the electrical fence while speaking...
 
 %
 
+Stella: This is a very powerful artifact. You’d be messing with some forces we don’t fully understand.
 
+Sticky: That sounds like a dare to me.
 
+Stella: Oh my god.
+
+%
 
 EpFin
 
