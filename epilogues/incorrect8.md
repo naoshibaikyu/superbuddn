@@ -155,7 +155,7 @@ Sticky: Ow! Make it stop!
 
 Clara: Surrender to your kindness, Sticky. It’s nice to be nice.
 
-Sticky Annoyed: Your guilt is strong. But it is no match for the power of my selfishness!
+Sticky Angry: Your guilt is strong. But it is no match for the power of my selfishness!
 
 %
 
@@ -172,6 +172,28 @@ Tikiman: Good recovery.
 Quincy: I think you mean good re-dovery.
 
 Selena: TURKEY. HOW DID WE MISS TURKEY?
+
+%
+
+Sticky: This is a safety pin.
+
+%Sticky cuts off end of the pin.
+
+Sticky Angry: It is now a danger pin.
+
+%
+
+Dino: Is it still visible? Where Rhea slapped me?
+
+Tikiman: Your face looks like a don't walk signal.
+
+Quincy: Your face looks like a photo negative for the hamburger helper box.
+
+Clara: A palm reader could tell Rhea's future by looking at your face.
+
+Nadine: The phrase 'talk to the hand cause the face ain't listening' doesn't work for you, because the hand is your face.
+
+Dino: ...A simple 'yes' would've sufficed.
 
 %End of Part 8
 
