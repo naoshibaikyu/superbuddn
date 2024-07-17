@@ -111,6 +111,40 @@ Stella: (watching Scruffy and the other super freaks' shenanigans with concern) 
  
 Rhea: I don't know. Feels normal enough for a group that's on 911's blocked callers list.
 
+%
+
+Gambi: I am an expert at identifying birds.
+
+Stella: Okay, what about those ones flying over there?
+
+Gambi: Yeah, they're all birds.
+
+%
+
+Nadine: (reading a recipe) Beat three eggs?
+
+Gambi: It means like in hand-to-hand combat.
+
+Nadine: Ohhhh-
+
+Clara: Both of you get out of this kitchen.
+
+%
+
+Gambi: Why do you not believe that ghosts are real?
+
+Nadine: Never seen one.
+
+Gambi: Okay, I mean, there’s a lot of things that you can’t see that are real.
+
+Nadine: What can’t I see?
+
+Gambi: You can’t see gravity. That’s real.
+
+Nadine: Yeah, I can drop an apple.
+
+Gambi: Fuck.
+
 %End of Part 8
 
 EpFin
