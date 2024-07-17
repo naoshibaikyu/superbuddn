@@ -423,17 +423,17 @@ Quincy: The secret is that the house is on fire.
 
 %
 
-Nadine: *fills up bottle and drinks from that*
+Nadine: (fills up bottle and drinks from that)
 
-Naoshi: *brought 4 bottles of water so this wouldn’t happen*
+Naoshi: (brought 4 bottles of water so this wouldn’t happen)
 
-Stella: *drinks straight from the tap*
+Stella: (drinks straight from the tap)
 
-Dino Shocked: *dehydrates*
+Dino Shocked: (dehydrates)
 
-Scruffy: *drinks from the puddle of water on the floor*
+Scruffy: (drinks from the puddle of water on the floor)
 
-Kranion: *licks the tap, doesn’t even need a drink*
+Kranion: (licks the tap, doesn’t even need a drink)
 
 %
 
@@ -441,7 +441,7 @@ Stella: Gambi, what did you just do!?
 
 Gambi: I took your advice. I stopped running from the problem and I tackled it head on.
 
-Stella: I meant try emotional honesty, *not murder!!*
+Stella: I meant try emotional honesty, ***not murder!!***
 
 %End of Part 78
 
