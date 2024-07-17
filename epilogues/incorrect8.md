@@ -157,6 +157,22 @@ Clara: Surrender to your kindness, Sticky. It’s nice to be nice.
 
 Sticky Annoyed: Your guilt is strong. But it is no match for the power of my selfishness!
 
+%
+
+Nadine: Which country has the most birds?
+
+Nadine Happy: Portu-geese!
+
+Tikiman: That's a language.
+
+Nadine Glad: Portu-gull?
+
+Tikiman: Good recovery.
+
+Quincy: I think you mean good re-dovery.
+
+Selena: TURKEY. HOW DID WE MISS TURKEY?
+
 %End of Part 8
 
 EpFin
