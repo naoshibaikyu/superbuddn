@@ -145,6 +145,18 @@ Nadine: Yeah, I can drop an apple.
 
 Gambi: Fuck.
 
+%
+
+Sticky: What is this!?
+
+Clara: That’s the weight of guilt. Give in to the nice side. Help those unfortunate, and make the guilt go away, my friend.
+
+Sticky: Ow! Make it stop!
+
+Clara: Surrender to your kindness, Sticky. It’s nice to be nice.
+
+Sticky Annoyed: Your guilt is strong. But it is no match for the power of my selfishness!
+
 %End of Part 8
 
 EpFin
