@@ -195,6 +195,26 @@ Nadine: The phrase 'talk to the hand cause the face ain't listening' doesn't wor
 
 Dino: ...A simple 'yes' would've sufficed.
 
+%
+
+%In a group chat
+
+Eris Shocked: A pegan just flew into my window.
+
+Naoshi: Pegan?
+
+Clara: A what?
+
+Quincy: Ah yes, my favourite bird, Pegan.
+ 
+Selena: I thought you said penguin for a second, LMAO!
+
+Quincy: Just a normal day with *flying penguins crashing into my window.*
+
+Fred: You have pigeons flying into your window? Can't relate, I have penguins flying into my window.
+
+Eris Annoyed: I literally just made a typo-
+
 %End of Part 8
 
 EpFin
