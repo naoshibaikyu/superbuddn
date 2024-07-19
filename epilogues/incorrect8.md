@@ -294,7 +294,7 @@ Kranion: And then I played some video games
 
 %
 
-Gambi Surpised: (raises eyebrows)
+Gambi Shocked: (raises eyebrows)
 
 Eris Annoyed: Put those back down.
 
