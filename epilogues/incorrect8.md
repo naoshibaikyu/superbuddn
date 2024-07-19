@@ -292,6 +292,12 @@ Sticky Angry: Are you TWELVE
 
 Kranion: And then I played some video games
 
+%
+
+Gambi Surpised: (raises eyebrows)
+
+Eris Annoyed: Put those back down.
+
 %End of Part 8
 
 EpFin
