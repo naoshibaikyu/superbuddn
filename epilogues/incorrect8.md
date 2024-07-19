@@ -215,6 +215,28 @@ Fred: You have pigeons flying into your window? Can't relate, I have penguins fl
 
 Eris Annoyed: I literally just made a typo-
 
+%
+
+Scruffy: What if people had food names and food had people names?
+
+Quincy: Hey, spaghetti, we’re having Scruffy for dinner.
+
+Eris: What is wrong with you people?
+
+Gambi: Shut up, chocolate.
+
+%
+
+Rhea: Today at 7am, Selena poured a Monster energy drink in her coffee, said "I'm going to die" and drank the whole thing.
+
+Clara: I watched Selena brew her coffee with Monster instead of water. Three cups in two hours. I think she ascended into the astral realm.
+
+Tikiman: The survivability of the human race never fails to amaze me.
+
+%
+
+
+
 %End of Part 8
 
 EpFin
