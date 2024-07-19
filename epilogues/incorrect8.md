@@ -423,6 +423,18 @@ Nadine:
 
 Eris: I am not a role model.
 
+%
+
+Stella: Are you really planning to shoot the demon?
+
+Quincy: Don't worry, it's a holy gun.
+
+Stella: How so?
+
+Quincy: It makes holes.
+
+%
+
 %End of Part 8
 
 EpFin
