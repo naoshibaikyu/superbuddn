@@ -306,6 +306,16 @@ Eris: Did I get any... leap?
 
 Rhea: What...?
 
+%
+
+Nadine: .. .----. -- / … --- .-. .-. -.-- (translation: I'M SORRY)
+
+Naoshi Confused: What's that?
+
+Nadine Glad: Remorse code.
+
+Naoshi Angry: I'm even angrier now.
+
 %End of Part 8
 
 EpFin
