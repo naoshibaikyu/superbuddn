@@ -277,6 +277,21 @@ Naoshi: What does that mean?
 
 Stella: Tikiman, take New Year's away from Naoshi.
 
+
+%
+
+Sticky: You genuinely
+
+Sticky: GENUINELY
+
+Sticky: Piss me off
+
+Kranion: I ate some cookies today and had some lemonade
+
+Sticky Angry: Are you TWELVE
+
+Kranion: And then I played some video games
+
 %End of Part 8
 
 EpFin
