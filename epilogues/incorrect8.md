@@ -334,6 +334,15 @@ Sticky: No, Dino I just simply stand here while you talk, there’s a big differ
 
 %
 
+Kranion: Hold on! I’m having one of those things... a headache with pictures.
+
+Clara: What the fuck?
+
+Rhea: He's having an idea.
+
+%
+
+
 
 %End of Part 8
 
