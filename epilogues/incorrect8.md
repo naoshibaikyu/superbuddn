@@ -393,7 +393,17 @@ Cranion: I love that song.
 
 %
 
+Selena: Have you heard of Murphy’s law? The one where if something can go wrong, it will go wrong?
 
+Clara: Yeah, I have.
+
+Selena: Have you heard of Cole’s law?
+
+Clara: Is this a joke about coleslaw?
+
+Selena: …maybe.
+
+%
 
 %End of Part 8
 
