@@ -267,7 +267,15 @@ Dino: Listen here you little shits-
 
 %
 
+Stella: Christmas is cancelled.
 
+Naoshi Annoyed: You can't cancel a holiday.
+
+Stella: Keep it up, Naoshi, and you'll lose New Year's too.
+
+Naoshi: What does that mean?
+
+Stella: Tikiman, take New Year's away from Naoshi.
 
 %End of Part 8
 
