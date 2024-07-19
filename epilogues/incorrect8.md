@@ -277,7 +277,6 @@ Naoshi: What does that mean?
 
 Stella: Tikiman, take New Year's away from Naoshi.
 
-
 %
 
 Sticky: You genuinely
@@ -297,6 +296,12 @@ Kranion: And then I played some video games
 Gambi Shocked: (raises eyebrows)
 
 Eris Annoyed: Put those back down.
+
+%
+
+Eris Annoyed: This can’t get any worse. Can it?
+
+Scruffy Happy: Sure it can - just give me a minute.
 
 %
 
