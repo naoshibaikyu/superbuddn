@@ -346,6 +346,26 @@ Naoshi Shocked: Ew. What kind of tea is this?
 
 Scruffy Happy: I boiled gatorade.
 
+%
+
+Kranion Angry: How the hell are you still alive?
+
+Scruffy: Honestly, I’m just as confused as you are.
+
+%
+
+Dino Shocked: (dies)
+
+Scruffy Happy: Timer starts now! When are they coming back? I say two months!
+
+Kranion: Bullshit. One month.
+
+Quincy: Nah, half a month.
+
+Naoshi Shocked: WHAT ARE YOU DOING? DINO JUST DIED!
+
+Tikiman: (scratching chin in thought) One week.
+
 %End of Part 8
 
 EpFin
