@@ -342,7 +342,9 @@ Rhea: He's having an idea.
 
 %
 
+Naoshi Shocked: Ew. What kind of tea is this?
 
+Scruffy Happy: I boiled gatorade.
 
 %End of Part 8
 
