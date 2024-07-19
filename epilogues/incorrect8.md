@@ -298,6 +298,14 @@ Gambi Shocked: (raises eyebrows)
 
 Eris Annoyed: Put those back down.
 
+%
+
+Rhea: Just wondering, did you get any sleep?
+
+Eris: Did I get any... leap?
+
+Rhea: What...?
+
 %End of Part 8
 
 EpFin
