@@ -217,11 +217,11 @@ Eris Annoyed: I literally just made a typo-
 
 %
 
-Scruffy: What if people had food names and food had people names?
+Scruffy Happy: What if people had food names and food had people names?
 
 Quincy: Hey, spaghetti, we’re having Scruffy for dinner.
 
-Eris: What is wrong with you people?
+Eris Annoyed: What is wrong with you people?
 
 Gambi: Shut up, chocolate.
 
