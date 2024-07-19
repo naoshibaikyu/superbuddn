@@ -235,6 +235,38 @@ Tikiman: The survivability of the human race never fails to amaze me.
 
 %
 
+Tikiman: Hey, Dino. Why did the chicken cross the road?
+
+Dino: To get to the other side?
+
+Tikiman: You were supposed to say “I dunno, why?“ 
+
+Dino: Uh... fine. I don’t know. Why did it cross the road?
+
+Tikiman: To get to the idiot’s house.
+
+Dino: ...Ok?
+
+Eris: Hey, Dino. Knock knock.
+
+Dino: No.
+
+Eris: You were supposed to say “who’s there?”
+
+Dino: Fine... let’s get this over with. Who’s there?
+
+Eris Happy: The chicken.
+
+Dino:
+
+Eris Happy:
+
+Tikiman:
+
+Dino: Listen here you little shits-
+
+%
+
 
 
 %End of Part 8
