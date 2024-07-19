@@ -316,6 +316,17 @@ Nadine Glad: Remorse code.
 
 Naoshi Angry: I'm even angrier now.
 
+%
+
+Eris Happy: I am a responsible adult! 
+
+Rhea: (raises brow)
+
+Eris Annoyed: I am an adult.
+
+%
+
+
 %End of Part 8
 
 EpFin
