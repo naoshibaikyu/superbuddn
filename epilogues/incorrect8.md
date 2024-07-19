@@ -326,6 +326,14 @@ Eris Annoyed: I am an adult.
 
 %
 
+Dino: Come to think of it… You’ve always been nice to me.
+
+Dino: I mean, you listen to all my problems-
+
+Sticky: No, Dino I just simply stand here while you talk, there’s a big difference.
+
+%
+
 
 %End of Part 8
 
