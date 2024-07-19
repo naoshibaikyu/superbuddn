@@ -381,6 +381,18 @@ Sticky: All in all, a 100% successful trip!
 
 %
 
+Naoshi: If you could guess, how many brain cells do you have?
+
+Cranion: Dorito’s cool ranch.
+
+Naoshi Confused:
+
+Naoshi Annoyed: I'm just gonna assume zero for now.
+
+Cranion: I love that song.
+
+%
+
 
 
 %End of Part 8
