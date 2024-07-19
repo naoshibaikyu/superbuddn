@@ -415,6 +415,14 @@ Dino Shocked: NO! NOOOOOOOOOO-!
 
 %
 
+Eris: I apologize for saying 'fuck' in front of Nadine.
+
+Rhea: You just said it again.
+
+Nadine:
+
+Eris: I am not a role model.
+
 %End of Part 8
 
 EpFin
