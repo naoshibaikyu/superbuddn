@@ -405,6 +405,16 @@ Selena: …maybe.
 
 %
 
+Sticky: (Holding up a picture of a seemingly young anime girl) WHO IS SHE?! IS SHE TWELVE?!
+
+Dino: No! She's a thousand years ol-
+
+Sticky Angry: (Cocks shotgun)
+
+Dino Shocked: NO! NOOOOOOOOOO-!
+
+%
+
 %End of Part 8
 
 EpFin
