@@ -371,6 +371,18 @@ Naoshi Shocked: WHAT ARE YOU DOING? DINO JUST DIED!
 
 Tikiman: (scratching chin in thought) One week.
 
+%
+
+Sticky: All in all, a 100% successful trip.
+
+Dino: But we lost Kranion.
+
+Sticky: All in all, a 100% successful trip!
+
+%
+
+
+
 %End of Part 8
 
 EpFin
