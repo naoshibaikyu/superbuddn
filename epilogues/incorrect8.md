@@ -435,6 +435,38 @@ Quincy: It makes holes.
 
 %
 
+Dino: I think I'm falling for you. 
+
+Clara: Then get up.
+
+%
+
+Kranion: Valentines Day? I'm ready. (sprays an entire can of AXE body spray on himself)
+
+%
+
+Stella: What do you all intend on majoring in? 
+
+Clara: Respecting women. 
+
+Scruffy Happy: Batman.
+
+Nadine Happy: Minecraft.
+
+Tikiman: Youtube.
+
+Cinge: Fuckin' weed.
+
+Kranion: W
+
+Rhea: Criminal justice and psychology. 
+
+Selena: I'm terrified that I’ll lock myself into an interest that I’ll no longer be passionate about in a few years like all the other areas of study I’ve pursued over my life! 
+
+Gambi: Minecraft.
+
+Quincy: Minecraft as well.
+
 %End of Part 8
 
 EpFin
