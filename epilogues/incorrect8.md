@@ -419,9 +419,11 @@ Eris: I apologize for saying 'fuck' in front of Nadine.
 
 Rhea: You just said it again.
 
-Nadine:
+Nadine Confused: 
 
-Eris: I am not a role model.
+Eris Annoyed: I am not a role model.
+
+Nadine Angry: I'm *23*, what is wrong with you two??
 
 %
 
@@ -435,7 +437,7 @@ Quincy: It makes holes.
 
 %
 
-Dino: I think I'm falling for you. 
+Dino: I think I'm falling for you.
 
 Clara: Then get up.
 
@@ -445,9 +447,37 @@ Kranion: Valentines Day? I'm ready. (sprays an entire can of AXE body spray on h
 
 %
 
-Stella: What do you all intend on majoring in? 
+Clara: What state do you live in?
 
-Clara: Respecting women. 
+Selena: Constant anxiety.
+
+Eris: Denial.
+
+Sticky: Perfection.
+
+Gambi: NEW YORK!
+
+%
+
+Selena: (spraying a melted cutting board with a tiny water gun) We gotta cool this bitch down. Cool it down. 
+
+Kranion: I actually just put the cutting board in the oven... 
+
+Rhea: (visibly confused) Okay, so he decided to put the cutting board in the oven? 
+
+Selena: (spraying Kranion) You FUCKING DUMBASS! 
+
+Kranion Angry: Dude, I forgot- 
+
+Selena: OH MY FUCKING GOD! We're trying to make Chicken Alfredo right now, and you fucking MELT the cutting board in the oven at ***400*** DEGREES FAHRENHEIT!? 
+
+Nadine Sad: (watching in complete confusion while trying to process this whole situation)
+
+%
+
+Stella: What do you all intend on majoring in?
+
+Selena: Respecting women.
 
 Scruffy Happy: Batman.
 
@@ -459,9 +489,9 @@ Cinge: Fuckin' weed.
 
 Kranion: W
 
-Rhea: Criminal justice and psychology. 
+Rhea: Criminal justice and psychology.
 
-Selena: I'm terrified that I’ll lock myself into an interest that I’ll no longer be passionate about in a few years like all the other areas of study I’ve pursued over my life! 
+Clara: I'm terrified that I’ll lock myself into an interest that I’ll no longer be passionate about in a few years like all the other areas of study I’ve pursued over my life!
 
 Gambi: Minecraft.
 
