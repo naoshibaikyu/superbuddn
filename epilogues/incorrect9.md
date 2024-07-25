@@ -55,6 +55,26 @@ Dino:
 
 Dino: I hate all of you.
 
+%
+
+Selena: Hey, Naoshi, how are you doing?
+
+Naoshi: I have hit my head three times, I’ve lost my favourite shirt and forgot my bag at work.
+
+Selena: Oh, ok! That’s pretty good!
+
+Naoshi: Yup!
+
+Selena: I lost my phone and my cat died.
+
+Naoshi: Hey, not bad compared to last week.
+
+Selena: I know right!
+
+Quincy: Are they okay?
+
+Gambi: I don’t think they are.
+
 
 %End of Part 9
 
