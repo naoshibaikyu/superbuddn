@@ -27,6 +27,20 @@ Stella: No, the- wait, what fire?
 
 Selena: Oh forget about it, this sounds more interesting.
 
+%
+
+Clara Happy: You know, Eris gives Rhea flowers everyday, I wish you'd do that too. 
+
+Nadine Shocked: Okay.
+
+%Later...
+
+Nadine: (gives Rhea flowers)
+
+Rhea: ???
+
+Nadine Confused: I don't know, I'm confused as well.
+
 
 %End of Part 9
 
