@@ -41,6 +41,20 @@ Rhea: ???
 
 Nadine Confused: I don't know, I'm confused as well.
 
+%
+
+Dino: Could you guys at least try to see this from my perspective?
+
+Quincy: (crouches down)
+
+Scruffy: (kneels down)
+
+Tikiman: (sits on the floor)
+
+Dino:
+
+Dino: I hate all of you.
+
 
 %End of Part 9
 
