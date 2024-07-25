@@ -75,6 +75,16 @@ Quincy: Are they okay?
 
 Gambi: I don’t think they are.
 
+%
+
+Dino: LOWERCASE LETTERS ARE FOR THE LOWER CLASS!
+
+Selena: And here we have a capitalist.
+
+Eris: Did you just-
+
+Rhea: Let us all take a moment to appreciate that all of human history, human language, and the universe itself aligned to make this joke possible.
+
 
 %End of Part 9
 
