@@ -17,6 +17,17 @@ Sticky: >:)
 
 Clara: Oh no...
 
+%
+
+Stella: Selena, I think we have a problem.
+
+Selena: What, the fire?
+
+Stella: No, the- wait, what fire?
+
+Selena: Oh forget about it, this sounds more interesting.
+
+
 %End of Part 9
 
 EpFin
