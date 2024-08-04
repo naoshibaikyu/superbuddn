@@ -56,7 +56,7 @@ Selena: Come on! Enough with the chatter! Let's show 'em already!
 
 Nadine: Okay! First up...!
 
-(Art by I_justdrawz)
+%(Art by I_justdrawz)
 
 Nadine Happy: Oh! I look really cool!
 
@@ -66,7 +66,7 @@ Arrietty: That was my very first attack of the season too! They're really a grea
 
 Nadine Glad: Yeah! Onto the next one!
 
-(Art by RobinE)
+%(Art by RobinE)
 
 Nadine Shocked: Woah! I look really cute here...
 
@@ -74,7 +74,7 @@ Clara: The pose and the cutesy face really sells it here.
 
 Selena: The smoke coming out of the arm cannon really adds a bit of cool here as well!
 
-(Art by rabbitlegs)
+%(Art by rabbitlegs)
 
 Arrietty: **SUPER FIGHTING ROBOT**
 
@@ -84,7 +84,7 @@ Clara: **FIGHTING TO SAVE THE WORLD!**
 
 Nadine Happy: Oh I get it! It's basically a what-if we had our own Ruby-Spears equilivent of that Mega Man show. I'd love my own show... That'd be the dream!
 
-(Art by Gamedawg)
+%(Art by Gamedawg)
 
 Clara: Oh! Nadine looks like she's ready for action!
 
@@ -94,7 +94,7 @@ Nadine: Pew pew pew!
 
 Arrietty: This one was a birthday gift, so it's kind of special to me.
 
-(Art by SuperFreaksDev)
+%(Art by SuperFreaksDev)
 
 Nadine Shocked: Ohh...
 
@@ -112,7 +112,7 @@ Arrietty: Now onto the next character... Selena!
 
 Selena: Well... it seems I got **2** pieces of art!
 
-(art by Rabbitlegs)
+%(Art by Rabbitlegs)
 
 Selena: Oh, I remember this... That session of Mario Party was fun. Scruffy really figured out the meta there, so he naturally won as Luigi... by doing nothing.
 
@@ -120,7 +120,7 @@ Nadine: Crimson seems really into it, concentrating and all!
 
 Clara: Oh hey, it's Eris! I should talk to her again sometime soon...
 
-(art by EngineerKappa)
+%(Art by EngineerKappa)
 
 Arrietty: ...
 
@@ -140,7 +140,7 @@ Arrietty: Easy for you to say, Selena.
 
 Clara: Hm, well now it's down to me... I only have **1** art this year. Huh, kind of surprised. I kinda expected to be a little popular. But, it doesn't mean I didn't get an incredible piece of art!
 
-(art by rabbitlegs)
+%(Art by rabbitlegs)
 
 Nadine Shocked: You're in a fighting game?!
 
@@ -152,7 +152,7 @@ Nadine Happy: Clara is so coooool. She would be my main any day!
 
 Arrietty: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one shown now is the 2nd art I've received!
 
-(art by VAdaPEGA)
+%(Art by VAdaPEGA)
 
 Clara: Oh! This was done in XP MSPaint according to the commentary!
 
@@ -164,7 +164,7 @@ Nadine Glad: It's Arrietty the Variety of the Arrietty series...
 
 Arrietty: Don't push it, Nadine.
 
-(art by LexiesDoodles)
+%(Art by LexiesDoodles)
 
 Clara: The flat style is really neat!
 
@@ -188,7 +188,7 @@ Clara: Huh, weird.
 
 Arrietty: In either case... He has **3** art done this year. The first one was already shown, so...
 
-(art by TryanoDoom30)
+%(Art by TryanoDoom30)
 
 Clara: Oh! Very spooky! I like the ominious atmosphere.
 
@@ -196,7 +196,7 @@ Selena: The orange sky makes it look kind of cool. Like it's the twilight of Hal
 
 Nadine Happy: I'm feeling weirdly nostalgic for a witch costume now.
 
-(art by NEETori_Kawashiro)
+%(Art by NEETori_Kawashiro)
 
 Selena: Oh that graveyard background is REALLY cool.
 
