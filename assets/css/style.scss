@@ -228,7 +228,7 @@ body  {
 
 
 
-@media only screen and (max-width: 767px)
+@media only screen and (max-width: 960px)
 {
     /* Hamburger Menu */
     /*#dropbutton:hover*/ #navmenu, .menuitem, .drop
@@ -281,7 +281,7 @@ body  {
 }
 
 
-@media only screen and (min-width: 960px)
+@media only screen and (min-width: 980px)
 {
     /* Desktop Mode */
     body
@@ -320,7 +320,7 @@ body  {
 .dialogue 
 {  
   margin: auto;
-  max-width: 100%;
+  max-width: 1280px;
 	
 }
 
