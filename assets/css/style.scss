@@ -281,7 +281,7 @@ body  {
 }
 
 
-@media only screen and (min-width: 1500px)
+@media only screen and (min-width: 1200px)
 {
     /* Desktop Mode */
     body
@@ -289,7 +289,7 @@ body  {
         background: #000000;
         background-image: url("../../assets/images/misc/sShip.png"), url("../../assets/images/misc/moon.png"), url("../../assets/images/misc/stars.png");
         background-repeat: no-repeat, no-repeat, repeat;
-        background-position: bottom right, 64px 64px, left top;
+        background-position: 98% 98%, 64px 64px, left top;
         background-attachment: fixed, fixed, scroll;
         background-size: auto, auto, auto;
 
