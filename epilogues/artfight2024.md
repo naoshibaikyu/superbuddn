@@ -194,7 +194,7 @@ Arrietty: In either case... He has **3** art done this year. The first one was a
 
 Clara: Oh! Very spooky! I like the ominious atmosphere.
 
-Selena: The orange sky makes it look kind of cool. Like it's the twilight of Halloween. Night is approaching!
+Selena: The orange sky makes it look kind of cool. The twilight of Halloween is approaching!
 
 Nadine Happy: I'm feeling weirdly nostalgic for a witch costume now.
 
