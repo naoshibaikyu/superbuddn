@@ -56,7 +56,7 @@ Selena: Come on! Enough with the chatter! Let's show 'em already!
 
 Nadine: Okay! First up...!
 
-%![The Prototype by I_justdrawz](https://imgur.com/yeHHBkq)
+% ![The Prototype by I_justdrawz](https://i.imgur.com/yeHHBkq.png)
 
 %(Art by I_justdrawz)
 
