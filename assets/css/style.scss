@@ -63,7 +63,7 @@ src: url("../fonts/vipnagorgialla_rg.otf");
 
 
 body  {
-  background-image: url("https://7mercs.pro/images/starrybg.PNG");
+  background-image: url("../../assets/images/misc/sShip.png");
   color: #E8E8F8;
 	}
 
@@ -287,7 +287,7 @@ body  {
     body
     {
         background: #030303;
-        background-image: url("../../assets/images/misc/sShip.png"), url("https://7mercs.pro/images/starrybg.PNG");
+        background-image: url("../../assets/images/misc/sShip.png"), url("../../assets/images/misc/stars.png");
         background-repeat: no-repeat, repeat;
         background-position: 100% 95%, left top;
         background-attachment: fixed, scroll;
