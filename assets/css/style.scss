@@ -287,11 +287,11 @@ body  {
     body
     {
         background: #030303;
-        background-image: url("../../assets/images/misc/sShip.png"), url("../../assets/images/misc/stars.png"), url("../../assets/images/misc/moon.png");
-        background-repeat: no-repeat, repeat, no-repeat;
-        background-position: 100% 95%, left top, 10% 10%;
-        background-attachment: fixed, scroll, fixed;
-        background-size: 8%, auto, 7%;
+        background-image: url("../../assets/images/misc/sShip.png"), url("../../assets/images/misc/moon.png"), url("../../assets/images/misc/stars.png");
+        background-repeat: no-repeat, no-repeat, repeat;
+        background-position: 100% 95%, 64px 64px, left top;
+        background-attachment: fixed, fixed, scroll;
+        background-size: 8%, 7%, auto;
 
 		image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
 		image-rendering: -moz-crisp-edges;          /* Firefox                        */
