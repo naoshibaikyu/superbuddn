@@ -68,7 +68,10 @@ Arrietty: That was my very first attack of the season too! They're really a grea
 
 Nadine Glad: Yeah! Onto the next one!
 
-%(Art by RobinE)
+
+% ![](https://i.imgur.com/HPb7IAt.png)
+
+%"Nadine" - RobinE
 
 Nadine Shocked: Woah! I look really cute here...
 
@@ -76,7 +79,9 @@ Clara: The pose and the cutesy face really sells it here.
 
 Selena: The smoke coming out of the arm cannon really adds a bit of cool here as well!
 
-%(Art by rabbitlegs)
+% ![](https://i.imgur.com/rZC5hpj.png) 
+
+%"Coming soon from Emerald-Lance Productions..." - rabbitlegs
 
 Arrietty: **SUPER FIGHTING ROBOT**
 
@@ -86,17 +91,37 @@ Clara: **FIGHTING TO SAVE THE WORLD!**
 
 Nadine Happy: Oh I get it! It's basically a what-if we had our own Ruby-Spears equilivent of that Mega Man show. I'd love my own show... That'd be the dream!
 
-%(Art by Gamedawg)
+Clara: I hope I get to fight along side my Nadine!
+
+Selena: Would this make me Dr. Light?
+
+Nadine: Who would be the Proto Man I wonder...?
+
+Clara: Or Dr. Wily...
+
+Arrietty: ...Yeah, about those.
+
+Nadine Happy: Anyways... Next!
+
+% ![](https://i.imgur.com/OexTjVW.png) 
+
+%"Nadine" - Gamedawg
 
 Clara: Oh! Nadine looks like she's ready for action!
 
 Selena: I bet she's already blasting away some off screen evil robots!
 
-Nadine: Pew pew pew!
+Nadine Glad: Pew pew pew!
 
 Arrietty: This one was a birthday gift, so it's kind of special to me.
 
-%(Art by SuperFreaksDev)
+Nadine Happy: Hehe, I look really cute there. Kinda scrimblo-y. Maybe I should star in a platformer...
+
+Arrietty: Yeah, if only there was an entire game series dedicated to that.
+
+% ![](https://i.imgur.com/9JAjceK.png) 
+
+%"Nadine and Jack O' Diamonds" - SuperFreaksDev
 
 Nadine Shocked: Ohh...
 
@@ -104,29 +129,47 @@ Clara: Wait! J-Jack O'Diamonds?!
 
 Selena: Was this the "other character" you were speaking of?
 
-Arrietty: I really think Nadine having that Astro Boy look really suits SuperFreaksDev's art style. It blends pretty well along with his own characters from the Super Freaks series. Same goes to Jack, he looks radically more different considering he never had pupils and his left eye was always obscured, even with the hat off. It's a very interesting intreperation of him.
+Arrietty: I really think Nadine having that Astro Boy look really suits SuperFreaksDev's very cartoony art style. It blends pretty well along with his own characters from the Super Freaks series.
 
-Nadine Happy: Yeah! Also, man I look like I would really fit there!
+Nadine Happy: Yeah! I look like I would really fit there!
 
-Selena: Don't avoid the question!
+Arrietty: Jack O'Diamonds went from a somewhat spooky guy to a cartoonish spooky villain. Kind of like what you'd probably see in a hypothetical Super Freaks cartoon. Pretty expressive!
+
+Selena: Hey! Don't avoid my question!
 
 Arrietty: Now onto the next character... Selena!
 
+Selena: ...
+
 Selena: Well... it seems I got **2** pieces of art!
 
-%(Art by Rabbitlegs)
+% ![](https://i.imgur.com/3VHYwl5.png) 
 
-Selena: Oh, I remember this... That session of Mario Party was fun. Scruffy really figured out the meta there, so he naturally won as Luigi... by doing nothing.
+%"Gaming Webcomic Moment" - rabbitlegs
 
-Nadine: Crimson seems really into it, concentrating and all! 
+Nadine Shocked: You didn't tell me you've starred in a gamer web comic, Selena!
+
+Selena: Oh, I remember this. Scruffy figured out the Mario Party meta immediately there, so he naturally won as Luigi... by doing nothing.
+
+Nadine: Crimson seemed really into it, concentrating and all! But he ended up in last place, didn't he?
+
+Arrietty: Mario Party is certainly a game of luck... And also a good way to end friendships!
+
+Selena: Crimson didn't want to talk to us for a week after that.
+
+Nadine Glad: Sounds like a real webcomic moment. Oh well, his *loss*.
+
+Selena: You stop that.
 
 Clara: Oh hey, it's Eris! I should talk to her again sometime soon...
 
-Selena: I really like that green hoodie and plaid skirt I'm wearing in that pic... Wonder if I should make it my casual wear?
+Selena: By the way, that green hoodie and plaided skirt was really nice... Wonder if I should make it my default casual wear?
 
-%(Art by EngineerKappa)
+% ![](https://i.imgur.com/Ri74EWq.png) 
 
-Arrietty: ...
+%"Arrietty and Selena" - EngineerKappa)
+
+Arrietty: (embarassed)
 
 Selena: Oh!! I remember this! I felt so *powerful* wearing that witch outfit. I never knew I could feel so... confident and cool wearing that!
 
@@ -136,15 +179,23 @@ Selena: Or rather... Oh ho ho ho!
 
 Clara: Don't let it get too into your head now, little sis!
 
-Arrietty: This art was a birthday gift, so it was really nice! Even if... it felt awkward wearing someone else's clothes...
+Arrietty: This one was also a birthday gift, so it was really nice! Even if... it felt awkward wearing someone else's clothes...
 
 Selena: Don't be a downer! That outfit swap was empowering!
 
-Arrietty: Easy for you to say, Selena.
+Arrietty: Easy for *you* to say, Selena.
 
-Clara: Hm, well now it's down to me... I only have **1** art this year. Huh, kind of surprised. I kinda expected to be a little popular. But, it doesn't mean I didn't get an incredible piece of art!
+Selena: You have a problem with MY outfit?
 
-%(Art by rabbitlegs)
+Arrietty: No, it's not that! I just had difficulty wearing those headphones on my ears...
+
+Nadine: Well, all of that aside... Who's next?
+
+Clara: Seems to be my turn...! I only have **1** art this year? Huh, kind of surprised. I kinda expected to be a little popular. But, it doesn't mean I didn't get an incredible piece of art in the end!
+
+% ![](https://i.imgur.com/0bu8WhH.jpeg) 
+
+%"SEAFOAM VS. STARDUST - New Age of Artists" - rabbitlegs)
 
 Nadine Shocked: You're in a fighting game?!
 
@@ -156,7 +207,9 @@ Nadine Happy: Clara is so coooool. She would be my main any day!
 
 Arrietty: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one to be shown right now is the 2nd art I've received!
 
-%(Art by VAdaPEGA)
+% ![](https://i.imgur.com/vquRJi4.png) 
+
+%"Varietty" - VAdaPEGA
 
 Clara: Oh! This was done in XP MSPaint according to the commentary!
 
@@ -168,7 +221,9 @@ Nadine Glad: It's Arrietty the Variety of the Arrietty series...
 
 Arrietty: Don't push it, Nadine.
 
-%(Art by LexiesDoodles)
+% ![](https://i.imgur.com/IeTnFYD.png) 
+
+%"Arrietty Lunaris" - LexiesDoodles
 
 Clara: The flat style is really neat!
 
@@ -178,7 +233,7 @@ Nadine: You look like you're about to do some pretty magic!
 
 Selena: Alright... so what is this about the "other character".
 
-Arrietty: It may shock you, but it's Jack o'Diamonds.
+Arrietty: It may shock you, but it's Jack O'Diamonds.
 
 Selena: ...Yeah, we can tell because he was in the last Nadine artwork!
 
@@ -192,7 +247,9 @@ Clara: Huh, weird.
 
 Arrietty: In either case... He has **3** art done this year. The first one was already shown, so...
 
-%(Art by TryanoDoom30)
+% ![](https://i.imgur.com/2a4b0Lg.png) 
+
+%"Halloween time" - TryanoDoom30
 
 Clara: Oh! Very spooky! I like the ominious atmosphere.
 
@@ -200,7 +257,9 @@ Selena: The orange sky makes it look kind of cool. The twilight of Halloween is 
 
 Nadine Happy: I'm feeling weirdly nostalgic for a witch costume now.
 
-%(Art by NEETori_Kawashiro)
+% ![](https://i.imgur.com/XFNnK6w.png) 
+
+%"Master of Pumpkins, I'm Pulling Your Strings" - NEETori_Kawashiro
 
 Selena: Oh that graveyard background is REALLY cool.
 
@@ -232,9 +291,11 @@ Clara: Sure! I'm down!
 
 Nadine Glad: Watch out, this time I will win!
 
+Arrietty: Well, what's a better way to celebrate some downtime after a month of art? Let's go!
+
 %(As everyone leaves, a figure steps into the scene)
 
-Naoshi:
+Naoshi Confused:
 
 Naoshi: Hmm...
 
