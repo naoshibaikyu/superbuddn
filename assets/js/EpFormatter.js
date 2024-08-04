@@ -253,6 +253,11 @@ function getJsonData() {
 				"displayName": "Spirit",
 				"imagePathPrefix": "others/spirit"
 			},
+			
+			"arrietty": {
+				"displayName": "Arrietty",
+				"imagePathPrefix": "others/arrietty"
+			},
 
 			
 			
