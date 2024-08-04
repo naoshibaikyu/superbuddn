@@ -14,7 +14,7 @@ Clara: That sounds... violent but non-violent?
 
 Selena: Oh! I bet you fight people to the death with art creations coming to life!
 
-Arrietty Annoyed: Girls... really?
+Arrietty Annoyed: Really, Selena?
 
 Arrietty: For those who don't know, Art Fight is an annual art online event taking place throughout of the month of July. It's basically an art trade where artists from around the internet joins in and draw each other's original characters. They also join in teams, themed around whatever it is of the year, and earn points attacking the opposing team. This year's teams were Seaform and Stardust.
 
@@ -24,15 +24,15 @@ Arrietty: Nah... I've joined Stardust this year!
 
 Selena: Purple over green? That's surprising since green is your favorite color.
 
-Arrietty: Well... Lina (rabbitlegs) joined Seafoam so I wanted to join the counter team so I can get a lot of points attacking her! ...She attacked me several times though.
+Arrietty: Well... Lina (rabbitlegs) joined Seafoam so I wanted to join the counter team so we can attack each other for points!
 
-Selena: Huh... How many points did you end up getting for your team this year?
+Selena: Huh... How many points did you end up getting for your team?
 
-Arrietty Happy: Let me see... according to my statistics... **1588.25** points! But this isn't about my art, really. This is actually about art of us from everyone else!
+Arrietty Happy: Let me see... according to my statistics... **1588.25** points! But this isn't about my art, really. This is actually about our fanart!
 
-Nadine Shocked: Really?! People drawn us?
+Nadine Shocked: Fanart?! People drew us?!
 
-Clara: I'm flattered...!
+Clara: I'm flattered...!!
 
 Selena: I hope I'm popular!
 
@@ -42,11 +42,11 @@ Nadine Confused: Another character? Who is it?
 
 Arrietty: I'll get to that soon! First... let's show fanart of our favorite robot girl, Nadine!
 
-Nadine: Oh! It seems I've gotten **5** artworks drawn of me this year!? Woah... I'm popular...
+Nadine: Oh! It seems I've got **5** artworks drawn of me this year!? Woah... I'm popular...
 
 Arrietty Happy: Yeah! You've got drawn more than last year, which was 3!
 
-Clara: This isn't your first Art Fight?
+Clara: This wasn't your first Art Fight?
 
 Arrietty: Well.. I barely participated last year. My character roster only contained two characters which were just me and Nadine. I was mostly just trying to get a little feel of it so I can commit more to it next year. I was a little too busy at that time anyways.
 
@@ -58,7 +58,7 @@ Selena: Come on! Enough with the chatter! Let's show 'em already!
 
 Nadine: Okay! First up...!
 
-% ![](https://i.imgur.com/yeHHBkq.png)
+% [![](https://i.imgur.com/yeHHBkq.png)](www.something.com)
 
 %"The Prototype" - I_justdrawz
 
