@@ -286,12 +286,12 @@ body  {
     /* Desktop Mode */
     body
     {
-        background: #030303;
+        background: #000000;
         background-image: url("../../assets/images/misc/sShip.png"), url("../../assets/images/misc/moon.png"), url("../../assets/images/misc/stars.png");
         background-repeat: no-repeat, no-repeat, repeat;
         background-position: 98% 98%, 64px 64px, left top;
         background-attachment: fixed, fixed, scroll;
-        background-size: auto, auto, auto;
+        background-size: 100%, auto, auto;
 
 		image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
 		image-rendering: -moz-crisp-edges;          /* Firefox                        */
