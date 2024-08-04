@@ -184,7 +184,7 @@ Nadine: Woah, really? He's in the roster this year??
 
 Selena: 
 
-Arrietty: He would have appeared as our guest, but unfortunately one of his minions informed me he's too busy cleaning up and repairing his world after a gigantic skeleton warlord defeated him in arm wrestling.
+Arrietty: He would have appeared as our guest today, but unfortunately he's not able to. One of his minions has informed me he's too busy cleaning up and repairing his world after a gigantic skeleton warlord defeated him in arm wrestling. So I'll be commenting for him.
 
 Clara: Huh, weird.
 
