@@ -230,13 +230,13 @@ Clara: Sure! I'm down!
 
 Nadine Glad: Watch out, this time I will win!
 
-(As everyone leaves, a figure steps into the scene)
+%(As everyone leaves, a figure steps into the scene)
 
 Naoshi:
 
 Naoshi: Hmm...
 
-%End
+%See you next year!
 
 EpFin
 
