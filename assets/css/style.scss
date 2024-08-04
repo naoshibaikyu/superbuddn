@@ -53,7 +53,8 @@ src: url("../fonts/vipnagorgialla_rg.otf");
 #main
 {
     width: 100%;
-    min-width: 240px;
+    max-width: 1280px;
+    min-width: 300px;
     margin-left: auto;
     margin-right: auto;
     background: #00000A;
