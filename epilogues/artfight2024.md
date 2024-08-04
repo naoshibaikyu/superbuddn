@@ -14,7 +14,7 @@ Selena: Oh! I bet you fight people to the death with art creations coming to lif
 
 Arrietty: Girls... really?
 
-Arrietty: For those who don't know, Art Fight, since 2015, is an annual art online event taking place throughout of the month of July. It's basically an art trade where artists from around the internet joins in and draw each other's original characters. They also join in teams, themed around whatever it is of the year, and earn points attacking the opposing team. This year's teams were Seaform and Stardust.
+Arrietty: For those who don't know, Art Fight is an annual art online event taking place throughout of the month of July. It's basically an art trade where artists from around the internet joins in and draw each other's original characters. They also join in teams, themed around whatever it is of the year, and earn points attacking the opposing team. This year's teams were Seaform and Stardust.
 
 Clara: Did you join Seafoam?
 
