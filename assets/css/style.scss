@@ -291,7 +291,7 @@ body  {
         background-repeat: no-repeat, no-repeat, repeat;
         background-position: 100% 95%, 64px 64px, left top;
         background-attachment: fixed, fixed, scroll;
-        background-size: 8%, auto, auto;
+        background-size: auto, auto, auto;
 
 		image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
 		image-rendering: -moz-crisp-edges;          /* Firefox                        */
