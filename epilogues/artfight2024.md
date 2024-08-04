@@ -50,7 +50,7 @@ Arrietty: Well.. I barely participated last year. My character roster only conta
 
 Clara: Plus this was shortly before we were around.
 
-Arrietty: Granted, you had some design concept drawn but we weren't ready yet.
+Arrietty: Granted, at least you had some design concept drawn but we weren't ready yet.
 
 Selena: Come on! Enough with the chatter! Let's show 'em already!
 
