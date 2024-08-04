@@ -58,7 +58,7 @@ Selena: Come on! Enough with the chatter! Let's show 'em already!
 
 Nadine: Okay! First up...!
 
-% [![](https://i.imgur.com/yeHHBkq.png)](www.something.com)
+% [![](https://i.imgur.com/yeHHBkq.png)](https://i.imgur.com/yeHHBkq.png)
 
 %"The Prototype" - I_justdrawz
 
@@ -71,7 +71,7 @@ Arrietty Happy: That was my very first attack of the season too! They're really 
 Nadine Glad: Yeah! Onto the next one!
 
 
-% ![](https://i.imgur.com/HPb7IAt.png)
+% [![](https://i.imgur.com/HPb7IAt.png)](https://i.imgur.com/HPb7IAt.png)
 
 %"Nadine" - RobinE
 
@@ -81,7 +81,7 @@ Clara: The pose and the cutesy face really sells it here.
 
 Selena: The smoke coming out of the arm cannon really adds a bit of cool here as well!
 
-% ![](https://i.imgur.com/rZC5hpj.png) 
+% [![](https://i.imgur.com/rZC5hpj.png)](https://i.imgur.com/rZC5hpj.png)
 
 %"Coming soon from Emerald-Lance Productions..." - rabbitlegs
 
@@ -105,7 +105,7 @@ Arrietty Annoyed: ...Yeah, about those.
 
 Nadine Happy: Anyways... Next!
 
-% ![](https://i.imgur.com/OexTjVW.png) 
+% [![](https://i.imgur.com/OexTjVW.png)](https://i.imgur.com/OexTjVW.png)
 
 %"Nadine" - Gamedawg
 
@@ -121,7 +121,7 @@ Nadine Happy: Hehe, I look really cute there. Kinda scrimblo-y. Maybe I should s
 
 Arrietty Happy: Yeah, if only there was an entire game series dedicated to that.
 
-% ![](https://i.imgur.com/9JAjceK.png) 
+% [![](https://i.imgur.com/9JAjceK.png)](https://i.imgur.com/9JAjceK.png)
 
 %"Nadine and Jack O' Diamonds" - SuperFreaksDev
 
@@ -145,7 +145,7 @@ Selena: ...
 
 Selena: Well... it seems I got **2** pieces of art!
 
-% ![](https://i.imgur.com/3VHYwl5.png) 
+% [![](https://i.imgur.com/3VHYwl5.png)](https://i.imgur.com/3VHYwl5.png)
 
 %"Gaming Webcomic Moment" - rabbitlegs
 
@@ -167,7 +167,7 @@ Clara: Oh hey, it's Eris! I should talk to her again sometime soon...
 
 Selena: By the way, that green hoodie and plaided skirt was really nice... Wonder if I should make it my default casual wear?
 
-% ![](https://i.imgur.com/Ri74EWq.png) 
+% [![](https://i.imgur.com/Ri74EWq.png)](https://i.imgur.com/Ri74EWq.png)
 
 %"Arrietty and Selena" - EngineerKappa)
 
@@ -195,7 +195,7 @@ Nadine: Well, all of that aside... Who's next?
 
 Clara: Seems to be my turn...! I only have **1** art this year? Huh, kind of surprised. I kinda expected to be a little popular. But, it doesn't mean I didn't get an incredible piece of art in the end!
 
-% ![](https://i.imgur.com/0bu8WhH.jpeg) 
+% [![](https://i.imgur.com/0bu8WhH.jpeg)](https://i.imgur.com/0bu8WhH.jpeg)
 
 %"SEAFOAM VS. STARDUST - New Age of Artists" - rabbitlegs)
 
@@ -209,7 +209,7 @@ Nadine Happy: Clara is so coooool. She would be my main any day!
 
 Arrietty Happy: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one to be shown right now is the 2nd art I've received!
 
-% ![](https://i.imgur.com/vquRJi4.png) 
+% [![](https://i.imgur.com/vquRJi4.png)](https://i.imgur.com/vquRJi4.png)
 
 %"Varietty" - VAdaPEGA
 
@@ -223,7 +223,7 @@ Nadine Glad: It's Arrietty the Variety of the Arrietty series...
 
 Arrietty Angry: Don't push it, Nadine.
 
-% ![](https://i.imgur.com/IeTnFYD.png) 
+% [![](https://i.imgur.com/IeTnFYD.png)](https://i.imgur.com/IeTnFYD.png)
 
 %"Arrietty Lunaris" - LexiesDoodles
 
@@ -249,7 +249,7 @@ Clara: Huh, weird.
 
 Arrietty: In either case... He has **3** art done this year. The first one was already shown, so...
 
-% ![](https://i.imgur.com/2a4b0Lg.png) 
+% [![](https://i.imgur.com/2a4b0Lg.png)](https://i.imgur.com/2a4b0Lg.png)
 
 %"Halloween time" - TryanoDoom30
 
@@ -259,7 +259,7 @@ Selena: The orange sky makes it look kind of cool. The twilight of Halloween is 
 
 Nadine Happy: I'm feeling weirdly nostalgic for a witch costume now.
 
-% ![](https://i.imgur.com/XFNnK6w.png) 
+% [![](https://i.imgur.com/XFNnK6w.png)](https://i.imgur.com/XFNnK6w.png)
 
 %"Master of Pumpkins, I'm Pulling Your Strings" - NEETori_Kawashiro
 
