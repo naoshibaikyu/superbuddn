@@ -4,11 +4,11 @@ EpStart
 
 @TITLE: Art Fight 2024 Results
 
-Arrietty: Hello all and welcome to the first annual results of Arrietty's Art Fight journey!
+Arrietty: Hello all and welcome to the first annual results of Arrietty's Art Fight journey! (Although not actually my first year there...)
 
 Nadine Confused: Huh? Art Fight? What's that?
 
-Clara: That sounds... violent and not violent?
+Clara: That sounds... violent but non-violent?
 
 Selena: Oh! I bet you fight people to the death with art creations coming to life!
 
@@ -26,7 +26,7 @@ Arrietty: Well... Lina (rabbitlegs) joined Seafoam so I wanted to join the count
 
 Selena: Huh... How many points did you end up getting for your team this year?
 
-Arrietty: Let me see... according to my statistics... 1588.25 points! But this isn't about my art, really. This is actually about art of... you all!
+Arrietty: Let me see... according to my statistics... **1588.25** points! But this isn't about my art, really. This is actually about art of us from everyone else!
 
 Nadine Shocked: Really?! People drawn us?
 
