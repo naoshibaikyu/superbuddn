@@ -212,9 +212,9 @@ Clara: And he wants to play cards with us... What happens if we lose?
 
 Nadine: Well.. that's all of the art it seems!
 
-Arrietty: Huh, I just realized something... We have two artists named after Nitori Kawashiro from the Touhou series.
+Arrietty: Huh, I just realized something... We have two artists named after Nitori Kawashiro from the Touhou series. The other being EngineerKappa.
 
-Selena: She's for obvious reasons my favorite character! I'm glad she's popular enough for that to occur!
+Selena: She's, for obvious reasons, my favorite character! I'm glad she's popular enough for that to occur!
 
 Arrietty: Anyways, this was a pretty strong year. The last 5 days were hectic but I made sure I've contributed enough that I got plenty of art responses back. I plan to double down on my commitment next year as I was busy for various reasons this July.
 
