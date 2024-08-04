@@ -146,7 +146,7 @@ Clara: Hm, well now it's down to me... I only have **1** art this year. Huh, kin
 
 Nadine Shocked: You're in a fighting game?!
 
-Selena: Woah, what is your moveset!
+Selena: Woah, what is your moveset??
 
 Clara: Hehe, it's a secret! Unlock me and find out!
 
