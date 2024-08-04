@@ -152,15 +152,15 @@ Clara: Hehe, it's a secret! Unlock me and find out!
 
 Nadine Happy: Clara is so coooool. She would be my main any day!
 
-Arrietty: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one shown now is the 2nd art I've received!
+Arrietty: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one to be shown right now is the 2nd art I've received!
 
 %(Art by VAdaPEGA)
 
 Clara: Oh! This was done in XP MSPaint according to the commentary!
 
-Selena: This was done in an hour and 25 minutes too!
+Selena: This was done in an hour and 25 minutes too! Impressive!
 
-Arrietty: And on top of that, the art looks really fantastic!
+Arrietty: And on top of that, the art looks really fantastic! I'm really happy!
 
 Nadine Glad: It's Arrietty the Variety of the Arrietty series...
 
