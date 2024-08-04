@@ -120,6 +120,8 @@ Nadine: Crimson seems really into it, concentrating and all!
 
 Clara: Oh hey, it's Eris! I should talk to her again sometime soon...
 
+Selena: I really like that green hoodie and plaid skirt I'm wearing in that pic... Wonder if I should make it my casual wear?
+
 %(Art by EngineerKappa)
 
 Arrietty: ...
