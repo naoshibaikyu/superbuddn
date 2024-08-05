@@ -207,6 +207,12 @@ Clara: Hehe, it's a secret! Unlock me and find out!
 
 Nadine Happy: Clara is so coooool. She would be my main any day!
 
+Selena: Wait! I-is that... Caroline?? You've got to crossover with her??? I'm so jealous, Below Heaven's my favorite game...
+
+Nadine Shocked: Sticky is there...! Clara, beat him up!
+
+Clara: And my bestie, Rhea, is right next to me on that character select screen!
+
 Arrietty Happy: It seems I have **3** art drawn this year. You've already seen the costume swap one though. So the one to be shown right now is the 2nd art I've received!
 
 % [![](https://i.imgur.com/vquRJi4.png)](https://i.imgur.com/vquRJi4.png)
