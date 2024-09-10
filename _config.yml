@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 exclude: [node_modules]
 minify_html: true
+include: [_pages]
