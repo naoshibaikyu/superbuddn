@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <h2>Episode Select</h2>
 
 <h3>SEASON 1</h3>
