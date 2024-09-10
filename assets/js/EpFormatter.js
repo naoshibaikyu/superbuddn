@@ -15,8 +15,8 @@ function formatMarkdown()
 		"%": "description",
 	};
 
-	var locationDirectory = "/assets/images/locations/";
-	var mugshotDirectory = "/assets/images/mugshots/";
+	var locationDirectory = "superbuddn/assets/images/locations/";
+	var mugshotDirectory = "superbuddn/assets/images/mugshots/";
 	var json = getJsonData();
 	var characters = json.names;
 	var emotes = json.emotes;
