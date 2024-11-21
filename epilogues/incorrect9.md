@@ -85,6 +85,14 @@ Eris: Did you just-
 
 Rhea: Let us all take a moment to appreciate that all of human history, human language, and the universe itself aligned to make this joke possible.
 
+%
+
+Selena: Anyone have $300,000?
+
+Eris Annoyed: What in the fuck do you need that much money for?
+
+Selena: Blåhaj Army.
+
 
 %End of Part 9
 
