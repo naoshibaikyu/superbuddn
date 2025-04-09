@@ -93,6 +93,12 @@ Eris Annoyed: What in the fuck do you need that much money for?
 
 Selena: Blåhaj Army.
 
+%
+
+Stella: ur kinda gay
+
+Rhea: shut
+
 
 %End of Part 9
 
